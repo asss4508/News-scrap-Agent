@@ -58,13 +58,12 @@ def fetch_pharmnews(limit=3):
 
 def build_message(yakup_news, pharmnews_news):
     today = datetime.now().strftime("%Y년 %m월 %d일")
-    msg = f"📰 <b>제약·바이오 뉴스브리핑</b>\n{today} 오전 7시 50분\n\n"
+    lines = [f"📰 <b>제약·바이오 뉴스브리핑</b>", f"{today} 오전 8시\n"]
     all_news = yakup_news + pharmnews_news
-    items = []
     for title, url in all_news:
-        items.append(f'· <a href="{url}">{title}</a>')
-    msg += "\n\n".join(items)
-    return msg
+        lines.append(f'<a href="{url}">{title}</a>')
+        lines.append("")
+    return "\n".join(lines)
 
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"

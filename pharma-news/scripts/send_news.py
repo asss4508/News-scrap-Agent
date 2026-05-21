@@ -76,7 +76,7 @@ def build_message(yakup_news, pharmnews_news):
     all_news = yakup_news + pharmnews_news
     items = []
     for title, url in all_news:
-        items.append('<a href="' + url + '">' + title + '</a>')
+        items.append('<a href="' + url + '"><b><u>' + title + '</u></b></a>')
     msg += "\n\n".join(items)
     return msg
 

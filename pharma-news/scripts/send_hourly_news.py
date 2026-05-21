@@ -1,0 +1,90 @@
+import requests
+from bs4 import BeautifulSoup
+import os
+import re
+from datetime import datetime, timezone, timedelta
+
+TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
+KST = timezone(timedelta(hours=9))
+
+BROKER_KEYWORDS = [
+    "미래에셋", "삼성증권", "키움", "한국투자", "NH투자", "KB증권", "신한투자",
+    "하나증권", "메리츠", "대신증권", "유안타", "이베스트", "SK증권", "한화투자",
+    "교보증권", "부국증권", "유진투자", "IBK투자", "DB금융", "BNK투자", "증권사"
+]
+
+def clean_title(title):
+    return re.sub(r'^\d+', '', title).strip()
+
+def is_broker_article(title):
+    for keyword in BROKER_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
+
+def fetch_top_news():
+    url = "https://news.naver.com/breakingnews/section/101/258"
+    res = requests.get(url, headers=HEADERS, timeout=10)
+    res.encoding = "utf-8"
+    soup = BeautifulSoup(res.text, "html.parser")
+    seen = set()
+
+    for a in soup.select("a"):
+        href = a.get("href", "")
+        title = clean_title(a.get_text(strip=True))
+        if "article" not in href:
+            continue
+        if len(title) < 10 or len(title) > 100:
+            continue
+        if is_broker_article(title):
+            continue
+        if href.startswith("/"):
+            full_url = "https://news.naver.com" + href
+        else:
+            full_url = href
+        if "news.naver.com" not in full_url:
+            continue
+        if full_url in seen:
+            continue
+        seen.add(full_url)
+        return (title, full_url)
+
+    return None
+
+def build_message(article):
+    now = datetime.now(KST)
+    weekday = WEEKDAYS[now.weekday()]
+    time_str = now.strftime("%H:%M")
+    header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") " + time_str + " 주요 뉴스"
+    if article is None:
+        return header + "\n\n기사를 가져오지 못했습니다."
+    title, url = article
+    msg = header + "\n\n"
+    msg += '<a href="' + url + '"><b><u>' + title + '</u></b></a>'
+    return msg
+
+def send_telegram(message):
+    api_url = "https://api.telegram.org/bot" + TELEGRAM_TOKEN + "/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+    res = requests.post(api_url, json=payload, timeout=10)
+    res.raise_for_status()
+    print("전송 완료")
+
+if __name__ == "__main__":
+    print("뉴스 수집 중...")
+    article = fetch_top_news()
+    msg = build_message(article)
+    print(msg)
+    send_telegram(msg)

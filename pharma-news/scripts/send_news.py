@@ -11,6 +11,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
+WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
+
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
 
@@ -67,8 +69,10 @@ def fetch_pharmnews(limit=3):
     return articles
 
 def build_message(yakup_news, pharmnews_news):
-    today = datetime.now().strftime("%Y%EB%85%84 %m%EC%9B%94 %d%EC%9D%BC")
-    msg = "📰 <b>제약·바이오 뉴스브리핑</b>\n" + today + " 오전 7시 50분\n\n"
+    now = datetime.now()
+    weekday = WEEKDAYS[now.weekday()]
+    header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") Daily News"
+    msg = header + "\n\n"
     all_news = yakup_news + pharmnews_news
     items = []
     for title, url in all_news:
@@ -92,7 +96,6 @@ if __name__ == "__main__":
     print("뉴스 수집 중...")
     yakup = fetch_yakup(limit=12)
     pharmnews = fetch_pharmnews(limit=3)
-    print(str(len(yakup)) + "건 / " + str(len(pharmnews)) + "건")
     if not yakup and not pharmnews:
         print("뉴스 없음")
         exit(1)

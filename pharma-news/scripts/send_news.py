@@ -16,13 +16,19 @@ def fetch_yakup(limit=8):
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
     articles = []
+    seen = set()
     for a in soup.select("a"):
         href = a.get("href", "")
         title = a.get_text(strip=True)
-        if "mode=view" in href and len(title) > 10:
-            full_url = "https://www.yakup.com" + href if href.startswith("/") else href
-            if full_url not in [x[1] for x in articles]:
-                articles.append((title, full_url))
+        if "mode=view" not in href:
+            continue
+        if len(title) < 10 or len(title) > 100:
+            continue
+        full_url = "https://www.yakup.com" + href if href.startswith("/") else href
+        if full_url in seen:
+            continue
+        seen.add(full_url)
+        articles.append((title, full_url))
         if len(articles) >= limit:
             break
     return articles
@@ -33,13 +39,19 @@ def fetch_pharmnews(limit=7):
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
     articles = []
+    seen = set()
     for a in soup.select("a"):
         href = a.get("href", "")
         title = a.get_text(strip=True)
-        if "articleView" in href and len(title) > 10:
-            full_url = "https://www.pharmnews.com" + href if href.startswith("/") else href
-            if full_url not in [x[1] for x in articles]:
-                articles.append((title, full_url))
+        if "articleView" not in href:
+            continue
+        if len(title) < 10 or len(title) > 100:
+            continue
+        full_url = "https://www.pharmnews.com" + href if href.startswith("/") else href
+        if full_url in seen:
+            continue
+        seen.add(full_url)
+        articles.append((title, full_url))
         if len(articles) >= limit:
             break
     return articles
@@ -56,10 +68,7 @@ def build_message(yakup_news, pharmnews_news):
     for title, url in pharmnews_news:
         lines.append(f'<a href="{url}">{title}</a>')
     lines.append("\n━━━━━━━━━━━━━━━━")
-    msg = "\n".join(lines)
-    if len(msg) > 4000:
-        msg = msg[:4000] + "\n..."
-    return msg
+    return "\n".join(lines)
 
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -82,5 +91,5 @@ if __name__ == "__main__":
         print("❌ 뉴스를 가져오지 못했습니다.")
         exit(1)
     msg = build_message(yakup, pharmnews)
-    print(msg)
+    print("메시지 길이:", len(msg))
     send_telegram(msg)

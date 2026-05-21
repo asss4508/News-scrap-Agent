@@ -14,14 +14,36 @@ HEADERS = {
 WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
 KST = timezone(timedelta(hours=9))
 
+EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]"]
+
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
+
+def is_invalid_title(title):
+    for keyword in EXCLUDE_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
+
+def get_today():
+    return datetime.now(KST).strftime("%Y-%m-%d")
+
+def parse_time(time_str):
+    time_str = time_str.strip()
+    for fmt in ["%Y-%m-%d %H:%M", "%Y.%m.%d %H:%M", "%Y-%m-%d", "%Y.%m.%d"]:
+        try:
+            dt = datetime.strptime(time_str, fmt)
+            return dt.replace(tzinfo=KST)
+        except ValueError:
+            pass
+    return None
 
 def fetch_yakup(limit=12):
     url = "https://www.yakup.com/news/index.html?cat=all"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
+    today = datetime.now(KST).date()
     articles = []
     seen = set()
     for a in soup.select("a"):
@@ -31,11 +53,25 @@ def fetch_yakup(limit=12):
             continue
         if len(title) < 10 or len(title) > 100:
             continue
+        if is_invalid_title(title):
+            continue
         if href.startswith("/"):
             full_url = "https://www.yakup.com" + href
         else:
             full_url = href
         if full_url in seen:
+            continue
+        parent = a.find_parent()
+        art_time = None
+        for _ in range(5):
+            if parent is None:
+                break
+            time_tag = parent.find(string=re.compile(r'\d{4}[-\.]\d{2}[-\.]\d{2}'))
+            if time_tag:
+                art_time = parse_time(str(time_tag))
+                break
+            parent = parent.find_parent()
+        if art_time is not None and art_time.date() != today:
             continue
         seen.add(full_url)
         articles.append((title, full_url))
@@ -48,6 +84,7 @@ def fetch_pharmnews(limit=3):
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
+    today = datetime.now(KST).date()
     articles = []
     seen = set()
     for a in soup.select("a"):
@@ -57,11 +94,25 @@ def fetch_pharmnews(limit=3):
             continue
         if len(title) < 10 or len(title) > 100:
             continue
+        if is_invalid_title(title):
+            continue
         if href.startswith("/"):
             full_url = "https://www.pharmnews.com" + href
         else:
             full_url = href
         if full_url in seen:
+            continue
+        parent = a.find_parent()
+        art_time = None
+        for _ in range(5):
+            if parent is None:
+                break
+            time_tag = parent.find(string=re.compile(r'\d{4}[-\.]\d{2}[-\.]\d{2}'))
+            if time_tag:
+                art_time = parse_time(str(time_tag))
+                break
+            parent = parent.find_parent()
+        if art_time is not None and art_time.date() != today:
             continue
         seen.add(full_url)
         articles.append((title, full_url))
@@ -75,6 +126,9 @@ def build_message(yakup_news, pharmnews_news):
     header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") Daily News"
     msg = header + "\n\n"
     all_news = yakup_news + pharmnews_news
+    if not all_news:
+        msg += "오늘 기사가 없습니다."
+        return msg
     items = []
     for title, url in all_news:
         items.append('<a href="' + url + '"><b><u>' + title + '</u></b></a>')
@@ -98,9 +152,7 @@ if __name__ == "__main__":
     print("뉴스 수집 중...")
     yakup = fetch_yakup(limit=12)
     pharmnews = fetch_pharmnews(limit=3)
-    if not yakup and not pharmnews:
-        print("뉴스 없음")
-        exit(1)
+    print(str(len(yakup)) + "건 / " + str(len(pharmnews)) + "건")
     msg = build_message(yakup, pharmnews)
     print(msg)
     send_telegram(msg)

@@ -10,7 +10,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-def fetch_yakup(limit=8):
+def fetch_yakup(limit=12):
     url = "https://www.yakup.com/news/index.html?cat=all"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
@@ -33,7 +33,7 @@ def fetch_yakup(limit=8):
             break
     return articles
 
-def fetch_pharmnews(limit=7):
+def fetch_pharmnews(limit=3):
     url = "https://www.pharmnews.com/news/articleList.html?view_type=sm"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
@@ -59,15 +59,10 @@ def fetch_pharmnews(limit=7):
 def build_message(yakup_news, pharmnews_news):
     today = datetime.now().strftime("%Y년 %m월 %d일")
     lines = [f"📰 <b>제약·바이오 뉴스브리핑</b>", f"{today} 오전 8시\n"]
-    lines.append("━━━━━━━━━━━━━━━━")
-    lines.append("🔹 <b>약업닷컴</b>")
-    for title, url in yakup_news:
+    all_news = yakup_news + pharmnews_news
+    for title, url in all_news:
         lines.append(f'<a href="{url}">{title}</a>')
-    lines.append("\n━━━━━━━━━━━━━━━━")
-    lines.append("🔹 <b>팜뉴스</b>")
-    for title, url in pharmnews_news:
-        lines.append(f'<a href="{url}">{title}</a>')
-    lines.append("\n━━━━━━━━━━━━━━━━")
+        lines.append("")
     return "\n".join(lines)
 
 def send_telegram(message):
@@ -84,12 +79,12 @@ def send_telegram(message):
 
 if __name__ == "__main__":
     print("뉴스 수집 중...")
-    yakup = fetch_yakup(limit=8)
-    pharmnews = fetch_pharmnews(limit=7)
+    yakup = fetch_yakup(limit=12)
+    pharmnews = fetch_pharmnews(limit=3)
     print(f"약업닷컴: {len(yakup)}건, 팜뉴스: {len(pharmnews)}건")
     if not yakup and not pharmnews:
         print("❌ 뉴스를 가져오지 못했습니다.")
         exit(1)
     msg = build_message(yakup, pharmnews)
-    print("메시지 길이:", len(msg))
+    print(msg)
     send_telegram(msg)

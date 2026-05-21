@@ -1,4 +1,4 @@
-name: 매일 아침 제약 뉴스 전송
+name: 매일 아침 뉴스 전송
 
 on:
   schedule:
@@ -17,8 +17,13 @@ jobs:
           python-version: "3.11"
       - name: 패키지 설치
         run: pip install requests beautifulsoup4
-      - name: 뉴스 전송
+      - name: 제약 뉴스 전송
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python pharma-news/scripts/send_news.py
+      - name: 금융 뉴스 전송
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python pharma-news/scripts/send_finance_news.py

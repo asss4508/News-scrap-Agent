@@ -20,8 +20,18 @@ BROKER_KEYWORDS = [
     "교보증권", "부국증권", "유진투자", "IBK투자", "DB금융", "BNK투자", "증권사"
 ]
 
+EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]", "·", "…"]
+
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
+
+def is_invalid_title(title):
+    for keyword in EXCLUDE_KEYWORDS:
+        if keyword in title:
+            return True
+    if re.search(r'\d{2}:\d{2}', title):
+        return True
+    return False
 
 def is_broker_article(title):
     for keyword in BROKER_KEYWORDS:
@@ -44,6 +54,8 @@ def fetch_naver_finance(limit=15):
         if len(title) < 10 or len(title) > 100:
             continue
         if is_broker_article(title):
+            continue
+        if is_invalid_title(title):
             continue
         if href.startswith("/"):
             full_url = "https://news.naver.com" + href

@@ -59,13 +59,11 @@ def get_article_summary(url):
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # 불필요한 태그 제거
         for tag in soup(["script", "style", "header", "footer", "nav",
                          "aside", "iframe", "figure", "figcaption",
                          "button", "form", "input", "select"]):
             tag.decompose()
 
-        # 본문 영역 찾기 (언론사별 본문 태그)
         content = None
         selectors = [
             "article", "#articleBody", "#article-view-content-div",
@@ -83,16 +81,38 @@ def get_article_summary(url):
             content = soup.body
 
         if content:
-            # 텍스트 추출 후 정리
             text = content.get_text(separator=" ", strip=True)
             text = re.sub(r'\s+', ' ', text).strip()
-            # 너무 짧은 단어/문장 제거
-            sentences = [s.strip() for s in re.split(r'[.!?]', text) if len(s.strip()) > 20]
-            # 핵심 문장만 앞에서 추출
-            summary = ". ".join(sentences[:3])
-            if len(summary) > 250:
-                summary = summary[:250] + "..."
-            return summary
+
+            # 기자 서명, 출처 제거
+            text = re.sub(r'\[.*?기자.*?\]', '', text)
+            text = re.sub(r'\[.*?=.*?뉴시스.*?\]', '', text)
+            text = re.sub(r'\[.*?=.*?\]', '', text)
+            text = re.sub(r'[가-힣]+\s*=\s*[가-힣]+\s*기자\s*=?\s*', '', text)
+            text = re.sub(r'[가-힣]+\s*기자\s*[가-힣]*\s*=\s*', '', text)
+            text = re.sub(r'©.*', '', text)
+            text = re.sub(r'무단\s*전재.*', '', text)
+            text = re.sub(r'저작권.*', '', text)
+            text = re.sub(r'\s+', ' ', text).strip()
+
+            # 문장 단위로 분리
+            sentences = re.split(r'(?<=[.!?])\s+', text)
+            sentences = [s.strip() for s in sentences if len(s.strip()) > 15]
+
+            # 8줄 내외, 마침표로 끝나는 문장까지
+            result = []
+            char_count = 0
+            for s in sentences[:10]:
+                result.append(s)
+                char_count += len(s)
+                if len(result) >= 8 or char_count >= 400:
+                    break
+
+            # 마침표로 끝나는 마지막 문장까지만
+            while result and not result[-1].endswith(('.', '!', '?')):
+                result.pop()
+
+            return " ".join(result)
 
     except:
         pass

@@ -1,4 +1,4 @@
-name: 매일 아침 뉴스 전송
+name: 모닝 스몰캡, 바이오 뉴스
 
 on:
   schedule:

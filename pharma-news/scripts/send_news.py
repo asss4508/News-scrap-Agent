@@ -143,7 +143,7 @@ def build_message(yakup_news, pharmnews_news):
     for title, url in all_news:
         items.append('<a href="' + url + '"><b><u>' + title + '</u></b></a>')
     msg += "\n\n".join(items)
-    msg += "\n\n* 위 내용은 국내외 언론사 뉴스 등을 인용한 자료로 별도의 승인절차 없이 제공합니다.\n\nhttps://t.me/bdragon0808\n한양증권 제약/바이오"
+    msg += "\n\n* 위 내용은 국내외 언론사 뉴스 등을 인용한 자료로 별도의 승인절차 없이 제공합니다.\n\nhttps://t.me/bdragon0808\n한양증권 제약/바이오\nHanyang Research"
     return msg
 
 def send_telegram(message):

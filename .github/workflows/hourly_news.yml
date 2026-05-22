@@ -1,4 +1,4 @@
-name: 매시간 금융 주요 뉴스 전송
+name: 시간별 스몰캡 뉴스
 
 on:
   schedule:

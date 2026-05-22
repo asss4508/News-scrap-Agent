@@ -16,6 +16,14 @@ KST = timezone(timedelta(hours=9))
 
 EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]"]
 
+PHARMA_KEYWORDS = [
+    "제약", "바이오", "신약", "임상", "FDA", "식약처", "의약품", "백신", "항암",
+    "치료제", "의료", "병원", "헬스케어", "바이오시밀러", "항체", "유전자",
+    "세포치료", "줄기세포", "mRNA", "희귀질환", "승인", "허가", "임상시험",
+    "글로벌 임상", "파이프라인", "기술수출", "라이선스", "CMO", "CDMO",
+    "인보사", "코로나", "독감", "당뇨", "암", "종양", "면역"
+]
+
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
 
@@ -25,17 +33,24 @@ def is_invalid_title(title):
             return True
     return False
 
-def get_today():
-    return datetime.now(KST).strftime("%Y-%m-%d")
+def is_pharma_related(title):
+    for keyword in PHARMA_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
 
-def parse_time(time_str):
-    time_str = time_str.strip()
-    for fmt in ["%Y-%m-%d %H:%M", "%Y.%m.%d %H:%M", "%Y-%m-%d", "%Y.%m.%d"]:
-        try:
-            dt = datetime.strptime(time_str, fmt)
-            return dt.replace(tzinfo=KST)
-        except ValueError:
-            pass
+def get_article_date(url):
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=5)
+        res.encoding = "utf-8"
+        soup = BeautifulSoup(res.text, "html.parser")
+        text = soup.get_text()
+        match = re.search(r'(\d{4})[.\-](\d{2})[.\-](\d{2})', text)
+        if match:
+            y, m, d = match.groups()
+            return datetime(int(y), int(m), int(d), tzinfo=KST).date()
+    except:
+        pass
     return None
 
 def fetch_yakup(limit=12):
@@ -46,6 +61,7 @@ def fetch_yakup(limit=12):
     today = datetime.now(KST).date()
     articles = []
     seen = set()
+    candidates = []
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
@@ -61,19 +77,12 @@ def fetch_yakup(limit=12):
             full_url = href
         if full_url in seen:
             continue
-        parent = a.find_parent()
-        art_time = None
-        for _ in range(5):
-            if parent is None:
-                break
-            time_tag = parent.find(string=re.compile(r'\d{4}[-\.]\d{2}[-\.]\d{2}'))
-            if time_tag:
-                art_time = parse_time(str(time_tag))
-                break
-            parent = parent.find_parent()
-        if art_time is not None and art_time.date() != today:
-            continue
         seen.add(full_url)
+        candidates.append((title, full_url))
+    for title, full_url in candidates:
+        art_date = get_article_date(full_url)
+        if art_date is not None and art_date != today:
+            continue
         articles.append((title, full_url))
         if len(articles) >= limit:
             break
@@ -87,6 +96,7 @@ def fetch_pharmnews(limit=3):
     today = datetime.now(KST).date()
     articles = []
     seen = set()
+    candidates = []
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
@@ -102,19 +112,14 @@ def fetch_pharmnews(limit=3):
             full_url = href
         if full_url in seen:
             continue
-        parent = a.find_parent()
-        art_time = None
-        for _ in range(5):
-            if parent is None:
-                break
-            time_tag = parent.find(string=re.compile(r'\d{4}[-\.]\d{2}[-\.]\d{2}'))
-            if time_tag:
-                art_time = parse_time(str(time_tag))
-                break
-            parent = parent.find_parent()
-        if art_time is not None and art_time.date() != today:
-            continue
         seen.add(full_url)
+        candidates.append((title, full_url))
+    for title, full_url in candidates:
+        art_date = get_article_date(full_url)
+        if art_date is not None and art_date != today:
+            continue
+        if not is_pharma_related(title):
+            continue
         articles.append((title, full_url))
         if len(articles) >= limit:
             break
@@ -127,7 +132,7 @@ def build_message(yakup_news, pharmnews_news):
     msg = header + "\n\n"
     all_news = yakup_news + pharmnews_news
     if not all_news:
-        msg += "오늘 기사가 없습니다."
+        msg += "오늘 제약·바이오 기사가 없습니다."
         return msg
     items = []
     for title, url in all_news:

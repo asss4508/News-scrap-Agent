@@ -11,7 +11,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
 KST = timezone(timedelta(hours=9))
 
 BROKER_KEYWORDS = [
@@ -19,6 +18,8 @@ BROKER_KEYWORDS = [
     "하나증권", "메리츠", "대신증권", "유안타", "이베스트", "SK증권", "한화투자",
     "교보증권", "부국증권", "유진투자", "IBK투자", "DB금융", "BNK투자", "증권사"
 ]
+
+EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]"]
 
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
@@ -28,6 +29,30 @@ def is_broker_article(title):
         if keyword in title:
             return True
     return False
+
+def is_invalid_title(title):
+    for keyword in EXCLUDE_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
+
+def get_article_summary(url):
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=5)
+        res.encoding = "utf-8"
+        soup = BeautifulSoup(res.text, "html.parser")
+        # 본문 텍스트 추출
+        for tag in soup(["script", "style", "header", "footer", "nav"]):
+            tag.decompose()
+        text = soup.get_text(separator=" ", strip=True)
+        # 불필요한 공백 제거
+        text = re.sub(r'\s+', ' ', text).strip()
+        # 앞부분 200자 추출
+        if len(text) > 200:
+            text = text[:200] + "..."
+        return text
+    except:
+        return ""
 
 def fetch_top_news():
     url = "https://news.naver.com/breakingnews/section/101/258"
@@ -45,6 +70,8 @@ def fetch_top_news():
             continue
         if is_broker_article(title):
             continue
+        if is_invalid_title(title):
+            continue
         if href.startswith("/"):
             full_url = "https://news.naver.com" + href
         else:
@@ -59,15 +86,14 @@ def fetch_top_news():
     return None
 
 def build_message(article):
-    now = datetime.now(KST)
-    weekday = WEEKDAYS[now.weekday()]
-    time_str = now.strftime("%H:%M")
-    header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") " + time_str + " 주요 뉴스"
     if article is None:
-        return header + "\n\n기사를 가져오지 못했습니다."
+        return "기사를 가져오지 못했습니다."
     title, url = article
-    msg = header + "\n\n"
-    msg += '<a href="' + url + '"><b><u>' + title + '</u></b></a>'
+    summary = get_article_summary(url)
+    msg = "🔜 " + "<b>" + title + "</b>" + "\n"
+    if summary:
+        msg += summary + "\n"
+    msg += url
     return msg
 
 def send_telegram(message):

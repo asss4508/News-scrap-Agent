@@ -19,15 +19,17 @@ BROKER_KEYWORDS = [
     "교보증권", "부국증권", "유진투자", "IBK투자", "DB금융", "BNK투자", "증권사"
 ]
 
-EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]", "부음", "부고"]
+EXCLUDE_KEYWORDS = [
+    "동영상", "재생시간", "포토", "[영상]", "[사진]",
+    "부음", "부고", "마감시황", "장마감", "시황"
+]
 
-# 중요도 높은 키워드 (주식시장 연관)
 HIGH_PRIORITY = [
     "금리", "환율", "코스피", "코스닥", "주가", "증시", "시장", "Fed", "연준",
     "금통위", "한국은행", "기준금리", "인플레", "CPI", "GDP", "무역",
     "수출", "반도체", "삼성전자", "SK하이닉스", "외국인", "기관", "매수", "매도",
     "IPO", "공매도", "선물", "옵션", "채권", "국채", "달러", "원화",
-    "무역수지", "경상수지", "실업", "고용", "물가", "부동산", "PER", "실적",
+    "무역수지", "경상수지", "실업", "고용", "물가", "PER", "실적",
     "어닝", "배당", "자사주", "M&A", "인수", "합병", "상장", "상폐"
 ]
 
@@ -53,43 +55,50 @@ def get_priority(title):
 
 def get_article_summary(url):
     try:
-        res = requests.get(url, headers=HEADERS, timeout=5)
+        res = requests.get(url, headers=HEADERS, timeout=8)
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
-        for tag in soup(["script", "style", "header", "footer", "nav"]):
+
+        # 불필요한 태그 제거
+        for tag in soup(["script", "style", "header", "footer", "nav",
+                         "aside", "iframe", "figure", "figcaption",
+                         "button", "form", "input", "select"]):
             tag.decompose()
-        text = soup.get_text(separator=" ", strip=True)
-        text = re.sub(r'\s+', ' ', text).strip()
-        if len(text) > 200:
-            text = text[:200] + "..."
-        return text
-    except:
-        return ""
 
-def fetch_naver():
-    url = "https://news.naver.com/breakingnews/section/101/258"
-    articles = []
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        res.encoding = "utf-8"
-        soup = BeautifulSoup(res.text, "html.parser")
-        seen = set()
-        for a in soup.select("a"):
-            href = a.get("href", "")
-            title = clean_title(a.get_text(strip=True))
-            if "article" not in href or "news.naver.com" not in href:
-                continue
-            if is_invalid(title):
-                continue
-            if href not in seen:
-                seen.add(href)
-                articles.append((title, href, get_priority(title)))
+        # 본문 영역 찾기 (언론사별 본문 태그)
+        content = None
+        selectors = [
+            "article", "#articleBody", "#article-view-content-div",
+            ".article_body", ".news_body", "#newsct_article",
+            "#articeBody", ".article-body", "#article_content",
+            ".article_txt", "#news_body_area", ".news-article-body",
+            "#cont_article", ".view_text", "#articleBodyContents"
+        ]
+        for selector in selectors:
+            content = soup.select_one(selector)
+            if content:
+                break
+
+        if not content:
+            content = soup.body
+
+        if content:
+            # 텍스트 추출 후 정리
+            text = content.get_text(separator=" ", strip=True)
+            text = re.sub(r'\s+', ' ', text).strip()
+            # 너무 짧은 단어/문장 제거
+            sentences = [s.strip() for s in re.split(r'[.!?]', text) if len(s.strip()) > 20]
+            # 핵심 문장만 앞에서 추출
+            summary = ". ".join(sentences[:3])
+            if len(summary) > 250:
+                summary = summary[:250] + "..."
+            return summary
+
     except:
         pass
-    return articles
+    return ""
 
-def fetch_fnnews():
-    url = "https://www.fnnews.com/section/002001000"
+def fetch_articles(url, domain, href_filter=None):
     articles = []
     try:
         res = requests.get(url, headers=HEADERS, timeout=10)
@@ -103,81 +112,46 @@ def fetch_fnnews():
                 continue
             if is_invalid(title):
                 continue
-            if href.startswith("/"):
-                full_url = "https://www.fnnews.com" + href
-            else:
-                full_url = href
-            if "fnnews.com" not in full_url:
-                continue
-            if full_url not in seen:
-                seen.add(full_url)
-                articles.append((title, full_url, get_priority(title)))
-    except:
-        pass
-    return articles
-
-def fetch_sedaily():
-    articles = []
-    for url in ["https://www.sedaily.com/market", "https://www.sedaily.com/economy"]:
-        try:
-            res = requests.get(url, headers=HEADERS, timeout=10)
-            res.encoding = "utf-8"
-            soup = BeautifulSoup(res.text, "html.parser")
-            seen = set()
-            for a in soup.select("a"):
-                href = a.get("href", "")
-                title = clean_title(a.get_text(strip=True))
-                if len(title) < 10:
-                    continue
-                if is_invalid(title):
-                    continue
-                if href.startswith("/"):
-                    full_url = "https://www.sedaily.com" + href
-                else:
-                    full_url = href
-                if "sedaily.com" not in full_url:
-                    continue
-                if full_url not in seen:
-                    seen.add(full_url)
-                    articles.append((title, full_url, get_priority(title)))
-        except:
-            pass
-    return articles
-
-def fetch_businesspost():
-    url = "https://www.businesspost.co.kr/BP?command=sub&sub=2"
-    articles = []
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        res.encoding = "utf-8"
-        soup = BeautifulSoup(res.text, "html.parser")
-        seen = set()
-        for a in soup.select("a"):
-            href = a.get("href", "")
-            title = clean_title(a.get_text(strip=True))
-            if len(title) < 10:
-                continue
-            if is_invalid(title):
+            if href_filter and href_filter not in href:
                 continue
             if href.startswith("/"):
-                full_url = "https://www.businesspost.co.kr" + href
-            else:
+                full_url = domain + href
+            elif href.startswith("http"):
                 full_url = href
-            if "businesspost.co.kr" not in full_url:
+            else:
                 continue
-            if full_url not in seen:
-                seen.add(full_url)
-                articles.append((title, full_url, get_priority(title)))
+            if domain.replace("https://", "").replace("http://", "").split("/")[0] not in full_url:
+                continue
+            if full_url in seen:
+                continue
+            seen.add(full_url)
+            articles.append((title, full_url, get_priority(title)))
     except:
         pass
     return articles
 
 def pick_best_article():
     all_articles = []
-    all_articles += fetch_naver()
-    all_articles += fetch_fnnews()
-    all_articles += fetch_sedaily()
-    all_articles += fetch_businesspost()
+    all_articles += fetch_articles(
+        "https://news.naver.com/breakingnews/section/101/258",
+        "https://news.naver.com", "article"
+    )
+    all_articles += fetch_articles(
+        "https://www.fnnews.com/section/002001000",
+        "https://www.fnnews.com"
+    )
+    all_articles += fetch_articles(
+        "https://www.sedaily.com/market",
+        "https://www.sedaily.com"
+    )
+    all_articles += fetch_articles(
+        "https://www.sedaily.com/economy",
+        "https://www.sedaily.com"
+    )
+    all_articles += fetch_articles(
+        "https://www.businesspost.co.kr/BP?command=sub&sub=2",
+        "https://www.businesspost.co.kr"
+    )
 
     # 중복 제목 제거
     seen_titles = set()
@@ -188,7 +162,7 @@ def pick_best_article():
             seen_titles.add(t)
             unique.append((title, url, score))
 
-    # 우선순위 높은 순으로 정렬
+    # 우선순위 높은 순 정렬
     unique.sort(key=lambda x: x[2], reverse=True)
 
     if unique:

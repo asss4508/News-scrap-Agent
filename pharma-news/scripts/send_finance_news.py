@@ -20,7 +20,25 @@ BROKER_KEYWORDS = [
     "교보증권", "부국증권", "유진투자", "IBK투자", "DB금융", "BNK투자", "증권사"
 ]
 
-EXCLUDE_KEYWORDS = ["동영상", "재생시간", "포토", "[영상]", "[사진]", "·", "…"]
+EXCLUDE_KEYWORDS = [
+    "동영상", "재생시간", "포토", "[영상]", "[사진]", "·", "…",
+    "성매매", "음주운전", "논란", "실형", "사과", "반박", "오보",
+    "후보", "선거", "투표", "국민의힘", "민주당", "대통령", "정치",
+    "교육감", "현수막", "봉사", "캠프", "여학생"
+]
+
+# 경제/금융/주식 관련 키워드 - 이게 있어야 포함
+FINANCE_KEYWORDS = [
+    "주가", "증시", "코스피", "코스닥", "주식", "종목", "매수", "매도",
+    "상장", "공모", "청약", "ETF", "펀드", "채권", "금리", "환율",
+    "외국인", "기관", "수급", "실적", "영업이익", "순이익", "매출",
+    "반도체", "삼성전자", "SK하이닉스", "배당", "자사주", "공매도",
+    "선물", "옵션", "IPO", "M&A", "인수", "합병", "지수", "시총",
+    "달러", "원화", "Fed", "연준", "금통위", "한국은행", "기준금리",
+    "무역", "수출", "수입", "경상수지", "GDP", "CPI", "물가", "고용",
+    "유가", "원자재", "구리", "금값", "비트코인", "암호화폐",
+    "레버리지", "인버스", "리츠", "부동산", "PER", "PBR", "ROE"
+]
 
 def clean_title(title):
     return re.sub(r'^\d+', '', title).strip()
@@ -39,7 +57,14 @@ def is_broker_article(title):
             return True
     return False
 
+def is_finance_related(title):
+    for keyword in FINANCE_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
+
 def fetch_naver_finance(limit=15):
+    # 랭킹 뉴스 제외하고 순수 증권 섹션만
     url = "https://news.naver.com/breakingnews/section/101/258"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
@@ -49,6 +74,10 @@ def fetch_naver_finance(limit=15):
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
+
+        # 랭킹 뉴스 URL 제외
+        if "ranking" in href or "ntype=RANKING" in href:
+            continue
         if "article" not in href:
             continue
         if len(title) < 10 or len(title) > 100:
@@ -56,6 +85,9 @@ def fetch_naver_finance(limit=15):
         if is_broker_article(title):
             continue
         if is_invalid_title(title):
+            continue
+        # 경제/금융 관련 기사만 포함
+        if not is_finance_related(title):
             continue
         if href.startswith("/"):
             full_url = "https://news.naver.com" + href

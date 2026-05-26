@@ -27,7 +27,6 @@ EXCLUDE_KEYWORDS = [
     "교육감", "현수막", "봉사", "캠프", "여학생"
 ]
 
-# 경제/금융/주식 관련 키워드 - 이게 있어야 포함
 FINANCE_KEYWORDS = [
     "주가", "증시", "코스피", "코스닥", "주식", "종목", "매수", "매도",
     "상장", "공모", "청약", "ETF", "펀드", "채권", "금리", "환율",
@@ -64,43 +63,38 @@ def is_finance_related(title):
     return False
 
 def fetch_naver_finance(limit=15):
-    # 랭킹 뉴스 제외하고 순수 증권 섹션만
-    url = "https://news.naver.com/breakingnews/section/101/258"
+    url = "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258"
     res = requests.get(url, headers=HEADERS, timeout=10)
-    res.encoding = "utf-8"
+    res.encoding = "euc-kr"
     soup = BeautifulSoup(res.text, "html.parser")
     articles = []
     seen = set()
-    for a in soup.select("a"):
+
+    for a in soup.select("dl dd.articleSubject a, ul.realtimeNewsList a, .newsTitle a, a[href*='article']"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
 
-        # 랭킹 뉴스 URL 제외
-        if "ranking" in href or "ntype=RANKING" in href:
-            continue
-        if "article" not in href:
-            continue
         if len(title) < 10 or len(title) > 100:
             continue
         if is_broker_article(title):
             continue
         if is_invalid_title(title):
             continue
-        # 경제/금융 관련 기사만 포함
         if not is_finance_related(title):
             continue
+
         if href.startswith("/"):
-            full_url = "https://news.naver.com" + href
+            full_url = "https://finance.naver.com" + href
         else:
             full_url = href
-        if "news.naver.com" not in full_url:
-            continue
+
         if full_url in seen:
             continue
         seen.add(full_url)
         articles.append((title, full_url))
         if len(articles) >= limit:
             break
+
     return articles
 
 def build_message(news):

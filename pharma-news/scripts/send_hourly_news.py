@@ -155,8 +155,8 @@ def fetch_articles(url, domain, href_filter=None):
 def pick_best_article():
     all_articles = []
     all_articles += fetch_articles(
-        "https://news.naver.com/breakingnews/section/101/258",
-        "https://news.naver.com", "article"
+    "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258",
+    "https://finance.naver.com", "article_id"
     )
     all_articles += fetch_articles(
         "https://www.fnnews.com/section/002001000",

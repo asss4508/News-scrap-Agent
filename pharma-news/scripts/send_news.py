@@ -45,7 +45,8 @@ def is_pharma_related(title):
     return False
 
 def fetch_yakup(limit=12):
-    url = "https://www.yakup.com/news/index.html?cat=all"
+    today = datetime.now(KST).strftime("%Y%m%d")
+    url = f"https://www.yakup.com/news/index.html?cat=all&date={today}"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")

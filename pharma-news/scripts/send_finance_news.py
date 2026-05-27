@@ -70,24 +70,27 @@ def fetch_naver_finance(limit=15):
     articles = []
     seen = set()
 
-    for a in soup.select("dl dd.articleSubject a, ul.realtimeNewsList a, .newsTitle a, a[href*='article']"):
+    for a in soup.find_all("a", href=True):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
 
+        if "article" not in href and "news" not in href:
+            continue
         if len(title) < 10 or len(title) > 100:
             continue
         if is_broker_article(title):
             continue
         if is_invalid_title(title):
             continue
-        if not is_finance_related(title):
-            continue
+        # 금융 섹션에서 가져오므로 키워드 필터 제거
 
         if href.startswith("/"):
             full_url = "https://finance.naver.com" + href
         else:
             full_url = href
 
+        if "naver.com" not in full_url:
+            continue
         if full_url in seen:
             continue
         seen.add(full_url)

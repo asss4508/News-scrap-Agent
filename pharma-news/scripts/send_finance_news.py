@@ -62,41 +62,55 @@ def is_finance_related(title):
             return True
     return False
 
+def normalize_url(href):
+    """article_id + office_id만 추출해서 정규화된 URL 반환"""
+    article_id = re.search(r'article_id=(\d+)', href)
+    office_id = re.search(r'office_id=(\d+)', href)
+    if article_id and office_id:
+        return f"https://n.news.naver.com/mnews/article/{office_id.group(1)}/{article_id.group(1)}"
+    return None
+
 def fetch_naver_finance(limit=15):
-    url = "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258"
-    res = requests.get(url, headers=HEADERS, timeout=10)
-    res.encoding = "euc-kr"
-    soup = BeautifulSoup(res.text, "html.parser")
     articles = []
     seen = set()
+    page = 1
 
-    for a in soup.find_all("a", href=True):
-        href = a.get("href", "")
-        title = clean_title(a.get_text(strip=True))
+    while len(articles) < limit and page <= 5:
+        url = f"https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258&date=&page={page}"
+        res = requests.get(url, headers=HEADERS, timeout=10)
+        res.encoding = "euc-kr"
+        soup = BeautifulSoup(res.text, "html.parser")
 
-        if "article" not in href and "news" not in href:
-            continue
-        if len(title) < 10 or len(title) > 100:
-            continue
-        if is_broker_article(title):
-            continue
-        if is_invalid_title(title):
-            continue
-        # 금융 섹션에서 가져오므로 키워드 필터 제거
+        found_any = False
+        for a in soup.find_all("a", href=True):
+            href = a.get("href", "")
+            title = clean_title(a.get_text(strip=True))
 
-        if href.startswith("/"):
-            full_url = "https://finance.naver.com" + href
-        else:
-            full_url = href
+            if "article_id" not in href:
+                continue
+            if len(title) < 10 or len(title) > 100:
+                continue
+            if is_broker_article(title):
+                continue
+            if is_invalid_title(title):
+                continue
 
-        if "naver.com" not in full_url:
-            continue
-        if full_url in seen:
-            continue
-        seen.add(full_url)
-        articles.append((title, full_url))
-        if len(articles) >= limit:
+            clean_url = normalize_url(href)
+            if not clean_url:
+                continue
+            if clean_url in seen:
+                continue
+
+            seen.add(clean_url)
+            articles.append((title, clean_url))
+            found_any = True
+
+            if len(articles) >= limit:
+                break
+
+        if not found_any:
             break
+        page += 1
 
     return articles
 

@@ -17,7 +17,7 @@ KST = timezone(timedelta(hours=9))
 EXCLUDE_KEYWORDS = [
     "동영상", "재생시간", "포토", "[영상]", "[사진]",
     "부음", "빙부상", "빙모상", "부친상", "모친상", "장인상", "장모상",
-    "별세", "화장품", "조문", "경조사", "결혼", "출산", "임신"
+    "별세", "화장품", "조문", "경조사", "결혼", "출산", "임신",
     "화장", "미용"
 ]
 
@@ -44,29 +44,13 @@ def is_pharma_related(title):
             return True
     return False
 
-def get_article_date(url):
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=5)
-        res.encoding = "utf-8"
-        soup = BeautifulSoup(res.text, "html.parser")
-        text = soup.get_text()
-        match = re.search(r'(\d{4})[.\-](\d{2})[.\-](\d{2})', text)
-        if match:
-            y, m, d = match.groups()
-            return datetime(int(y), int(m), int(d), tzinfo=KST).date()
-    except:
-        pass
-    return None
-
 def fetch_yakup(limit=12):
     url = "https://www.yakup.com/news/index.html?cat=all"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
-    today = datetime.now(KST).date()
     articles = []
     seen = set()
-    candidates = []
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
@@ -83,11 +67,6 @@ def fetch_yakup(limit=12):
         if full_url in seen:
             continue
         seen.add(full_url)
-        candidates.append((title, full_url))
-    for title, full_url in candidates:
-        art_date = get_article_date(full_url)
-        if art_date is not None and art_date != today:
-            continue
         articles.append((title, full_url))
         if len(articles) >= limit:
             break
@@ -98,10 +77,8 @@ def fetch_pharmnews(limit=3):
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
-    today = datetime.now(KST).date()
     articles = []
     seen = set()
-    candidates = []
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
@@ -111,6 +88,8 @@ def fetch_pharmnews(limit=3):
             continue
         if is_invalid_title(title):
             continue
+        if not is_pharma_related(title):
+            continue
         if href.startswith("/"):
             full_url = "https://www.pharmnews.com" + href
         else:
@@ -118,13 +97,6 @@ def fetch_pharmnews(limit=3):
         if full_url in seen:
             continue
         seen.add(full_url)
-        candidates.append((title, full_url))
-    for title, full_url in candidates:
-        art_date = get_article_date(full_url)
-        if art_date is not None and art_date != today:
-            continue
-        if not is_pharma_related(title):
-            continue
         articles.append((title, full_url))
         if len(articles) >= limit:
             break

@@ -34,7 +34,9 @@ HIGH_PRIORITY = [
 ]
 
 def clean_title(title):
-    return re.sub(r'^\d+', '', title).strip()
+    title = re.sub(r'^\d+', '', title).strip()
+    title = re.sub(r'[\s\.]+$', '', title).strip()  # 끝에 . 이나 공백 제거
+    return title
 
 def is_invalid(title):
     for keyword in EXCLUDE_KEYWORDS + BROKER_KEYWORDS:

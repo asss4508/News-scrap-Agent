@@ -44,14 +44,31 @@ def is_pharma_related(title):
             return True
     return False
 
+def get_article_date(url):
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=5)
+        res.encoding = "utf-8"
+        soup = BeautifulSoup(res.text, "html.parser")
+        text = soup.get_text()
+        match = re.search(r'(\d{4})[.\-](\d{2})[.\-](\d{2})', text)
+        if match:
+            y, m, d = match.groups()
+            return datetime(int(y), int(m), int(d), tzinfo=KST).date()
+    except:
+        pass
+    return None
+
 def fetch_yakup(limit=12):
-    today = datetime.now(KST).strftime("%Y%m%d")
-    url = f"https://www.yakup.com/news/index.html?cat=all&date={today}"
+    url = "https://www.yakup.com/news/index.html?cat=all"
     res = requests.get(url, headers=HEADERS, timeout=10)
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
+    today = datetime.now(KST).date()
+    yesterday = today - timedelta(days=1)
     articles = []
     seen = set()
+    candidates = []
+
     for a in soup.select("a"):
         href = a.get("href", "")
         title = clean_title(a.get_text(strip=True))
@@ -68,9 +85,25 @@ def fetch_yakup(limit=12):
         if full_url in seen:
             continue
         seen.add(full_url)
-        articles.append((title, full_url))
+        candidates.append((title, full_url))
+
+    # 오늘 기사 먼저
+    for title, full_url in candidates:
+        art_date = get_article_date(full_url)
+        if art_date == today:
+            articles.append((title, full_url))
+        if len(articles) >= limit:
+            return articles
+
+    # 오늘 기사 부족하면 어제 기사로 채움
+    for title, full_url in candidates:
+        art_date = get_article_date(full_url)
+        if art_date == yesterday:
+            if (title, full_url) not in articles:
+                articles.append((title, full_url))
         if len(articles) >= limit:
             break
+
     return articles
 
 def fetch_pharmnews(limit=3):

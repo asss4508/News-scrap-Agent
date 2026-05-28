@@ -29,9 +29,6 @@ PHARMA_KEYWORDS = [
     "인보사", "코로나", "독감", "당뇨", "암", "종양", "면역"
 ]
 
-def clean_title(title):
-    return re.sub(r'^\d+', '', title).strip()
-
 def is_invalid_title(title):
     for keyword in EXCLUDE_KEYWORDS:
         if keyword in title:
@@ -44,20 +41,6 @@ def is_pharma_related(title):
             return True
     return False
 
-def get_article_date(url):
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=5)
-        res.encoding = "utf-8"
-        soup = BeautifulSoup(res.text, "html.parser")
-        text = soup.get_text()
-        match = re.search(r'(\d{4})[.\-](\d{2})[.\-](\d{2})', text)
-        if match:
-            y, m, d = match.groups()
-            return datetime(int(y), int(m), int(d), tzinfo=KST).date()
-    except:
-        pass
-    return None
-
 def fetch_yakup(limit=12):
     url = "https://www.yakup.com/news/index.html?cat=all"
     res = requests.get(url, headers=HEADERS, timeout=10)
@@ -65,44 +48,59 @@ def fetch_yakup(limit=12):
     soup = BeautifulSoup(res.text, "html.parser")
     today = datetime.now(KST).date()
     yesterday = today - timedelta(days=1)
-    articles = []
+    articles_today = []
+    articles_yesterday = []
     seen = set()
-    candidates = []
 
-    for a in soup.select("a"):
+    for a in soup.select('a[href*="mode=view"]'):
         href = a.get("href", "")
-        title = clean_title(a.get_text(strip=True))
-        if "mode=view" not in href:
+
+        title_el = a.select_one(".title_con span")
+        if not title_el:
             continue
-        if len(title) < 10 or len(title) > 100:
+        title = title_el.get_text(strip=True)
+
+        if len(title) < 10 or len(title) > 150:
             continue
         if is_invalid_title(title):
             continue
+
+        cat_el = a.select_one(".cat_con span")
+        cat = cat_el.get_text(strip=True) if cat_el else ""
+        is_pharma_cat = "제약" in cat or "바이오" in cat
+        if not is_pharma_cat and not is_pharma_related(title):
+            continue
+
+        date_el = a.select_one("span.date")
+        if not date_el:
+            continue
+        date_str = date_el.get_text(strip=True)
+        try:
+            art_date = datetime.strptime(date_str, "%Y.%m.%d").date()
+        except ValueError:
+            continue
+
         if href.startswith("/"):
             full_url = "https://www.yakup.com" + href
         else:
             full_url = href
+
         if full_url in seen:
             continue
         seen.add(full_url)
-        candidates.append((title, full_url))
 
-    # 오늘 기사 먼저
-    for title, full_url in candidates:
-        art_date = get_article_date(full_url)
         if art_date == today:
-            articles.append((title, full_url))
-        if len(articles) >= limit:
-            return articles
+            articles_today.append((title, full_url))
+        elif art_date == yesterday:
+            articles_yesterday.append((title, full_url))
 
-    # 오늘 기사 부족하면 어제 기사로 채움
-    for title, full_url in candidates:
-        art_date = get_article_date(full_url)
-        if art_date == yesterday:
-            if (title, full_url) not in articles:
-                articles.append((title, full_url))
-        if len(articles) >= limit:
-            break
+    articles = articles_today[:limit]
+    if len(articles) < limit:
+        for item in articles_yesterday:
+            if item not in articles:
+                articles.append(item)
+            if len(articles) >= limit:
+                break
 
     return articles
 
@@ -115,10 +113,10 @@ def fetch_pharmnews(limit=3):
     seen = set()
     for a in soup.select("a"):
         href = a.get("href", "")
-        title = clean_title(a.get_text(strip=True))
+        title = a.get_text(strip=True)
         if "articleView" not in href:
             continue
-        if len(title) < 10 or len(title) > 100:
+        if len(title) < 10 or len(title) > 150:
             continue
         if is_invalid_title(title):
             continue

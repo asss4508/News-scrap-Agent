@@ -21,7 +21,7 @@ BROKER_KEYWORDS = [
 ]
 
 EXCLUDE_KEYWORDS = [
-    "동영상", "재생시간", "포토", "[영상]", "[사진]", "·", "…",
+    "동영상", "재생시간", "포토", "[영상]", "[사진]",
     "성매매", "음주운전", "논란", "실형", "사과", "반박", "오보",
     "후보", "선거", "투표", "국민의힘", "민주당", "대통령", "정치",
     "교육감", "현수막", "봉사", "캠프", "여학생"
@@ -38,9 +38,6 @@ FINANCE_KEYWORDS = [
     "유가", "원자재", "구리", "금값", "비트코인", "암호화폐",
     "레버리지", "인버스", "리츠", "부동산", "PER", "PBR", "ROE"
 ]
-
-def clean_title(title):
-    return re.sub(r'^\d+', '', title).strip()
 
 def is_invalid_title(title):
     for keyword in EXCLUDE_KEYWORDS:
@@ -63,11 +60,21 @@ def is_finance_related(title):
     return False
 
 def normalize_url(href):
-    """article_id + office_id만 추출해서 정규화된 URL 반환"""
     article_id = re.search(r'article_id=(\d+)', href)
     office_id = re.search(r'office_id=(\d+)', href)
     if article_id and office_id:
         return f"https://n.news.naver.com/mnews/article/{office_id.group(1)}/{article_id.group(1)}"
+    return None
+
+def get_full_title(url):
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=5)
+        soup = BeautifulSoup(res.text, "html.parser")
+        og = soup.find("meta", property="og:title")
+        if og and og.get("content"):
+            return og["content"].strip()
+    except Exception:
+        pass
     return None
 
 def fetch_naver_finance(limit=15):
@@ -81,34 +88,36 @@ def fetch_naver_finance(limit=15):
         res.encoding = "euc-kr"
         soup = BeautifulSoup(res.text, "html.parser")
 
-        found_any = False
+        found_ids = False
         for a in soup.find_all("a", href=True):
             href = a.get("href", "")
-            title = clean_title(a.get_text(strip=True))
 
             if "article_id" not in href:
                 continue
-            if len(title) < 10 or len(title) > 100:
+            found_ids = True
+
+            clean_url = normalize_url(href)
+            if not clean_url or clean_url in seen:
+                continue
+
+            title = get_full_title(clean_url)
+            if not title:
+                title = re.sub(r'^\d+', '', a.get_text(strip=True)).strip()
+
+            if len(title) < 10 or len(title) > 150:
                 continue
             if is_broker_article(title):
                 continue
             if is_invalid_title(title):
                 continue
 
-            clean_url = normalize_url(href)
-            if not clean_url:
-                continue
-            if clean_url in seen:
-                continue
-
             seen.add(clean_url)
             articles.append((title, clean_url))
-            found_any = True
 
             if len(articles) >= limit:
                 break
 
-        if not found_any:
+        if not found_ids:
             break
         page += 1
 

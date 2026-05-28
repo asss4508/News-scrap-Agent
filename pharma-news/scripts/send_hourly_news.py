@@ -207,9 +207,10 @@ def build_message(article):
         return "기사를 가져오지 못했습니다."
     title, url = article
     summary = get_article_summary(url)
-    msg = '<a href="' + url + '"><b>' + title + '</b></a>\n\n'
+    msg = "🔜 <b>" + title + "</b>\n\n"
     if summary:
-        msg += summary
+        msg += summary + "\n\n"
+    msg += url
     return msg
 
 def send_telegram(message):

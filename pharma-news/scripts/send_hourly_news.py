@@ -86,15 +86,20 @@ def get_article_summary(url):
             text = content.get_text(separator=" ", strip=True)
             text = re.sub(r'\s+', ' ', text).strip()
 
-            # 기자 서명, 출처 제거
+            # 기자 서명, 출처, 이메일 제거
             text = re.sub(r'\[.*?기자.*?\]', '', text)
             text = re.sub(r'\[.*?=.*?뉴시스.*?\]', '', text)
             text = re.sub(r'\[.*?=.*?\]', '', text)
             text = re.sub(r'[가-힣]+\s*=\s*[가-힣]+\s*기자\s*=?\s*', '', text)
-            text = re.sub(r'[가-힣]+\s*기자\s*[가-힣]*\s*=\s*', '', text)
+            text = re.sub(r'[가-힣]+\s*기자\s*[가-힣]*\s*=?\s*', '', text)
+            text = re.sub(r'\S+@\S+\.\S+', '', text)  # 이메일 제거
+            text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)  # 날짜시간 제거
+            text = re.sub(r'확대\s*축소\s*공유하기.*', '', text)  # 버튼 텍스트 제거
             text = re.sub(r'©.*', '', text)
             text = re.sub(r'무단\s*전재.*', '', text)
             text = re.sub(r'저작권.*', '', text)
+            text = re.sub(r'<[^>]+>', '', text)  # HTML 태그 제거
+            text = re.sub(r'&[a-zA-Z]+;', '', text)  # HTML 엔티티 제거
             text = re.sub(r'\s+', ' ', text).strip()
 
             # 문장 단위로 분리

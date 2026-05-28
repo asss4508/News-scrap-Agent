@@ -34,7 +34,12 @@ HIGH_PRIORITY = [
 ]
 
 def clean_title(title):
-    title = re.sub(r'^\d+', '', title).strip()
+    # 사진 캡션, 기자 이름+날짜 패턴 제거
+    text = re.sub(r'\d{4}\.\d{2}\.\d{2}\s*[가-힣]+\s*기자', '', text)
+    text = re.sub(r'[가-힣]+\s*기자$', '', text)
+    text = re.sub(r'\d{4}\.\d{2}\.\d{2}', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    
     # 기자 이름 패턴 제거
     title = re.sub(r'\[.*?기자.*?\]', '', title)
     title = re.sub(r'\[.*?특파원.*?\]', '', title)

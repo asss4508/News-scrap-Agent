@@ -75,16 +75,14 @@ Keyword : 키워드1, 키워드2
 
 4. 명사로끝나는요약
 
-5. 명사로끝나는요약
-
-{url}"""
+5. 명사로끝나는요약"""
 
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=800,
         messages=[{"role": "user", "content": prompt}]
     )
-    return msg.content[0].text.strip()
+    return msg.content[0].text.strip() + f"\n\n{url}"
 
 async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = update.message.text or ""

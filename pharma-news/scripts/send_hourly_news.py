@@ -63,9 +63,14 @@ def get_article_summary(url):
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
 
+        # 불필요한 태그 제거
         for tag in soup(["script", "style", "header", "footer", "nav",
                          "aside", "iframe", "figure", "figcaption",
                          "button", "form", "input", "select"]):
+            tag.decompose()
+
+        # 사진 캡션 태그 제거
+        for tag in soup.select(".image_caption, .caption, .img_desc, .photo_desc, .ImageCaption, [class*='caption'], [class*='Caption'], [class*='photo'], [class*='Photo']"):
             tag.decompose()
 
         content = None
@@ -86,6 +91,10 @@ def get_article_summary(url):
             content = soup.body
 
         if content:
+            # 본문 내 사진 캡션 추가 제거
+            for tag in content.select("[class*='caption'], [class*='Caption'], [class*='photo'], [class*='Photo'], [class*='img'], [class*='Img']"):
+                tag.decompose()
+
             text = content.get_text(separator=" ", strip=True)
 
             # 불필요한 내용 제거
@@ -96,6 +105,8 @@ def get_article_summary(url):
             text = re.sub(r'\[.*?기자.*?\]', '', text)
             text = re.sub(r'\[.*?=.*?\]', '', text)
             text = re.sub(r'\d{4}\.\d{2}\.\d{2}', '', text)
+            text = re.sub(r'서울\s*[가-힣]+\s*[가-힣]+\s*딜링룸.*?있다\.', '', text)
+            text = re.sub(r'[가-힣]+\s*본점\s*[가-힣]+.*?있다\.', '', text)
             text = re.sub(r'확대\s*축소\s*공유하기.*?(?=\S)', '', text)
             text = re.sub(r'©.*?(?=\S)', '', text)
             text = re.sub(r'무단\s*전재.*?(?=\S)', '', text)

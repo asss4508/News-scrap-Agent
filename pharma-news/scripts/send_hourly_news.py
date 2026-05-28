@@ -35,8 +35,11 @@ HIGH_PRIORITY = [
 
 def clean_title(title):
     title = re.sub(r'^\d+', '', title).strip()
-    title = re.sub(r'[\s\.]+$', '', title).strip()  # 끝에 . 이나 공백 제거
-    return title
+    # 기자 이름 패턴 제거
+    title = re.sub(r'\[.*?기자.*?\]', '', title)
+    title = re.sub(r'\[.*?특파원.*?\]', '', title)
+    title = re.sub(r'·\[.*?\]', '', title)
+    return title.strip()
 
 def is_invalid(title):
     for keyword in EXCLUDE_KEYWORDS + BROKER_KEYWORDS:
@@ -72,7 +75,8 @@ def get_article_summary(url):
             ".article_body", ".news_body", "#newsct_article",
             "#articeBody", ".article-body", "#article_content",
             ".article_txt", "#news_body_area", ".news-article-body",
-            "#cont_article", ".view_text", "#articleBodyContents"
+            "#cont_article", ".view_text", "#articleBodyContents",
+            ".article-content", ".news_end_body"
         ]
         for selector in selectors:
             content = soup.select_one(selector)
@@ -84,40 +88,39 @@ def get_article_summary(url):
 
         if content:
             text = content.get_text(separator=" ", strip=True)
-            text = re.sub(r'\s+', ' ', text).strip()
 
-            # 기자 서명, 출처, 이메일 제거
+            # 불필요한 내용 제거
+            text = re.sub(r'\S+@\S+\.\S+', '', text)
+            text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)
+            text = re.sub(r'[가-힣]+\s*기자\s*=?\s*', '', text)
             text = re.sub(r'\[.*?기자.*?\]', '', text)
-            text = re.sub(r'\[.*?=.*?뉴시스.*?\]', '', text)
             text = re.sub(r'\[.*?=.*?\]', '', text)
-            text = re.sub(r'[가-힣]+\s*=\s*[가-힣]+\s*기자\s*=?\s*', '', text)
-            text = re.sub(r'[가-힣]+\s*기자\s*[가-힣]*\s*=?\s*', '', text)
-            text = re.sub(r'\S+@\S+\.\S+', '', text)  # 이메일 제거
-            text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)  # 날짜시간 제거
-            text = re.sub(r'확대\s*축소\s*공유하기.*', '', text)  # 버튼 텍스트 제거
-            text = re.sub(r'©.*', '', text)
-            text = re.sub(r'무단\s*전재.*', '', text)
-            text = re.sub(r'저작권.*', '', text)
-            text = re.sub(r'<[^>]+>', '', text)  # HTML 태그 제거
-            text = re.sub(r'&[a-zA-Z]+;', '', text)  # HTML 엔티티 제거
+            text = re.sub(r'확대\s*축소\s*공유하기.*?(?=\S)', '', text)
+            text = re.sub(r'©.*?(?=\S)', '', text)
+            text = re.sub(r'무단\s*전재.*?(?=\S)', '', text)
+            text = re.sub(r'저작권.*?(?=\S)', '', text)
+            text = re.sub(r'<들어가는\s*말>.*?(?=\S)', '', text)
             text = re.sub(r'\s+', ' ', text).strip()
 
-            # 문장 단위로 분리
+            # 문장 분리
             sentences = re.split(r'(?<=[.!?])\s+', text)
-            sentences = [s.strip() for s in sentences if len(s.strip()) > 15]
+            sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
 
-            # 8줄 내외, 마침표로 끝나는 문장까지
+            # 3문장까지, 200자 이내
             result = []
             char_count = 0
             for s in sentences[:5]:
                 result.append(s)
                 char_count += len(s)
-                if len(result) >= 3 or char_count >= 250:
+                if len(result) >= 3 or char_count >= 200:
                     break
 
-            # 마침표로 끝나는 마지막 문장까지만
+            # 마침표로 끝나는 문장까지만
             while result and not result[-1].endswith(('.', '!', '?')):
                 result.pop()
+
+            if not result:
+                return ""
 
             # 두 단락으로 나누기
             mid = len(result) // 2
@@ -147,13 +150,16 @@ def fetch_articles(url, domain, href_filter=None):
                 continue
             if href_filter and href_filter not in href:
                 continue
+            if "ranking" in href or "ntype=RANKING" in href:
+                continue
             if href.startswith("/"):
                 full_url = domain + href
             elif href.startswith("http"):
                 full_url = href
             else:
                 continue
-            if domain.replace("https://", "").replace("http://", "").split("/")[0] not in full_url:
+            base_domain = domain.replace("https://", "").replace("http://", "").split("/")[0]
+            if base_domain not in full_url:
                 continue
             if full_url in seen:
                 continue
@@ -165,28 +171,12 @@ def fetch_articles(url, domain, href_filter=None):
 
 def pick_best_article():
     all_articles = []
-    all_articles += fetch_articles(
-    "https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258",
-    "https://finance.naver.com", "article_id"
-    )
-    all_articles += fetch_articles(
-        "https://www.fnnews.com/section/002001000",
-        "https://www.fnnews.com"
-    )
-    all_articles += fetch_articles(
-        "https://www.sedaily.com/market",
-        "https://www.sedaily.com"
-    )
-    all_articles += fetch_articles(
-        "https://www.sedaily.com/economy",
-        "https://www.sedaily.com"
-    )
-    all_articles += fetch_articles(
-        "https://www.businesspost.co.kr/BP?command=sub&sub=2",
-        "https://www.businesspost.co.kr"
-    )
+    all_articles += fetch_articles("https://news.naver.com/breakingnews/section/101/258", "https://news.naver.com", "article")
+    all_articles += fetch_articles("https://www.fnnews.com/section/002001000", "https://www.fnnews.com")
+    all_articles += fetch_articles("https://www.sedaily.com/market", "https://www.sedaily.com")
+    all_articles += fetch_articles("https://www.sedaily.com/economy", "https://www.sedaily.com")
+    all_articles += fetch_articles("https://www.businesspost.co.kr/BP?command=sub&sub=2", "https://www.businesspost.co.kr")
 
-    # 중복 제목 제거
     seen_titles = set()
     unique = []
     for title, url, score in all_articles:
@@ -195,7 +185,6 @@ def pick_best_article():
             seen_titles.add(t)
             unique.append((title, url, score))
 
-    # 우선순위 높은 순 정렬
     unique.sort(key=lambda x: x[2], reverse=True)
 
     if unique:

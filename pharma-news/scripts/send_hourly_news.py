@@ -69,8 +69,15 @@ def get_article_summary(url):
                          "button", "form", "input", "select"]):
             tag.decompose()
 
-        # 사진 캡션 태그 제거
-        for tag in soup.select(".image_caption, .caption, .img_desc, .photo_desc, .ImageCaption, [class*='caption'], [class*='Caption'], [class*='photo'], [class*='Photo']"):
+        # 사진 캡션, UI 버튼 영역 제거
+        for tag in soup.select(
+            ".image_caption, .caption, .img_desc, .photo_desc, .ImageCaption, "
+            "[class*='caption'], [class*='Caption'], [class*='photo'], [class*='Photo'], "
+            "[class*='share'], [class*='Share'], [class*='tool'], [class*='Tool'], "
+            "[class*='font'], [class*='Font'], [class*='sns'], [class*='SNS'], "
+            "[class*='subscribe'], [class*='Subscribe'], [class*='related'], "
+            "[class*='button'], [class*='Button'], .article_util, .article-util"
+        ):
             tag.decompose()
 
         content = None
@@ -91,13 +98,26 @@ def get_article_summary(url):
             content = soup.body
 
         if content:
-            # 본문 내 사진 캡션 추가 제거
-            for tag in content.select("[class*='caption'], [class*='Caption'], [class*='photo'], [class*='Photo'], [class*='img'], [class*='Img']"):
+            for tag in content.select(
+                "[class*='caption'], [class*='Caption'], [class*='photo'], "
+                "[class*='Photo'], [class*='img'], [class*='Img'], "
+                "[class*='share'], [class*='tool'], [class*='font'], "
+                "[class*='sns'], [class*='button']"
+            ):
                 tag.decompose()
 
             text = content.get_text(separator=" ", strip=True)
 
-            # 불필요한 내용 제거
+            # UI 버튼 텍스트 패턴 제거
+            text = re.sub(r'뉴스\s*듣기.*?크기', '', text)
+            text = re.sub(r'글자\s*크기\s*가\s*보통.*?크게', '', text)
+            text = re.sub(r'기사\s*공유\s*페이스북.*?프린트', '', text)
+            text = re.sub(r'페이스북\s*엑스\s*카카오톡.*?북마크', '', text)
+            text = re.sub(r'채널구독\s*다음\s*채널구독', '', text)
+            text = re.sub(r'다크모드\s*프린트\s*네이버', '', text)
+            text = re.sub(r'이메일\s*주소복사', '', text)
+
+            # 기자 서명, 출처 제거
             text = re.sub(r'\S+@\S+\.\S+', '', text)
             text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)
             text = re.sub(r'\d{4}\.\d{2}\.\d{2}\s*[가-힣]+\s*기자', '', text)
@@ -106,7 +126,6 @@ def get_article_summary(url):
             text = re.sub(r'\[.*?=.*?\]', '', text)
             text = re.sub(r'\d{4}\.\d{2}\.\d{2}', '', text)
             text = re.sub(r'서울\s*[가-힣]+\s*[가-힣]+\s*딜링룸.*?있다\.', '', text)
-            text = re.sub(r'[가-힣]+\s*본점\s*[가-힣]+.*?있다\.', '', text)
             text = re.sub(r'확대\s*축소\s*공유하기.*?(?=\S)', '', text)
             text = re.sub(r'©.*?(?=\S)', '', text)
             text = re.sub(r'무단\s*전재.*?(?=\S)', '', text)

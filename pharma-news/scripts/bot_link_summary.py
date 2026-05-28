@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -83,6 +83,10 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not urls:
         return
 
+    if not ANTHROPIC_API_KEY:
+        await update.message.reply_text("❌ ANTHROPIC_API_KEY가 설정되지 않았습니다.")
+        return
+
     status = await update.message.reply_text("⏳ 요약 중...")
     try:
         title, body = fetch_article(urls[0])
@@ -92,7 +96,7 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         result = summarize(title, body, urls[0])
         await status.edit_text(result, disable_web_page_preview=True)
     except Exception as e:
-        await status.edit_text(f"❌ 오류: {str(e)[:100]}")
+        await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:150]}")
 
 def main():
     app = Application.builder().token(TELEGRAM_TOKEN).build()

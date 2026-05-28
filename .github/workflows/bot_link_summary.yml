@@ -2,11 +2,13 @@ name: 링크 요약 봇
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 350
     steps:
       - name: 코드 체크아웃
         uses: actions/checkout@v4

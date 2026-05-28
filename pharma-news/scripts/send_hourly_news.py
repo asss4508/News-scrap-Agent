@@ -34,13 +34,7 @@ HIGH_PRIORITY = [
 ]
 
 def clean_title(title):
-    # 사진 캡션, 기자 이름+날짜 패턴 제거
-    text = re.sub(r'\d{4}\.\d{2}\.\d{2}\s*[가-힣]+\s*기자', '', text)
-    text = re.sub(r'[가-힣]+\s*기자$', '', text)
-    text = re.sub(r'\d{4}\.\d{2}\.\d{2}', '', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    
-    # 기자 이름 패턴 제거
+    title = re.sub(r'^\d+', '', title)
     title = re.sub(r'\[.*?기자.*?\]', '', title)
     title = re.sub(r'\[.*?특파원.*?\]', '', title)
     title = re.sub(r'·\[.*?\]', '', title)
@@ -97,21 +91,22 @@ def get_article_summary(url):
             # 불필요한 내용 제거
             text = re.sub(r'\S+@\S+\.\S+', '', text)
             text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)
+            text = re.sub(r'\d{4}\.\d{2}\.\d{2}\s*[가-힣]+\s*기자', '', text)
             text = re.sub(r'[가-힣]+\s*기자\s*=?\s*', '', text)
             text = re.sub(r'\[.*?기자.*?\]', '', text)
             text = re.sub(r'\[.*?=.*?\]', '', text)
+            text = re.sub(r'\d{4}\.\d{2}\.\d{2}', '', text)
             text = re.sub(r'확대\s*축소\s*공유하기.*?(?=\S)', '', text)
             text = re.sub(r'©.*?(?=\S)', '', text)
             text = re.sub(r'무단\s*전재.*?(?=\S)', '', text)
             text = re.sub(r'저작권.*?(?=\S)', '', text)
-            text = re.sub(r'<들어가는\s*말>.*?(?=\S)', '', text)
             text = re.sub(r'\s+', ' ', text).strip()
 
             # 문장 분리
             sentences = re.split(r'(?<=[.!?])\s+', text)
             sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
 
-            # 3문장까지, 200자 이내
+            # 3문장, 200자 이내
             result = []
             char_count = 0
             for s in sentences[:5]:
@@ -201,10 +196,9 @@ def build_message(article):
         return "기사를 가져오지 못했습니다."
     title, url = article
     summary = get_article_summary(url)
-    msg = "🔜 <b>" + title + "</b>\n\n"
+    msg = '<a href="' + url + '"><b>' + title + '</b></a>\n\n'
     if summary:
-        msg += summary + "\n\n"
-    msg += url
+        msg += summary
     return msg
 
 def send_telegram(message):

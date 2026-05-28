@@ -53,20 +53,29 @@ def summarize(title, body, url):
 
     prompt = f"""다음 기사를 읽고 아래 형식으로만 출력해. 다른 설명 없이 형식 그대로만.
 
+규칙:
+- Keyword는 반드시 2개만
+- 요약 5개는 간결하게 명사로 끝내기 (예: "~완료", "~상승", "~발표", "~진행" 등 동사 아닌 명사형)
+- 번호 사이 빈 줄 한 칸씩
+
 제목: {title}
 본문: {body}
 
-=== 출력 형식 ===
-🔜 {title}
+=== 출력 형식 (HTML, 이 형식 그대로) ===
+🔜 <b>{title}</b>
 
-Keyword : 핵심키워드1, 핵심키워드2
+Keyword : 키워드1, 키워드2
 
-[기사 요약]
-1. 핵심 내용 한 문장
-2. 핵심 내용 한 문장
-3. 핵심 내용 한 문장
-4. 핵심 내용 한 문장
-5. 핵심 내용 한 문장
+<b>[기사 요약]</b>
+1. 명사로끝나는요약
+
+2. 명사로끝나는요약
+
+3. 명사로끝나는요약
+
+4. 명사로끝나는요약
+
+5. 명사로끝나는요약
 
 {url}"""
 
@@ -94,7 +103,7 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await status.edit_text("❌ 기사를 불러올 수 없습니다.")
             return
         result = summarize(title, body, urls[0])
-        await status.edit_text(result, disable_web_page_preview=True)
+        await status.edit_text(result, parse_mode="HTML", disable_web_page_preview=True)
     except Exception as e:
         await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:150]}")
 

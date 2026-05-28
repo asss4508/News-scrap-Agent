@@ -104,17 +104,23 @@ def get_article_summary(url):
             # 8줄 내외, 마침표로 끝나는 문장까지
             result = []
             char_count = 0
-            for s in sentences[:10]:
+            for s in sentences[:5]:
                 result.append(s)
                 char_count += len(s)
-                if len(result) >= 8 or char_count >= 400:
+                if len(result) >= 3 or char_count >= 250:
                     break
 
             # 마침표로 끝나는 마지막 문장까지만
             while result and not result[-1].endswith(('.', '!', '?')):
                 result.pop()
 
-            return " ".join(result)
+            # 두 단락으로 나누기
+            mid = len(result) // 2
+            para1 = " ".join(result[:mid]) if mid > 0 else " ".join(result)
+            para2 = " ".join(result[mid:]) if mid > 0 else ""
+            if para2:
+                return para1 + "\n\n" + para2
+            return para1
 
     except:
         pass

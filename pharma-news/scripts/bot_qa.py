@@ -197,6 +197,8 @@ def answer(question: str, bm25: BM25) -> str:
 - 자료에 근거한 내용만 답해줘. 자료에 없으면 명확히 없다고 말해줘.
 - 출처(파일명 또는 채널명)를 함께 표시해줘.
 - 한국어로 답해줘.
+- 마크다운 문법(**굵게**, *기울임*, ### 제목 등) 절대 사용하지 마.
+- 일반 텍스트로만 작성해줘.
 
 질문: {question}"""
     msg = client.messages.create(
@@ -204,7 +206,12 @@ def answer(question: str, bm25: BM25) -> str:
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
     )
-    return msg.content[0].text.strip()
+    text = msg.content[0].text.strip()
+    text = re.sub(r'\*{1,3}', '', text)
+    text = re.sub(r'#{1,6}\s*', '', text)
+    text = re.sub(r'_{1,2}([^_]+)_{1,2}', r'\1', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
 
 # ── Telegram 핸들러 ────────────────────────────────────────────────────────────
 

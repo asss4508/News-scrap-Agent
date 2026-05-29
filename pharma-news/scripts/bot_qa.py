@@ -147,7 +147,10 @@ def save_to_github(filename: str, file_bytes: bytes, new_chunks: list):
     file_path = f"data/uploads/{filename}"
     file_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{file_path}"
     existing = http_requests.get(file_url, headers=headers)
-    sha = existing.json().get("sha") if existing.status_code == 200 else None
+    try:
+        sha = existing.json().get("sha") if existing.status_code == 200 else None
+    except Exception:
+        sha = None
     payload = {
         "message": f"feat: {filename} 업로드 (텔레그램)",
         "content": base64.b64encode(file_bytes).decode(),
@@ -164,9 +167,14 @@ def _update_index_on_github(new_chunks: list, source_label: str, headers: dict):
     index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{index_path}"
     existing_index = http_requests.get(index_url, headers=headers)
     if existing_index.status_code == 200:
-        idx_data = existing_index.json()
-        idx_sha = idx_data["sha"]
-        current_chunks = json.loads(base64.b64decode(idx_data["content"]).decode("utf-8"))
+        try:
+            idx_data = existing_index.json()
+            idx_sha = idx_data.get("sha")
+            raw = base64.b64decode(idx_data.get("content", "")).decode("utf-8").strip()
+            current_chunks = json.loads(raw) if raw else []
+        except Exception:
+            idx_sha = None
+            current_chunks = []
     else:
         idx_sha = None
         current_chunks = []
@@ -191,9 +199,13 @@ def add_channel_to_github(channel: str):
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{CHANNELS_FILE}"
     existing = http_requests.get(url, headers=headers)
     if existing.status_code == 200:
-        data = existing.json()
-        sha = data["sha"]
-        content = base64.b64decode(data["content"]).decode("utf-8")
+        try:
+            data = existing.json()
+            sha = data.get("sha")
+            content = base64.b64decode(data.get("content", "")).decode("utf-8")
+        except Exception:
+            sha = None
+            content = "# 동기화할 텔레그램 채널 목록\n"
     else:
         sha = None
         content = "# 동기화할 텔레그램 채널 목록\n"

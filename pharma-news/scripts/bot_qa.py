@@ -136,58 +136,41 @@ class BM25:
 
 # ── GitHub 저장 ────────────────────────────────────────────────────────────────
 
-def save_to_github(filename: str, file_bytes: bytes, new_chunks: list):
+def _github_put(file_path: str, content_bytes: bytes, message: str) -> bool:
     if not GITHUB_TOKEN:
         return False
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github+json"
     }
-
-    file_path = f"data/uploads/{filename}"
-    file_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{file_path}"
-    existing = http_requests.get(file_url, headers=headers)
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{file_path}"
+    existing = http_requests.get(url, headers=headers)
     try:
         sha = existing.json().get("sha") if existing.status_code == 200 else None
     except Exception:
         sha = None
-    payload = {
-        "message": f"feat: {filename} 업로드 (텔레그램)",
-        "content": base64.b64encode(file_bytes).decode(),
-    }
+    payload = {"message": message, "content": base64.b64encode(content_bytes).decode()}
     if sha:
         payload["sha"] = sha
-    http_requests.put(file_url, json=payload, headers=headers)
+    resp = http_requests.put(url, json=payload, headers=headers)
+    return resp.status_code in (200, 201)
 
-    _update_index_on_github(new_chunks, filename, headers)
-    return True
+def save_to_github(filename: str, file_bytes: bytes) -> bool:
+    # 원본 파일만 저장 → build_index.yml이 자동으로 인덱스 재빌드
+    return _github_put(
+        f"data/uploads/{filename}",
+        file_bytes,
+        f"feat: {filename} 업로드 (텔레그램)"
+    )
 
-def _update_index_on_github(new_chunks: list, source_label: str, headers: dict):
-    index_path = "data/index.json"
-    index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{index_path}"
-    existing_index = http_requests.get(index_url, headers=headers)
-    if existing_index.status_code == 200:
-        try:
-            idx_data = existing_index.json()
-            idx_sha = idx_data.get("sha")
-            raw = base64.b64decode(idx_data.get("content", "")).decode("utf-8").strip()
-            current_chunks = json.loads(raw) if raw else []
-        except Exception:
-            idx_sha = None
-            current_chunks = []
-    else:
-        idx_sha = None
-        current_chunks = []
-
-    updated_chunks = current_chunks + new_chunks
-    updated_content = json.dumps(updated_chunks, ensure_ascii=False, indent=2)
-    idx_payload = {
-        "message": f"chore: 인덱스 업데이트 ({source_label})",
-        "content": base64.b64encode(updated_content.encode("utf-8")).decode(),
-    }
-    if idx_sha:
-        idx_payload["sha"] = idx_sha
-    http_requests.put(index_url, json=idx_payload, headers=headers)
+def save_channel_text_to_github(channel: str, text: str) -> bool:
+    # 채널 텍스트 파일 저장 → build_index.yml이 자동으로 인덱스 재빌드
+    safe_name = re.sub(r'[^a-zA-Z0-9_]', '_', channel.lstrip('@'))
+    return _github_put(
+        f"data/channels/{safe_name}.txt",
+        text.encode("utf-8"),
+        f"chore: 채널 업데이트 ({channel})"
+    )
 
 def add_channel_to_github(channel: str):
     if not GITHUB_TOKEN:
@@ -336,8 +319,8 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
         bm25: BM25 = context.bot_data["bm25"]
         context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
 
-        saved = save_to_github(filename, file_bytes, new_chunks)
-        persist_msg = "💾 GitHub 저장 완료" if saved else "⚠️ 이번 세션에만 유효"
+        saved = save_to_github(filename, file_bytes)
+        persist_msg = "💾 GitHub 저장 완료 (인덱스 자동 재빌드 중)" if saved else "⚠️ 이번 세션에만 유효"
 
         await status.edit_text(
             f"✅ {filename} 처리 완료!\n"
@@ -364,12 +347,13 @@ async def handle_notion_url(update: Update, context: ContextTypes.DEFAULT_TYPE, 
         context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
 
         if GITHUB_TOKEN:
-            headers = {
-                "Authorization": f"Bearer {GITHUB_TOKEN}",
-                "Accept": "application/vnd.github+json"
-            }
-            _update_index_on_github(new_chunks, source, headers)
-            persist_msg = "💾 GitHub 저장 완료"
+            safe_name = re.sub(r'[^a-zA-Z0-9_]', '_', source)[:60]
+            _github_put(
+                f"data/uploads/{safe_name}.txt",
+                text.encode("utf-8"),
+                f"feat: URL 저장 ({source[:50]})"
+            )
+            persist_msg = "💾 GitHub 저장 완료 (인덱스 자동 재빌드 중)"
         else:
             persist_msg = "⚠️ 이번 세션에만 유효"
 
@@ -396,22 +380,16 @@ async def handle_telegram_channel(update: Update, context: ContextTypes.DEFAULT_
         bm25: BM25 = context.bot_data["bm25"]
         context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
 
-        github_saved = False
         if GITHUB_TOKEN:
-            headers = {
-                "Authorization": f"Bearer {GITHUB_TOKEN}",
-                "Accept": "application/vnd.github+json"
-            }
-            _update_index_on_github(new_chunks, source, headers)
+            # 채널 텍스트 파일 저장 → build_index.yml이 인덱스 자동 재빌드
+            save_channel_text_to_github(channel, text)
+            # channels_to_sync.txt에도 추가 (이후 자동 동기화)
             add_result = add_channel_to_github(channel)
-            github_saved = True
             if add_result == "already_exists":
                 channel_msg = "📋 채널 목록에 이미 등록됨"
-            elif add_result:
-                channel_msg = "📋 채널 목록에 추가됨 (이후 자동 동기화)"
             else:
-                channel_msg = "⚠️ 채널 목록 저장 실패"
-            persist_msg = f"💾 GitHub 저장 완료\n{channel_msg}"
+                channel_msg = "📋 채널 목록에 추가됨 (이후 자동 동기화)"
+            persist_msg = f"💾 GitHub 저장 완료 (인덱스 재빌드 중)\n{channel_msg}"
         else:
             persist_msg = "⚠️ 이번 세션에만 유효"
 
@@ -470,23 +448,15 @@ async def on_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:200]}")
 
 def fetch_index_from_github() -> list:
-    if not GITHUB_TOKEN:
-        return []
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json"
-    }
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/data/index.json"
-    resp = http_requests.get(url, headers=headers, timeout=30)
-    if resp.status_code != 200:
-        return []
+    # raw URL 사용 - Contents API의 1MB 용량 제한 없음
+    url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/index.json"
     try:
-        data = resp.json()
-        raw = base64.b64decode(data.get("content", "")).decode("utf-8").strip()
-        return json.loads(raw) if raw else []
+        resp = http_requests.get(url, timeout=60)
+        if resp.status_code == 200:
+            return resp.json()
     except Exception as e:
         print(f"GitHub 인덱스 로드 오류: {e}")
-        return []
+    return []
 
 async def reload_index(context: ContextTypes.DEFAULT_TYPE):
     chunks = fetch_index_from_github()

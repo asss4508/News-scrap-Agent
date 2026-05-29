@@ -17,8 +17,12 @@ TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "asss4508/pharma-news-bot")
+TELEGRAM_API_ID = int(os.environ.get("TELEGRAM_API_ID", "0"))
+TELEGRAM_API_HASH = os.environ.get("TELEGRAM_API_HASH", "")
+TELETHON_SESSION = os.environ.get("TELETHON_SESSION", "")
 
 INDEX_PATH = Path(__file__).parent.parent.parent / "data" / "index.json"
+CHANNELS_FILE = "data/channels_to_sync.txt"
 
 SUPPORTED_EXTENSIONS = {".pdf", ".xlsx", ".xls", ".docx", ".txt", ".csv", ".md"}
 
@@ -140,7 +144,6 @@ def save_to_github(filename: str, file_bytes: bytes, new_chunks: list):
         "Accept": "application/vnd.github+json"
     }
 
-    # 1. 파일 저장
     file_path = f"data/uploads/{filename}"
     file_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{file_path}"
     existing = http_requests.get(file_url, headers=headers)
@@ -153,7 +156,10 @@ def save_to_github(filename: str, file_bytes: bytes, new_chunks: list):
         payload["sha"] = sha
     http_requests.put(file_url, json=payload, headers=headers)
 
-    # 2. 인덱스 업데이트
+    _update_index_on_github(new_chunks, filename, headers)
+    return True
+
+def _update_index_on_github(new_chunks: list, source_label: str, headers: dict):
     index_path = "data/index.json"
     index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{index_path}"
     existing_index = http_requests.get(index_url, headers=headers)
@@ -168,13 +174,81 @@ def save_to_github(filename: str, file_bytes: bytes, new_chunks: list):
     updated_chunks = current_chunks + new_chunks
     updated_content = json.dumps(updated_chunks, ensure_ascii=False, indent=2)
     idx_payload = {
-        "message": f"chore: 인덱스 업데이트 ({filename})",
+        "message": f"chore: 인덱스 업데이트 ({source_label})",
         "content": base64.b64encode(updated_content.encode("utf-8")).decode(),
     }
     if idx_sha:
         idx_payload["sha"] = idx_sha
     http_requests.put(index_url, json=idx_payload, headers=headers)
-    return True
+
+def add_channel_to_github(channel: str):
+    if not GITHUB_TOKEN:
+        return False
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json"
+    }
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{CHANNELS_FILE}"
+    existing = http_requests.get(url, headers=headers)
+    if existing.status_code == 200:
+        data = existing.json()
+        sha = data["sha"]
+        content = base64.b64decode(data["content"]).decode("utf-8")
+    else:
+        sha = None
+        content = "# 동기화할 텔레그램 채널 목록\n"
+
+    normalized = "@" + channel.lstrip("@")
+    if normalized in content or channel in content:
+        return "already_exists"
+
+    content = content.rstrip("\n") + f"\n{normalized}\n"
+    payload = {
+        "message": f"feat: 채널 추가 ({normalized})",
+        "content": base64.b64encode(content.encode("utf-8")).decode(),
+    }
+    if sha:
+        payload["sha"] = sha
+    resp = http_requests.put(url, json=payload, headers=headers)
+    return resp.status_code in (200, 201)
+
+# ── Jina Reader (Notion/URL 텍스트 추출) ──────────────────────────────────────
+
+def fetch_url_content(url: str) -> str:
+    jina_url = f"https://r.jina.ai/{url}"
+    try:
+        resp = http_requests.get(jina_url, timeout=30, headers={"Accept": "text/plain"})
+        if resp.status_code == 200:
+            return resp.text
+    except Exception as e:
+        print(f"Jina 추출 오류: {e}")
+    return ""
+
+# ── Telethon 채널 동기화 ───────────────────────────────────────────────────────
+
+async def sync_single_channel(channel: str) -> tuple[int, str]:
+    if not (TELEGRAM_API_ID and TELEGRAM_API_HASH and TELETHON_SESSION):
+        return 0, "Telethon 설정이 없습니다."
+    try:
+        from telethon import TelegramClient
+        from telethon.sessions import StringSession
+        client = TelegramClient(StringSession(TELETHON_SESSION), TELEGRAM_API_ID, TELEGRAM_API_HASH)
+        await client.connect()
+        if not await client.is_user_authorized():
+            await client.disconnect()
+            return 0, "Telethon 인증 실패"
+        entity = await client.get_entity(channel)
+        messages = []
+        async for msg in client.iter_messages(entity, limit=500):
+            if msg.text and msg.text.strip():
+                messages.append(msg.text.strip())
+        await client.disconnect()
+        if not messages:
+            return 0, "메시지 없음"
+        text = "\n\n".join(reversed(messages))
+        return len(messages), text
+    except Exception as e:
+        return 0, str(e)
 
 # ── Claude 답변 ────────────────────────────────────────────────────────────────
 
@@ -208,15 +282,10 @@ def answer(question: str, bm25: BM25) -> str:
         messages=[{"role": "user", "content": prompt}]
     )
     text = msg.content[0].text.strip()
-    # ** 완전 제거
     text = re.sub(r'\*+', '', text)
-    # ## → ◆ 로 변환
     text = re.sub(r'#{1,6}\s*(.+)', r'◆ \1', text)
-    # _강조_ 제거
     text = re.sub(r'_{1,2}([^_\n]+)_{1,2}', r'\1', text)
-    # > 인용 기호 제거
     text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)
-    # 연속 빈줄 정리
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
@@ -255,7 +324,6 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
         bm25: BM25 = context.bot_data["bm25"]
         context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
 
-        # GitHub에 저장 (백그라운드)
         saved = save_to_github(filename, file_bytes, new_chunks)
         persist_msg = "💾 GitHub 저장 완료" if saved else "⚠️ 이번 세션에만 유효"
 
@@ -270,11 +338,107 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
     except Exception as e:
         await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:150]}")
 
+async def handle_notion_url(update: Update, context: ContextTypes.DEFAULT_TYPE, url: str):
+    status = await update.message.reply_text(f"📥 노션 페이지 가져오는 중...")
+    try:
+        text = fetch_url_content(url)
+        if not text.strip():
+            await status.edit_text("❌ 노션 페이지에서 텍스트를 가져올 수 없습니다.")
+            return
+
+        source = re.sub(r'https?://', '', url)[:60]
+        new_chunks = split_chunks(text, source)
+        bm25: BM25 = context.bot_data["bm25"]
+        context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
+
+        if GITHUB_TOKEN:
+            headers = {
+                "Authorization": f"Bearer {GITHUB_TOKEN}",
+                "Accept": "application/vnd.github+json"
+            }
+            _update_index_on_github(new_chunks, source, headers)
+            persist_msg = "💾 GitHub 저장 완료"
+        else:
+            persist_msg = "⚠️ 이번 세션에만 유효"
+
+        await status.edit_text(
+            f"✅ 노션 페이지 저장 완료!\n"
+            f"📊 {len(new_chunks)}개 청크 추가\n"
+            f"📚 총 {context.bot_data['bm25'].n}개 청크\n"
+            f"{persist_msg}\n\n"
+            f"이제 이 페이지 내용을 질문할 수 있습니다."
+        )
+    except Exception as e:
+        await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:150]}")
+
+async def handle_telegram_channel(update: Update, context: ContextTypes.DEFAULT_TYPE, channel: str):
+    status = await update.message.reply_text(f"📥 @{channel} 채널 동기화 중...")
+    try:
+        msg_count, text = await sync_single_channel(channel)
+        if msg_count == 0:
+            await status.edit_text(f"❌ 채널 동기화 실패: {text}")
+            return
+
+        source = f"@{channel}"
+        new_chunks = split_chunks(text, source)
+        bm25: BM25 = context.bot_data["bm25"]
+        context.bot_data["bm25"] = bm25.add_chunks(new_chunks)
+
+        github_saved = False
+        if GITHUB_TOKEN:
+            headers = {
+                "Authorization": f"Bearer {GITHUB_TOKEN}",
+                "Accept": "application/vnd.github+json"
+            }
+            _update_index_on_github(new_chunks, source, headers)
+            add_result = add_channel_to_github(channel)
+            github_saved = True
+            if add_result == "already_exists":
+                channel_msg = "📋 채널 목록에 이미 등록됨"
+            elif add_result:
+                channel_msg = "📋 채널 목록에 추가됨 (이후 자동 동기화)"
+            else:
+                channel_msg = "⚠️ 채널 목록 저장 실패"
+            persist_msg = f"💾 GitHub 저장 완료\n{channel_msg}"
+        else:
+            persist_msg = "⚠️ 이번 세션에만 유효"
+
+        await status.edit_text(
+            f"✅ @{channel} 동기화 완료!\n"
+            f"💬 {msg_count}개 메시지 → {len(new_chunks)}개 청크 추가\n"
+            f"📚 총 {context.bot_data['bm25'].n}개 청크\n"
+            f"{persist_msg}\n\n"
+            f"이제 이 채널 내용을 질문할 수 있습니다."
+        )
+    except Exception as e:
+        await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:150]}")
+
 async def on_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    question = (update.message.text or "").strip()
-    if not question:
+    text = (update.message.text or "").strip()
+    if not text:
         return
 
+    # Notion URL 감지
+    if re.match(r'https?://(www\.)?notion\.so/', text) or re.match(r'https?://[a-zA-Z0-9-]+\.notion\.site/', text):
+        await handle_notion_url(update, context, text)
+        return
+
+    # Telegram 채널 URL 감지 (https://t.me/channelname 또는 @channelname)
+    tme_match = re.match(r'https?://t\.me/([a-zA-Z0-9_]+)', text)
+    at_match = re.match(r'^@([a-zA-Z0-9_]+)$', text)
+    if tme_match:
+        await handle_telegram_channel(update, context, tme_match.group(1))
+        return
+    if at_match:
+        await handle_telegram_channel(update, context, at_match.group(1))
+        return
+
+    # 일반 URL도 Jina로 처리
+    if re.match(r'https?://', text) and ' ' not in text:
+        await handle_notion_url(update, context, text)
+        return
+
+    # 질문 처리
     bm25: BM25 = context.bot_data.get("bm25")
     if bm25 is None or bm25.n == 0:
         await update.message.reply_text(
@@ -288,7 +452,7 @@ async def on_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     status = await update.message.reply_text("🔍 검색 중...")
     try:
-        result = answer(question, bm25)
+        result = answer(text, bm25)
         await status.edit_text(result)
     except Exception as e:
         await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:200]}")
@@ -299,6 +463,8 @@ async def on_status(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         f"📚 인덱스: {n}개 청크\n"
         f"📁 파일 업로드: PDF, Excel, Word, TXT 지원\n"
+        f"🔗 노션 URL: 링크를 그대로 보내면 자동 저장\n"
+        f"📡 텔레그램 채널: @채널명 또는 t.me/링크 보내면 자동 동기화\n"
         f"💬 질문: 텍스트 그대로 입력"
     )
 

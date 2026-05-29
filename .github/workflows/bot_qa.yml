@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install "python-telegram-bot>=20.0" anthropic pypdf openpyxl python-docx requests
+        run: pip install "python-telegram-bot>=20.0" anthropic pypdf openpyxl python-docx requests telethon
 
       - name: 봇 실행
         env:
@@ -29,4 +29,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: asss4508/pharma-news-bot
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELETHON_SESSION: ${{ secrets.TELETHON_SESSION }}
         run: python pharma-news/scripts/bot_qa.py

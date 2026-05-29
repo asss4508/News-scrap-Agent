@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install "python-telegram-bot>=20.0" anthropic pypdf openpyxl python-docx requests telethon
+        run: pip install "python-telegram-bot[job-queue]>=20.0" anthropic pypdf openpyxl python-docx requests telethon
 
       - name: 봇 실행
         env:

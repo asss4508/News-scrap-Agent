@@ -197,7 +197,8 @@ def answer(question: str, bm25: BM25) -> str:
 - 자료에 근거한 내용만 답해줘. 자료에 없으면 명확히 없다고 말해줘.
 - 출처(파일명 또는 채널명)를 함께 표시해줘.
 - 한국어로 답해줘.
-- 마크다운 문법(**굵게**, *기울임*, ### 제목 등) 절대 사용하지 마.
+- **나 __ 같은 마크다운 강조 기호는 절대 사용하지 마. 텍스트만 써.
+- ## ### 같은 제목 기호도 쓰지 마.
 - 일반 텍스트로만 작성해줘.
 
 질문: {question}"""
@@ -207,9 +208,15 @@ def answer(question: str, bm25: BM25) -> str:
         messages=[{"role": "user", "content": prompt}]
     )
     text = msg.content[0].text.strip()
-    text = re.sub(r'\*{1,3}', '', text)
-    text = re.sub(r'#{1,6}\s*', '', text)
-    text = re.sub(r'_{1,2}([^_]+)_{1,2}', r'\1', text)
+    # ** 완전 제거
+    text = re.sub(r'\*+', '', text)
+    # ## → ◆ 로 변환
+    text = re.sub(r'#{1,6}\s*(.+)', r'◆ \1', text)
+    # _강조_ 제거
+    text = re.sub(r'_{1,2}([^_\n]+)_{1,2}', r'\1', text)
+    # > 인용 기호 제거
+    text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)
+    # 연속 빈줄 정리
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 

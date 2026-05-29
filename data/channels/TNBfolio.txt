@@ -1,12 +1,3 @@
-[2026-04-16 19:26] 백악관, 2031년까지 국방부 주도로 우주 핵전력 시연 추진 - Breaking Defense
-(by https://t.me/TNBfolio)
-- Trump 행정부는 NASA와 국방부가 협력하여 우주 기반 핵전력을 확보하기 위한 새로운 국가 전략을 발표했다.
-- 이 전략은 달과 화성 등 심우주 탐사에서 지속적인 전력 공급과 추진력을 얻기 위해 원자력 기술을 활용하는 것이 핵심이다.
-- NASA는 2030년까지 달 표면용 핵분열 전력 시스템을 준비하고, 국방부는 2031년까지 궤도 내 중출력 원자로 배치를 추진한다.
-- 미 정부는 민간 기업의 참여를 유도하기 위해 디자인 경진 대회를 열고 민간 부문의 투자를 촉진할 계획이다.
-- 이번 발표는 중국과 러시아의 우주 진출 야심에 맞서 미국이 우주 패권을 유지하고 기술적 우위를 점하기 위한 조치로 풀이된다.
-https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/
-
 [2026-04-17 04:13] [26년 4월 16일  한국 뉴스]
 
 1. 헤그세스 장관 이란 협상 불발 시 전투 작전 재개 준비
@@ -7460,3 +7451,69 @@ https://www.hellot.net/mobile/article.html?no=112885
 - 삼성전기가 자체 DRAM 라인 전환의 한계로 외부 파운드리 생산 지원을 모색하는 상황에서 Winbond는 25nm 성숙 공정을 활용해 고가치 제품을 생산하고 엔지니어 채용을 늘리고 있다.
 - AP Memory 역시 Intel의 EMIB 솔루션 검증 공급사로서 올해 2분기부터 소량 공급을 시작해 분기별 출하량을 늘려가며 차세대 AI 데이터센터 및 패키징 시장을 공략하고 있다.
 https://www.digitimes.com/news/a20260529PD222/semco-demand-winbond-shipments-2027.html
+
+[2026-05-29 15:09] 5월 29일 장 마감 전 뉴스
+
+AI로봇 생태계 육성 속도...휴머노이드·핵심부품 개발 지원 확대
+https://www.ajunews.com/view/20260529092812642
+
+지씨셀, 바이오코리아 2026 참가해 세포·유전자치료제 CDMO 역량 공개
+https://m.medigatenews.com/news/2079363830?category=shortnews
+
+엔씨-텐센트 게임즈 '리니지2M' 中 사전예약자 495만 명 돌파... 6월 24일 정식 서비스 실시
+https://www.gamefocus.co.kr/detail.php?number=176260
+
+고영테크놀러지, 美 신경외과학회서 뇌 수술용 의료 로봇 시연한다
+https://www.hankyung.com/article/202605296531i
+
+정부, '미토스'발 사이버보안 대책 발표...민관군 긴급 대응체계 구성
+https://zdnet.co.kr/view/?no=20260529102246
+
+현대건설, 압구정 5구역 ‘로보틱스 라이프’ 제안…“로봇이 주차하고 분리 수거”
+https://www.seoul.co.kr/news/economy/estate/2026/05/29/20260529500113
+
+사람 대신 위험현장 투입…AI로봇, 28년 상용화 '속도'
+https://www.edaily.co.kr/News/Read?newsId=04040966645453840&mediaCodeNo=257
+
+알지노믹스, MSCI 한국 스몰캡 지수 편입
+https://biz.chosun.com/science-chosun/bio/2026/05/29/OZJWMDUYBBBTXDJKJ6J5ANBU7M/
+
+항공화물 운임 28% 급등…대한항공, 실적 버팀목 되나
+https://www.newsis.com/view/NISX20260529_0003648758
+
+미·중 AI 독점에 반격…日제조업 30개사, 소프트뱅크와 AI동맹 추진
+https://www.newsis.com/view/NISX20260529_0003648895
+
+엑손모빌 "원유 재고 바닥 임박…브렌트유 150달러 갈 수도"
+https://news.einfomax.co.kr/news/articleView.html?idxno=4417471
+
+“韓, IT 아닌 품목 수출도 독일·일본 대비 선방…미중 갈등 반사 혜택도”
+https://www.segye.com/newsView/20260529507286
+
+"로봇이 주차·화재 대응"…현대건설, '압구정5' 로보틱스 라이프 도입
+https://www.mt.co.kr/estate/2026/05/29/2026052910421048107
+
+두산, 장중 한때 200만원 돌파…AI 반도체 소재 '전자BG' 주목
+https://ift.tt/xyn2Q8D
+
+마벨 "AI 데이터센터 연결 수요 폭증"... 매출 전망치 또 상향
+https://www.thelec.kr/news/articleView.html?idxno=57280
+
+삼성SDS, 10월 '패브릭스 2.0' 공개…AI 에이전트 고도화
+http://www.newspim.com/news/view/20260529000810
+
+中 관영 “EU, 中 과잉생산 대응 조치시 종합적 반격”
+https://www.segye.com/newsView/20260529509977
+
+전쟁 여파 美 태양광 제품 가격 상승세...한화솔루션·OCI, 실적 개선 탄력
+http://www.newspim.com/news/view/20260529000838
+
+바이오솔루션 "만성창상 1500억 시장 정조준…이익창출능력 극대화"
+https://www.mt.co.kr/thebio/2026/05/29/2026052913234226864
+
+삼성전자, 우선주 포함해 시총 2000조원 돌파
+https://www.hankyung.com/article/2026052969166
+
+[자료 출처]
+
+https://t.me/TNBfolio

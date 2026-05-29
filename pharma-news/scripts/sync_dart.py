@@ -17,6 +17,24 @@ CORP_CACHE_FILE = BASE_DIR / "data" / "dart_corp_cache.json"
 FULL_TEXT_TYPES = {"사업보고서", "분기보고서", "반기보고서"}
 FULL_TEXT_LIMIT = 30   # 하루 최대 전문 수집 건수 (Jina API 부하 제한)
 
+# DART 공식 보고서명 → 검색 가능한 한국어 설명 매핑
+REPORT_LABELS = {
+    "임원ㆍ주요주주특정증권등소유상황보고서": "내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)",
+    "임원·주요주주특정증권등소유상황보고서": "내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)",
+    "주요사항보고서": "주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)",
+    "사업보고서": "연간 사업보고서 (연간 실적·재무제표·사업현황)",
+    "분기보고서": "분기 실적보고서 (분기 실적·재무제표)",
+    "반기보고서": "반기 실적보고서 (상반기 실적·재무제표)",
+    "증권신고서": "증권신고서 (유상증자·공모·IPO)",
+    "공개매수신고서": "공개매수 공시 (M&A·경영권 인수)",
+    "합병등종료보고서": "합병 완료 보고서",
+    "감사보고서": "외부감사 감사보고서",
+    "소액공모공시서류": "소액공모 공시",
+    "자기주식취득결과보고서": "자사주 매입 결과 공시",
+    "자기주식처분결과보고서": "자사주 처분(매도) 결과 공시",
+    "조정공시": "조정 공시",
+}
+
 
 def get_listed_companies() -> dict:
     """코스피/코스닥 상장사 corp_code 목록 반환 (7일 캐시)"""
@@ -139,10 +157,16 @@ def main():
     for corp_name, disclosures in sorted(by_company.items()):
         lines.append(f"[{corp_name}]")
         for d in disclosures:
-            title = d.get("report_nm", "")
+            title = d.get("report_nm", "").strip()
             date = d.get("rcept_dt", "")
             rcept_no = d.get("rcept_no", "")
-            lines.append(f"  {date}: {title}")
+            # 공식 보고서명에 사람이 검색하는 한국어 설명 추가
+            label = ""
+            for key, desc in REPORT_LABELS.items():
+                if key in title:
+                    label = f" → {desc}"
+                    break
+            lines.append(f"  {date}: {corp_name} {title}{label}")
 
             # 분기/사업/반기보고서는 전문 수집 (일일 최대 FULL_TEXT_LIMIT건)
             if full_text_count < FULL_TEXT_LIMIT and any(kw in title for kw in FULL_TEXT_TYPES):

@@ -469,6 +469,48 @@ async def on_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
     except Exception as e:
         await status.edit_text(f"❌ {type(e).__name__}: {str(e)[:200]}")
 
+def fetch_index_from_github() -> list:
+    if not GITHUB_TOKEN:
+        return []
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json"
+    }
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/data/index.json"
+    resp = http_requests.get(url, headers=headers, timeout=30)
+    if resp.status_code != 200:
+        return []
+    try:
+        data = resp.json()
+        raw = base64.b64decode(data.get("content", "")).decode("utf-8").strip()
+        return json.loads(raw) if raw else []
+    except Exception as e:
+        print(f"GitHub 인덱스 로드 오류: {e}")
+        return []
+
+async def reload_index(context: ContextTypes.DEFAULT_TYPE):
+    chunks = fetch_index_from_github()
+    if not chunks:
+        return
+    old_n = context.bot_data.get("bm25", BM25([])).n
+    new_bm25 = BM25(chunks)
+    context.bot_data["bm25"] = new_bm25
+    if new_bm25.n != old_n:
+        print(f"인덱스 자동 갱신: {old_n} → {new_bm25.n}개 청크")
+
+async def on_reload(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    status = await update.message.reply_text("🔄 GitHub에서 인덱스 다시 로드 중...")
+    old_n = context.bot_data.get("bm25", BM25([])).n
+    chunks = fetch_index_from_github()
+    if not chunks:
+        await status.edit_text("❌ GitHub에서 인덱스를 가져올 수 없습니다.")
+        return
+    context.bot_data["bm25"] = BM25(chunks)
+    await status.edit_text(
+        f"✅ 인덱스 갱신 완료!\n"
+        f"📊 {old_n}개 → {len(chunks)}개 청크"
+    )
+
 async def on_status(update: Update, context: ContextTypes.DEFAULT_TYPE):
     bm25: BM25 = context.bot_data.get("bm25")
     n = bm25.n if bm25 else 0
@@ -477,20 +519,28 @@ async def on_status(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"📁 파일 업로드: PDF, Excel, Word, TXT 지원\n"
         f"🔗 노션 URL: 링크를 그대로 보내면 자동 저장\n"
         f"📡 텔레그램 채널: @채널명 또는 t.me/링크 보내면 자동 동기화\n"
+        f"🔄 /reload: GitHub에서 최신 인덱스 강제 갱신\n"
         f"💬 질문: 텍스트 그대로 입력"
     )
 
 async def post_init(application):
-    chunks = []
-    if INDEX_PATH.exists():
+    # GitHub에서 최신 인덱스 로드 (로컬 파일보다 우선)
+    chunks = fetch_index_from_github()
+    if not chunks and INDEX_PATH.exists():
         with open(INDEX_PATH, encoding="utf-8") as f:
-            chunks = json.load(f)
+            try:
+                chunks = json.load(f)
+            except Exception:
+                chunks = []
     application.bot_data["bm25"] = BM25(chunks) if chunks else BM25([])
     print(f"인덱스 로드 완료: {len(chunks)}개 청크")
+    # 30분마다 자동 갱신
+    application.job_queue.run_repeating(reload_index, interval=1800, first=1800)
 
 def main():
     app = Application.builder().token(TELEGRAM_TOKEN).post_init(post_init).build()
     app.add_handler(CommandHandler("status", on_status))
+    app.add_handler(CommandHandler("reload", on_reload))
     app.add_handler(MessageHandler(filters.Document.ALL, handle_document))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, on_question))
     print("QA 봇 실행 중...")

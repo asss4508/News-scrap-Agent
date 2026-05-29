@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install "python-telegram-bot[job-queue]>=20.0" anthropic pypdf openpyxl python-docx requests telethon
+        run: pip install "python-telegram-bot[job-queue]>=20.0" anthropic pypdf openpyxl python-docx requests telethon voyageai
 
       - name: 봇 실행
         env:
@@ -32,4 +32,5 @@ jobs:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELETHON_SESSION: ${{ secrets.TELETHON_SESSION }}
+          VOYAGE_API_KEY: ${{ secrets.VOYAGE_API_KEY }}
         run: python pharma-news/scripts/bot_qa.py

@@ -20,6 +20,7 @@ GITHUB_REPO = os.environ.get("GITHUB_REPO", "asss4508/pharma-news-bot")
 TELEGRAM_API_ID = int(os.environ.get("TELEGRAM_API_ID", "0"))
 TELEGRAM_API_HASH = os.environ.get("TELEGRAM_API_HASH", "")
 TELETHON_SESSION = os.environ.get("TELETHON_SESSION", "")
+VOYAGE_API_KEY = os.environ.get("VOYAGE_API_KEY", "")
 
 INDEX_PATH = Path(__file__).parent.parent.parent / "data" / "index.json"
 CHANNELS_FILE = "data/channels_to_sync.txt"
@@ -245,10 +246,27 @@ async def sync_single_channel(channel: str) -> tuple[int, str]:
     except Exception as e:
         return 0, str(e)
 
+# ── Voyage AI 리랭킹 ──────────────────────────────────────────────────────────
+
+def rerank_chunks(query: str, candidates: list, top_k: int = 5) -> list:
+    if not VOYAGE_API_KEY or not candidates:
+        return candidates[:top_k]
+    try:
+        import voyageai
+        vo = voyageai.Client(api_key=VOYAGE_API_KEY)
+        docs = [c["text"] for c in candidates]
+        result = vo.rerank(query, docs, model="rerank-2-lite", top_k=min(top_k, len(docs)))
+        return [candidates[r.index] for r in result.results]
+    except Exception as e:
+        print(f"Voyage rerank 오류: {e}")
+        return candidates[:top_k]
+
 # ── Claude 답변 ────────────────────────────────────────────────────────────────
 
 def answer(question: str, bm25: BM25) -> str:
-    results = bm25.search(question, top_k=10)
+    # BM25로 후보 20개 → Voyage AI로 의미 기반 재정렬 → 상위 5개로 Claude 답변
+    candidates = bm25.search(question, top_k=20)
+    results = rerank_chunks(question, candidates, top_k=5)
     if not results:
         context = "관련 자료를 찾을 수 없습니다."
     else:

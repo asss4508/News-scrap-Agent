@@ -1,0 +1,28 @@
+name: QA 봇
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install "python-telegram-bot>=20.0" anthropic
+
+      - name: 봇 실행
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.QA_BOT_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pharma-news/scripts/bot_qa.py

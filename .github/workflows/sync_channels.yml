@@ -1,0 +1,47 @@
+name: 채널 동기화
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install telethon
+
+      - name: 채널 동기화
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELETHON_SESSION: ${{ secrets.TELETHON_SESSION }}
+        run: python pharma-news/scripts/sync_channels.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/channels/
+          git diff --cached --quiet || git commit -m "chore: 채널 메시지 자동 업데이트"
+          git push
+
+      - name: 인덱스 재빌드
+        run: |
+          pip install pypdf openpyxl python-docx
+          python pharma-news/scripts/build_index.py
+
+      - name: 인덱스 커밋
+        run: |
+          git add data/index.json
+          git diff --cached --quiet || git commit -m "chore: 인덱스 자동 업데이트 (채널 동기화 후)"
+          git push

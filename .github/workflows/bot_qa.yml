@@ -25,7 +25,7 @@ jobs:
 
       - name: 봇 실행
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.QA_BOT_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: asss4508/pharma-news-bot

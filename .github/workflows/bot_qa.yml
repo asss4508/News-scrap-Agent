@@ -30,7 +30,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: asss4508/pharma-news-bot
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }},
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELETHON_SESSION: ${{ secrets.TELETHON_SESSION }}
           VOYAGE_API_KEY: ${{ secrets.VOYAGE_API_KEY }}
         run: python pharma-news/scripts/bot_qa.py

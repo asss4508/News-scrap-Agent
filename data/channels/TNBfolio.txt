@@ -1,189 +1,3 @@
-[2026-04-20 12:47] •폴리실리콘 선물 상승폭 확대 +5.4%
-
-[2026-04-20 13:00] 민주당, '피지컬 AI' 지원 가속화...전 생태계 통합 지원하는 통합특별법 검토 - 뉴스핌
-(by https://t.me/TNBfolio)
-- 더불어민주당은 20일 피지컬 AI 최강국 도약을 위한 입법 논의 라운드 테이블을 개최하고 산업 경쟁력 강화를 위한 제도 정비 방향을 논의했다.
-- 황정아 의원은 인공지능이 소프트웨어를 넘어 실제 세계와 결합하는 피지컬 AI 시대에 맞춰 산업 구조를 재편하고 3대 강국 진입을 위한 예산과 정책을 추진하겠다고 밝혔다.
-- 조정식 의원은 로봇과 자율주행 등 물리적 실체가 결합된 피지컬 AI의 치열한 글로벌 경쟁 속에서 기업들의 사업화를 뒷받침할 통합특별법 검토가 필요하다고 강조했다.
-- 김현 의원은 AI 데이터 활용 과정에서 무분별한 약어 사용이 디지털 격차를 심화시킬 수 있음을 지적하며 과학기술정보통신부 차원의 용어 정비를 요청했다.
-- 국회는 기술 진보 속도에 발맞춰 현장의 규제 걸림돌을 제거하고 시장 진출까지 전 생태계를 아우르는 법적 근거 마련에 박차를 가할 방침이다.
-https://www.newspim.com/news/view/20260420000458
-
-[2026-04-20 13:42] (위) 폴리실리콘 선물 상한가(+9%)
-
-위 차트는 연초부터 폴리실리콘 선물 일봉 입니다. 
-
-최근 저점에서 반등하다가, 금일 상한가를 갔는데요, 
-
-그 이유는 정책당국이 주요 태양광 기업들을 불러서 ‘반내권(과잉 악성 경쟁)’을 착실히 이행하자고 강조했기 때문입니다.  
-
-말만 하지 말고, 얼른 결과물을 본격적으로 보여줬으면 좋겠네요.
-
-[2026-04-20 14:09] 흥미로운 실험이군요. 
-
-견과류 섭취, 정자 질 개선 및 남성 가임력 향상과 상관관계 확인 - Medscape
-(by https://t.me/TNBfolio)
-- 스페인 Universitat Rovira i Virgili 연구팀이 40세 이하 건강한 남성 222명을 대상으로 분석한 결과, 견과류 섭취량이 많을수록 정자의 질이 유의미하게 높은 것으로 나타났다.
-- 견과류를 가장 많이 섭취한 그룹은 가장 적게 섭취한 그룹에 비해 전체 정자 수와 농도가 실질적으로 더 높았으며, 비정상적 정자 운동성 발생 확률은 75% 낮았다.
-- 품목별로는 아몬드와 피스타치오가 정자의 질 향상에 특히 긍정적인 영향을 미친 반면, 호두는 이번 조사에서 별다른 상관관계가 관찰되지 않았다.
-- 연구진은 견과류에 풍부한 오메가-3 지방산과 항산화 성분이 항염증 작용을 통해 정자 건강을 지원하며, 특히 지중해식 식단을 병행할 때 효과가 극대화된다고 설명했다.
-- 이번 연구는 식단이 남성 가임력에 직접적인 영향을 줄 수 있음을 시사하며, 환경 오염과 흡연 등 불리한 조건 속에서 견과류가 보조적인 역할을 할 수 있음을 보여준다.
-https://www.medscape.com/viewarticle/vaccination-protects-young-men-hpv-related-cancers-2026a1000bgt?ecd=a2a
-
-[2026-04-20 14:11] 견과류 쇼티지 나겠군요.
-
-[2026-04-20 14:49] 싱가포르 당국, Anthropic의 'Mythos' 모델 위협에 은행 보안 강화 촉구 - Bloomberg
-(by https://t.me/TNBfolio)
-- 싱가포르 금융청(MAS)은 Anthropic PBC의 최신 AI 모델인 Mythos가 초래할 사이버 보안 위협에 대응하여 은행권에 보안 허점 보완을 긴급 권고했다.
-- MAS는 AI의 발전이 IT 시스템의 소프트웨어 취약점 발견과 악용을 가속화할 것이라고 경고하며, 금융기관들이 보안 패치 등 사이버 위생 관리와 감시를 대폭 강화해야 한다고 강조했다.
-- Anthropic이 개발한 Mythos 모델은 수년간 발견되지 않은 보안 구멍을 찾아내는 능력이 탁월해, 회사 측조차 광범위한 출시를 유보할 정도로 위험성이 높은 것으로 평가받고 있다.
-- 미국에서도 재무장관과 연준 의장이 월스트리트 은행장들과 긴급 회의를 소집하는 등 Mythos가 가져올 새로운 사이버 공격 시대에 대한 글로벌 규제당국의 우려가 확산되고 있다.
-- JPMorgan Chase & Co. 등 주요 금융사들은 해당 AI 모델을 테스트하며 AI가 사이버 리스크를 심화시키는 동시에 방어 수단도 제공할 수 있다는 점에 주목하고 있다.
-https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears
-
-[2026-04-20 15:17] 4월 20일 장 마감 전 뉴스
-
-마이크론 2027년까지는 아마존·메타보다 더 번다
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410518
-
-알루미늄 대란에 일본 자동차업계 재고 절벽 눈앞
-https://www.edaily.co.kr/News/Read?newsId=02961846645418088&mediaCodeNo=257
-
-삼성 LPDDR4 생산 중단…스마트폰 램 LPDDR5 시대 본격화
-https://news.appstory.co.kr/daily19004
-
-TSMC 1.4나노 2028년 양산…2029년 1나노 이하 시험생산
-https://biz.sbs.co.kr/article/20000305364
-
-현대바이오 전립선암 병용치료 임상 승인…기존 항암제 효과 높인다
-https://www.ebn.co.kr/news/articleView.html?idxno=1705923
-
-LG이노텍 차량용 와이파이7 통신 모듈 유럽 메이저 부품사 공급 대표 문혁수 모빌리티솔루션 매출 연평균 20% 성장
-https://www.huffingtonpost.kr/article/256715
-
-넷마블 왕좌의 게임 신작 5월 14일 PC로 먼저 출시
-https://www.gamemeca.com/view.php?gid=1774238
-
-종근당 ADC 항암제 CKD-703 임상 본격화…美환자 등록
-https://www.fnnews.com/news/202604201457553223
-
-MS 세계 최대 AI 데이터센터 美 위스콘신 페어워터 본격 가동 초읽기
-https://www.theguru.co.kr/news/article.html?no=100758
-
-민주 피지컬 AI 지원 가속화...전 생태계 통합 지원하는 통합특별법 검토
-http://www.newspim.com/news/view/20260420000458
-
-과기정통부 의료현장 AI 전환 지원…AI특화병원 AX-레디 시범사업
-https://www.mt.co.kr/tech/2026/04/20/2026042009272949508
-
-우주청 韓 우주 기업 9곳 이끌고 우주 강국 인도와 상견례
-https://www.mt.co.kr/tech/2026/04/20/2026042009462213972
-
-美 드론으로 호르무즈 기뢰 제거중…탐색 수일내 완료
-https://www.newsis.com/view/NISX20260420_0003598173
-
-100만배럴급 유조선 다음 달 국내 입항 예정···현대오일뱅크 정유 시설로 이동 예정
-https://www.khan.co.kr/article/202604201313001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news
-
-HD건설기계 포르투갈 발전기 업체에 G2엔진 공급
-https://www.khan.co.kr/article/202604201321001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news
-
-삼성E&A 반도체·LNG 쌍끌이에 1Q 실적 개선 전망
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410527
-
-미토스 공포 일파만파…양자암호·보안주 불기둥
-https://www.mt.co.kr/stock/2026/04/20/2026042012060399102
-
-저렴한 중국 배터리 전 세계 전력망 장악
-https://www.theguru.co.kr/news/article.html?no=100744
-
-마이크론 24Gb GDDR7 양산 체제 구축…삼성 독주 깨고 공급망 재편 신호탄
-https://www.theguru.co.kr/news/article.html?no=100764
-
-美 원전 개발·운영 기업 뉴클리어 컴퍼니 사우스캐롤라이나주에 신규 원전 건설 추진
-https://www.theguru.co.kr/news/article.html?no=100769
-
-선박엔진이 데이터센터 심장...STX엔진 중동 재건도 기대
-https://www.hankyung.com/article/2026042031625
-
-삼성SDI 벤츠에 첫 배터리 공급…수조원대 추정
-https://www.mt.co.kr/industry/2026/04/20/2026042014593755346
-
-벤츠 내년 알파마요 탑재한 자율주행차 국내 출시
-https://www.hankyung.com/article/202604203221i
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
-[2026-04-20 19:09] 코스피 신용잔고
-
-[2026-04-20 19:09] 코스닥 신용잔고
-
-[2026-04-20 23:14] [26년 4월 20일  한국 뉴스]
-
-1. 트럼프 워시 인준 공화당 틸리스 반대로 난항 예상
-
-2. 도쿄증시 불확실한 중동 정세에도 마감 시점 반등 성공
-
-3. 한국 증시 역대 최대 배당으로 주주환원 정책 안착
-4. 한-인도 조선 금융 AI 국방 전략산업 협력 확대
-
-5. 호르무즈 봉쇄로 비중동 원유 수입 비중 30% 증가
-6. 러시아산 납사 동해 경로 안보적 쇼트컷 부상
-7. 이란 전쟁 영향으로 요소 가격 폭등하며 비료 생산 비상
-
-8. AI 인프라 투자 열기에 반도체 기판 시장 회복세
-9. 데이터센터 및 AI 수요 급증에 중국 공급사슬 부상
-10. 아몬 퀄컴 CEO 방한하여 삼성 및 SK하이닉스 방문
-11. 에이전트형 AI가 CPU와 메모리 반도체 수요 견인
-
-12. 로봇 산업 인력난 해결사로 2035년 거대 시장 전망
-13. LG엔솔 벤츠에 LFP배터리 공급하며 파트너십 강화
-14. 코스모로보틱스 코스닥 IPO 추진하며 웨어러블 로봇 주목
-15. 중국 시위진압 무인부대 훈련에 드론과 로봇개 투입
-16. 고영 AI로봇 주력하며 배당성향 20% 목표 설정
-
-17. 종근당 ADC 항암제 CKD-703 미국 첫 환자 등록
-18. 파마리서치 리쥬란 후속 확보 위해 인수합병 검토
-
-19. 중동 전쟁 여파에도 백화점 업계 1분기 호실적 기대
-
-20. 올해 1분기 중국발 항공화물 물동량 17.6% 증가
-
-https://naver.me/xqbQs15p
-
-(자세한 내용은 링크 참조)
-
-[2026-04-20 23:26] 미 보안 당국, 펜타곤의 위험 경고에도 Anthropic의 Mythos 모델 도입 - DIGITIMES
-(by https://t.me/TNBfolio)
-- 미국 국가안보국(NSA)은 국방부의 공급망 위험 지정에도 불구하고 Anthropic의 최신 AI 모델인 Mythos Preview를 사용 중이다.
-- 해당 기관들은 Mythos의 고도화된 코딩 능력을 활용해 내부 시스템의 취약점과 제로데이 보안 결함을 스캔하는 방어적 목적으로 사용하고 있다.
-- Anthropic은 이 모델의 공격적 사이버 오용 가능성을 우려해 현재 Apple, Nvidia, Microsoft 등 소수 조직에만 접근 권한을 제한적으로 부여했다.
-- 국방부와 Anthropic 간의 갈등은 대량 감시 및 자율 무기 개발과 관련된 계약 조건 협상이 결렬되면서 발생한 공급망 리스크 지정에서 비롯되었다.
-- Anthropic 최고경영자 Dario Amodei가 최근 백악관 및 재무부 주요 인사들과 만남을 가지며 정부와의 협력 관계를 다시 조율하고 있는 상황이다.
-https://www.digitimes.com/news/a20260420VL217/anthropic-cybersecurity-supply-chain-policy-usa.html
-
-[2026-04-21 08:14] 일라이 릴리, 켈로니아 테라퓨틱스 인수 및 인비보 세포치료제 시장 분석
-
-1. 릴리의 70억 달러 베팅 
-2. 세포치료제의 한계 
-3. 게임 체인저; 인비보 기술 
-4. 논쟁 
-5. 미래 의학의 청사진
-
-https://youtu.be/vQkK7ZwuBvI?si=pwSVhdvhHdGAWCXf
-
-[2026-04-21 08:25] 삼성전자 HBM4 수율 개선, 4nm PMBIST 업그레이드로 Nvidia 극찬 - DIGITIMES
-(by https://t.me/TNBfolio)
-- 삼성전자는 6세대 HBM4 시장 선점을 위해 4nm 공정 기반의 프로그래밍 가능한 PMBIST 테스트 구조를 도입하여 생산 수율과 효율성을 크게 높였다.
-- 기존 MBIST의 한계를 극복한 PMBIST 기술은 고속 다층 적층 구조인 HBM의 신호 결함을 패키징 전 단계에서 미리 감지하는 혁신을 보여주었다.
-- 4nm 로직 공정 전환을 통해 트랜지스터 밀도를 높임으로써 과거 10nm급 공정에서는 불가능했던 대규모 테스트 회로 구현에 성공했다.
-- 이러한 기술적 진보 덕분에 수율 개선 효과가 나타나고 있으며 이는 Nvidia로부터 긍정적인 평가를 받는 핵심 요인이 되었다.
-- 최근 SK Hynix와 Micron의 공급 지연 우려 속에 삼성전자가 Nvidia의 HBM4 품질 인증에서 앞서 나가며 시장 점유율 반전의 기회를 잡고 있다.
-https://www.digitimes.com/news/a20260417PD222/samsung-hbm4-nvidia-4nm-hbm.html
-
 [2026-04-21 09:08] 10조원 규모로 '추산'
 
 삼성SDI, 메르세데스-벤츠와 67억 달러 규모 전기차 배터리 공급 계약 체결 - Tech in Asia
@@ -7484,3 +7298,243 @@ https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html
 https://naver.me/xy77wH4g
 
 (자세한 내용은 링크 참조)
+
+[2026-06-02 05:48] AI 기업 Anthropic, 미국 IPO 비밀리 신청하며 OpenAI와 경쟁 가속화 - 로이터
+(by https://t.me/TNBfolio)
+- 인공지능 기업 Anthropic은 미국 증시 기업공개(IPO)를 위한 서류를 비밀리에 제출하며 경쟁사인 OpenAI보다 한발 앞서 공모 시장에 진입했다.
+- Anthropic은 지난 5월 말 투자 유치 당시 기업가치를 9,650억 달러로 평가받으며 OpenAI를 앞선 바 있으나 구체적인 공모 규모와 조건은 공개하지 않았다.
+- 이번 상장은 최근 SpaceX의 대규모 IPO 신청에 이어 진행되는 것으로 인공지능 및 성장주에 대한 투자자들의 강한 관심을 활용하려는 전략으로 풀이된다.
+- 업계 분석가들은 OpenAI와 Anthropic 중 먼저 시장에 진입하는 기업이 제도권 투자자들의 반응을 확인하고 재무 모델의 기준을 설정하는 데 유리할 것으로 보고 있다.
+- 자금 수요가 막대한 거대 기업들이 잇따라 상장을 추진함에 따라 월스트리트의 투자 자금 선점을 위한 시장 진입 타이밍 경쟁이 더욱 치열해질 전망이다.
+https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/
+
+[2026-06-02 06:41] Alphabet, AI 투자 확대를 위해 800억 달러 규모 주식 조달 - 블룸버그
+(by https://t.me/TNBfolio)
+- Google의 모기업 Alphabet은 야심 찬 인공지능 투자 계획의 자금을 조달하기 위해 Berkshire Hathaway와의 투자 계약을 포함한 800억 달러 규모의 주식 공모를 추진한다.
+- 이번 조달은 3분기부터 수시로 주식을 매각하는 400억 달러 규모의 시장가 발행 프로그램과 300억 달러 규모의 인수 공모주 및 의무전환우선주 발행으로 구성된다.
+- Alphabet은 인공지능이 자사의 확장 기회를 주도하고 있으며 투자 확대를 통해 향후 상당한 성장 기회를 뒷받침할 기반 인프라를 확장하고자 한다고 밝혔다.
+- 이번 공모에는 Berkshire Hathaway와의 100억 달러 규모 투자 계약이 포함되어 있으며 해당 기업은 작년부터 Alphabet의 지분을 구축해 왔다.
+- 의무전환주식과 총액인수 방식의 보통주 공모는 뉴욕 증시 마감 후 가격이 책정될 예정이며 Goldman Sachs, JPMorgan Chase, Morgan Stanley가 이번 발행을 주관한다.
+https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending
+
+[2026-06-02 08:16] 엔비디아 젠슨 황 CEO 대만과 한국은 비교하거나 선택할 필요가 없다 - 디지타임스
+(by https://t.me/TNBfolio)
+- NVIDIA CEO인 젠슨 황은 대만과 한국이 글로벌 기술 산업에서 서로 다른 고유한 위치를 차지하고 있으므로 두 국가를 비교하거나 선택할 필요가 없다고 밝혔다.
+- 한국은 글로벌 에코시스템에서 매우 중요한 역할을 담당하고 있으며 SK하이닉스, 삼성전자, LG전자, 네이버, 두산그룹 등이 주요 기술 협력 파트너로 언급되었다.
+- 젠슨 황은 높은 복잡성을 지닌 고대역폭 메모리 기술의 중요성을 강조하며 오랜 파트너인 SK하이닉스와의 지속적인 협력 관계를 높이 평가했다.
+- 인공지능과 로봇 공학 기술은 제조 기반 국가인 한국의 상상력과 야망을 증폭시키는 데 완벽한 기회를 제공할 것이며 한국의 로봇 산업 발전에 기여하고 싶다고 덧붙였다.
+- 이번 주말 가족과 함께 한국을 방문하여 장기 파트너들에게 감사를 전하고 향후 서울에서 GTC 행사를 개최하는 방안도 긍정적으로 고려하겠다고 언급했다.
+https://www.digitimes.com/news/a20260601PD240/nvidia-taiwan-jensen-huang-2026-taipei.html
+
+[2026-06-02 08:18] 음 좋은 기업들인가 보군요. 
+
+SK하이닉스, 삼성전자, LG전자, 네이버, 두산그룹 등
+
+[2026-06-02 10:11] 전여친 인스타 들락날락, 다 걸린다...방문자 확인 유료 기능에 술렁 
+
+- Meta 최고제품책임자 나오미 글레잇은 유료 구독 서비스인 인스타그램 플러스와 페이스북 플러스를 글로벌 시장에 출시한다고 발표했다.
+- 인스타그램 플러스는 스토리 서비스 기능을 강화하여 공개 대상 설정, 재시청 통계, 조회자 목록 검색, 만료 기간 연장 등의 기능을 제공한다.
+- 특히 특정 계정을 검색하거나 누가 여러 차례 스토리를 다시 봤는지 확인할 수 있는 기능이 포함되어 이용자들의 큰 관심을 끌고 있다.
+- 이용 요금은 월 3.99달러로 책정되었으며 국내 도입 여부나 구체적인 적용 시점은 아직 확인되지 않았다.
+- 국내 이용자들은 대체로 비판적인 반응을 보이고 있으나 인플루언서나 크리에이터, 홍보용 브랜드 계정에는 활용 가치가 있을 것이라는 의견도 존재한다.
+https://www.mt.co.kr/society/2026/06/02/2026060208444197754
+
+[2026-06-02 11:09] 6월 2일 식전 뉴스
+
+로봇의 몸과 AI 두뇌…뉴로메카·마음AI 부상
+https://www.ajunews.com/view/20260601141615750
+
+1경원 AI 데이터센터 시장 잡아라 … 전력·냉각업체도 가세
+https://www.mk.co.kr/news/stock/12063304
+
+"진짜 일하는 로봇 만든다"…엔비디아, 유니트리 업고 휴머노이드 설계 표준 'H2+' 공개
+https://www.digitaltoday.co.kr/news/articleView.html?idxno=670950
+
+“현대차는 에어택시, 한화는 전투기”…KAI와 항공우주 빅피처 그린다
+https://www.ntoday.co.kr/news/articleView.html?idxno=127356
+
+수천억짜리 쇄빙선, 10년간 90척 쏟아진다 … ‘북극 항로’ 수혜주 여기 있네
+https://www.mk.co.kr/news/business/12062949
+
+스테이블코인, 미국 달러 패권 전쟁 중심으로...JP모건은 막고 연준은 기습 '찬성'
+https://www.coinreaders.com/239643
+
+풍산, 방산 매각 카드 다시 만지작… 지난번엔 2조~3조 원해 결렬
+https://biz.chosun.com/stock/market_trend/2026/06/02/U4SRRPBKGFB7FM5MLWMBXDLHDI/
+
+태웅, 원전·SMR 사업 확대
+https://www.snmnews.com/news/articleView.html?idxno=570172
+
+노타, 엔비디아 APAC 행사서 피지컬 AI 비전 제시…“엣지 AI가 핵심 인프라”
+https://www.epnc.co.kr/news/articleView.html?idxno=402516
+
+美 FDA, 휴온스 마취 주사제 리콜 해지…북미 수출 정상화 청신호
+https://biz.chosun.com/science-chosun/bio/2026/06/02/3WVL7LZWPZAHFIVEGOLUVIHTOQ/
+
+두산밥캣-마음AI, 건설장비 피지컬AI 고도화 추진
+https://www.shinailbo.co.kr/news/articleView.html?idxno=5026464
+
+앤트로픽, 비공개로 IPO 신청…기업가치 1조달러 이상 노린다
+https://ift.tt/vW1OtxY
+
+티움바이오,美ASCO서 ‘토스포서팁(TU2218)’ 두경부암 임상데이터 발표
+https://www.pharmnews.com/news/articleView.html?idxno=303872
+
+젠슨황·K메모리 '깐부동맹' 시즌2
+https://www.mt.co.kr/industry/2026/06/02/2026060120053160456
+
+한국 수출 '반도체' 밖에 없다?…빼도 두자릿수↑, 1조弗 기대↑
+https://www.newsis.com/view/NISX20260601_0003651857
+
+디앤디파마텍 쾌거, K바이오 훈풍 부나
+https://www.mt.co.kr/opinion/2026/06/02/2026052917311315254
+
+"1999년보다도 더 큰 거품"…인도 조호 창립자의 '빅테크 버블 붕괴' 경고
+https://www.newsis.com/view/NISX20260601_0003652009
+
+릴리 인수 뒤 암환자 임상반응률 100%…'인 비보 CAR-T' 기대감 '쑥'
+https://www.mt.co.kr/thebio/2026/06/02/2026060116071036800
+
+엔비디아 '휴머노이드 동맹'에 韓 기업 누가 합류할까
+https://news.einfomax.co.kr/news/articleView.html?idxno=4417872
+
+구글, AI 투자 위해 121조 증자…버핏 15조 베팅
+https://www.hankyung.com/article/2026060218907
+
+미래컴퍼니, 산자부 국책과제 "웨이퍼 초박형 가공 장비 개발"
+https://www.mt.co.kr/stock/2026/06/02/2026060207569648817
+
+"美 증시, 20개 종목만 신고가…닷컴 버블 정점과 유사"
+https://news.einfomax.co.kr/news/articleView.html?idxno=4417890
+
+네이버웹툰·카카오엔터 '앓던 이' 빠졌다…세계 최대 불법 애니 공유 사이트 폐쇄
+https://www.theguru.co.kr/news/article.html?no=102539
+
+녹십자, GC셀 美 관계사 '아티바' 143만주 추가매입…유증 참여
+https://www.theguru.co.kr/news/article.html?no=102546
+
+삼전닉스 주가 뛰자 해외 탈중앙화 거래소서 5배 레버리지 상품 등장
+https://www.theguru.co.kr/news/article.html?no=102545
+
+삼성·LG·두산, 엔비디아 '피지컬 AI 동맹' 합류…AI칩 넘어 로봇 플랫폼으로
+http://www.newspim.com/news/view/20260602000391
+
+네이버클라우드, 엔비디아 손잡고 '글로벌 AI 팩토리' 추진
+https://www.mt.co.kr/tech/2026/06/02/2026060209522210630
+
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-02 11:25] 네이버, 엔비디아와 글로벌 AI 공장 구축 및 전방위 협력 논의 - 뉴시스
+(by https://t.me/TNBfolio)
+- 네이버클라우드는 NVIDIA와 손잡고 인프라부터 모델, 서비스, 피지컬 AI까지 아우르는 글로벌 AI 팩토리 구축 사업을 추진한다.
+- NVIDIA의 개방형 거대언어모델 기술을 활용해 자체 초거대 AI 모델인 하이퍼클로바X 고도화를 추진하고 원천 기술 공동 연구를 이어간다.
+- 양사는 NVIDIA의 피지컬 AI 플랫폼을 활용해 서울의 실제 공간 데이터를 가상 공간에 구현한 서울 월드 모델 기반의 협력을 확대한다.
+- 자체 풀스택 기술력을 바탕으로 각국의 요구에 맞춘 소버린 AI 인프라 허브로 자리매김하여 아시아 시장의 AI 수요를 정조준한다.
+- 네이버 이해진 의장과 NVIDIA의 Jensen Huang CEO는 오는 5일 서울에서 만나 보다 구체적인 글로벌 사업 실행 계획을 논의할 예정이다.
+https://www.newsis.com/view/NISX20260602_0003653247
+
+[2026-06-02 12:10] 암 백신과 면역항암제 병용 요법, 5년 추적 관찰 결과 흑색종 재발 및 사망 위험 49% 감소 확인 - 바이오스페이스
+(by https://t.me/TNBfolio)
+- 암 세포를 공격하도록 면역계를 자극하는 맞춤형 mRNA 백신인 intismeran과 면역항암제 pembrolizumab의 병용 요법이 흑색종 환자의 재발 및 사망 위험을 크게 낮췄다.
+- 임상 2b상인 KEYNOTE-942 연구 결과에 따르면 수술 후 병용 요법을 받은 환자군의 5년 무전이 생존율은 68.8%로 pembrolizumab 단독 투여군의 49.1%보다 우수했다.
+- 이번 복합 치료법은 암 세포가 신체의 다른 부위로 전이될 위험을 59% 줄였으며 전체 생존율 역시 단독 투여군의 71.3% 대비 92.2%로 대폭 향상시켰다.
+- 연구진은 개별 환자의 종양 데이터에서 추출한 34개의 신생 항원을 기반으로 맞춤형 백신을 제작하여 T세포가 흑색종 세포의 성장과 확산을 효과적으로 공격하도록 유도했다.
+- 현재 Moderna와 Merck의 지원 하에 해당 병용 요법의 효과를 검증하기 위한 글로벌 임상 3상 시험이 진행 중이며 폐암 등 다른 암종의 재발 방지 연구도 이어지고 있다.
+https://www.biospace.com/press-releases/cancer-vaccine-sustains-49-percent-melanoma-reduction-after-5-years
+
+[2026-06-02 13:46] 블랙스톤, 역대 최대 규모인 131억 달러 규모의 아시아 사모펀드 조성 - 로이터
+(by https://t.me/TNBfolio)
+- 글로벌 대체자산 운용사인 Blackstone은 당초 목표액을 초과 달성하며 역대 아시아 지역 펀드 중 가장 큰 규모인 131억 달러의 사모펀드를 조성했다.
+- 이번 펀딩 성공은 중동 리스크 등 글로벌 거시경제의 불확실성 속에서도 아시아 시장에 대한 글로벌 기관 및 고액 자산가들의 강한 투자 수요를 증명했다.
+- 글로벌 자산 운용사들은 높은 밸류에이션과 인플레이션 위험이 존재하는 미국을 넘어 바이아웃과 성장 기회가 풍부한 일본과 인도 시장을 주목하고 있다.
+- Blackstone은 지난 2년간 인도 AI 클라우드 플랫폼 Neysa와 일본 엔지니어링 서비스 기업 TechnoPro를 포함해 총 12개 자산에 70억 달러 이상을 투자했다.
+- 아시아 태평양 지역은 전 세계에서 가장 빠르게 성장하는 곳으로, 고확신 테마에 대규모 자금을 투입하여 투자자들에게 우수한 수익을 인도하겠다고 덧붙였다.
+https://www.reuters.com/world/asia-pacific/blackstone-raises-131-billion-its-largest-asia-private-equity-fund-2026-06-02/
+
+[2026-06-02 15:11] 6월 2일 장 마감 전 뉴스
+
+노타 피지컬 AI 시대 핵심은 엣지 AI 최적화
+https://zdnet.co.kr/view/?no=20260602112034
+
+LG CNS, 피지컬로봇·스마트팩토리 앞세워 ‘그룹 AI첨병’ 역할
+https://www.ekn.kr/web/view.php?key=20260602020579667
+
+네이버, 美엔비디아와 협력, AI 팩토리 확장…글로벌 시장 공략
+http://www.seouleconews.com/news/articleView.html?idxno=91580
+
+젠슨 황 파트너사 총동원해도 칩 부족, 차세대 동력은 AI PC·피지컬 AI
+https://biz.newdaily.co.kr/site/data/html/2026/06/02/2026060200142.html
+
+가동률 96% 파크시스템스, AFM 증설로 AI 반도체 훈풍 잡는다
+https://dealsite.co.kr/articles/162519/089059
+
+젠슨 황의 K-로봇 베팅…현대차·엔비디아, 가상과 현실 잇는 '피지컬 AI' 동맹 굳히나
+https://www.mediaissue.net/3422033
+
+韓 로봇도 투자…AI 동맹 넓히는 '젠슨 황'
+https://biz.sbs.co.kr/article/20000314041
+
+네이버, 엔비디아와 'AI 공장' 짓는다…이해진-젠슨 황 회동서 실행안 논의
+https://www.newsis.com/view/NISX20260602_0003653247
+
+암백신 병용, 고위험 흑색종 재발·사망 49% ↓
+https://www.newsis.com/view/NISX20260602_0003653307
+
+'젠슨 황 한마디에 부활'…美 소프트웨어주 일제히 폭등
+https://news.einfomax.co.kr/news/articleView.html?idxno=4417967
+
+SK그룹, SK실트론 매각 재검토…반도체 중심 AI 전략과 배치
+https://www.mt.co.kr/industry/2026/06/02/2026060208540692097
+
+삼성중공업, 4조3301억원 규모 FLNG 수주…2030년 인도
+https://www.mt.co.kr/industry/2026/06/02/2026060211575524256
+
+국민성장펀드 바이오 투자, 초기 R&D보다 상업화에 '집중'
+http://www.newsmp.com/news/articleView.html?idxno=254123
+
+삼성전자, 사상 처음으로 세계 시총 10위권 올라…메타 제쳤다
+https://www.mt.co.kr/stock/2026/06/02/2026060212581966403
+
+AI 발열’ 잡는 롯데이노베이트… 국책과제로 ‘친환경 데이터센터’ 규격만든다
+https://www.donga.com/news/It/article/all/20260602/134035662/1
+
+미국산 철강·알루미늄 많이 쓰면 관세 10% 우대…트럼프 조정안 발표
+https://www.mt.co.kr/world/2026/06/02/2026060213240896330
+
+삼성전자, 대만 '컴퓨텍스'서 HBM5 실물 첫 공개…"엔비디아와 협력 강화"
+https://www.newsis.com/view/NISX20260602_0003653521
+
+메드팩토, 'MP010' 임상 신청 앞두고 글로벌 22개국 특허 출원
+https://www.mt.co.kr/thebio/2026/06/02/2026060213581874663
+
+젠슨 황 "AI칩 공급 여전히 부족"…삼성전자·SK하이닉스 수요 지속 전망
+https://www.newsis.com/view/NISX20260602_0003653624
+
+NASA국장 "블루오리진 발사대, 2028년까지 복구 안될 수도"
+https://www.newsis.com/view/NISX20260602_0003653362
+
+이차전지 전해질 기업 '엔켐' 美자회사, 나스닥 상장사 역합병…최대 2억 달러 조달 목표
+https://www.theguru.co.kr/news/article.html?no=102567
+
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-02 17:06] SK그룹 회장, SK하이닉스가 향후 5년간 웨이퍼 생산 능력을 두 배로 늘릴 계획이라고 발표 - 로이터
+(by https://t.me/TNBfolio)
+- 최태원 SK그룹 회장은 대만 타이베이에서 열린 컴퓨텍스 행사에서 메모리 반도체 계열사인 SK하이닉스의 웨이퍼 생산 능력을 향후 5년 동안 두 배로 확대할 목표라고 밝혔다.
+- 전 세계적인 웨이퍼 부족 현상이 오는 2030년까지 지속될 수 있다고 경고하며, 세계 최대 파운드리 기업인 TSMC뿐만 아니라 대만 내 다양한 기업들과의 협력이 더 필요하다고 강조했다.
+- SK하이닉스가 차세대 AI 가속기인 Nvidia의 베라 루빈 시스템에 고대역폭 메모리를 공급하는 주요 협력사가 되기를 희망한다고 덧붙였다.
+- 최근 AI 랠리에 힘입어 시가총액 1조 달러를 돌파한 SK하이닉스는 올해 1분기 글로벌 HBM 시장에서 58%의 점유율을 기록하며 시장 선두 자리를 굳건히 하고 있다.
+- Goldman Sachs는 지속적인 AI 수요를 반영하여 SK하이닉스와 삼성전자의 2028년 영업이익 전망치를 기존보다 각각 24%와 23.3% 상향 조정했다.
+https://www.reuters.com/world/asia-pacific/sk-hynix-plans-double-wafer-capacity-next-five-years-group-chairman-says-2026-06-02/
+
+[2026-06-02 19:01] 코스피 신용잔고
+
+[2026-06-02 19:01] 코스닥 신용잔고
+
+[2026-06-02 19:47] 젠슨황 일정 요약(유동적)

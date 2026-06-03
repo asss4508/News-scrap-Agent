@@ -5708,3 +5708,30 @@ Copper → **Optical 전환**
 → **구리의 물리적 한계를 광 인터커넥트로 실현가능**
 
 https://t.me/alphasignal_now
+
+[2026-06-03 13:30] **Citi) Computex 2026 핵심 시사점:**
+
+개인용 AI, AI CPU, 피지컬 AI
+
+CITI의 견해
+대만에서 열린 Computex 2026 기간 동안 Nvidia, 담당 애널리스트 Atif Malik은 개인용 AI, AI CPU, 피지컬 AI 전반에 걸쳐 주요 업데이트를 공유했습니다. RTX Spark와 DGX Station은 기존 노트북/데스크톱 PC 대비 10배 이상 높은 DRAM 탑재량을 요구하기 때문에, DRAM 수요에 강한 업사이드가 있을 것으로 예상합니다. Vera CPU는 AI 추론에 힘입어 서버 DDR5와 SoCAMM2 수요를 견인할 것으로 보이며, 피지컬 AI로의 전환이 진행되면서 메모리 산업의 구조적 성장도 추가로 뒷받침될 전망입니다.
+
+1. 개인용 AI: RTX Spark, N1X 칩, DGX Station — Nvidia는 GTC Taipei 기조연설에서 Windows AI PC 제품을 공개했습니다. 이는 대형 AI 모델과 에이전트를 클라우드가 아니라 로컬에서 구동하는 것을 목표로 합니다. N1X 칩 기반의 RTX Spark는 128GB LPDDR5X 메모리를 탑재하고, 최대 1페타플롭의 FP4 AI 성능과 600GB/s의 NVLink-C2C 대역폭을 제공합니다. RTX Spark를 통해 사용자는 최대 약 1,200억 개 파라미터 규모의 AI 모델을 실행할 수 있습니다. Nvidia는 또한 Windows용 데스크톱 PC인 DGX Station을 공개했는데, 이는 최대 748GB 메모리, 252GB HBM3e와 496GB LPDDR5X, 최대 20페타플롭의 FP4 연산 성능을 제공하며 최대 1조 개 파라미터 규모의 AI 모델을 실행할 수 있습니다. Nvidia의 새로운 개인용 AI PC는 기존 노트북의 평균 DRAM 탑재량 약 12GB 대비 10배 이상 많은 DRAM, 즉 128GB를 탑재합니다. 또한 데스크톱 PC 측면에서도 Nvidia는 748GB 메모리를 탑재한 DGX Station을 제공하고 있으며, 이는 일반 서버 DRAM 평균 탑재량인 600GB보다 높은 수준입니다.
+
+2. AI CPU: Vera CPU — Nvidia는 Vera CPU가 본격 양산 중이며, 에이전틱 AI, 강화학습, 데이터 처리 등 워크로드 전반에서 x86 프로세서 대비 약 1.8배 빠른 작업 완료 속도를 제공한다고 밝혔습니다. Vera는 Olympus라는 커스텀 코어를 기반으로 하며, 88개 코어와 최대 1.2TB/s 대역폭의 LPDDR5X 메모리 서브시스템을 갖추고 있습니다. Vera는 호스트 CPU 역할을 하며 최대 1.8TB/s의 CPU-GPU 대역폭을 제공하고, BlueField-4 STX AI 스토리지 플랫폼에 통합됩니다. 당사는 AI CPU 수요가 서버 DDR5와 SoCAMM2 메모리 수요를 견인할 것으로 전망합니다. 이는 최근 보고서인 “Samsung Electronics (005930.KS): Sustained Memory ASP Momentum; Raise TP to W460k”에서 강조한 내용과 일치합니다.
+
+3. 피지컬 AI: Cosmos 3 출시 — Nvidia는 피지컬 AI를 위한 오픈 프런티어 파운데이션 모델이자 세계 최초의 완전 개방형 ‘옴니모델’인 Cosmos 3를 출시했습니다. Cosmos 3는 텍스트, 이미지, 비디오, 사운드, 행동을 네이티브로 이해하고 생성할 수 있으며, 높은 물리 정확도를 바탕으로 피지컬 AI의 학습 및 평가 주기를 수개월에서 수일로 단축합니다. 모델은 세 가지 등급으로 제공됩니다. Cosmos 3 Super는 로보틱스/자율주행 후속 학습을 위한 최고 정확도 모델이고, Cosmos 3 Nano는 빠른 비디오 및 행동 추론용 모델이며, Cosmos 3 Edge는 실시간 엣지 추론용 모델입니다.
+
+4. 시사점 — AI 추론 수요가 GPU에서 CPU로 확장됨에 따라 서버 DDR5와 SoCAMM2 수요가 추가로 증가할 것으로 전망합니다. 당사가 개인용 AI 심층 보고서인 “Global Semiconductors – The AI Hardware Shift in IT Devices: The Era of Personal AI Server Begins”에서 강조했듯이, AI 메모리 수요는 중앙집중형 컴퓨팅에서 분산형 컴퓨팅으로 확장될 것으로 판단합니다. 이에 따라 삼성전자와 같은 한국 메모리 공급업체가 누릴 수 있는 잠재적 업사이드는 더욱 뚜렷해질 것으로 봅니다.
+
+Computex 2026 핵심은 결국 :
+
+**NAND,  소켐2,  CPO (광인터커넥트)**
+
+**베라 루빈 CPU**가 메모리가 엄청 들어가니
+
+이쪽을 계속 봐야 할거 같네요.
+
+특히 **CPO**는 메모리를 지금보다 수배를 더 넣을수 있게 업그레이드 시키기 때문에 꼭 필요한 기술입니다.
+
+https://t.me/alphasignal_now

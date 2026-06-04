@@ -1,250 +1,3 @@
-[2026-04-21 11:21] 4월 21일 식전 뉴스
-
-현대차, 유럽 시장 겨냥 소형 전기차 아이오닉 3 공개
-https://en.yna.co.kr/view/AEN20260421002500320?section=k-biz/index
-
-삼성전기, AI서버·자율주행차 주역 부상
-https://www.mk.co.kr/news/business/12022115
-
-SK이노베이션, 리밸런싱 계속…배터리·화학 줄이고 'AI·로봇' 투자
-https://www.topdaily.kr/articles/109756
-
-美 FDA 7년 독점권 따냈다…K-희귀약, 개발 탄력 붙나
-https://www.kukinews.com/article/view/kuk202604200195
-
-"비싼 가스터빈 대신 엔진"…K-선박엔진 'AI 데이터센터 공략'
-https://www.news1.kr/industry/general-industry/6142884
-
-"주문 넣어도 24주"…MLCC 제품 품귀
-https://www.digitaltoday.co.kr/news/articleView.html?idxno=658455
-
-딥엑스, 현대차 로봇에 '2나노 AI 두뇌' 심는다…피지컬 AI 협력
-https://www.edaily.co.kr/News/Read?newsId=02607606645418416&mediaCodeNo=257
-
-LG전자, AI 데이터센터 HVAC 사업 확대 속도 낸다
-https://www.hankyung.com/article/202604214631P
-
-GS풍력, 네이버와 재생에너지 계약…육상풍력 최대 규모
-https://www.edaily.co.kr/News/Read?newsId=02889686645418416&mediaCodeNo=257
-
-SKAI, 엔비디아 주관 컨퍼런스서 ‘디지털 트윈·합성데이터’ 단독 발표
-https://www.newstown.co.kr/news/articleView.html?idxno=701192
-
-화인써키트, 삼성전자 가전 PCB공급...AI 데이터센터 PCB 본격화
-https://www.etoday.co.kr/news/view/2577274?trc=main_list_new
-
-폴리티코 "美 동맹국들, 에너지가격 폭등에 中 의존 커져"
-https://www.yna.co.kr/view/AKR20260421063000009
-
-트럼프, 은근슬쩍 휴전기한 하루 연장…밴스는 아직 워싱턴 대기
-https://www.donga.com/news/Inter/article/all/20260421/133778507/1
-
-트럼프 "이란과 추진중인 핵 합의, 오바마 때보다 훨씬 나을 것"
-https://www.segye.com/newsView/20260421502572
-
-"삼성전자, 2분기 영업익 89조 전망…낸드 과소평가"-신한
-https://www.hankyung.com/article/2026042145606
-
-베트남 고속철 놓고 韓·中 경쟁 분위기…이재명 대통령 지원사격 나설 듯
-https://www.theguru.co.kr/news/article.html?no=100799
-
-이엔셀, 오가노이드 재생치료제 개발사와 추가 CMO 계약
-http://www.newspim.com/news/view/20260421000121
-
-AI '제미나이' 탑재한 크롬, 韓 상륙…웹페이지 요약·메일 작성 '한 번에'
-https://www.newsis.com/view/NISX20260421_0003599358
-
-쎄크, HBM·방산·배터리 '성장 3각 편대' 구축... 멀티플 재평가 국면 진입
-https://www.mt.co.kr/stock/2026/04/21/2026042108370954261
-
-앱클론, AACR서 차세대 고형암 CAR-T와 이중항체 항암 발표
-https://www.mt.co.kr/stock/2026/04/21/2026042109014521276
-
-1분기 바이오의약품 임상 53건 승인···상업화 임박 파이프라인 증가
-https://www.seoulfn.com/news/articleView.html?idxno=627014
-
-셀트리온, 日서 '스테키마' IV 제형 허가 획득…IBD 주요 적응증 확대
-https://www.mt.co.kr/thebio/2026/04/21/2026042108324276505
-
-4월 1~20일 수출 504억달러 '최대 실적'…반도체 182.5%↑
-https://www.newsis.com/view/NISX20260421_0003599478
-
-"차세대 복강경 영상 기술"…리브스메드, 日기업 투자
-https://www.newsis.com/view/NISX20260421_0003599564
-
-삼성전자, 美 테일러 대형 물류 거점 확보…장비 반입·공급망 효율 '두 마리 토끼'
-https://www.theguru.co.kr/news/article.html?no=100792
-
-이니텍, '미토스 쇼크'에 하이브리드 보안 대응 "AI·양자 위협 동시 차단"
-https://www.mt.co.kr/stock/2026/04/21/2026042109485546605
-
-LG AI연구원 "4주 걸리는 암 진단·치료 설계, 하루면 충분"
-http://www.newspim.com/news/view/20260421000209
-
-LG전자, 美서 차세대 액체·액침냉각 솔루션 공개
-http://www.newspim.com/news/view/20260421000211
-
-'스페이스Xㆍ앤트로픽' 초대형 IPO 시대…인덱스 룰 흔든다
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410698
-
-앤로보틱스 및 관계사, 제노코 지분 5% 취득 및 '경영참여' 선언…"우주·국방 로봇 사업 본격화"
-https://www.mt.co.kr/stock/2026/04/21/2026042110430772314
-
-폴란드 재벌, 한수원 협력 무산 후 美 SMR 기업 '엑스에너지'와 협력 나서
-https://www.theguru.co.kr/news/article.html?no=100791
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
-[2026-04-21 13:59] [단독] SpaceX 이번 주 3일간 애널리스트 미팅으로 월가 공략 - Reuters
-(by https://t.me/TNBfolio)
-- SpaceX는 이번 주 텍사스 발사 시설과 테네시 데이터 센터에서 주요 애널리스트들을 대상으로 비공개 미팅을 개최하며 IPO 준비에 박차를 가하고 있다.
-- Elon Musk의 이번 상장은 750억 달러 조달을 목표로 하는 사상 최대 규모의 IPO이며, 기업 가치는 약 1조 7,500억 달러에 달할 것으로 전망된다.
-- 이번 미팅에는 텍사스 Starbase 투어와 Memphis에 위치한 Colossus 데이터 센터의 Macrohard 프로젝트 검토가 포함되어 기술력을 과시할 예정이다.
-- SpaceX는 지난 2월 xAI와의 합병을 통해 로켓, Starlink, X, Grok AI를 통합한 거대 기술 및 항공우주 복합 기업으로 재편되었다.
-- 개인 투자자를 위해 주식의 30%를 할당할 계획이며, 한국을 포함한 주요국 개인 투자자들도 이번 공모주 청약에 참여할 수 있을 것으로 보인다.
-https://www.reuters.com/business/spacex-tries-woo-wall-street-with-three-day-analyst-meeting-this-week-sources-2026-04-21/
-
-[2026-04-21 14:55] 일본 규모 7.7 지진 발생으로 Kioxia 및 반도체 소재 공급망 영향 혼조 - TrendForce
-(by https://t.me/TNBfolio)
-- 일본 동북부 해안에서 발생한 규모 7.7의 강진으로 인해 Iwate현에 위치한 Kioxia의 NAND 플래시 메모리 공장 가동이 일시 중단되어 정밀 점검에 들어갔다.
-- Tokyo Electron(TEL)은 Iwate와 Miyagi 시설에 대한 점검 결과 구조적 피해가 없음을 확인하고 즉시 정상 가동을 재개했다고 발표했다.
-- Shin-Etsu Chemical과 SUMCO 등 웨이퍼 공급사들도 안전 점검을 위해 가동을 멈췄으나 전 세계적인 웨이퍼 공급 여력이 충분해 시장 영향은 제한적일 전망이다.
-- 반면 감광액 분야의 TOK와 Shin-Etsu Chemical 공장은 장비 재교정 등으로 인해 복구까지 최대 4~8주가 소요될 것으로 보여 공급망 압박이 예상된다.
-- 이번 지진으로 인한 Kioxia의 일시적 가동 중단은 AI 서버 및 차량용 메모리와 같이 수급이 타이트한 분야에서 단기적인 공급 변동을 초래할 수 있다.
-https://www.trendforce.com/news/2026/04/21/news-kioxia-tel-and-photoresist-makers-in-focus-after-magnitude-7-7-japan-earthquake-supply-chain-impact-mixed/
-
-[2026-04-21 15:01] 4월 21일 장 마감 전 뉴스
-
-"보조금 없어서 못 팔 정도"…전쟁발 유가 폭등에 100만 전기차 시대 
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410750
-
-호르무즈 봉쇄에 '항공유 쇼크'…여름 휴가철 '운항 대란' 현실화
-https://www.newsis.com/view/NISX20260421_0003599689
-
-이에이트, 환경 인프라에 피지컬 AI 이식한다...지능형 수처리 시스템 구축 MOU
-https://www.hellot.net/mobile/article.html?no=112214
-
-퀄컴 CEO, 삼성 파운드리 경영진과 회동 …SK와는 메모리 협력
-https://www.hankyung.com/article/202604215511i
-
-"삼전·SK하닉 놓친 투자자 기회 온다"…'단일종목 2배 ETF' 내달 출시
-https://www.mt.co.kr/stock/2026/04/21/2026042110481892195
-
-삼성·LG전자 만난 퀄컴 CEO의 게시글…"AI웨어러블, 게임체인저"
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410740
-
-"美부통령 21일 파키스탄으로 출발…모즈타바 추가 협상 승인"
-https://www.newsis.com/view/NISX20260421_0003599862
-
-자율주행 ‘양팔 로봇’ 제조 현장서 첫 실증 실험한다
-https://www.hani.co.kr/arti/area/yeongnam/1255166.html
-
-HD현대·안두릴, 무인수상정 공동생산 착수…연말 시범 운항 추진
-https://www.theguru.co.kr/news/article.html?no=100798
-
-"답변형 AI 끝"…엔비디아, '에이전트 전환' 선언
-http://www.newspim.com/news/view/20260421000945
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
-[2026-04-21 15:06] Doug Burgum 미국 내무장관, 태양광 프로젝트 검토 시 중국 연계성 강조하며 심사 강화 - Bloomberg
-(by https://t.me/TNBfolio)
-- Doug Burgum 미국 내무장관은 미국 내 많은 태양광 프로젝트가 중국산 패널로 구축되어 국가 안보에 위협이 될 수 있다며 엄격한 검토의 필요성을 제기했다.
-- 내무부는 작년부터 연방 토지 내 재생 에너지 개발 프로젝트의 운영 계획과 통행권 등 주요 단계마다 장관의 직접 서명을 요구하는 고강도 심사 절차를 도입했다.
-- 재생 에너지 업계는 이러한 규제 강화가 연방 토지에서의 청정 에너지 개발 사업을 사실상 중단시키는 결과를 초래하고 있다고 강력히 반발하고 있다.
-- 과거 내무부는 안보 위협을 이유로 해상 풍력 프로젝트 5곳에 작업 중단 명령을 내렸으나, 레이더 간섭 및 드론 공격 취약성 주장이 법원에서 뒤집힌 바 있다.
-- 이번 조치는 Huawei Technologies Co. 사례와 유사하게 태양광 공급망에서도 중국의 영향력을 배제하려는 미국의 국가 안보 중심 에너지 정책의 연장선으로 풀이된다.
-https://www.bloomberg.com/news/articles/2026-04-20/burgum-cites-china-link-in-tougher-us-reviews-for-solar-projects?srnd=phx-industries-energy
-
-[2026-04-21 15:09] ESS시장도 비슷한 상황이죠. 애도 뭔가 나오겠죠??
-
-
-저렴한 배터리, 전 세계 전력망 장악하며 에너지 저장 장치 붐 주도 - Bloomberg
-(by https://t.me/TNBfolio)
-- 배터리 가격 하락과 데이터 센터의 전력 수요 급증, 이란 전쟁으로 인한 화석 연료 가격 상승이 맞물리며 전 세계적으로 에너지 저장 장치(ESS) 도입이 가속화되고 있다.
-- ESS 평균 비용은 2018년 대비 2025년까지 약 75% 하락했으며, 2035년까지 추가로 25% 더 하락할 것으로 예상되어 전력 시스템 투자에서 가장 매력적인 옵션이 되었다.
-- 중국은 전기차 공급망 투자로 인한 배터리 과잉 생산을 통해 글로벌 시장에 저렴한 장비를 공급하고 있으며, 현재 전 세계 그리드 규모 배터리 설치량의 약 절반을 차지하고 있다.
-- 미국에서는 전력망 병목 현상을 해결하기 위해 Tesla Inc.의 Megapack 등이 데이터 센터와 결합되고 있으며, 2026년 신규 발전 용량의 4분의 1 이상을 배터리가 차지할 전망이다.
-- 리튬이온 배터리 외에도 철의 부식을 이용해 최대 100시간 동안 에너지를 저장하는 Form Energy Inc.의 기술 등 장기 저장 솔루션이 그리드 회복력을 높이기 위해 도입되고 있다.
-https://www.bloomberg.com/news/features/2026-04-19/cheap-batteries-are-taking-over-the-world-s-power-grids
-
-[2026-04-21 18:20] 코스피 신용잔고
-
-[2026-04-21 18:20] 코스닥 신용잔고
-
-[2026-04-21 23:01] [26년 4월 21일  한국 뉴스]
-
-1. 도쿄증시 이란 협상 참여 소식에 혼조세 마감
-2. 닛케이지수 휴전 기대와 AI 및 반도체주 강세로 상승
-3. 중국 증시 종전협상 기대감에 상승하며 창업판도 강세
-4. 대만 증시 미국 반도체주 강세로 사상 최고치 경신
-
-5. 코스피 이달 상승률 26.4% 기록하며 G20 중 1위
-6. KG이니시스 케이카캐피탈 주식 100% 인수 결정
-
-7. 우진 배당성향 확대 및 SMR 투자 가치 제고 발표
-
-8. 3월 중국 희토류 자석 수출 수요 둔화로 급감
-
-9. 삼성전자 총파업에 따른 글로벌 반도체 공급난 심화 우려
-10. 갤럭시 S26 출시 초기 판매량 전작 대비 2% 증가
-11. 갤럭시 S26 미국 시장서 판매량 29% 급성장
-12. 미국 DRAM ETF에 투자금 몰리는 배경 분석
-13. 낸드 시장 초호황 전망에 샌디스크 실적 기대감 상승
-14. AI 산업 성장에 따른 K소부장 생태계 황금기 도래
-15. AI 반도체 필수 소재 생산 K소재사 가치 상승
-16. K부품사 AI 병목 해결사로 부상하며 빅테크 협력 강화
-
-17. AI전략위 자율주행과 휴머노이드 투트랙 전략 가동
-
-18. 네이버 등 3사 인도 유니콘 발굴 1조 펀드 조성
-
-19. SK바이오팜 세노바메이트 유럽 경고장에 매출 차질 우려
-20. 지아이이노베이션 GI-101A 데이터 임박에 기술이전 강화
-21. 릴리 인 비보 CAR-T 대규모 투자에 K바이오 주목
-22. 메드팩토 AACR에서 백토서팁 전임상 연구 결과 공개
-
-23. K뷰티 유통 플랫폼 비중 확대로 수출 성장 지속
-
-24. K방산 수출 작년 생산 유발효과 46조원 및 고용 창출
-
-https://naver.me/GDQbPz3B
-
-(자세한 내용은 링크 참조)
-
-[2026-04-22 09:34] Taiyo Yuden, MLCC 가격 인상 단행… Murata 결정 따라 삼성전기도 뒤따를 전망 - DIGITIMES
-(by https://t.me/TNBfolio)
-- 일본 전자부품 기업 Taiyo Yuden은 금, 은 등 원자재 가격 상승을 이유로 5월 1일부터 일부 MLCC 및 관련 제품의 가격을 인상한다고 주요 고객사에 통보했다.
-- 업계에서는 업계 1위인 Murata가 오는 4월 30일 실적 발표에서 가격 인상 신호를 보낼 경우 MLCC 시장의 본격적인 가격 상승 사이클이 시작될 것으로 보고 있다.
-- 삼성전기는 아직 공식적인 발표를 하지 않았으나 글로벌 경쟁사들의 움직임과 AI 서버 및 전장 시장의 수요 확대를 고려할 때 가격 인상 대열에 합류할 가능성이 높다.
-- AI 서버는 스마트폰보다 10배 이상의 MLCC가 필요하여 고용량 제품의 공급 부족 현상이 예상되며 이는 제조사들의 가격 협상력을 높이는 요인이 되고 있다.
-- 다만 과거 팬데믹 당시의 급격한 가격 변동 학습 효과로 인해 이번 인상은 시장 수용도를 살피며 점진적이고 단계적인 방식으로 진행될 것으로 보인다.
-https://www.digitimes.com/news/a20260417PD209/taiyo-yuden-mlcc-murata-electronic-components-price.html
-
-[2026-04-22 10:47] 메모리 반도체 업계, AI 수요에 따른 기록적 이익에도 불구하고 저평가 논란 지속 -블룸버그
-(by https://t.me/TNBfolio)
-- 인공지능 수요 급증으로 메모리 제조사들이 기록적인 이익을 거두고 있으나 주가는 타 반도체 종목 대비 낮은 밸류에이션에 거래되고 있다.
-- 삼성전자와 SK Hynix Inc.의 올해 순이익 성장률 전망치는 TSMC를 크게 상회함에도 불구하고 선행 주가수익비율은 6배 미만에 머물러 있다.
-- 일부 투자자들은 AI 가속기 로드맵과의 협업 및 하이퍼스케일러와의 장기 계약이 메모리 산업의 고질적인 변동성을 구조적으로 변화시킬 것이라 주장한다.
-- 반면 회의론자들은 과거의 공급 과잉 사례를 언급하며 메모리 이익의 가변적인 특성 때문에 NVIDIA Corp. 등과 비교해 낮은 평가를 받는 것이 타당하다고 본다.
-- 시장에서는 메모리 반도체 기업들이 범용 제품의 이미지를 벗고 수익 지속성을 증명하기까지 밸류에이션 재평가에는 시간이 걸릴 것으로 전망한다.
-https://www.bloomberg.com/news/articles/2026-04-21/memory-stock-valuations-spark-debate-over-supercycle-potential
-
-[2026-04-22 10:48] Samsung, AI 수요 증가에 따른 가격 상승 힘입어 P5 공장 NAND 확장 - digitimes
-(by https://t.me/TNBfolio)
-- Samsung 전자는 AI 워크로드 증가와 엔터프라이즈 SSD 수요 급증에 대응하기 위해 평택 P5 공장의 NAND 생산 능력을 조기 확장하기로 했다.
-- NAND 고정 거래가는 2025년 초 대비 약 8배 폭등한 17.73달러를 기록했으며, 이는 AI 추론 연산 시 저장 용량 중요성이 커진 결과이다.
-- Samsung은 P5 공장에 10세대 NAND 생산 라인을 배치할 예정이며, 클린룸 공사 일정을 2026년 말에서 중반으로 대폭 앞당겼다.
-- 1분기 Samsung의 NAND 마진은 판매가 상승 덕분에 50%에 육박했으며, 하반기에는 60%를 넘어설 것으로 업계는 추정하고 있다.
-- 그간 DRAM과 HBM에 집중하느라 NAND 투자를 제한해왔으나, AI 인프라가 컴퓨팅 중심에서 저장장치 확장으로 옮겨가자 전략을 선회한 것으로 풀이된다.
-https://www.digitimes.com/news/a20260421PD213/nand-demand-samsung-expansion-nand-flash.html
-
 [2026-04-22 11:08] 2026.04.22 11:07:16
 기업명: 동진쎄미켐(시가총액: 2조 9,975억) A005290
 보고서명: 주식소각결정
@@ -7572,3 +7325,251 @@ https://naver.me/52a0bzTY
 - 정의선 현대자동차그룹 회장도 면담을 희망하고 있으며 엔씨소프트 김택진 창업자와는 6월 7일에 회동이 예정되어 있다.
 - 한국 기술 리더들과의 논의는 로봇 기술과 AI의 연계에 초점이 맞춰질 전망이다.
 https://www.taiwannews.com.tw/news/6375747
+
+[2026-06-04 07:15] 공화당 주도의 미국 하원, 트럼프에 반대하여 이란 전쟁 중단 표결 - 블룸버그
+(by https://t.me/TNBfolio)
+- 공화당이 주도하는 미국 하원은 도널드 트럼프 대통령의 정책에 반대하여 이란과의 전쟁을 중단하도록 촉구하는 결의안을 찬성 215표 대 반대 208표로 통과시켰다.
+- 이번 표결은 상원의 통과가 남아있고 1973년 전쟁권한법의 법적 논란이 있어 당장 미국의 군사 공격을 완전히 중단시키지는 못한다.
+- 이란과의 군사 갈등과 호르무즈 해협 폐쇄로 인해 국제 에너지 가격이 폭등했으며 미국의 평균 휘발유 가격은 갤런당 4.26달러까지 상승했다.
+- 전쟁 시작 이후 발생한 인플레이션으로 인해 미국인들의 실질 임금이 감소하고 소비자 심리지수가 사상 최저치로 떨어지는 등 경제적 피해가 커지고 있다.
+- 미국 국방부는 이란 전쟁에 소요된 비용을 약 290억 달러로 추정했으나 외부 전문가들은 실제 군사 작전 및 장비 보충 비용이 이보다 훨씬 더 클 것으로 보고 있다.
+https://www.bloomberg.com/news/articles/2026-06-03/republican-led-house-votes-to-stop-iran-war-in-rebuke-to-trump
+
+[2026-06-04 08:39] [단독] 엔비디아, 한국에 AI기술센터 설립 속도… 부지는 새만금 유력 - 한국경제
+(by https://t.me/TNBfolio)
+- NVIDIA의 젠슨 황 CEO가 한국 로보틱스 투자를 공식화하면서 현대자동차그룹과 공동 추진 중인 AI 기술센터 설립이 주목받고 있다.
+- 업계에서는 풍부한 재생에너지와 데이터센터 및 로봇 제조 인프라를 확보할 수 있는 전북 새만금을 유력한 후보지로 꼽고 있다.
+- NVIDIA는 지난해 10월 현대자동차그룹 및 정부와 업무협약을 맺고 GPU 5만장 공급과 핵심 R&D 시설인 AI 기술센터 설립을 약속한 바 있다.
+- 증권가에서는 NVIDIA와 Google 등 빅테크 기업들이 현대자동차그룹의 미국 로봇 거점에 지분 투자를 감행해 제조 현장 데이터를 확보할 것이라는 전망도 나온다.
+- 이번 협력은 자율주행과 로봇 시장에서 현대자동차그룹, NVIDIA, Google 연합이 주도권을 잡기 위한 전략적 포석으로 분석된다.
+https://www.hankyung.com/article/202606034510i
+
+[2026-06-04 09:45] 트럼프, 미군 사망하지 않는 한 이란과의 전면전 재개 안 한다고 보좌관들에게 언급 - 월스트리트저널
+(by https://t.me/TNBfolio)
+- Donald Trump 미국 대통령은 이란이 미군을 살해할 경우에만 휴전을 종료할 것이라고 보좌관들에게 사적으로 말했다.
+- 최근 호르무즈 해협 등에서 격렬한 교전이 발생했으나 미국 행정부는 수주간 이어진 공습 중단 상태가 여전히 유지되고 있다고 판단한다.
+- 미국과 이란의 충돌로 글로벌 에너지 시장과 국제 해운이 큰 차질을 빚고 있으며 미국은 이란 항구에 엄격한 봉쇄 조치를 시행 중이다.
+- 국무장관 Marco Rubio는 최근의 주고받기식 공격들이 전면전의 재개가 아니라 이란의 행동에 대응한 방어적 성격이라고 설명했다.
+- Donald Trump 대통령은 이란의 핵 프로그램을 외교적으로 해결하기를 선호하지만 Benjamin Netanyahu 이스라엘 총리에게 레바논 공격 중단을 압박하는 등 외교적 딜레마에 직면해 있다.
+https://www.wsj.com/world/middle-east/trump-iran-ceasefire-strait-of-hormuz-14d0d265
+
+[2026-06-04 10:35] 대중국 바이오 투자 차단 법안 美 하원 발의 - 팜뉴스
+(by https://t.me/TNBfolio)
+- 미국 자본과 기술이 중국 바이오산업으로 흘러가는 것을 원천 차단하는 초당적 법안인 바이오기술 투자 국가안보법(BINSA)이 연방 하원에서 발의됐다.
+- 의약품 개발과 바이오의약품 제조 및 임상 연구개발을 해외 투자 심사 대상에 편입하여 지적재산권과 기술 이전이 수반되는 계약을 재무부가 심사하도록 규정했다.
+- 법안 발의자들은 미국 자본이 중국 공산당 통제하의 신약 개발 과정을 키우는 역설적 상황을 막고 자국의 의료 공급망을 보호해야 한다고 강조했다.
+- 법안이 통과될 경우 국방부는 60일 이내에 국가 안보 영향을 평가하고 재무부는 관련 부처들과 조율하여 1년 안에 시행령을 마련해야 한다.
+- 바이오 업계 일각에서는 특허 만료 시기를 앞두고 고립주의적 접근을 취할 경우 혁신 신약 확보가 늦어지는 부작용이 발생할 수 있다고 우려했다.
+https://www.pharmnews.com/news/articleView.html?idxno=303969
+
+[2026-06-04 11:24] 6월 4일 식전 뉴스
+
+SKT, 앤트로픽 '프로젝트 글래스윙' 합류…AI로 보안 대응 강화
+https://news.einfomax.co.kr/news/articleView.html?idxno=4418202
+
+“거품 아니다?”…‘삼전닉스’ 제외해도 코스피 이익 전망 10% 올랐다
+https://www.segye.com/newsView/20260604503710
+
+"AI 데이터센터 잡아라"… 동박3사 속도전
+https://www.mk.co.kr/news/business/12064998
+
+젠슨 황 오늘 방한… 제조업 강국 韓, 엔비디아 피지컬 AI 최적 파트너
+https://www.news1.kr/industry/general-industry/6186260
+
+반도체 훈풍에 대중국 무역수지 4년 만에 흑자전환 유력
+https://www.yna.co.kr/view/AKR20260603054400003
+
+'변압기·스태콤' AI發 전력 슈퍼사이클…전력 3사 수주잔고 35조 목전
+https://www.news1.kr/industry/general-industry/6185484
+
+파두, 컴퓨텍스 2026서 차세대 저장장치 반도체 공개…아시아 데이터센터 시장 공략 가속
+https://www.edaily.co.kr/News/Read?newsId=02663366645478440&mediaCodeNo=257
+
+메디포스트 카티스템, 美 3상 1개로 끝낸다… FDA 단일임상 허용
+https://www.edaily.co.kr/News/Read?newsId=02709286645478440&mediaCodeNo=257
+
+선익시스템, 8세대 OLED 투자 확대 최대 수혜주…페로브스카이트도 주목
+https://www.newspim.com/news/view/20260604000206
+
+오스코텍, 추가 기술이전에 밸류 재평가…제노스코 편입도 기대
+https://www.sedaily.com/article/20051599
+
+노타, GPU·NPU 동시 활용 AI 추론 구현…"AI PC 전력효율 개선"
+https://www.edaily.co.kr/News/Read?newsId=02929046645478440&mediaCodeNo=257
+
+가온전선, 美 AI데이터센터 송전 케이블 시장 뚫었다
+https://zdnet.co.kr/view/?no=20260604084555
+
+젠슨 황 한국 로보티스 투자 검토 소식에 불붙는 로봇株
+https://www.kukinews.com/article/view/kuk202606020156
+
+삼성중, 미국 첫 FLNG 4조3300억 수주…'양산 시대' 연다
+https://www.shinailbo.co.kr/news/articleView.html?idxno=5027029
+
+NC AI, 한화오션에 자율 용접 로봇 AI 두뇌 공급…피지컬 AI 영토 확장
+https://www.etoday.co.kr/news/view/2590377?trc=right_categori_news
+
+젠슨 황, 크래프톤도 만난다…피지컬 AI·AI 게이밍 협력 논의
+https://www.edaily.co.kr/News/Read?newsId=03191446645478440&mediaCodeNo=257
+
+리가켐바이오 파트너사 소티오, Best-in-class 잠재력 보유 'SOT106' 美 FDA 희귀의약품 지정
+https://www.kmpnews.co.kr/news/articleView.html?idxno=71499
+
+구글, AI 데이터센터 전력에 '베팅'…발전사업까지 품는다
+https://zdnet.co.kr/view/?no=20260604091919
+
+전재수 부산, 북극항로 주도…해상 물류 패러다임 바꾼다
+https://www.ebn.co.kr/news/articleView.html?idxno=1711193
+
+중국 반도체 증설에 삼성전자 SK하이닉스 불안, "D램·낸드 1~2년 내 공급과잉 가능성"
+https://www.businesspost.co.kr/BP?command=article_view&num=439234
+
+코스모신소재, AI 서버용 MLCC 초평활 이형필름 개발 성공
+https://www.mtnews.net/news/articleView.html?idxno=24956
+
+“금리인상 온다” 배트 짧게 잡는 투자자… 단기예금으로 머니무브
+https://www.donga.com/news/Economy/article/all/20260603/134043573/2
+
+美 국채가, 뜨거운 민간 고용에 약세…금리인상 프라이싱
+https://news.einfomax.co.kr/news/articleView.html?idxno=4418147
+
+엔비디아 새 깐부?… 'CCL 안정화' 두산 찍었나
+https://www.mt.co.kr/industry/2026/06/04/2026060321235968654
+
+상반기 기술수출 13조원 '신약강국' 새역사
+https://www.mt.co.kr/thebio/2026/06/04/2026060321252873089
+
+트럼프 "이란과 협상 잘 진행 중…주말 중에라도 합의 가능"
+https://www.mt.co.kr/world/2026/06/04/2026060406060029370
+
+"외국인도 싹쓸이"...K뷰티 호황 타고 뜨는 '뷰티 아울렛'
+https://www.mt.co.kr/living/2026/06/04/2026060214502275425
+
+한미약품, 릴리와 '깜짝' 기술이전 계약…"추가 L/O 가능성"
+https://news.einfomax.co.kr/news/articleView.html?idxno=4418177
+
+美 철강관세 50% 여파…EU 대미 수출 34% 급감
+https://www.hankyung.com/article/202606046167i
+
+현대차그룹·엔비디아 AI거점, 새만금에 짓나
+https://www.hankyung.com/article/2023060349701
+
+디앤디파마텍, 美 공동창업자 3인 스톡옵션 행사…"책임경영 의지"
+https://www.mt.co.kr/thebio/2026/06/04/2026060408472858334
+
+한미반도체, 컴퓨텍스 첫 참가…HBM4 장비 전면에
+http://www.newspim.com/news/view/20260604000286
+
+라온시큐어, KDB생명보험에 양자내성암호 공급…"금융권 사업 확대"
+http://www.newspim.com/news/view/20260604000253
+
+美 SMR 엑스에너지, 영국 인허가 절차 착수…DL·두산에너빌리티 '화색'
+https://www.theguru.co.kr/news/article.html?no=102618
+
+마음AI, IMTWS 2026서 기뢰탐지 AI Mine-JEPA 발표
+https://www.mt.co.kr/stock/2026/06/04/2026060409179678676
+
+韓·中 하늘길 7년 만에 대폭 확대···여객·화물 운수권 주 70회 증편
+https://www.seoulfn.com/news/articleView.html?idxno=630282
+
+트럼프 “이란이 미군 살상하는 경우에만 휴전 종료”···WSJ 보도
+https://www.khan.co.kr/article/202606040930001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news
+
+엠케이전자, LPDDR5X 확산에 본딩와이어 수요 증가 기대
+https://www.mt.co.kr/stock/2026/06/04/2026060408500519308
+
+팀코리아, 미 FLNG해양플랜트 1호 건설사업 수주… 1조원 규모
+https://www.segye.com/newsView/20260604508273
+
+부광약품, '라투다' 우울증 적응증 확대 도전…3상 IND 승인
+http://www.newspim.com/news/view/20260604000375
+
+토마토시스템, 금융권 AI 테스트 자동화 시장 공략 본격화
+https://www.mt.co.kr/stock/2026/06/04/2026060409315178696
+
+LG엔솔, 美 에너지시스템 헤론파워와 파트너십…BESS·고체변압기 결합
+https://www.theguru.co.kr/news/article.html?no=102606
+
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-04 11:38] TSMC, 인공지능 붐 지속으로 2026년 30% 성장 전망 유지 - 닛케이아시아
+(by https://t.me/TNBfolio)
+- TSMC는 인공지능 인프라에 대한 지속적인 투자가 다양한 반도체 수요를 견인함에 따라 2026년 매출이 30% 이상 성장할 것으로 예상했다.
+- C.C. Wei 의장 겸 최고경영자는 정기 주주총회에서 클라우드 서비스 제공업체 등 고객사들의 긍정적인 전망 덕분에 인공지능 메가 트렌드가 수년간 지속될 것이라고 밝혔다.
+- 올해 TSMC의 자본 지출은 역대 최고치인 최대 560억 달러에 달할 것이며 주요 고객사인 Nvidia의 최신 슈퍼컴퓨터 플랫폼 칩들을 전량 생산하고 있다.
+- 다만 전력 및 냉각 등 인프라 외에도 전자 부품 가격 상승이 소비자 가전 시장에 미칠 영향과 중동 지역의 긴장 상태를 주시하고 있다고 덧붙였다.
+- 재생에너지 투자 등 ESG 활동 확대로 직원 보너스 할당 비율은 기존 12%에서 10%로 낮아졌으나 전체 보너스 가치는 2025년 대비 30% 증가할 전망이다.
+https://asia.nikkei.com/business/technology/artificial-intelligence/tsmc-maintains-30-growth-outlook-for-2026-as-ai-boom-rolls-on?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts
+
+[2026-06-04 12:07] Anthropic, SEC에 비밀리 IPO 서류 제출하며 상장 첫 단계 착수 - Yahoo Finance
+(by https://t.me/TNBfolio)
+- Anthropic은 미국 증권거래위원회(SEC)에 Form S-1 초안을 비밀리에 제출하여 검토 완료 후 상장할 수 있는 옵션을 확보했다.
+- 이 기업은 최근 Series H 라운드에서 650억 달러를 유치하며 기업가치 9650억 달러를 인정받아 OpenAI를 제치고 세계에서 가장 가치 있는 스타트업이 되었다.
+- 만약 Anthropic이 1조 달러의 가치로 상장할 경우 SpaceX와 Saudi Aramco의 뒤를 이어 역사상 두 번째나 세 번째로 큰 규모의 IPO가 된다.
+- 최근 Claude Opus 4.8 모델 출시와 Project Glasswing 보안 테스트를 추진 중이며, SpaceXAI와의 파트너십을 통해 Memphis 데이터 센터의 연산 용량을 추가 확보했다.
+- 최근 OpenAI의 공동 창업자이자 Tesla 출신인 Andrej Karpathy를 영입하여 Claude를 활용한 사전 학습 연구 가속화 팀을 신설할 예정이다.
+https://finance.yahoo.com/markets/stocks/articles/anthropic-takes-first-step-toward-013027105.html
+
+[2026-06-04 14:00] [단독]앤스로픽 기술 임원, 16일 네이버 본사 찾는다 - 동아일보
+(by https://t.me/TNBfolio)
+-미국 Anthropic의 기술 및 제품 책임자들이 오는 16일 네이버 본사를 방문해 국내 개발자들과 밋업 행사를 진행한다.
+-이번 방문은 단순한 교류를 넘어 네이버와의 기술 제휴 및 보안 동맹 합류 등 다양한 협업 논의로 이어질 가능성이 존재한다.
+-Anthropic은 최근 초대 한국 대표를 선임하고 서울 강남 사무소를 개설하는 등 한국 시장 공략에 속도를 내고 있다.
+-이러한 행보는 최근 미국 증권거래위원회에 기업공개 상장 신청서 초안을 제출하며 임박한 미국 증시 상장과 무관치 않다는 분석이다.
+-현재 한국인터넷진흥원, 삼성전자, SK하이닉스, SK텔레콤 등 국내 주요 기업 및 기관이 Anthropic의 글로벌 보안 협력 프로그램에 합류했다.
+https://www.donga.com/news/Economy/article/all/20260604/134047150/1
+
+[2026-06-04 15:11] 6월 4일 장 마감 전 뉴스
+
+美가 40년 만에 허가한 미래 원전… "AI 시대 전력난, 답은 SMR에 있다"
+https://www.chosun.com/international/us/2026/06/04/OA6HTVPGQFBNHLNNQOO5QF43VY/
+
+한미약품 기술이전 MASH 신약, 최적 용법·용량 확정 ... 후속 임상 탄력
+https://www.hkn24.com/news/articleView.html?idxno=349967
+
+삼성전자, 1분기 D램 이어 낸드도 전세계 점유율 1위
+https://www.sedaily.com/article/20051480
+
+삼성증권, 두나무 지분 인수로 디지털자산 판 깐다...STO 법제화 수혜 받나
+https://www.thevaluenews.co.kr/news/199162
+
+한국투자증권도 STO 독자 플랫폼 구축…증권가 ‘슈퍼앱 경쟁’ 본격화
+https://www.sedaily.com/article/20051796
+
+자동차와 피지컬AI의 결합, ‘카봇’이 온다
+https://www.newstomato.com/ReadNews.aspx?no=1302932
+
+오스코텍 "세비도플레닙 2030년 전 상용화 기대…로열티 7~15%"
+https://www.mt.co.kr/thebio/2026/06/04/2026060412302043272
+
+韓, 대미 실효관세율 8.7% 작년 3분기보다 4.8%p↓…"한미 협상 효과"
+https://www.newsis.com/view/NISX20260604_0003656403
+
+美 301조 조사에도…김정관 "韓 관세 15% 이내 재확인"
+https://www.hankyung.com/article/2026060473727
+
+젠슨 황, 내일 오후 김포공항 통해 입국
+https://www.hankyung.com/article/2026060474807
+
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-04 15:40] 미국 기업의 300메가와트급 소형 모듈형 원자로, 유타주 원전 프로젝트에 선정 - Interesting Engineering
+(by https://t.me/TNBfolio)
+- 미국 플로리다 기반의 기업인 Holtec International의 소형 모듈형 원자로 SMR-300이 미국 유타주의 첨단 원전 프로젝트에 채택되었다.
+- 이 원자로는 가압경수형 원자로 기술을 기반으로 설계되었으며 심플한 투루프 시스템을 활용하여 300메가와트 이상의 전력을 생산한다.
+- SMR-300은 공랭식 응축기 시스템을 옵션으로 제공하여 물이 부족한 유타주나 사막 기후와 같은 건조한 환경에서도 효과적으로 작동할 수 있다.
+- 이 프로젝트는 유타주의 청정에너지 목표인 Operation Gigawatt를 지원하며 철도 및 고속도로 접근성 등 물류적 장점을 갖춘 그린리버 부지에서 진행된다.
+- 해당 원자로는 비상 상황 발생 시 운영자의 개입 없이 작동하는 피동형 안전 기능을 갖추고 있어 기존 원전 대비 훨씬 적은 인력으로 경제적인 운영이 가능하다.
+https://interestingengineering.com/energy/small-modular-reactor-power-nuclear-project
+
+[2026-06-04 18:53] 코스피 신용잔고
+
+[2026-06-04 18:53] 코스닥 신용잔고
+
+[2026-06-04 19:13] 5월 파라다이스 & GKL & 롯데관광개발 카지노 매출액

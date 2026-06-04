@@ -1,61 +1,3 @@
-[2026-04-22 15:14] 4월 22일 장 마감 전 뉴스
-
-미국, 휴전 무기한 연장…이란 동의 여부는 불투명
-https://www.reuters.com/world/asia-pacific/us-will-indefinitely-extend-ceasefire-unclear-if-iran-agrees-2026-04-22/
-
-한화, 大生인수 우선협상자로
-https://www.mk.co.kr/news/etc/11680133
-
-이란 의회, 호르무즈 통행료 징수법 상임위서 가결…법 통과 임박
-https://www.chosun.com/international/international_general/2026/03/31/K7A5YCLNOBCZJFZTWTC6BUXUME/
-
-이란 최고지도자 "美·이스라엘에 군사 대응 준비돼 있다"
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410855
-
-"이란, 美와 추가협상 불참 통보…밴스도 파키스탄行 중단"
-https://news.einfomax.co.kr/news/articleView.html?idxno=4410858
-
-삼성SDI 유럽공장 가동률 95% 간다 … VW-BMW-Benz 수주 넘쳐나
-https://www.ilovepc.co.kr/news/articleView.html?idxno=59019
-
-한화오션, 미국 깁스앤콕스와 해군 함정 설계 협력
-https://www.thelec.kr/news/articleView.html?idxno=55462
-
-"AI 실험은 끝났다"…AWS, 韓 시장에 '에이전틱 AI' 전면 배치
-https://www.newsis.com/view/NISX20260422_0003601587
-
-"시간 문제다"…호르무즈 충격, '식량 위기'로 번진다
-https://www.newsis.com/view/NISX20260422_0003601445
-
-로봇과 악수하는 이세돌
-http://www.newspim.com/news/view/20260422000593
-
-日 2025년도 무역적자 15.9조원·68.4%↓…"대미수출 5년 만에 감소"
-https://www.newsis.com/view/NISX20260422_0003601692
-
-"전쟁탓…순익 20% 급감·노선 감축" 글로벌 항공사 울상
-https://www.mt.co.kr/world/2026/04/22/2026042210153057242
-
-“일하는 모습 그대로 AI가 배운다”…메타, 직원 키보드·마우스 학습
-https://www.donga.com/news/Economy/article/all/20260422/133789564/2
-
-스페이스X “우주 AI 데이터센터 사업성 불확실”
-https://www.hani.co.kr/arti/economy/it/1255341.html
-
-LG AI연구원-엔비디아 경영진 회동… ‘산업 특화 AI’ 공동 개발 합의
-https://www.newstheai.com/news/articleView.html?idxno=20582
-
-육군, 현대차에 아틀라스 요청...문제는 '비무기화 서약'
-https://www.hankyung.com/article/2026042290285
-
-재경부 "외국인 주식시장 접근성, 글로벌 표준 맞게 높일 것"
-https://news.einfomax.co.kr/news/articleView.html?idxno=4411011
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
 [2026-04-22 15:24] 기판도 팔 물량 없음
 
 
@@ -7522,3 +7464,12 @@ https://www.techtimes.com/articles/317688/20260604/nvidia-names-sk-telecom-key-p
 - 안전성 우려와 더불어 Zynlonta 병용 요법은 대조군 대비 환자의 전체 생존 기간 이점을 입증하지 못해 시장의 기대치에 미치지 못했다.
 - 다만 무진행 생존 기간 연장이라는 1차 평가변수는 충족했으며, ADC Therapeutics는 올 4분기 정식 승인을 위한 추가 신청서를 제출하기 위해 FDA와 논의할 계획이다.
 https://www.biospace.com/drug-development/adc-therapeutics-nosedives-on-27-deaths-in-confirmatory-trial-for-lymphoma-drug
+
+[2026-06-05 08:15] AI가 당신의 금융을 처리할까? Morgan Stanley, AI 에이전트의 금융 플랫폼 직접 접근 허용 - 인디아 투데이
+(by https://t.me/TNBfolio)
+- Morgan Stanley는 고객들이 주식 관리 플랫폼인 ShareWorks와 Equity Edge에 AI 에이전트를 직접 배포하여 데이터와 인사이트에 접근할 수 있도록 허용한다.
+- 기존에는 사용자가 직접 로그인하여 정보를 검색하고 작업해야 했으나, 앞으로는 AI 에이전트가 사용자를 대신해 정보를 검색하고 워크플로우를 실행하게 된다.
+- 현재 일부 고객에게 초기 접근 권한이 부여되었으며, Morgan Stanley는 내년까지 이를 3,400개의 관리 고객사 전체로 확대할 계획이다.
+- 이번 조치는 AI 에이전트가 일상적인 업무를 처리하는 월스트리트의 광범위한 변화를 반영하며, 외부 AI 에이전트의 시스템 직접 연결을 공개적으로 허용한 것은 이례적이다.
+- Morgan Stanley는 이를 통해 기업 고객들이 인력 추가 없이 복잡한 주식 계획을 관리할 수 있도록 지원하며, 자사 내부의 고객 지원 및 자산 관리 역량도 확장할 예정이다.
+https://www.indiatoday.in/technology/news/story/ai-to-handle-your-finances-morgan-stanley-is-opening-up-to-agents-in-a-big-way-2921743-2026-06-04

@@ -1,24 +1,3 @@
-[2026-03-12 16:45] 안녕하세요 FS리서치 운영자입니다. 채널명이 바뀌어서 이상한 채널에 자동으로 들어온게 아닌가 싶으실텐데요 작년부터 더이상 기업분석 보고서를 작성하고 있지 않고 사실상 독립리서치 운영을 하고 있지 않기 때문에 미국투자를 위주로 하시는 투자자분께 채널 운영을 넘기기로 결정하였습니다.
-
-새로 운영해주실 "놓놓" 님께서는 글로벌 트렌드에 맞는 주식을 발굴하시는데 강점이 있는 분이다보니 FS리서치에서 운영할때보다 더 좋은 분석글이 많을거 같구요 미국 주식뿐만 아니라 국내 기업과 산업에 대한 코멘트도 진행할 예정이니 이전보다 더 큰 관심 부탁드립니다. 
-
-그동안 저희 채널 구독해주셔서 감사하고 여기 계신 모든 투자자분들 성투하시기를 바랍니다.
-
-[2026-03-12 16:47] [Disclaimer]
-• 본 채널의 글은 단순 포워딩 또는 전문가가 작성하지 않은 글이며, 정확하지 않은 내용을 포함할 수 있습니다.
-• 본 채널의 글은 매수, 매도 추천이나 투자 권유가 아닙니다.
-• 본 채널의 글은 투자자의 매매, 투자 결과에 대한 어떤 법적 근거나 책임 소재로 사용될 수 없습니다.
-• 투자에 대한 책임은 전적으로 본인에게 있습니다.
-
-[2026-03-13 09:46] 안녕하세요, 이번에 채널을 운영하게 된 놓놓이라고 합니다!
-우선 그동안 좋은 채널을 운영해주신 FS리서치에 깊은 감사의 말씀을 전합니다.
-너무 좋은 채널을 이어받게 되어 긴장도 되고, 감회가 새롭네요.
-
-FS리서치 만큼 딥하게 좋은 글을 쓸 수 있을지는 모르겠지만 열심히 해보겠습니다!
-해외 및 국내 주식을 모두 보고 있고, 투자하면서 볼만한 것들 다양하게 올려보겠습니다.
-
-한번 더 FS리서치에 감사드리며, 모든 구독자 분들 같이 성투하길 바랍니다. 잘 부탁드리겠습니다!
-
 [2026-03-13 10:20] https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened
 
 [2026-03-13 10:20] 블룸버그 기사에 대한요약은 애플(Apple)폴더블에 대한 여러 스펙에 대한 내용입니다.
@@ -5769,5 +5748,80 @@ https://t.me/alphasignal_now
 *전시장 전반에 걸쳐 고속 서버 전송 솔루션의 존재감이 커졌음. 오랫동안 개념 수준에 머물렀던 광통신 기술들이 이제는 실제 물리적 샘플(시제품)로 등장하고 있음.
 
 *AI의 첫 번째 붐은 컴퓨팅(칩)의 몫이었고, 두 번째 붐은 메모리 였음.그리고 그들이 말하는 그다음 파도는 바로 **연결성** 기술 가치사슬(Value chain)에 속한 기업들에게 찾아올 것임.
+
+https://t.me/alphasignal_now
+
+[2026-06-05 07:37] CPO 관련 최근 주요내용 (2026년 5~6월)
+
+🔴 시장 규모
+
+- 시장조사업체 라이트카운팅은 AI 클러스터용 이더넷 광 트랜시버와 CPO 시장 규모가 2026년 260억 달러(약 38조 원)에 이를 것으로 전망, 약 60% 성장률에 해당.  (Dizzotv)
+🔗 https://www.dizzotv.com/site/data/html_dir/2026/04/08/2026040880163.html
+
+🔴 삼성 파운드리 — 실리콘 포토닉스 수주 (4/30)
+
+- 삼성 파운드리가 광통신 모듈 대형 업체로부터 실리콘 포토닉스 관련 수주에 성공.  (ZDNet Korea) 삼성전자는 글로벌 R&D 네트워크를 확장하며 2027년 CPO 상용화를 목표로 설정.  (G-News)
+🔗 https://zdnet.co.kr/view/?no=20260430100524
+🔗 https://www.g-enews.com/article/Global-Biz/2025/12/202512091335276205fbbec65dfb_1
+
+🔴 NVIDIA Spectrum-X Photonics 출하 예고
+
+- NVIDIA는 1.6Tb급 CPO 스위치 'Quantum-X'를 Lambda·CoreWeave·TACC 등에 공급 시작. Spectrum-X Photonics는 2026년 하반기 출하 예정.  (Finance-scope)
+🔗 https://www.finance-scope.com/article/view/scp202605150011
+
+🔴 MS MOSAIC 마이크로LED 인터커넥트 (5/19 뉴스핌 2부작)
+
+- 마이크로소프트는 MOSAIC 마이크로LED 기반 광학 인터커넥트를 개발, 저가 마이크로LED와 멀티코어 이미징 광섬유를 접목한 'WaS' 아키텍처로 전력 소비 문제 해결 목표.  (Newspim)
+🔗 https://www.newspim.com/news/view/20260519000792 (①편)
+🔗 https://www.newspim.com/news/view/20260519000793 (②편)
+
+🔴 NVIDIA·코닝 '유리 동맹'
+
+- NVIDIA가 Coherent·Lumentum에 40억 달러를 투자, 광섬유(코닝)와 발광 소자를 모두 확보해 AI 하드웨어 광학 인프라를 수직 장악하려는 전략.  (Choicestock)
+🔗 https://www.choicestock.co.kr/stock/news_view/137684
+
+🔴 Molex, CPO용 파이버-투-칩 커넥터 기술 인수
+
+- Molex가 대량 생산용 CPO와 실리콘 포토닉스에 최적화된 탈착식 파이버-투-칩 커넥터 기술 확보. AI 워크로드 급증으로 광 인터커넥트가 데이터센터 핵심 병목으로 부상.  (Hellot)
+🔗 https://www.hellot.net/news/tag_list_all.html?tag=CPO
+
+🔴 세미나허브 CPO 세미나 (6/26 예정)
+
+- 오는 6월 26일 여의도 FKI타워에서 'AI 시대 CPO 기술과 상용화 전략 세미나' 개최 예정.  (ZDNet Korea)
+🔗 https://zdnet.co.kr/view/?no=20260430133001
+
+
+
+https://t.me/alphasignal_now
+
+[2026-06-05 08:20] https://www.thelec.kr/news/articleView.html?idxno=57602
+
+
+https://t.me/alphasignal_now
+
+[2026-06-05 08:30] https://www.thelec.kr/news/articleView.html?idxno=57645
+
+
+https://t.me/alphasignal_now
+
+[2026-06-05 08:45] 컴퓨텍스 2026에서 **미디어텍**이 **마이크로LED** 관련 부스를 넓게 전시했다고 하네요.
+
+"어떤 이유에서인지 MediaTek이 scale-up CPO용 microLED에 집착하고 있다.
+정작 자사 커스텀 ASIC은 전혀 없었다. 흥미롭네."
+
+Datacenter Rack Interconnects — High Bandwidth Density Solution
+* 탁월한 전력 효율 — 기존 솔루션 대비 총 전력 소비 30~50% 절감
+
+* 우수한 열 안정성 & 신뢰성 — 다양한 온도 환경에서도 안정적인 광출력 및 파장 정밀도 유지
+
+* 대규모 병렬처리 고밀도 — 단일 케이블로 대역폭 1.6T, 3.2T 이상의 대규모 병렬 광 채널 구현
+
+* 모놀리식 CMOS 통합 — MicroLED를 CMOS 트랜시버 칩에 직접 통합하는 첨단 패키징 기술
+
+Data Center Rack Interconnects"
+→ 세계 최초 데이터센터 랙 인터커넥트용 SoC MicroLED 솔루션
+
+MediaTek이 어느쪽으로 힘을 주는지 
+알 수있는 내용이네요.
 
 https://t.me/alphasignal_now

@@ -1,67 +1,3 @@
-[2026-04-23 15:14] 4월 23일 장 마감 전 뉴스
-
-북극항로-AI 전환에 6조7000억 투입
-https://www.donga.com/news/Society/article/all/20260422/133793293/2
-
-삼성전기 장덕현 "AI데이터센터 핵심부품, 우리만 공급 가능"
-https://www.yna.co.kr/view/AKR20260423038300003
-
-정부 “1.7% 성장, 반도체 호조와 정책 효과 맞물려…2분기 조정은 불가피”
-https://www.sedaily.com/article/20036173
-
-AI·메모리 수요 폭발… 글로벌 IT 지출 13.5% 급증 전망
-https://biz.chosun.com/it-science/ict/2026/04/23/HZXTPIKI5RE4RCVCPYZD5WE5XM/
-
-LG전자 류재철 “내년 로봇 관절 ‘액추에이터’ 글로벌 공급”
-https://biz.chosun.com/it-science/ict/2026/04/23/MOWWLVB6QFCZFDEARNRYMT5MC4/
-
-4월 셋째주 서울 아파트값 상승 폭 확대…강남·용산 하락 지속
-https://news.einfomax.co.kr/news/articleView.html?idxno=4411273
-
-한 번 통과에 59억원? 파나마 운하 통행권 10배 상승…사상 최고
-https://www.mt.co.kr/world/2026/04/23/2026042311312690042
-
-韓 최초 '합성생물학 육성법' 본격 시행…"바이오 경제 전환점"
-https://www.mt.co.kr/tech/2026/04/23/2026042309503633275
-
-NASA 국장 “달 착륙용 우주복, 2028년 반드시 완성” 장담하지만…현실성은 ‘글쎄’
-https://www.khan.co.kr/article/202604231313001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news
-
-머스크 테슬라 CEO "삼성 파운드리에 'AI4.1' 칩 생산도 맡겨"
-https://www.hankyung.com/article/202604231532i
-
-'항암제 게임체인저' 인비보 CAR-T…개발 경쟁 후끈
-https://www.newsis.com/view/NISX20260423_0003603488
-
-"직원 번아웃도 신경쓴다"…에너지 트레이딩 기업들, 전쟁 장기화 대비
-https://www.newsis.com/view/NISX20260423_0003603268
-
-성호전자 "ADS테크, 엔비디아 이어 브로드컴과 계약…AI 반도체 '양대 산맥' 잡았다"
-https://www.mt.co.kr/stock/2026/04/23/2026042314292289900
-
-삼성SDS "AI  풀스택 전략 추진 위해 2031년까지 10조원 투자"
-http://www.newspim.com/news/view/20260423000913
-
-현대차 "대전 안전공업 화재로 엔진 밸브 공급 차질"
-http://www.newspim.com/news/view/20260423000963
-
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
-[2026-04-23 15:32] SK하이닉스, 낸드 생산량의 절반 이상을 321단 칩으로 전환 계획 - DIGITIMES
-(by https://t.me/TNBfolio)
-- SK하이닉스는 인공지능 애플리케이션 수요 증가에 대응하기 위해 최신 321단 낸드 칩 생산을 대폭 확대한다고 발표했다.
-- 올해 말까지 국내 낸드 생산량의 50% 이상을 321단 제품으로 전환하여 변화하는 시장 수요에 맞출 계획이다.
-- 인공지능 모델의 실시간 추론 확대로 인해 고성능 및 고용량 기업용 SSD 채택이 늘어나면서 관련 저장장치 수요가 급증하고 있다.
-- 세계 최초로 개발한 321단 QLC 낸드의 고객사 인증을 완료했으며 이를 통해 생산 효율성과 수익성을 동시에 개선할 방침이다.
-- 자회사 Solidigm과의 협업을 통해 인공지능 데이터 센터 및 PC 시장에서의 고용량 스토리지 리더십을 더욱 공고히 할 예정이다.
-https://www.digitimes.com/news/a20260423VL217/sk-hynix-nand-chips-demand-production.html
-
-[2026-04-23 18:11] 코스피 신용잔고
-
 [2026-04-23 18:11] 코스닥 신용잔고
 
 [2026-04-23 23:11] [26년 4월 23일  한국 뉴스]
@@ -7370,3 +7306,7 @@ https://www.marketwatch.com/story/one-quadrillion-is-the-number-used-to-describe
 - OpenAI의 CEO Sam Altman은 임기 초부터 정부 당국자들과 이 개념을 논의해 왔으며 AI가 창출할 막대한 부를 널리 공유할 메커니즘으로 제안했다.
 - 반면 Anthropic은 현재 정부에 지분을 제공하는 논의에 참여하지 않고 있으며 이 제안이 실현되면 전통적인 미국 산업 정책에서 크게 벗어난 변화가 될 것이다.
 https://www.digitimes.com/news/a20260605VL211/dividend-government-openai-technology-anthropic.html
+
+[2026-06-05 21:29] 코스피 신용잔고
+
+[2026-06-05 21:29] 코스닥 신용잔고

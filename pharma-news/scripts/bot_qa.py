@@ -1,4 +1,4 @@
-import base64
+﻿import base64
 import io
 import json
 import math
@@ -295,7 +295,7 @@ def answer(question: str, bm25: BM25) -> str:
         messages=[{"role": "user", "content": prompt}]
     )
     text = msg.content[0].text.strip()
-    text = re.sub(r'\*+', '', text)
+    text = re.sub(r'\*{2,}', '', text)
     text = re.sub(r'#{1,6}\s*(.+)', r'◆ \1', text)
     text = re.sub(r'_{1,2}([^_\n]+)_{1,2}', r'\1', text)
     text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)

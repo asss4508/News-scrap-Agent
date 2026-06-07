@@ -235,7 +235,7 @@ async def sync_single_channel(channel: str) -> tuple[int, str]:
             return 0, "Telethon 인증 실패"
         entity = await client.get_entity(channel)
         messages = []
-        async for msg in client.iter_messages(entity, limit=500):
+        async for msg in client.iter_messages(entity, limit=None):
             if msg.text and msg.text.strip():
                 messages.append(msg.text.strip())
         await client.disconnect()

@@ -1,87 +1,3 @@
-[2026-04-24 09:22] Anthropic, 장외 시장 가치에서 라이벌 OpenAI 추월하며 1조 달러 돌파 - Tom's Hardware
-(by https://t.me/TNBfolio)
-- 인공지능 기업 Anthropic의 기업 가치가 비상장 주식 거래 시장인 Forge Global에서 1조 달러를 기록하며 OpenAI의 8,800억 달러를 넘어섰다.
-- 이번 급등은 Anthropic의 실제 투자 유치 기준 가치인 3,800억 달러보다 약 3배 높은 수준으로 투자자들의 폭발적인 수요를 반영한다.
-- 시장 관계자들에 따르면 일부 주주들은 Anthropic의 가치를 1조 1,500억 달러로 산정하여 매물을 내놓거나 부동산과 주식을 교환하려는 시도까지 나타나고 있다.
-- 최근 OpenAI에 대한 장외 시장 수요가 다소 주춤해진 반면 Anthropic은 Claude AI의 빠른 성장세에 힘입어 투자자들 사이에서 가장 선호되는 종목으로 부상했다.
-- 전문가들은 인공지능 분야의 세대교체 기회를 잡으려는 투자자들이 몰리면서 Anthropic이 현재 비상장 AI 기업 중 가장 유리한 위치를 점한 것으로 분석한다.
-https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-surpasses-biggest-rival-openai-in-secondary-market-valuation-surges-to-usd1-trillion-amid-frantic-investor-interest
-
-[2026-04-24 09:26] Samsung과 SK Hynix, NAND 수요 급증에 맞춰 중국 공장 업그레이드 가속 - Digitimes
-(by https://t.me/TNBfolio)
-- AI 붐에 따른 기업용 SSD 수요 폭증에 대응하기 위해 Samsung과 SK Hynix가 중국 내 NAND 플래시 생산 거점의 공정 업그레이드에 박차를 가하고 있다.
-- Samsung은 시안 공장의 V8 공정 전환을 완료하고 2026년 하반기 양산을 목표로 하고 있으며, 추가로 V9 기술 도입을 위한 대규모 설비 투자를 계획 중이다.
-- SK Hynix는 다롄 공장의 노후 장비를 교체해 192단 공정을 최적화하고 있으며, 2026년 하반기부터 V8 생산 능력을 월 3만~5만 장 규모로 확대할 예정이다.
-- 양사가 한국 내수 공장에서는 HBM과 첨단 DRAM 생산에 집중함에 따라, 상대적으로 수익성이 낮아진 NAND 생산은 중국 기지를 활용하는 이원화 전략을 취하고 있다.
-- 미국 장비 수출 규제의 일시적 완화 속에 진행되는 이번 공정 전환 결과가 2026년 하반기 글로벌 NAND 시장의 주도권을 결정짓는 핵심 변수가 될 전망이다.
-https://www.digitimes.com/news/a20260423PD213/demand-nand-samsung-sk-hynix-production.html?chid=10
-
-[2026-04-24 11:38] 4월 24일 식전 뉴스
-
-삼성, 테슬라 DRAM 공급 4배 증대… 전기차 반도체 수요 급증 반영
-https://www.youthassembly.kr/news/943893
-
-에스티큐브, 美ASCO 2026서 ‘넬마스토바트’ 대장암 2상 초기 데이터 공개
-https://www.pharmnews.com/news/articleView.html?idxno=303033
-
-트럼프 "이스라엘-레바논 휴전, 3주 연장될 것"
-https://www.mt.co.kr/world/2026/04/24/2026042406433943108
-
-소프트뱅크, AI 데이터센터용 배터리 생산 추진
-https://www.newspim.com/news/view/20260424000067
-
-지아이이노베이션 'GI-102', 키트루다 직접 비교 임상 2상 승인
-http://www.yakup.com/news/?mode=view&cat=12&cat2=121&cat3=0&nid=326431
-
-삼성중공업, 부유식 데이터센터로 美 시장 공략…글로벌 개념설계 인증 획득
-https://www.etoday.co.kr/news/view/2578750
-
-빌 게이츠의 테라파워, 美 첫 ‘차세대 원전’ 본격 착공
-https://www.theguru.co.kr/news/article.html?no=100979
-
-중동 재건에 LNG까지…삼성E&A, 20조 수주잔고로 반등 채비
-http://www.dhdaily.co.kr/news/articleView.html?idxno=26098
-
-김택진 NC 대표 "논리 넘어 본능적인 재미 선사하는 게임 만들어야"
-https://news.einfomax.co.kr/news/articleView.html?idxno=4411452
-
-네이버의 사우디 야심…데이터센터 설계부터 AI까지 '풀스택' 수출
-https://www.mt.co.kr/tech/2026/04/24/2026042409183170712
-
-美 SMR 테레스트리얼 에너지, 원자로 안전성 분석자료 NRC 제출
-https://www.theguru.co.kr/news/article.html?no=101001
-
-SK, 베트남과 ‘AI 생태계’ 동맹…데이터센터·에너지 인프라 구축
-https://biz.chosun.com/industry/company/2026/04/24/Y3MFKAVBP5CQBOGCXPMXU2JPYQ/
-
-LG에너지솔루션, 폴란드서 ESS 배터리 첫 출하…"유럽 공략 본격화"
-https://www.newsis.com/view/NISX20260424_0003604791
-
-한중엔시에스, 미국 인디애나 ESS 공장 착공
-https://www.mt.co.kr/stock/2026/04/24/2026042410329659266
-
-에이비온 "ADC 내성 극복 신약 ABN202 효과 입증"
-http://www.newspim.com/news/view/20260424000396
-
-케어젠, 美펩타이드 열풍 수혜…합법 공급 가능한 유일 기업 부각
-https://www.asiae.co.kr/article/2026042409332832480
-
-
-[자료 출처]
-
-https://t.me/TNBfolio
-
-[2026-04-24 12:04] 한국의 바이오 경제 승부수 
-
-1. 세계 최초 한국의 베팅
-- 합성생물학
-2. 혁신의 엔진
-- 바이오파운드리 
-3. 기회와 숨겨진 위험 
-4. 바이오 대전환 로드맵
-
-https://youtu.be/Nb9orb0tiTM
-
 [2026-04-24 12:13] GPT-5.5와 에이전트 컴퓨팅
 - AI 슈퍼앱 시대의 서막
 
@@ -7291,3 +7207,86 @@ https://www.mt.co.kr/world/2026/06/07/2026060718242014925
 - OpenAI는 이미 지난 4월 모든 시민이 AI 기반의 경제 성장 성과를 나눌 수 있는 공공 부펀드 조성을 제안한 바 있으며 Scott Bessent 재무부 장관도 이에 관심을 보인 것으로 알려졌다.
 - 하지만 일각에서는 정부의 AI 기업 지분 보유가 정치적 특혜나 부패로 이어질 수 있다는 우려를 제기하고 있으며 경쟁사인 Anthropic 등은 관련 논의에 참여하지 않고 있다고 밝혔다.
 https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00?syn-25a6b1a6=1
+
+[2026-06-07 21:44] [속보] 젠슨 황-최태원, 8일 오전 'SK-엔비디아' 협업 계획 직접 미디어 발표 예정
+
+https://www.newsis.com/view/NISX20260602_0003652715
+
+[2026-06-07 21:47] Nvidia와 SK, 젠슨 황의 칩 부족 장기화 경고 속 협력 계획 상세 발표 예정 - 로이터
+(by https://t.me/TNBfolio)
+- 미국 반도체 기업 Nvidia와 한국의 SK 그룹은 월요일 오전 양사 간의 새로운 협력 계획을 발표할 예정이다.
+- SK하이닉스 대변인은 최태원 SK그룹 회장과 젠슨 황 Nvidia CEO가 월요일 언론을 대상으로 구체적인 계획을 브리핑할 것이라고 확인했다.
+- 젠슨 황 CEO는 AI 슈퍼컴퓨터부터 CPU, PC, 로보틱스에 이르기까지 다양한 산업에서 협력하고 있으며 조만간 발표가 있을 것이라고 언급했다.
+- 또한 현재 전 세계적인 반도체 공급망 전체의 품귀 현상이 높은 수요로 인해 향후 수년간 지속될 것으로 전망했다.
+- 이번 발표를 앞두고 젠슨 황 CEO는 최태원 회장 및 곽노정 SK하이닉스 CEO를 포함한 경영진과 서울의 한 식당에서 만남을 가졌다.
+https://www.reuters.com/business/media-telecom/nvidia-ceo-sk-chairman-announce-cooperation-plan-monday-report-2026-06-07/
+
+[2026-06-07 22:52] [26년 6월 5일~6일  한국 뉴스]
+
+1. 스페이스X 자금 쏠림 속 삼전닉스 조정 시작 분석
+2. 도쿄증시 반도체주 자금 이동으로 닛케이 1%대 하락
+3. 이틀 연속 하락하며 반도체주 매도세 지속
+4. 스페이스X 2040년 매출 5000조원 전망
+5. 스페이스X IPO 공모액 두 배인 역대급 상장
+
+6. 중국증시 반도체주 약세로 마감 하락
+7. 중국증시 반도체주 약세로 마감 하락
+8. 중국 5200조원 규모 사모펀드 업계 전면 재편
+
+9. 스페이스X 청약으로 수조원 유출되어 환율 변동성 우려
+10. 환율 증시 변동성에도 한국 CDS 프리미엄 안정세 지속
+11. 한은 AI 활용으로 업무 단축되나 생산 증가 미미
+12. 반도체 호조로 해외 IB 한국 3% 성장 가능
+13. 네이버 이끈 여성 리더 한성숙 국무총리 후보자 프로필
+14. 이대통령 차기 국무총리 후보자에 한성숙 장관 지명
+
+15. 영국 정재계 두산의 롤스로이스SMR 핵심부품 수주 반발
+16. 영국 SMR 핵심 한국 기업 위탁에 논쟁 발생
+17. LS일렉트릭 독일 전시회 참가로 유럽 전력 시장 공략
+
+18. SK AI 반도체 호황에 SK실트론 매각 재검토
+19. GaN 기술로 데이터센터 전력 인프라 1㎿ 시대 가능
+20. 인텔 반도체 공장에 히타치 AI시스템 채택
+21. 딥엑스 엔비디아 대항해 피지컬 AI 승부수
+22. 젠슨 황 배경훈 부총리 만남과 선물 주목
+23. 대덕전자 업황 반등에 FC-BGA 사업 투자 재개
+24. 속보 젠슨 황 삼성 파운드리와 많은 파트너십 언급
+25. SKT 엔비디아와 반도체 공장 디지털 트윈 구축
+26. LGU+ 파주에 수도권 최대 AIDC 건설 목표
+27. SKT 정재헌 젠슨 황 만나 피지컬AI 선점
+28. 오픈AI 챗GPT 출시 후 최대 개편으로 진화
+29. 박정원 회장 젠슨 황 환영하며 파트너십 시작
+30. 젠슨 황 내일 발표 예고 및 삼성 전영현 회동
+
+31. 구광모 만난 젠슨 황 AI 로봇 시대 협력
+32. CATL 핀란드에 3GWh 규모 BESS 공급 계약
+33. 다이슨 휴머노이드 로봇 2029년 내 보편화 전망
+34. 젠슨 황 정의선 회동으로 피지컬 AI 동맹 확인
+35. 젠슨 황 한국과 로봇 자율주행 AI밸트 구축
+36. HD현대로보틱스 2세대 협동로봇 출시로 두산과 경쟁
+
+37. 엔씨 아이온 2 글로벌 오는 9월 출시 예정
+38. 젠슨 황 PC방서 엔씨 김택진 및 이용자 만남
+39. 젠슨 황 크래프톤 장병규 만나 피지컬AI 협력 논의
+40. 엔씨 김택진 엔비디아 젠슨 황 피지컬 AI 협력
+
+41. 비만치료제 펩타이드 코인 암시장 1500억원대 성장
+42. 메디톡스 보톡스 분쟁으로 2800억 비용 청구 직면
+
+43. KT&G MSCI ESG AAA 등급 유지로 지분 확대
+
+44. 북극항로는 한반도 저주 벗어날 기회 인터뷰
+45. 중동 긴장 속 한국 유조선 8번째 홍해 통과
+
+https://naver.me/5FDU79ZY
+
+(자세한 내용은 링크 참조)
+
+[2026-06-07 22:53] 엔비디아 CEO, 차세대 베라 칩에 SK하이닉스 메모리 탑재 발표 - 블룸버그
+(by https://t.me/TNBfolio)
+- NVIDIA 최고경영자(CEO) Jensen Huang은 새로운 중앙처리장치인 Vera CPU에 SK하이닉스의 메모리 칩을 탑재할 예정이라고 밝혔다.
+- Jensen Huang은 서울에서 최태원 SK그룹 회장, 곽노정 SK하이닉스 사장 등과 만찬을 갖고 올 하반기 및 내년의 대규모 사업 협력을 준비 중이라고 언급했다.
+- 이번에 도입된 Vera CPU는 Intel의 Xeon, AMD의 Epyc 등과 경쟁하는 독자적인 데이터센터용 마이크로프로세서다.
+- 한국을 방문 중인 Jensen Huang은 향후 통신 네트워크가 AI에 활용될 것에 대비하여 통신 기업들과도 협의를 진행하고 있다고 덧붙였다.
+- 월요일에는 삼성전자 전영현 부회장을 비롯해 현대자동차그룹, LG그룹 등 국내 주요 재계 리더들과의 만남이 예정되어 있다.
+https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports

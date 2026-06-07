@@ -1,16 +1,3 @@
-[2026-04-24 12:13] GPT-5.5와 에이전트 컴퓨팅
-- AI 슈퍼앱 시대의 서막
-
-1. AI에이전트의 등장
-2. 경쟁자를 압도하는 성능
-3. 기회와 위험 사이
-4. 미래의 슈퍼앱 로드맵
-- OPEN AI의 대응 전략
-5. 우리에게 주는 의미는?
-- 업무 방식의 근본적 혁신 
-
-https://youtu.be/2dNt0BCMvlM?si=4aWYY4CecgCNXQPT
-
 [2026-04-24 13:41] SK Hynix, HBM4 개발 위해 TSMC와 파트너십 심화 및 메모리-로직 통합 가속 - Digitimes
 (by https://t.me/TNBfolio)
 - SK Hynix는 'TSMC 북미 기술 심포지엄 2026'에 참가하여 차세대 HBM4 기술과 로직 공정 통합을 통한 메모리 병목 현상 해결 전략을 발표했다.
@@ -7287,6 +7274,8 @@ https://naver.me/5FDU79ZY
 - NVIDIA 최고경영자(CEO) Jensen Huang은 새로운 중앙처리장치인 Vera CPU에 SK하이닉스의 메모리 칩을 탑재할 예정이라고 밝혔다.
 - Jensen Huang은 서울에서 최태원 SK그룹 회장, 곽노정 SK하이닉스 사장 등과 만찬을 갖고 올 하반기 및 내년의 대규모 사업 협력을 준비 중이라고 언급했다.
 - 이번에 도입된 Vera CPU는 Intel의 Xeon, AMD의 Epyc 등과 경쟁하는 독자적인 데이터센터용 마이크로프로세서다.
-- 한국을 방문 중인 Jensen Huang은 향후 통신 네트워크가 AI에 활용될 것에 대비하여 통신 기업들과도 협의를 진행하고 있다고 덧붙였다.
+- 한국을 방문 중인 Jensen Huang은 향후 통신 네트워크가 AI에 활용될 것에 대비하여 SK텔레콤 등 통신 기업들과도 협의를 진행하고 있다고 덧붙였다.
 - 월요일에는 삼성전자 전영현 부회장을 비롯해 현대자동차그룹, LG그룹 등 국내 주요 재계 리더들과의 만남이 예정되어 있다.
-https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports
+https://www.bloomberg.com/news/articles/2026-06-07/nvidia-s-ceo-says-new-vera-chip-will-use-sk-hynix-s-memory-chips
+
+[2026-06-07 23:27] 링크 수정했습니다.

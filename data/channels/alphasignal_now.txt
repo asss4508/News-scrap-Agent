@@ -1,26 +1,3 @@
-[2026-03-15 12:57] ✅ **메모리 반도체에도 전쟁 불똥… D램값 보름새 30% 급등
-
-**https://www.donga.com/news/Economy/article/all/20260312/133519826/2
-
-[2026-03-15 12:57] *** 이란: 미국/이스라엘 제외하고 모두 호르무즈해협 지나가세요**
-
-========================
-
-~ Iran said Saturday that **all  countries besides the US and Israel may pass through the Strait of Hormuz**, in a desperate attempt at coalition busting less than a day after the US bombed military targets on its oil-critical Kharg Island
-
-~ “As a matter of fact, the Strait of Hormuz is open,” Iranian Foreign Minister Abbas Araghchi said
-
-~ “It is only closed to the tankers and ships belong[ing] to our enemies, to those who are attacking us and their allies. Others are free to pass,” Araghchi told MS NOW
-
-https://nypost.com/2026/03/14/world-news/any-country-except-for-us-and-israel-can-pass-through-strait-of-hormuz-iranian-foreign-minister-says/
-
-[2026-03-15 16:28] ✅ 삼성 디스플레이, 애플 아이폰 폴더블폰용 OLED 디스플레이 대량 생산 개시
-업계에 따르면 삼성디스플레이는 애플이 개발 중인 폴더블 아이폰을 위해 설계된 새로운 OLED 패널의 양산에 돌입한 것으로 알려졌다. 
-
-해당 디스플레이는 접이식 스마트폰에서 흔히 지적되는 화면 주름 문제를 최소화하는 데 초점을 맞춘 것이 특징이다.
-
-https://www.autodaily.co.kr/news/articleView.html?idxno=542350
-
 [2026-03-16 07:38] https://n.news.naver.com/mnews/article/138/0002220606
 
 [2026-03-16 10:56] https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html
@@ -5912,5 +5889,39 @@ https://t.me/alphasignal_now
 - 1세대 제품은 16단 낸드 적층을 특징으로 할 것으로 예상. 
 
 - SK하이닉스 또한 표준화 작업 및 관련 기술 개발을 위해 샌디스크와 협력하고 있음.
+
+https://t.me/alphasignal_now
+
+[2026-06-08 14:27] **SK하이닉스, 파트너십 강화하며 엔비디아 베라(Vera) CPU에 메모리 공급; 삼성과의 미팅에 이목 집중**
+
+*​삼성전자, SK하이닉스, 마이크론 등 메모리 '빅3'가 엔비디아의 베라 루빈(Vera Rubin)용 HBM4 공급 승인을 확보했다는 확인에 이어, 엔비디아와 SK하이닉스가 협력을 더욱 강화했음.
+
+*SK하이닉스의 고성능 메모리는 엔비디아의 차세대 데이터센터용 베라 CPU에도 사용될 예정이며, 이는 HBM을 넘어 CPU 수준의 통합으로 파트너십이 확장되었음을 의미.
+
+*SK하이닉스는 엔비디아의 베라 루빈 AI 슈퍼컴퓨터, 베라 CPU, RTX 스파크(Spark) 기반 PC, 젯슨 토르(Jetson Thor) 로보틱스 플랫폼에 메모리 솔루션을 공급할 것.
+
+*에이전트 AI(Agent AI) 시대에 CPU의 역할이 커짐에 따라, 블룸버그는 베라의 출시가 엔비디아가 데이터센터 CPU 시장으로 더 깊이 진출하고 있음을 알리는 신호.
+
+*엔비디아는 인텔의 제온(Xeon), AMD의 에픽(EPYC) 라인은 물론, 아마존의 그래비톤(Graviton) 시리즈와 같은 주요 클라우드 제공업체의 자체 칩들과 경쟁하게 될 것.
+
+*엔비디아에 따르면 베라는 2세대 LPDDR5X 메모리 하위 시스템을 통합하여 DDR5보다 비트당 에너지를 훨씬 적게 소모. 최대 1.2TB/s의 메모리 대역폭(기존 CPU 설계의 최대 2배)을 구현하면서도, DDR5 기반 시스템이 100W 이상의 전력을 소모하는 것과 달리 30W 미만의 메모리 전력으로 작동.
+
+***엔비디아의 다음 행보: 시장의 이목을 끄는 삼성과의 만남**
+
+- 삼성전자는 이미 엔비디아의 차세대 HBM4 자격 테스트를 통과하여 대량 생산 공급 승인을 확보. 그러나 SK하이닉스가 사전 검증 및 초기 할당 이점으로 선두를 선점하고 있는 상황에서, 이제 주요 초점은 삼성이 대규모 물량 약정을 통해 점유율을 확대하고 HBM 공급망에서의 입지를 강화할 수 있는지 여부는 지켜봐야 하는 상황.
+
+https://t.me/alphasignal_now
+
+[2026-06-08 14:29] "SK하이닉스는 엔비디아에 집중, 삼성은 AMD를 주시 — AI 메모리 경쟁"
+
+*모든 차세대 칩메이커는 2026년 **하반기(2H26)에 양산(Ramp-up)**을 시작할 예정.
+
+https://t.me/alphasignal_now
+
+[2026-06-08 17:36] *Vera Rubin 실제 출하 구성에서 SOCAMM2가 풀 탑재(192GB×8=1.5TB)가 아닌 96GB 기준으로 출하될 것 → "메모리 수요 절반" 공포 확산, 관련주 하락
+
+*Computex 하이닉스 부스를 가보면 — SK하이닉스가 공식 전시에서 **GPU 1개당 SOCAMM2 슬롯 4개가 장착된 구조 모델을 버젓이 전시했음**
+
+*전시 모델을 보면 **GPU 2개 × SOCAMM2 슬롯 4개 = 총 8슬롯으로, SOCAMM2 탑재 자체는 확정**. **96GB로 출하되더라도 슬롯 기반이라 업그레이드 수요 추가 발생 구조**이므로, 수요 감소 공포는 **과도한 해석.**
 
 https://t.me/alphasignal_now

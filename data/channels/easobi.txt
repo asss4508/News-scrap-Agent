@@ -1,7 +1,3 @@
-[2026-03-31 19:52] 매출전망 15.3조
-
-[2026-03-31 19:56] https://m.ruliweb.com/community/board/300143/read/74652156
-
 [2026-03-31 19:57] 그라닛을 추천합니다
 
 [2026-03-31 20:03] 📡 **알파 스캐너 리포트**
@@ -5553,3 +5549,80 @@ Intel (INTC)은 알파벳과 엔비디아가 백업 칩 공급업체로 고려�
 
 🖌 액시즈의대시보드
 ✉️ https://dashboard.camelresearch.com
+
+[2026-06-09 06:52] 📅 2026년 6월 8일 / Jay Kwon, Sangsik Lee, Neelay Y Kamath 외
+🏢 메모리 반도체 산업 보고서 (J.P. Morgan)
+📝 Memory Market Update
+🎯 커버 종목 모두 OW, 메모리 11% 조정은 중기 매수 기회
+•  SEC, SK Hynix, Kioxia (모두 OW)
+───── ✦ ─────
+💡 투자의견 및 핵심 결론
+•  아시아 메모리 핵심 OW 종목으로 SEC·SK하이닉스·Kioxia 제시
+•  최근 일주일 메모리주 11% 조정(SOX -6%)을 매수 기회로 판단
+•  조정의 주원인은 SOCAMM 콘텐츠 컷 노이즈와 지정학 이슈 고조
+•  "higher for longer" 업사이클에 초점, 풀백 시 비중 확대 권고
+───── ✦ ─────
+🔍 SOCAMM 콘텐츠 컷 노이즈 진단
+•  VR NVL72 랙 SOCAMM 콘텐츠가 CPU당 192GB→96GB로 하향(1.5TB→768GB)
+•  시장은 CPU향 메모리 수요 둔화 우려로 반응했으나 JPM은 오해로 판단
+•  성능 다운스펙이 아닌 메모리 공급 제약에 따른 수요 이동이 본질
+•  96GB SKU로 상향됐으나 전체 SOCAMM 비트 조달 수요는 불변
+•  Vera CPU 물량 증가가 콘텐츠 하향을 상쇄, 2027E 수요 가속 논거 유지
+•  JPMe DRAM 비트 수요 2026/27E +33%/+34% 전망의 핵심 동인
+───── ✦ ─────
+🤝 NVDA-SK하이닉스 파트너십
+•  NVDA가 SK하이닉스를 최대 메모리 파트너로 지정, 2년+ 다년 기술 협력
+•  차세대 HBM 공동 개발에 더해 데이터센터 HBM 범위를 크게 상회
+•  Vera Rubin(HBM/DRAM/NAND), Vera CPU(SOCAMM2), RTX Spark PC(LPDDR5X), Jetson Thor로 확장
+•  AI 인프라·퍼스널 AI·피지컬 AI 시장으로 다각화
+•  2027E까지 수요 가시성 확대, 공급 제약으로 타 메모리 업체에도 우호적
+•  SKT·네이버·두산·크래프톤·삼성·현대 등 한국 기업과 연쇄 협력 발표
+•  젠슨 황: 향후 5년 DRAM 웨이퍼 2배 증설도 부족할 수 있다고 언급
+───── ✦ ─────
+🏭 Computex 2026 주요 시사점
+•  SK하이닉스: 12-Hi HBM4 양산 정상 진행, 3사 모두 HBM4 퀄 완료
+•  12-Hi 48GB HBM4E(최대 16Gbps) 관심 확대, AI-N B(HBF 유사) 소개
+•  Solidigm: KV캐시 NAND 오프로딩 시 TTFT 최대 27배 단축
+•  VAST SW 결합 시 HDD 대비 DC 공간 비용 90% 절감
+•  Kioxia: AiSAQ SW 기반 초대형 RAG 서버, SW 차별화가 경쟁 우위 요인
+───── ✦ ─────
+🔭 향후 핵심 카탈리스트
+•  CSP·메모리 업체의 장기공급계약(LTA) 발표 업데이트
+•  x86·ARM CPU 관련 메모리 소싱·수요 동향(Vera CPU 포함)
+•  3Q26 컨트랙트 가격 업데이트
+•  마이크론 5월 분기 실적 및 전망 코멘트(6월 말 예정)
+───── ✦ ─────
+⚠️ 주요 리스크
+•  향후 추가적인 메모리 콘텐츠 컷 또는 최적화 가능성 배제 불가
+•  다만 심각한 메모리 공급 부족에 대한 불가피한 대응으로 해석
+•  지정학적 이슈 고조도 단기 주가 변동성 요인
+🖌 서화백의그림놀이 ✉️ https://t.me/easobi
+🖌 Axis 대시보드 ✉️ https://dashboard.camelresearch.com
+
+[2026-06-09 06:54] $aapl WWDC 내용 
+
+이번 WWDC 2026의 핵심은 **Siri AI의 본격 공개**.
+ • Apple은 Siri를 단순 음성비서에서 개인 맥락, 앱 이해, 화면 콘텐츠 이해, 대화형 응답, 작업 수행이 가능한 AI assistant로 확장.
+ • Apple Intelligence는 2세대 Foundation Models, Google Gemini 협력, Nvidia GPU 기반 클라우드 모델로 강화.
+ • AI Agent는 Passwords 앱에서 먼저 구체화.
+ • 사진에서는 Spatial Reframing으로 AI 이미지 생성 기능을 도입.
+ • Home App에서는 카메라 영상 분석과 검색 기능 강화.
+ • Liquid Glass는 투명도 조절과 가독성 개선 중심으로 업데이트.
+ • macOS 새 이름은 Golden Gate.
+ • 부모용 안전 기능도 강화.
+ • 다만 시장은 발표 중 Apple 주가를 하락시키며, AI 발표가 밸류에이션을 충분히 정당화할지에 대해서는 신중한 반응을 보임.
+
+**Siri가 “Siri AI”로 리브랜딩**
+ • Apple은 Siri의 새 버전을 **“Siri AI”**라고 발표.
+ • Siri AI는 Apple Intelligence를 기반으로 작동.
+ • 2024년에 처음 약속했던 Siri 개선 사항, 즉 개인 맥락 이해와 앱 기능 이해가 이번에 구현되는 흐름.
+ • Apple은 Siri가 이제 사용자가 원하는 것을 더 잘 찾고, 더 많은 작업을 처리하는 “훨씬 더 유능한 assistant”가 됐다고 설명.
+ • Apple VP Mike Rockwell은 Siri AI가 더 대화형이 되어, 사용자가 전례 없이 자연스럽게 주고받으며 자세하고 몰입감 있는 답변을 받을 수 있다고 설명.
+
+**개인 맥락과 앱 이해**
+ • Siri AI는 사용자의 개인적 맥락을 이해.
+ • 각 앱이 무엇을 할 수 있는지도 이해.
+ • 예시 데모에서는 Instagram 게시물에 보이는 랜드마크에 대해 Siri에게 길찾기를 요청하는 장면이 나옴.
+ • 즉, 화면 속 콘텐츠와 앱 컨텍스트를 바탕으로 행동할 수 있는 방향.
+
+Live: WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard

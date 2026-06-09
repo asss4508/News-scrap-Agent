@@ -1,6 +1,5 @@
-import asyncio
+﻿import asyncio
 import os
-import base64
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
@@ -12,7 +11,6 @@ API_HASH = os.environ["TELEGRAM_API_HASH"]
 SESSION = os.environ["TELETHON_SESSION"]
 
 KST = timezone(timedelta(hours=9))
-MESSAGES_PER_CHANNEL = 500
 
 def load_channel_list():
     config_path = Path(__file__).parent.parent.parent / "data" / "channels_to_sync.txt"
@@ -37,6 +35,7 @@ async def sync():
     output_dir = Path(__file__).parent.parent.parent / "data" / "channels"
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    today_kst = datetime.now(KST).date()
     client = TelegramClient(StringSession(SESSION), API_ID, API_HASH)
     await client.start()
 
@@ -44,19 +43,27 @@ async def sync():
         try:
             entity = await client.get_entity(channel)
             name = getattr(entity, "username", None) or str(entity.id)
-            print(f"채널 동기화: {name}")
+            print(f"채널 동기화: {name} (오늘: {today_kst})")
 
             messages = []
-            async for msg in client.iter_messages(entity, limit=MESSAGES_PER_CHANNEL):
-                if not msg.text:
+            async for msg in client.iter_messages(entity, limit=None):
+                if not msg.date:
                     continue
-                dt = msg.date.astimezone(KST).strftime("%Y-%m-%d %H:%M")
-                messages.append(f"[{dt}] {msg.text}")
+                msg_date = msg.date.astimezone(KST).date()
+                if msg_date == today_kst:
+                    if msg.text and msg.text.strip():
+                        dt = msg.date.astimezone(KST).strftime("%Y-%m-%d %H:%M")
+                        messages.append(f"[{dt}] {msg.text}")
+                elif msg_date < today_kst:
+                    break  # 최신순 정렬이므로 오늘 이전이면 종료
 
-            content = "\n\n".join(reversed(messages))
-            out_file = output_dir / f"{name}.txt"
-            out_file.write_text(content, encoding="utf-8")
-            print(f"  {len(messages)}개 메시지 저장 → {out_file.name}")
+            if messages:
+                content = "\n\n".join(reversed(messages))
+                out_file = output_dir / f"{name}.txt"
+                out_file.write_text(content, encoding="utf-8")
+                print(f"  {len(messages)}개 메시지 저장 → {out_file.name}")
+            else:
+                print(f"  오늘 메시지 없음 ({name})")
 
         except Exception as e:
             print(f"  오류 ({channel}): {e}")

@@ -1,4 +1,4 @@
-import requests
+﻿import requests
 from bs4 import BeautifulSoup
 import os
 import re
@@ -56,6 +56,31 @@ def get_priority(title):
         if keyword in title:
             score += 1
     return score
+
+def get_article_date(url):
+    """기사 발행일을 og:article:published_time 또는 메타태그에서 추출"""
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=8)
+        soup = BeautifulSoup(res.text, "html.parser")
+        for prop in ["article:published_time", "og:regDate", "og:pub_date", "datePublished"]:
+            tag = soup.find("meta", property=prop) or soup.find("meta", attrs={"name": prop})
+            if tag and tag.get("content"):
+                raw = tag["content"][:10]
+                try:
+                    return datetime.strptime(raw, "%Y-%m-%d").date()
+                except Exception:
+                    pass
+        # 날짜 패턴 직접 탐색
+        text = res.text
+        m = re.search(r'(\d{4})[.\-/](\d{2})[.\-/](\d{2})', text[:3000])
+        if m:
+            try:
+                return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3))).date()
+            except Exception:
+                pass
+    except Exception:
+        pass
+    return None
 
 def get_article_summary(url):
     try:

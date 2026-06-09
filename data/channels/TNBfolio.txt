@@ -1,21 +1,3 @@
-[2026-04-28 09:19] NVIDIA의 차세대 AI 슈퍼칩을 위한 새로운 메모리, SK하이닉스가 독점적 지위 확보 - AOL
-(by https://t.me/TNBfolio)
-- NVIDIA가 GTC 2026에서 공개한 차세대 Vera Rubin 플랫폼은 10Gb/s 이상의 속도를 내는 HBM4 메모리를 필수적으로 요구한다.
-- SK하이닉스는 초기 HBM4 물량의 약 70%를 확보한 것으로 알려졌으며, 삼성전자와 Micron Technology, Inc. 대비 압도적인 공급 우위를 점하고 있다.
-- SK하이닉스는 청주 M15X 팹 인근에 130억 달러를 투자해 P&T7 메가팹을 건설하며 TSMC의 로직 공정을 활용한 HBM4 공동 개발에 박차를 가하고 있다.
-- 삼성전자는 NVIDIA의 품질 테스트를 통과했으나 초기 수율 문제로 인해 여전히 보조 공급업체 수준에 머물러 있으며, Micron Technology, Inc. 또한 공급 규모면에서 뒤처져 있다.
-- SK하이닉스는 올해 1분기 72%라는 경이적인 영업이익률을 기록하며 메모리 반도체를 단순 사이클 산업이 아닌 핵심 전략 인프라로 격상시켰다.
-https://www.aol.com/articles/nvidias-next-ai-superchip-needs-000114269.html
-
-[2026-04-28 11:06] OpenAI, 자체 이용자 및 매출 목표 달성 실패 - bloomberg
-(by https://t.me/TNBfolio)
-- OpenAI가 최근 신규 이용자 유치 및 매출 목표를 달성하지 못하면서 천문학적인 AI 인프라 비용 감당에 대한 내부 우려가 커지고 있다고 월스트리트저널(WSJ)이 보도했다.
-- 경쟁사인 Anthropic PBC가 코딩 및 기업용 시장에서 점유율을 확대함에 따라 OpenAI는 2026년 들어 여러 차례 월간 매출 목표 달성에 실패한 것으로 알려졌다.
-- ChatGPT의 주간 활성 이용자(WAU) 수는 2025년 말까지 10억 명을 돌파하겠다는 목표에 미치지 못했으며, Google의 Gemini가 인기를 끌면서 유료 구독자 이탈 문제도 지속되고 있다.
-- Sarah Friar 최고재무책임자(CFO)는 매출 성장 속도가 충분하지 않을 경우 향후 막대한 컴퓨팅 자원 비용을 감당하기 어려울 수 있다는 우려를 경영진에 전달했다.
-- 이번 목표 미달은 OpenAI가 기업 가치 7,300억 달러(약 1,000조 원)를 입증해야 하는 IPO 준비 과정에서 중요한 변수가 될 것으로 전망된다.
-https://www.bloomberg.com/news/articles/2026-04-28/openai-misses-its-own-user-and-sales-goals-wsj-reports
-
 [2026-04-28 11:13] SK텔레콤, NVIDIA와 협력하여 AI 팩토리 소프트웨어 구축 - Tech in Asia
 (by https://t.me/TNBfolio)
 - SK텔레콤은 제조업체를 위해 디지털 트윈 및 로봇 학습을 기반으로 하는 피지컬 AI 소프트웨어를 구축하고 있다고 발표했다.
@@ -7265,3 +7247,12 @@ https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots
 https://www.ft.com/content/c22fca23-2917-420b-9538-744a093d4b47
 
 [2026-06-09 11:22] 뉴스 클릭하면 링크 오픈됨
+
+[2026-06-09 15:17] 미 국방부, 중국 군사기업 명단에 글로벌 제약 수탁업체 WuXi AppTec 추가 - 블룸버그
+(by https://t.me/TNBfolio)
+- 미국 국방부가 중국 군사기업 지정 명단인 1260H 리스트에 대형 제약 수탁업체인 WuXi AppTec을 추가하면서 미국 제약사들의 연구 개발 및 공급망에 비상이 걸렸다.
+- WuXi AppTec은 작년 매출의 약 4분의 3을 미국 사업에서 거두었으며 Eli Lilly & Co의 비만 치료제 주요 성분을 생산하는 등 미국 시장 의존도가 매우 높은 제약 바이오 기업이다.
+- 이번 지정으로 기존 미국 고객사들은 계약을 점진적으로 축소해야 하는 상황에 직면했으며 블룸버그 인텔리전스는 오는 2027년부터 2030년 사이 약 304억 달러의 미국 매출이 타격을 입을 수 있다고 추정했다.
+- 이번 국방부 명단 지정은 즉각적인 공식 제재는 아니나 이달 말부터 미 국방부와의 직접 계약이 금지되고 오는 2027년부터는 제3자를 통한 제품 및 서비스 구매도 차단되는 실질적인 조치다.
+- WuXi AppTec 측은 자사가 정부나 군사 조직과 아무런 관련이 없으며 이번 오류 지정을 바로잡기 위해 즉각적인 법적 대응을 포함한 모든 구제 조치를 취할 것이라고 공식 입장을 밝혔다.
+https://www.bloomberg.com/news/articles/2026-06-08/pentagon-accuses-alibaba-baidu-byd-of-aiding-china-s-military

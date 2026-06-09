@@ -1,5 +1,3 @@
-[2026-03-16 07:38] https://n.news.naver.com/mnews/article/138/0002220606
-
 [2026-03-16 10:56] https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html
 
 [2026-03-16 10:56] 1. 하이퍼스케일러 Capex
@@ -5923,5 +5921,15 @@ https://t.me/alphasignal_now
 *Computex 하이닉스 부스를 가보면 — SK하이닉스가 공식 전시에서 **GPU 1개당 SOCAMM2 슬롯 4개가 장착된 구조 모델을 버젓이 전시했음**
 
 *전시 모델을 보면 **GPU 2개 × SOCAMM2 슬롯 4개 = 총 8슬롯으로, SOCAMM2 탑재 자체는 확정**. **96GB로 출하되더라도 슬롯 기반이라 업그레이드 수요 추가 발생 구조**이므로, 수요 감소 공포는 **과도한 해석.**
+
+https://t.me/alphasignal_now
+
+[2026-06-09 09:21] https://n.news.naver.com/article/015/0005296445?sid=104
+
+**광이 미래다 ** [**광인터커넥트**]
+
+점차 구리선이라는 장벽을 뛰어 넘을 수밖에 없습니다.
+어마무시한 시장이 앞에 있습니다.
+계속 언급드렸습니다.
 
 https://t.me/alphasignal_now

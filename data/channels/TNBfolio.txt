@@ -1,21 +1,3 @@
-[2026-04-28 05:39] Google, 한국에 미국 외 첫 AI 캠퍼스 구축 - Nikkei Asia
-(by https://t.me/TNBfolio)
-- Google은 서울에 미국 외 지역으로는 처음으로 인공지능(AI) 캠퍼스를 구축하기로 한국 정부와 합의했다.
-- 이번 협약은 Google의 핵심 엔지니어들이 한국의 스타트업 및 연구원들과 전문 지식을 공유하는 장을 마련하는 것을 목표로 한다.
-- 이번 발표는 Google Maps 서비스에 필요한 정밀 지도 데이터의 국외 저장 문제로 갈등을 빚어온 양측이 지난 2월 합의에 도달한 데 이어 나온 결과다.
-- Demis Hassabis Google DeepMind CEO는 이재명 대통령을 만나 AI의 무한한 잠재력과 그에 따른 위험 요소 및 과학·의료 분야의 활용 방안을 논의했다.
-- 한국 정부는 안보상의 이유로 지도 데이터 반출을 제한해왔으나, 군사 시설 마스킹 처리 등 엄격한 보안 조건을 전제로 데이터 사용을 허가하며 관계 개선을 시도하고 있다.
-https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-build-first-non-us-ai-campus-in-south-korea?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts
-
-[2026-04-28 08:15] Mousterian Corporation과 삼성중공업, 미국 내 해상 데이터 센터 구축을 위한 업무협약 체결 - morningstar
-(by https://t.me/TNBfolio)
-- Mousterian Corporation(M3)과 삼성중공업은 전 세계적으로 기관급 해상 데이터 센터(FDC) 프로젝트를 공동 개발 및 납품하기 위한 전략적 협력 관계를 맺었다.
-- 이번 협약에 따라 Mousterian Corporation은 개발, 부지 선정, 임차인 소싱 및 프로젝트 인도를 담당하고 삼성중공업은 해상 자산의 엔지니어링, 제작 및 인도 역량을 지원한다.
-- 양사는 해상 데이터 센터가 기존 발전 자산 근처에 위치함으로써 육상 부지의 한계를 극복하고 하이퍼스케일 및 AI 컴퓨팅 용량 개발 기간을 대폭 단축할 수 있다는 점에 공감했다.
-- 삼성중공업은 해상 데이터 센터가 조선업의 역량을 디지털 인프라 분야로 확장하는 새로운 비즈니스 모델이며 친환경 에너지 솔루션과 결합해 글로벌 데이터 시장의 성장을 견인할 것이라고 밝혔다.
-- Mousterian Corporation은 삼성중공업의 선박 건조 규모와 엔지니어링 깊이가 자사의 고성능 데이터 센터 설계 및 자본 시장 접근성과 결합해 기가와트급 인프라를 신속하게 제공할 것으로 기대하고 있다.
-https://www.morningstar.com/news/pr-newswire/20260427da43798/mousterian-corporation-and-samsung-heavy-industries-sign-mou-to-deliver-floating-data-centers-in-the-united-states
-
 [2026-04-28 09:19] NVIDIA의 차세대 AI 슈퍼칩을 위한 새로운 메모리, SK하이닉스가 독점적 지위 확보 - AOL
 (by https://t.me/TNBfolio)
 - NVIDIA가 GTC 2026에서 공개한 차세대 Vera Rubin 플랫폼은 10Gb/s 이상의 속도를 내는 HBM4 메모리를 필수적으로 요구한다.
@@ -7272,3 +7254,14 @@ https://www.fool.com/investing/2026/06/08/account-minimums-are-being-lowered-to-
 - 그는 두 회사가 로봇 기술의 산업화에 매우 가까워진 상태라고 덧붙였다.
 - 이번 발언은 본인의 Optimus 로봇이 경쟁사보다 훨씬 앞서 있다고 자신해 온 Elon Musk에게 타격이 될 수 있다.
 https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots
+
+[2026-06-09 10:56] [단독] GSK, 암 전문 바이오 기업 Nuvalent 90억 달러 이상에 인수 협상 중 - 파이낸셜타임스
+(by https://t.me/TNBfolio)
+- 영국 제약 그룹인 GSK가 암 치료제 개발사인 Nuvalent를 90억 달러 이상에 인수하기 위한 논문 단계의 협상을 진행 중이며 이르면 이번 주 내에 합의에 도달하는 것을 목표로 삼았다.
+- 이번 거래가 성사될 경우 Nuvalent의 가치는 90억 달러에서 100억 달러 사이로 평가될 예정이며 이는 해당 기업의 최근 시장 가치에 상당한 프리미엄이 더해진 규모다.
+- 이번 인수는 올해 초 취임하여 파이프라인과 매출 확대를 노리는 GSK 최고경영자 루크 미엘스의 대담한 행보로 평가받으며 성공 시 회사의 최근 10년 내 최대 규모 인수가 된다.
+- 과거 암 포트폴리오를 매각했던 GSK는 최근 Sierra Oncology와 IDRx 인수를 통해 종양학 분야에 재진입했으며 이를 통해 오는 2031년까지 400억 파운드 이상의 매출 목표를 달성하고자 한다.
+- 매사추세츠에 본사를 둔 Nuvalent는 비소세포폐암 치료제 Neladalkib의 임상 3상을 진행 중이며 오는 9월 미국 식품의약국의 승인 결정을 앞두고 있어 시장의 큰 기대를 받고 있다.
+https://www.ft.com/content/c22fca23-2917-420b-9538-744a093d4b47
+
+[2026-06-09 11:22] 뉴스 클릭하면 링크 오픈됨

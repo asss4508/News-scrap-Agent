@@ -235,12 +235,20 @@ async def sync_single_channel(channel: str) -> tuple[int, str]:
             return 0, "Telethon 인증 실패"
         entity = await client.get_entity(channel)
         messages = []
+        from datetime import datetime, timezone
+        today = datetime.now(timezone.utc).date()
         async for msg in client.iter_messages(entity, limit=None):
-            if msg.text and msg.text.strip():
-                messages.append(msg.text.strip())
+            if not msg.date:
+                continue
+            msg_date = msg.date.astimezone(timezone.utc).date()
+            if msg_date == today:
+                if msg.text and msg.text.strip():
+                    messages.append(msg.text.strip())
+            elif msg_date < today:
+                break
         await client.disconnect()
         if not messages:
-            return 0, "메시지 없음"
+            return 0, "오늘 메시지 없음"
         text = "\n\n".join(reversed(messages))
         return len(messages), text
     except Exception as e:

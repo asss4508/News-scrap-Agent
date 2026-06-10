@@ -152,3 +152,16 @@ https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-afte
 25년03월: 285,957 NT$M (46.5% YoY) (10.0% MoM) 
 25년02월: 260,009 NT$M (43.1% YoY) (-11.3% MoM) 
 25년01월: 293,288 NT$M (35.9% YoY) (5.4% MoM)
+
+[2026-06-10 18:52] 코스피 신용잔고
+
+[2026-06-10 18:52] 코스닥 신용잔고
+
+[2026-06-10 21:56] [단독] SpaceX IPO에 중동 국부펀드 수십억 달러 규모 주문 집중 - Bloomberg
+(by https://t.me/TNBfolio)
+- SpaceX의 기업공개(IPO)에 사우디아라비아 PIF와 쿠웨이트 KIA 등 중동 국부펀드들이 각각 10억에서 50억 달러 규모의 주식 매수 주문을 제출했다.
+- 카타르 QIA 역시 이번 공모에 상당한 금액을 투자할 것으로 예상되며 기존에 투자했던 중동 기관들은 Elon Musk의 기업 가치 목표인 1조 8천억 달러를 바탕으로 큰 장부상 이익을 기록 중이다.
+- 이번 중동 자금의 대규모 유입은 글로벌 기관 투자자들의 주문이 공모 물량을 초과하는 등 전 세계적인 투자 열풍의 일환으로 나타났다.
+- 중동 국가들은 최근 이란과의 전쟁 위협 속에서도 스타트업, 칩 인프라, 데이터 센터 등 인공지능(AI) 분야에 수십억 달러를 지속적으로 투자해왔다.
+- SpaceX는 주당 135달러에 5억 5,560만 주를 공모하여 약 750억 달러를 조달할 예정이며 이는 역사상 최대 규모의 IPO가 될 전망이다.
+https://www.bloomberg.com/news/articles/2026-06-10/spacex-ipo-draws-billions-in-orders-from-middle-eastern-funds

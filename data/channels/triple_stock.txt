@@ -136,3 +136,15 @@ https://n.news.naver.com/mnews/article/001/0016129504
 : 발전소는 미국 정부가 소유하고 SB Energy가 운영 예정. 연방정부(DOE) 소유 부지 활용으로 인허가 및 지역사회 반발 리스크 완화 기대
 
 [https://t.me/Samsung_Global_AI_SW](https://t.me/Samsung_Global_AI_SW)
+
+[2026-06-10 17:19] https://www.thelec.kr/news/articleView.html?idxno=57884
+
+[2026-06-10 21:18] >>모건스탠리, SemiAnalysis 보고서 반박…“CPO 지연은 인정, 800V 연기는 동의 못해” (중국언론) 
+
+•모건스탠리는 최근 SemiAnalysis가 제기한 CPO 및 800VDC 관련 주장에 대해 일부는 동의하지만 일부는 반박. 모건스탠리는 CPO의 단기 상용화 속도가 시장 기대에 미치지 못할 수 있다는 점은 인정. 이에 따라 2027년 광엔진 출하량 전망치를 약 600만~700만 대 수준으로 예상
+
+•다만 이는 단기 조정일 뿐이며, 2028년 이후에는 CPO 시장이 본격적인 고성장 국면에 진입할 것이라는 기존 전망은 유지
+
+•반면, SemiAnalysis가 제기한 ‘800VDC 랙 시스템 양산이 2028년 이후로 연기될 것’이라는 주장에 대해서는 명확히 반박. 모건스탠리는 공급망 조사 결과 800V 랙 도입 일정에는 큰 변화가 없으며, 당초 계획대로 2026년 하반기부터 상용화가 추진될 것으로 파악된다고 밝혔음
+
+>大摩回应SemiAnalysis小作文：CPO延迟认同，800V推迟不认 https://wallstreetcn.com/articles/3774332#from=ios

@@ -111,3 +111,44 @@ https://cryptobriefing.com/crusoe-5-gigawatt-data-center-contracts/
 - 이번 계약에는 반도체 기업 Nvidia의 재정적 후원이 포함될 수 있다고 디 인포메이션이 소식통을 인용해 보도했다.
 - 로이터는 해당 논의에 대해 직접적인 지식이 있는 관계자 두 명을 인용한 이번 보도 내용을 즉각적으로 확인하지는 못했다.
 https://www.reuters.com/technology/openai-weighs-leasing-ohio-data-center-with-nvidia-backing-information-reports-2026-06-10/
+
+[2026-06-10 12:53] SoftBank의 OpenAI 지분 담보 60억 달러 대출 협상 교착 - 블룸버그
+(by https://t.me/TNBfolio)
+- SoftBank Group Corp.이 OpenAI stake를 담보로 최소 60억 달러를 조달하려던 마진론 협상이 잠정 중단되었다.
+- 이번 협상 중단은 SoftBank Group Corp.이 대출 목표액을 기존 100억 달러에서 60억 달러로 축소한 지 몇 주 만에 발생했다.
+- SoftBank Group Corp.은 자금 조달을 위해 다른 대안들을 검토 중이며 향후 마진론 협상을 다시 진행할 가능성도 열어두고 있다.
+- 최근 OpenAI Foundation이 미국 증시 기업공개(IPO)를 비밀리에 신청하면서 채권단 내부에서 긍정적인 기류가 흐르기도 했으나 최종 합의에는 이르지 못했다.
+- 이번 조달 시도는 SoftBank Group Corp.이 OpenAI Foundation에 투자하기 위해 조달한 400억 달러 규모 브릿지론의 2027년 만기를 앞두고 추진되었다.
+https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls
+
+[2026-06-10 14:00] 미국 보복 공습에 이란, 요르단 및 걸프만 미군 기지 공격으로 맞대응 - 로이터
+(by https://t.me/TNBfolio)
+- 이란 혁명수비대는 미국의 호르무즈 해협 공습에 대한 보복으로 요르단 주둔 미군 기지와 걸프 지역의 21개 목표물을 공격했다고 발표했다.
+- 이번 충돌은 화요일 이란 드론에 의해 미국 Apache 헬리콥터가 격추되자 Donald Trump 대통령의 지조 아래 미군이 이란 방공망을 선제 타격하면서 촉발되었다.
+- 이란은 요르단의 알 아즈라크 기지에 장거리 미사일을 발사하고 쿠웨이트의 알리 알 살렘 기지와 바레인의 미 해군 제5함대를 드론으로 공격했다.
+- 미국 관리에 따르면 이란이 발사한 미사일과 드론은 대부분 격추되었으며 현재까지 미군 인명 피해나 기지 파괴 보고는 없는 것으로 파악된다.
+- 이번 군사적 에스컬레이션은 지난 4월 체결된 취약한 휴전 체제를 위협하고 있으며 전쟁 종식을 위한 평화 협상 전망에 어두운 그림자를 드리우고 있다.
+https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/
+
+[2026-06-10 14:34] ▶️ TSMC(대만 파운드리) 매출액 
+
+ - 26년06월: **416,975 NT$M**
+
+ - 최근 매출액 추이
+26년05월: 410,730 NT$M (28.1% YoY) (0.0% MoM) 
+26년04월: 410,726 NT$M (17.5% YoY) (-1.1% MoM) 
+26년03월: 415,191 NT$M (45.2% YoY) (30.7% MoM) 
+26년02월: 317,657 NT$M (22.2% YoY) (-20.8% MoM) 
+26년01월: 401,255 NT$M (36.8% YoY) (19.8% MoM) 
+25년12월: 335,000 NT$M (20.4% YoY) (-2.5% MoM) 
+25년11월: 343,614 NT$M (24.5% YoY) (-6.5% MoM) 
+25년10월: 367,473 NT$M (16.9% YoY) (11.0% MoM) 
+25년09월: 330,980 NT$M (31.4% YoY) (-1.4% MoM) 
+25년08월: 335,772 NT$M (33.8% YoY) (3.9% MoM) 
+25년07월: 323,166 NT$M (25.8% YoY) (22.5% MoM) 
+25년06월: 263,709 NT$M (26.9% YoY) (-17.7% MoM) 
+25년05월: 320,516 NT$M (39.6% YoY) (-8.3% MoM) 
+25년04월: 349,567 NT$M (48.1% YoY) (22.2% MoM) 
+25년03월: 285,957 NT$M (46.5% YoY) (10.0% MoM) 
+25년02월: 260,009 NT$M (43.1% YoY) (-11.3% MoM) 
+25년01월: 293,288 NT$M (35.9% YoY) (5.4% MoM)

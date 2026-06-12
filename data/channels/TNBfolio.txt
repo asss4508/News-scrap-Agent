@@ -65,3 +65,61 @@ https://www.digitimes.com/news/a20260612VL206/anthropic-data-center-infrastructu
 - 이번 전략적 파트너십은 Omniverse 라이브러리를 활용한 반도체 시설의 디지털 트윈 애플리케이션을 포함한 기존 AI 이니셔티브를 기반으로 한다.
 - 양사는 가속 컴퓨팅, 메모리 기술, 데이터 센터 운영 외에도 차세대 AI 팩토리 아키텍처 분야에서 협력할 예정이며 SK텔레콤은 NVIDIA Corporation의 클라우드 파트너 프로그램에도 참여한다.
 https://uk.finance.yahoo.com/news/nvidia-corporation-nvda-forever-stock-032544792.html
+
+[2026-06-12 13:26] 트럼프의 이란 협정, 복잡한 평화 프로세스 속 전령들로 인해 지연 - 블룸버그
+(by https://t.me/TNBfolio)
+- Donald Trump 미국 대통령은 미국과 이란이 합의 직전에 도달했다고 반복해서 밝혔으나 이란 측은 최고 지도부가 미국과의 어떠한 문안도 승인하지 않았다며 이를 부인했다.
+- 미국과 이란의 협상은 메시지가 오가는 데 며칠이 소요되는 번거로운 과정으로 진행되고 있으며 미국 협상가들의 제안은 우회적인 외교 경로를 거치고 있다.
+- 이란 측은 공습으로 부상을 입은 최고지도자 Mojtaba Khamenei의 위치 노출과 암살 위험을 피하기 위해 인간 전령을 활용하는 등 의도적으로 디지털 흔적을 남기지 않고 있다.
+- 전시 상황으로 인한 이란 내 통신 불량과 파키스탄 관료들을 거치는 복잡한 전달 체계로 인해 Marco Rubio 국무장관은 답변을 받는 데 5~6일이 걸린다고 불만을 토로했다.
+- 외교관들과 걸프국 관료들은 이란이 White House에 대한 압박을 유지하고 미국의 불안감을 이용하기 위해 의도적으로 협상을 지연시키고 있다고 분석했다.
+https://www.bloomberg.com/news/articles/2026-06-12/trump-s-iran-deal-slowed-by-couriers-in-complex-peace-process
+
+[2026-06-12 15:05] 글로벌 은행들, 급격한 주가 변동 이후 SK하이닉스와 삼성전자에 대한 헤지펀드의 레버리지 투자 제한 - 블룸버그
+(by https://t.me/TNBfolio)
+- Citigroup, JPMorgan, Goldman Sachs 등 글로벌 은행들은 올해 주가 급등에 따른 조정 우려로 SK하이닉스와 삼성전자에 대한 헤지펀드의 스왑 거래 자금 조달 비용을 인상했다.
+- Morgan Stanley는 두 한국 주식에 대한 신규 스왑 거래 요청을 거절하고 있으며, Bank of America와 UBS 등도 자금 조달 비용을 올리고 스왑 거래 규모를 제한하고 있다.
+- 이번 조치는 올해 SK하이닉스가 3배 이상, 삼성전자가 175% 이상 급등하며 코스피 지수가 100% 가량 상승한 후 기술주 거품 우려와 최근의 주가 조정을 배경으로 단행됐다.
+- 은행들이 제시한 두 종목의 스왑 조달 금리는 기존 SOFR 대비 100~200bp 수준에서 최근 최고 11%를 가산한 연 15%에 육박하는 수준까지 대폭 상승했다.
+- 은행들은 주가 폭락 시 마진콜 채무불이행으로 인한 손실을 우려하고 있으며, 이번 주 예정된 SpaceX의 750억 달러 규모 대형 IPO 등으로 인한 대차대조표 부담도 영향을 미친 것으로 분석된다.
+https://www.bloomberg.com/news/articles/2026-06-12/banks-curb-hedge-fund-bets-on-sk-hynix-samsung-after-wild-moves
+
+[2026-06-12 15:19] 6월 12일 장 마감 전 뉴스
+ 
+삼성SDI, AI 데이터센터로 '캐즘' 돌파…3분기 흑자 전환 가시권
+https://www.smedaily.co.kr/news/articleView.html?idxno=358622
+ 
+한국, 6G·피지컬 AI 보안 국제표준 개발한다
+https://www.ebn.co.kr/news/articleView.html?idxno=1712285
+ 
+올릭스, 벡트-호러스 BBB 셔틀 적용 TfR 타깃 siRNA 전임상 성과 확보… 글로벌 수준을 상회하는 유전자 억제 확인
+https://www.hankyung.com/article/202606122995P
+ 
+美, 상업용 SMR 추진선 생태계 구축...국내 철강·조선·원전 산업에 새로운 ‘기회’
+https://www.snmnews.com/news/articleView.html?idxno=570666
+
+네이버-크래프톤, 배틀그라운드 e스포츠 중계 강화 협력
+http://www.newspim.com/news/view/20260612000478
+ 
+'모바일→AI D램으로' 엔비디아도 부족한 LPDDR, 몸값 더 뛴다
+https://www.mt.co.kr/industry/2026/06/12/2026061116095121121
+ 
+PKC, 새만금 공장서 전해질 핵심소재 '삼염화인' 출하
+https://www.thelec.kr/news/articleView.html?idxno=58006
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-12 15:29] [단독] Nvidia, 중국 고객사 대상으로 Vera CPU 판촉 시작 - 로이터
+(by https://t.me/TNBfolio)
+- Nvidia는 중국 고객사들에게 새로운 AI 데이터 센터용 Vera CPU를 이르면 8월부터 공급할 수 있으며 주문 접수를 시작할 수 있다고 전달했다.
+- 이번 조치는 미국 수출 규제와 H200 GPU의 출하 지연 등으로 급감한 중국 내 시장 점유율을 회복하고 Intel 및 AMD와의 서버 CPU 경쟁에서 우위를 점하기 위한 전략이다.
+- 일부 중국 클라우드 기업들은 자율적으로 임무를 수행하는 에이전틱 AI용으로 설계된 Vera 칩에 관심을 보이며 테스트를 위한 서버 주문을 계획하고 있다.
+- Vera 칩은 경쟁사 프로세서보다 최대 1.8배 빠른 연산 속도를 제공하며 Nvidia는 이번 회기 연도 말까지 이 칩을 통해 200억 달러의 매출을 기대하고 있다.
+- 다만 중국 고객사들은 미국 수출 규제와 소프트웨어 생태계 호환성 등을 고려해 초기에는 Vera 칩을 해외 데이터 센터에만 우선 배치해 테스트할 계획인 것으로 알려졌다.
+https://www.reuters.com/world/china/nvidia-begins-vera-cpu-sales-pitch-chinese-clients-sources-say-2026-06-12/
+
+[2026-06-12 18:43] 코스피 신용잔고
+
+[2026-06-12 18:43] 코스닥 신용잔고

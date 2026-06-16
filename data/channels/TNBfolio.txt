@@ -86,3 +86,38 @@ https://www.ddaily.co.kr/page/view/2026061609344388541
 - 글로벌 클라우드 사업자가 핵심 설계와 운영 노하우를 철저히 관리하기 때문에 SK그룹은 직접 데이터센터를 짓고 운영하며 역량을 내재화하겠다는 전략이다.
 - 업계에서는 이번 미국 인프라 확장을 최태원 회장이 추진 중인 일본 내 AI 팩토리 구상과 일맥상통하는 해외 확장 전략의 시험대로 분석하고 있다.
 https://zdnet.co.kr/view/?no=20260615155152
+
+[2026-06-16 15:04] 6월 16일 장 마감 전 뉴스
+
+대만 매체 "TSMC 반도체 패키징에 유리기판 적용 결과 공개, 삼성전자·인텔과 경쟁 고려"
+https://www.businesspost.co.kr/BP?command=article_view&num=440068
+
+AI·자율주행 개발 더 쉽게…정부, 공간정보 규제 완화
+https://news.sbs.co.kr/news/endPage.do?news_id=N1008612447&plink=OLDURL
+
+김정관 장관표 'M.AX' 시험대…'예산 확대·소부장 육성'에 달렸다
+http://www.newspim.com/news/view/20260616000484
+
+여름휴가 앞두고 '희소식'…국제선 유류할증료 20% 넘게 내린다
+https://www.hankyung.com/article/202606169052g
+
+"물량 밀려든다" HD현대일렉, 북미공장 증설에 인력 충원까지 '풀가속'
+https://www.theguru.co.kr/news/article.html?no=103004
+
+
+[자료 출처]
+
+https://t.me/TNBfolio
+
+[2026-06-16 18:46] 코스피 신용잔고
+
+[2026-06-16 18:46] 코스닥 신용잔고
+
+[2026-06-16 18:48] 중국 DeepSeek, 독특한 거래 구조로 70억 달러 이상의 투자 유치 - 로이터
+(by https://t.me/TNBfolio)
+- 중국의 인공지능 스타트업 DeepSeek이 창업자의 지배권을 유지하기 위해 설계된 독특한 구조를 활용하여 500억 위안 이상의 투자금을 유치했다.
+- 이번 투자에 참여한 투자자들은 DeepSeek에 직접 투자하는 대신 CEO인 Liang Wenfeng이 관리하는 유한책임조합에 자금을 투입해야 한다.
+- 투자자들은 5년의 보호예수 기간을 적용받으며 의결권을 가지지 못하지만, 중국 국가 인공지능 산업 투자기금은 예외적으로 직접 투자와 의결권을 인정받았다.
+- 이번 라운드에서 창업자인 Liang Wenfeng이 200억 위안의 개인 자금을 투입했으며, Tencent와 CATL이 각각 100억 위안과 50억 위안의 투자를 검토하고 있다.
+- DeepSeek은 지난해 초 V3와 R1 모델로 실리콘밸리에서 찬사를 받으며 중국의 국가적 인공지능 챔피언으로 부상했다.
+https://www.reuters.com/world/asia-pacific/chinas-deepseek-closes-over-7-billion-funding-with-unusual-deal-structure-2026-06-16/

@@ -265,3 +265,9 @@ AI/반도체
 - 에코스타(SATS): SpaceX 주가 200달러 돌파 대비 에코스타 내재 SpaceX 가치 $86 수준으로 심각한 저평가 지적(New Street Research). SpaceX 모멘텀 지속 시 리레이팅 가능성.
 
 - 엔벤트 일렉트릭(NVT): Melius Research 신규 커버리지 개시, 목표가 $214. AI 데이터센터 전력 인프라 수요 확대 수혜 잠재력, 현 밸류에이션 저렴 평가.
+
+[2026-06-17 12:52] [Samsung sees rising chip production requests from BYD, Google, AMD: sources](https://asia.nikkei.com/business/tech/semiconductors/samsung-sees-rising-chip-production-requests-from-byd-google-amd-sources?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts)
+
+BYD, Google, AMD, Tesla and others are looking increasingly to Samsung Electronics for contract chipmaking services as surging demand for AI infrastructure strains the advanced chipmaking capacity of market leader TSMC, Nikkei Asia has learned.
+
+Read more [here](https://asia.nikkei.com/business/tech/semiconductors/samsung-sees-rising-chip-production-requests-from-byd-google-amd-sources?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts)

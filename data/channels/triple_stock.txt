@@ -1,9 +1,7 @@
-[2026-06-16 07:23] **>>어플라이드 머티어리얼즈, 신형 증착·식각 장비 출시…3D 칩 공정 돌파 지원**
+[2026-06-19 14:35] Marvell, 차세대 제품에 TSMC의 A14 노드를 사용하는 것에 대해 이미 논의를 시작했다고 밝힘. A14 공정은 2028년 양산에 들어갈 예정
 
-•어플라이드 머티어리얼즈가 첨단 반도체 제조를 위한 두 가지 신규 시스템을 출시. 각각 증착과 식각 공정을 대상으로 하며, 높은 종횡비(High Aspect Ratio)를 가진 3차원 구조의 공정 병목 문제를 해결하는 데 초점을 맞췄음. 해당 장비들은 이미 주요 칩 제조업체들의 양산 공정에 적용되고 있음. 어플라이드 머티어리얼즈 반도체 제품 부문 사장은 AI 연산 분야에서 업계가 계속 한계를 돌파함에 따라, 가장 중요한 기회가 점점 더 재료공학(Materials Engineering) 분야에 집중
+뉴스: https://www.trendforce.com/news/2026/06/18/news-marvell-says-it-is-in-talks-with-tsmc-on-a14-for-next-gen-ai-connectivity-chips-joining-early-adopter-ranks/
 
->应用材料公司推出新型沉积与蚀刻设备，助力3D芯片制程突破 https://wallstreetcn.com/articles/3774737#from=ios
+☀️채널: https://t.me/kiwoom_semibat
 
-[2026-06-16 07:24] ●미국 5대 장비사 27년 EPS 성장률 및 PER
-
-[2026-06-16 11:40] https://n.news.naver.com/mnews/article/009/0005694412?rc=N&ntype=RANKING&sid=101
+.

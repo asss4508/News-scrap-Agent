@@ -2260,7 +2260,95 @@
     "source": "채널:getfeed"
   },
   {
-    "text": "나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.\n\n[2026-06-22 04:07] [Visualcapitalist] 미국 인종별 가계 소득 순위\nRanked: Household Income by Race in America 미국 인구조사국 최신 자료를 기반으로 미국 내 인종 및 민족 그룹별 중간 가계 소득을 비교해 보세요.\nSee how median household income compares across racial and ethnic groups in America, based on the latest U.S. Census Bureau data.\n\n[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/)",
+    "text": "나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.\n\n[2026-06-22 04:07] [Visualcapitalist] 미국 인종별 가계 소득 순위\nRanked: Household Income by Race in America 미국 인구조사국 최신 자료를 기반으로 미국 내 인종 및 민족 그룹별 중간 가계 소득을 비교해 보세요.\nSee how median household income compares across racial and ethnic groups in America, based on the latest U.S. Census Bureau data.\n\n[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/)\n\n[2026-06-22 05:00] [단기예보] 기상청 통보문\n2026년 06월 22일 (월)요일 05:00 발표",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "보기**📜📜📜](https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/)\n\n[2026-06-22 05:00] [단기예보] 기상청 통보문\n2026년 06월 22일 (월)요일 05:00 발표 □ (종합) 오늘 남부지방과 제주도 비, 중부지방 소나기, 돌풍과 천둥.번개 유의, 동해상 매우 높은 물결 유의\n \n○ (오늘, 22일) 전국 대체로 흐리겠으나, 중부지방 오후부터 가끔 구름많음,\n   밤(18~24시)까지 전라권과 경남권, 제주도 비, 제주도는 내일 새벽(00~06시)까지 이어짐,\n   오전(09~12시)부터 저녁(18~21시) 사이 수도권과 강원내륙.산지, 충청권, 경북권서부내륙 곳에 따라 소나기\n \n○ (내일, 23일) 중부지방 대체로 맑겠으나, 강원영동과 남부지방, 제주도 구름많음\n \n○ (모레, 24일) 중부지방 가끔 구름많겠으나 남부지방과 제주도 대체로 흐림,\n   새벽(00~06시)부터 오전(09~12시) 사이 제주도 곳에 따라 비\n \n○ (글피, 25일) 전국 가끔 구름많음, 제주도 대체로 흐림",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "으나, 강원영동과 남부지방, 제주도 구름많음\n \n○ (모레, 24일) 중부지방 가끔 구름많겠으나 남부지방과 제주도 대체로 흐림,\n   새벽(00~06시)부터 오전(09~12시) 사이 제주도 곳에 따라 비\n \n○ (글피, 25일) 전국 가끔 구름많음, 제주도 대체로 흐림 * 예상 강수량(22일)\n- (전라권) 광주.전남, 전북: 10~40mm\n- (경상권) 부산.울산.경남: 10~40mm\n- (제주도, 23일 새벽까지) 제주도: 20~80mm\n\n* 소나기에 의한 예상 강수량(22일)\n- (수도권) 서울.인천.경기: 5~40mm\n- (강원도) 강원내륙.산지: 5~30mm\n- (충청권) 대전.세종.충남, 충북: 5~30mm\n- (경상권) 대구.경북서부내륙: 5~30mm\n\n* 예상 강수량(24일)\n- (제주도) 제주도: 5~30mm\n\n※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.\n- 기상청 날씨누리(www.weather.go.kr)\n- 방재기상정보시스템(afso.kma.go.kr)\n※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": ": 5~30mm\n\n※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.\n- 기상청 날씨누리(www.weather.go.kr)\n- 방재기상정보시스템(afso.kma.go.kr)\n※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp) [2026-06-22 05:29] 23년 묵은 버그를 찾은 프롬프트는, 왜 그렇게 단순했을까?\n\n📝 핵심적 본문 요약\nAI가 23년간 발견되지 않은 리눅스 커널 보안 취약점을 찾아냈다.\n이는 정교한 지시가 아닌, 단순한 질문을 반복적으로 적용하는 '카를리니 루프' 방식으로 가능했다.\nAI는 넓은 범위의 탐색을, 인간은 선별의 역할을 수행하며 새로운 협업 모델을 제시한다.\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/bambooinvesting/224322567731)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "적으로 적용하는 '카를리니 루프' 방식으로 가능했다.\nAI는 넓은 범위의 탐색을, 인간은 선별의 역할을 수행하며 새로운 협업 모델을 제시한다.\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/bambooinvesting/224322567731) ✨(In)sight\n23년간 발견되지 않았던 리눅스 커널의 보안 취약점을 AI가 찾아낸 사건은, 인간의 직관적 선택 중심 분석 방식과 AI의 전수 조사 능력이 결합될 때 발생하는 파괴력을 보여준다. 기존 전문가들이 경험과 직관에 의존해 특정 코드 영역에 집중했던 것과 달리, 앤트로픽 연구자는 AI에게 단순 반복 질문을 던지며 방대한 코드를 빠짐없이 검토하게 했다. 이는 정교한 프롬프트 구축보다 '넓은 그물'로 놓치는 부분 없이 검사하는 방식이 숨겨진 문제를 발견하는 데 효과적임을 시사한다. AI가 쏟아낸 수백 개의 후보 중 진짜를 선별하는 인간의 '판별력'이 더욱 중요해진 시점이다.\n\n#리눅스커널 #보안취약점 #AI #직관 #판별력\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐..",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "진 문제를 발견하는 데 효과적임을 시사한다. AI가 쏟아낸 수백 개의 후보 중 진짜를 선별하는 인간의 '판별력'이 더욱 중요해진 시점이다.\n\n#리눅스커널 #보안취약점 #AI #직관 #판별력\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. ※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※\n\n[2026-06-22 05:43] 2026 대한민국 웰스 리포트\n2026-04-15\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36903&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2025 대한민국 웰스 리포트\n2025-04-16\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36521&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "25 대한민국 웰스 리포트\n2025-04-16\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36521&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL) [2026-06-22 05:43] 2024 대한민국 웰스 리포트\n2024-04-25\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36112&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2023 대한민국 웰스 리포트2023 대한민국 웰스 리포트\n2023-04-09\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35625&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "23 대한민국 웰스 리포트\n2023-04-09\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35625&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL) [2026-06-22 05:43] 2022 Korean Wealth Report2022 Korean Wealth Report\n2022-04-13\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35298&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드\n2021-03-08\n출처: 하나금융연구소",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "srchNm=ALL)\n\n[2026-06-22 05:43] 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드\n2021-03-08\n출처: 하나금융연구소 [📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35299&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2020 Korean Wealth Report (한국 부자들의 자산관리 방식 및 라이프스타 2020 Korean Wealth Report (한국 부자들의 자산관리 방식 및 라이프스타\n2020-04-02\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35320&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "산관리 방식 및 라이프스타\n2020-04-02\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35320&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL) [2026-06-22 05:43] 2019 Korean Wealth Report2019 Korean Wealth Report\n2019-01-28\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35322&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2018 Korean Wealth Report2018 Korean Wealth Report\n2018-01-31\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35323&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "Wealth Report\n2018-01-31\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35323&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL) [2026-06-22 05:43] 2017 Korean Wealth Report2017 Korean Wealth Report\n2017-02-02\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35330&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:43] 2015 Korean Wealth Report2015 Korean Wealth Report\n2015-10-01\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35331&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "Wealth Report\n2015-10-01\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35331&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL) [2026-06-22 05:43] 2014 Korean Wealth Report2014 Korean Wealth Report\n2014-04-09\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35332&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:55] [펩트론]일라이 릴리, GPCR 밸런스 월드컵 우승 상금으로 펩트론 영입할 듯",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "hanaif.re.kr/boardDetail.do?hmpeSeqNo=35332&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)\n\n[2026-06-22 05:55] [펩트론]일라이 릴리, GPCR 밸런스 월드컵 우승 상금으로 펩트론 영입할 듯 📝 핵심적 본문 요약\n펩트론은 일라이 릴리의 GCG 기반 약물 개발에 기여하며 MASH 치료제 시장에서의 잠재력을 보여준다. 펩트론의 DD01은 간 특화 기전으로 지방간 및 섬유화 개선 가능성을 제시하며, 릴리는 GCG 3중 작용제 대량 생산을 확정하고 GCG 듀얼은 이노벤트와 협력한다. 릴리의 티르제파타이드와 레타트루타이드 개발 성공은 GCG 기반 약물의 시장 지배력을 강화하며, 펩트론은 이러한 흐름 속에서 전략적 가치를 확보할 것으로 분석된다.\n\n#아웃스포큰 #cuteallen3\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/cuteallen3/224322987673)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "은 GCG 기반 약물의 시장 지배력을 강화하며, 펩트론은 이러한 흐름 속에서 전략적 가치를 확보할 것으로 분석된다.\n\n#아웃스포큰 #cuteallen3\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/cuteallen3/224322987673) ✨(In)sight\n일라이 릴리가 GCG 3중 작용제인 레타트루타이드를 개발하며 기존 제품의 매출 잠식이 예상되나, 이는 전략적 포트폴리오 관리의 일환으로 분석된다. 과거 노보노디스크의 세마글루타이드 출시로 인한 리라글루타이드 매출 잠식 사례와 릴리 내부의 티르제파타이드 출시로 인한 둘라글루타이드 매출 하락에서도 볼 수 있듯, 이러한 현상은 경쟁사로의 시장 이전이 아닌 자사 제품 간의 전환으로 기업 전체의 인크레틴 매출 증대를 목표로 한다. 펩트론의 PT-404와의 계약 역시 유사한 맥락에서 이해될 수 있으며, 이는 릴리의 지속적인 신약 개발 및 시장 지배력 강화를 위한 선제적 움직임으로 해석된다.\n\n#일라이릴리 #레타트루타이드 #포트폴리오관리 #인크레틴 #신약개발\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐..",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "한 맥락에서 이해될 수 있으며, 이는 릴리의 지속적인 신약 개발 및 시장 지배력 강화를 위한 선제적 움직임으로 해석된다.\n\n#일라이릴리 #레타트루타이드 #포트폴리오관리 #인크레틴 #신약개발\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. ※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※\n\n[2026-06-22 06:00] 해외 금융시장\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36954&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:00] 국내 금융시장\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36953&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "06:00] 국내 금융시장\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36953&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL) [2026-06-22 06:00] ‘킹 달러론’과 ‘달러 폭망론’으로 본 원·달러 환율 전망\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36952&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:00] 싱가포르, 초고액자산가 유치 위해 WM 규제 전격 완화\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36951&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "위해 WM 규제 전격 완화\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36951&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL) [2026-06-22 06:00] Customers Bank, OpenAI와 전략적 파트너십 확대\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36950&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] AI 확산에 따른 ‘AI 인프라’ 시장의 성장\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36949&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 1인가구의 금융라이프 파트너, 금융회사의 미래\n2026-06-08\n출처: 하나금융연구소",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "f.re.kr/boardDetail.do?hmpeSeqNo=36949&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 1인가구의 금융라이프 파트너, 금융회사의 미래\n2026-06-08\n출처: 하나금융연구소 [📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36948&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 하나금융포커스 [제16권 11호]\n2026-06-08\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36947&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 해외 금융시장해외 금융시장\n2026-05-26\n출처: 하나금융연구소",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "//www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36947&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 해외 금융시장해외 금융시장\n2026-05-26\n출처: 하나금융연구소 [📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36940&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 국내 금융시장국내 금융시장\n2026-05-26\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36939&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 부동산 : 주택시장의 지역별 회복 속도 격차 심화부동산 : 주택시장의 지역별 회복 속도 격차 심화\n2026-05-26\n출처: 하나금융연구소",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "qNo=36939&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 부동산 : 주택시장의 지역별 회복 속도 격차 심화부동산 : 주택시장의 지역별 회복 속도 격차 심화\n2026-05-26\n출처: 하나금융연구소 [📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36938&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:01] 외환 : 외국인 증시 대량 순매도로 상승외환 : 외국인 증시 대량 순매도로 상승\n2026-05-26\n출처: 하나금융연구소\n\n[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36937&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:15] 미 상원 군사위원회, 트럼프급 전함과 함께 신형 DDG(X) 구축함 개발도 병행 추진 원해",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "re.kr/boardDetail.do?hmpeSeqNo=36937&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)\n\n[2026-06-22 06:15] 미 상원 군사위원회, 트럼프급 전함과 함께 신형 DDG(X) 구축함 개발도 병행 추진 원해 📝 핵심적 본문 요약\n미 상원 군사위원회는 차세대 구축함 DDG(X) 개발을 계획대로 추진하며 1차 알레이 버크급 후계함을 확보해야 한다고 밝혔다. BBG(X) 전함 건조 비용이 과도하게 높아 1대1 대체가 어렵다는 점과 BBG(X)가 DDG(X) 개발을 대체해서는 안 된다는 점을 강조했다. 또한, 알레이 버크급 3차 구축함 건조를 위해 다년 조달 계약 추가를 지시하며 현안을 정리했다.\n\n#ruffino #orangeshirts\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224322545590)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "조했다. 또한, 알레이 버크급 3차 구축함 건조를 위해 다년 조달 계약 추가를 지시하며 현안을 정리했다.\n\n#ruffino #orangeshirts\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224322545590) ✨(In)sight\n미국 상원 군사위원회(SASC)는 차세대 구축함 DDG(X) 사업 추진을 재확인하며, 120억~130억 달러로 추정되는 신형 전함 BBG(X) 사업과의 예산 분리를 명확히 했다. SASC는 2030년대 퇴역 예정인 알레이버크급 구축함 후계 함종으로서 DDG(X)의 필요성을 강조하며, BBG(X)의 높은 초기 비용으로 인해 1대1 대체는 재정적으로 불가능하다고 지적했다. 이는 DDG(X)가 BBG(X)의 역할을 대체할 수 없다는 점을 분명히 한 분석으로, 알레이버크급 3차 구축함의 다년 계약 추가 추진과 함께 해군의 함정 확보 계획에 대한 재정적 현실성을 반영한 조치다.\n\n#DDGX #BBGX #미국상원군사위원회 #구축함 #해군\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐..",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "분석으로, 알레이버크급 3차 구축함의 다년 계약 추가 추진과 함께 해군의 함정 확보 계획에 대한 재정적 현실성을 반영한 조치다.\n\n#DDGX #BBGX #미국상원군사위원회 #구축함 #해군\n\n※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. ※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※",
     "source": "채널:getfeed"
   },
   {
@@ -2584,11 +2672,19 @@
     "source": "채널:dart_보령"
   },
   {
-    "text": "[2026-06-21 06:57] 증시 전망대. 중동 사태 또 반전 뉴스 등장. 마이크론 실적, PCE, 수급 등 이번주 변수 점검.  위기의 코스닥 대반전 가능성은. 먼저 뜬 반도체. 그런데 더 오른 종목들 명단\n\n방송 요약\n주간 증시 주요 변수들 정리\n지난주 주요국 증시, 종목별 상승률 비교\n중동 변수, 금리. 유가 등 움직임 분석\n중동 사태 또 반전 뉴스 등장\n종전 넘는 대반전 변수 셋 등판 예정.\n마이크론 실적, MSCI, PCE 등 일정 \n위기의 코스닥 대반전 가능성 점검. \n먼저 뜬 반도체. 이 보다 더 오른 종목들. \n최근 증시 자금 동향, 큰손들 매수 종목 리스트\n\nhttps://youtu.be/Gmal66rmbms\n\n[2026-06-21 21:10] 미 증시도 차별화 장세. 시황맨\n\n올해 미 증시 시총 증가 규모는 +5조달러.\n\nAI 관련주의 시총 증가만 +6조달러, 에너지 부문 +2,000억달러\n\n그나마 에너지 관련주는 최근 유가 하락에 주가도 약세\n\n그 외 업종은 -1조달러 시총 감소.\n\n즉, 미 증시도 올해 AI 관련주 특히 반도체 관련주에 매수세가 집중",
+    "text": "[2026-06-22 05:59] 6월 22일 시황. 협상으로 시작. 마이크론으로 이어질 주간\n\n주말 미 증시는 휴장. 유럽은 조심스러운 움직임\n미국-이란 종전 합의는 노이즈 이어지는 중\n대면 협상 연기. 이란 재봉쇄 선언. 협상단 다시 파견 등\n특히 이스라엘 공습에 반발해 이란은 해협 재봉쇄 선언\n대면 협상 시작되었으나 트럼프 강경 메세지에 파행\n협상 불발시 더 강하게 공격할 것이라는 SNS 내용\n이란측 강하게 반발해 협상장 이탈했다는 소식\n다만 외신은 이란은 현재 협상 완전 이탈은 아니라고\n협상 자체는 진행 중이라고 보도\n이 점은 어느 정도 예상되었던 측면도\n향 후 협상 과정에서 이런 양상은 지속될 가능성\n그러나 큰 틀이 바뀌지는 않을 것으로 보임\n전쟁 재개가 양측에 큰 부담이 되는 사안\n향 후 산발적인 노이즈성 기사는 이어진다고 봐야",
     "source": "채널:shmstory"
   },
   {
-    "text": "시총 증가 규모는 +5조달러.\n\nAI 관련주의 시총 증가만 +6조달러, 에너지 부문 +2,000억달러\n\n그나마 에너지 관련주는 최근 유가 하락에 주가도 약세\n\n그 외 업종은 -1조달러 시총 감소.\n\n즉, 미 증시도 올해 AI 관련주 특히 반도체 관련주에 매수세가 집중 다만 우리와 다른 점은 미국은 지난주 마이크론 보다 램 리서치나 어플라이드 머트리얼즈 같은 장비주들 상승폭이 더 컸음",
+    "text": "전 이탈은 아니라고\n협상 자체는 진행 중이라고 보도\n이 점은 어느 정도 예상되었던 측면도\n향 후 협상 과정에서 이런 양상은 지속될 가능성\n그러나 큰 틀이 바뀌지는 않을 것으로 보임\n전쟁 재개가 양측에 큰 부담이 되는 사안\n향 후 산발적인 노이즈성 기사는 이어진다고 봐야 이번주 중동 외 중요한 변수들도 대기 중\n해외는 PCE 물가, 마이크론 실적\n유가 하락으로 PCE 물가 부담은 일단 덜어냄\n최악의 예상 상회 아니라면 단발 요인 정도\n마이크론 실적은 추가 상승 여부를 가늠하는 지표\n최근 목표가 상향이 이어지는 중이었음\n속도 조절론 역시 어느 정도 부각되는 중\n예상치 부합 혹은 어중간한 가이던스 제시하면 부담\n또 셀-온 물량 출회 가능성도 어느 정도 염두\n다만 이전과 다른 업황 사이클로 보는 시각 우세\n일시적 매물 소화 후 추가 상승 가능성 높다는 평가\n실적 발표 전후 변동성은 어느 정도 염두해야\n\n국내는 MSCI 관찰대상국 지정 여부\n일단 증권가 분위기는 쉽지 않다는 분석\n외환 시장 완전 개방 등 일부 조건 미비 등\n지정되지 않는 것이 악재 자체는 아님\n기대감으로 오른 것이 없어 호재 영향력 제한",
+    "source": "채널:shmstory"
+  },
+  {
+    "text": "가능성 높다는 평가\n실적 발표 전후 변동성은 어느 정도 염두해야\n\n국내는 MSCI 관찰대상국 지정 여부\n일단 증권가 분위기는 쉽지 않다는 분석\n외환 시장 완전 개방 등 일부 조건 미비 등\n지정되지 않는 것이 악재 자체는 아님\n기대감으로 오른 것이 없어 호재 영향력 제한 최근 증시는 코스피 빅4 중심의 강세 국면\n반면 중소형주, 코스닥은 글로벌 증시 최 약세\n수급 쏠림이 심해지며 빅4 외에는 변동성 혹은 약세\n현재는 포모 국면 더해져 저항대, 목표가는 의미없음\n눌린 코스닥  시장 움직임도 계속 주목은 해야\n지난주 기준 코스닥 PER은 60배 수준\n고점 150배 이상 대비 크게 낮아짐\n60배는 2023년 말 이 후 가장 낮은 수치\n실적 매력은 없지만 하향없이 낙폭 역시 과도\n일부 실적 업종은 반전 가능성도 주시해야\n기존 주도주 관심은 지속 유지해야\n상승 후 눌려 있던 코스닥 종목들 움직임도 주시\n\n[2026-06-22 06:07] 증시 전망대. 중동 사태 또 반전 뉴스 등장. 마이크론 실적, PCE, 수급 등 이번주 변수 점검.  위기의 코스닥 대반전 가능성은. 먼저 뜬 반도체. 그런데 더 오른 종목들 명단",
+    "source": "채널:shmstory"
+  },
+  {
+    "text": "해야\n상승 후 눌려 있던 코스닥 종목들 움직임도 주시\n\n[2026-06-22 06:07] 증시 전망대. 중동 사태 또 반전 뉴스 등장. 마이크론 실적, PCE, 수급 등 이번주 변수 점검.  위기의 코스닥 대반전 가능성은. 먼저 뜬 반도체. 그런데 더 오른 종목들 명단 방송 요약\n주간 증시 주요 변수들 정리\n지난주 주요국 증시, 종목별 상승률 비교\n중동 변수, 금리. 유가 등 움직임 분석\n중동 사태 또 반전 뉴스 등장\n종전 넘는 대반전 변수 셋 등판 예정.\n마이크론 실적, MSCI, PCE 등 일정 \n위기의 코스닥 대반전 가능성 점검. \n먼저 뜬 반도체. 이 보다 더 오른 종목들. \n최근 증시 자금 동향, 큰손들 매수 종목 리스트\n\nhttps://youtu.be/Jq-PHqznabk",
     "source": "채널:shmstory"
   },
   {

@@ -116,3 +116,240 @@ Ranked: Household Income by Race in America
 See how median household income compares across racial and ethnic groups in America, based on the latest U.S. Census Bureau data.
 
 [📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/ranked-household-income-by-race-in-america/)
+
+[2026-06-22 05:00] [단기예보] 기상청 통보문
+2026년 06월 22일 (월)요일 05:00 발표
+
+□ (종합) 오늘 남부지방과 제주도 비, 중부지방 소나기, 돌풍과 천둥.번개 유의, 동해상 매우 높은 물결 유의
+ 
+○ (오늘, 22일) 전국 대체로 흐리겠으나, 중부지방 오후부터 가끔 구름많음,
+   밤(18~24시)까지 전라권과 경남권, 제주도 비, 제주도는 내일 새벽(00~06시)까지 이어짐,
+   오전(09~12시)부터 저녁(18~21시) 사이 수도권과 강원내륙.산지, 충청권, 경북권서부내륙 곳에 따라 소나기
+ 
+○ (내일, 23일) 중부지방 대체로 맑겠으나, 강원영동과 남부지방, 제주도 구름많음
+ 
+○ (모레, 24일) 중부지방 가끔 구름많겠으나 남부지방과 제주도 대체로 흐림,
+   새벽(00~06시)부터 오전(09~12시) 사이 제주도 곳에 따라 비
+ 
+○ (글피, 25일) 전국 가끔 구름많음, 제주도 대체로 흐림
+
+* 예상 강수량(22일)
+- (전라권) 광주.전남, 전북: 10~40mm
+- (경상권) 부산.울산.경남: 10~40mm
+- (제주도, 23일 새벽까지) 제주도: 20~80mm
+
+* 소나기에 의한 예상 강수량(22일)
+- (수도권) 서울.인천.경기: 5~40mm
+- (강원도) 강원내륙.산지: 5~30mm
+- (충청권) 대전.세종.충남, 충북: 5~30mm
+- (경상권) 대구.경북서부내륙: 5~30mm
+
+* 예상 강수량(24일)
+- (제주도) 제주도: 5~30mm
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-06-22 05:29] 23년 묵은 버그를 찾은 프롬프트는, 왜 그렇게 단순했을까?
+
+📝 핵심적 본문 요약
+AI가 23년간 발견되지 않은 리눅스 커널 보안 취약점을 찾아냈다.
+이는 정교한 지시가 아닌, 단순한 질문을 반복적으로 적용하는 '카를리니 루프' 방식으로 가능했다.
+AI는 넓은 범위의 탐색을, 인간은 선별의 역할을 수행하며 새로운 협업 모델을 제시한다.
+
+ [📜📜📜**원문보기**📜📜📜](https://blog.naver.com/bambooinvesting/224322567731)
+
+✨(In)sight
+23년간 발견되지 않았던 리눅스 커널의 보안 취약점을 AI가 찾아낸 사건은, 인간의 직관적 선택 중심 분석 방식과 AI의 전수 조사 능력이 결합될 때 발생하는 파괴력을 보여준다. 기존 전문가들이 경험과 직관에 의존해 특정 코드 영역에 집중했던 것과 달리, 앤트로픽 연구자는 AI에게 단순 반복 질문을 던지며 방대한 코드를 빠짐없이 검토하게 했다. 이는 정교한 프롬프트 구축보다 '넓은 그물'로 놓치는 부분 없이 검사하는 방식이 숨겨진 문제를 발견하는 데 효과적임을 시사한다. AI가 쏟아낸 수백 개의 후보 중 진짜를 선별하는 인간의 '판별력'이 더욱 중요해진 시점이다.
+
+#리눅스커널 #보안취약점 #AI #직관 #판별력
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※
+
+[2026-06-22 05:43] 2026 대한민국 웰스 리포트
+2026-04-15
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36903&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2025 대한민국 웰스 리포트
+2025-04-16
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36521&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2024 대한민국 웰스 리포트
+2024-04-25
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36112&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2023 대한민국 웰스 리포트2023 대한민국 웰스 리포트
+2023-04-09
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35625&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2022 Korean Wealth Report2022 Korean Wealth Report
+2022-04-13
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35298&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드 2021 KOREAN WEALTH REPORT : 부자와 대중부유층의 자산관리 트렌드
+2021-03-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35299&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2020 Korean Wealth Report (한국 부자들의 자산관리 방식 및 라이프스타 2020 Korean Wealth Report (한국 부자들의 자산관리 방식 및 라이프스타
+2020-04-02
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35320&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2019 Korean Wealth Report2019 Korean Wealth Report
+2019-01-28
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35322&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2018 Korean Wealth Report2018 Korean Wealth Report
+2018-01-31
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35323&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2017 Korean Wealth Report2017 Korean Wealth Report
+2017-02-02
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35330&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2015 Korean Wealth Report2015 Korean Wealth Report
+2015-10-01
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35331&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:43] 2014 Korean Wealth Report2014 Korean Wealth Report
+2014-04-09
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35332&menuId=MN2000&tabMenuId=MN2500&srchNm=ALL)
+
+[2026-06-22 05:55] [펩트론]일라이 릴리, GPCR 밸런스 월드컵 우승 상금으로 펩트론 영입할 듯
+
+📝 핵심적 본문 요약
+펩트론은 일라이 릴리의 GCG 기반 약물 개발에 기여하며 MASH 치료제 시장에서의 잠재력을 보여준다. 펩트론의 DD01은 간 특화 기전으로 지방간 및 섬유화 개선 가능성을 제시하며, 릴리는 GCG 3중 작용제 대량 생산을 확정하고 GCG 듀얼은 이노벤트와 협력한다. 릴리의 티르제파타이드와 레타트루타이드 개발 성공은 GCG 기반 약물의 시장 지배력을 강화하며, 펩트론은 이러한 흐름 속에서 전략적 가치를 확보할 것으로 분석된다.
+
+#아웃스포큰 #cuteallen3
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/cuteallen3/224322987673)
+
+✨(In)sight
+일라이 릴리가 GCG 3중 작용제인 레타트루타이드를 개발하며 기존 제품의 매출 잠식이 예상되나, 이는 전략적 포트폴리오 관리의 일환으로 분석된다. 과거 노보노디스크의 세마글루타이드 출시로 인한 리라글루타이드 매출 잠식 사례와 릴리 내부의 티르제파타이드 출시로 인한 둘라글루타이드 매출 하락에서도 볼 수 있듯, 이러한 현상은 경쟁사로의 시장 이전이 아닌 자사 제품 간의 전환으로 기업 전체의 인크레틴 매출 증대를 목표로 한다. 펩트론의 PT-404와의 계약 역시 유사한 맥락에서 이해될 수 있으며, 이는 릴리의 지속적인 신약 개발 및 시장 지배력 강화를 위한 선제적 움직임으로 해석된다.
+
+#일라이릴리 #레타트루타이드 #포트폴리오관리 #인크레틴 #신약개발
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※
+
+[2026-06-22 06:00] 해외 금융시장
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36954&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:00] 국내 금융시장
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36953&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:00] ‘킹 달러론’과 ‘달러 폭망론’으로 본 원·달러 환율 전망
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36952&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:00] 싱가포르, 초고액자산가 유치 위해 WM 규제 전격 완화
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36951&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:00] Customers Bank, OpenAI와 전략적 파트너십 확대
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36950&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] AI 확산에 따른 ‘AI 인프라’ 시장의 성장
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36949&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 1인가구의 금융라이프 파트너, 금융회사의 미래
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36948&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 하나금융포커스 [제16권 11호]
+2026-06-08
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36947&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 해외 금융시장해외 금융시장
+2026-05-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36940&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 국내 금융시장국내 금융시장
+2026-05-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36939&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 부동산 : 주택시장의 지역별 회복 속도 격차 심화부동산 : 주택시장의 지역별 회복 속도 격차 심화
+2026-05-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36938&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:01] 외환 : 외국인 증시 대량 순매도로 상승외환 : 외국인 증시 대량 순매도로 상승
+2026-05-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=36937&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-06-22 06:15] 미 상원 군사위원회, 트럼프급 전함과 함께 신형 DDG(X) 구축함 개발도 병행 추진 원해
+
+📝 핵심적 본문 요약
+미 상원 군사위원회는 차세대 구축함 DDG(X) 개발을 계획대로 추진하며 1차 알레이 버크급 후계함을 확보해야 한다고 밝혔다. BBG(X) 전함 건조 비용이 과도하게 높아 1대1 대체가 어렵다는 점과 BBG(X)가 DDG(X) 개발을 대체해서는 안 된다는 점을 강조했다. 또한, 알레이 버크급 3차 구축함 건조를 위해 다년 조달 계약 추가를 지시하며 현안을 정리했다.
+
+#ruffino #orangeshirts
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224322545590)
+
+✨(In)sight
+미국 상원 군사위원회(SASC)는 차세대 구축함 DDG(X) 사업 추진을 재확인하며, 120억~130억 달러로 추정되는 신형 전함 BBG(X) 사업과의 예산 분리를 명확히 했다. SASC는 2030년대 퇴역 예정인 알레이버크급 구축함 후계 함종으로서 DDG(X)의 필요성을 강조하며, BBG(X)의 높은 초기 비용으로 인해 1대1 대체는 재정적으로 불가능하다고 지적했다. 이는 DDG(X)가 BBG(X)의 역할을 대체할 수 없다는 점을 분명히 한 분석으로, 알레이버크급 3차 구축함의 다년 계약 추가 추진과 함께 해군의 함정 확보 계획에 대한 재정적 현실성을 반영한 조치다.
+
+#DDGX #BBGX #미국상원군사위원회 #구축함 #해군
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※

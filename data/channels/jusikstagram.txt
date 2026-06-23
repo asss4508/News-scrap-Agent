@@ -1,54 +1,9 @@
-[2026-06-23 14:43] #포트폴리오 #고민
+[2026-06-24 05:25] AI 수익화 우려, 빅테크 덮치다  투자자들은 AI 선두 기업들이 고급 LLM(거대 언어 모델)에 대해 고객들이 기꺼이 지불할 용의가 있는 가격의 상한선에 도달했을 수 있다는 점을 점점 더 우려하고 있으며, 치열한 경쟁은 계속해서 토큰 가격을 낮추고 있습니다. AI 가격이 하락함에 따라, 하이퍼스케일러들의 방대한 데이터 센터 및 GPU 투자가 기대 이하의 수익을 창출할 수 있다는 우려가 커지고 있으며, 이는 AI 생태계 전반의 가치 평가에 압박을 가하고 있습니다.
 
-LG전자 숏 + 나머지 현금 유지. 
+원문:
+AI MONETIZATION FEARS HIT BIG TECH
 
-금리인하, 반도체 TAM 확장 신규 내러티브, 펀더 안꺾이는 이유로 큰 조정, 전닉 쏠림현상 완화 등 생각중인 변화 나타나기 전끼지 관망
+INVESTORS ARE INCREASINGLY WORRIED THAT AI LEADERS MAY HAVE REACHED THE CEILING ON WHAT CUSTOMERS ARE WILLING TO PAY FOR ADVANCED LLMS, WHILE FIERCE COMPETITION CONTINUES TO DRIVE TOKEN PRICES LOWER. AS AI PRICING FALLS, CONCERNS ARE GROWING THAT MASSIVE DATA CENTER AND GPU INVESTMENTS BY HYPERSCALERS COULD GENERATE LOWER-THAN-EXPECTED RETURNS, PRESSURING VALUATIONS ACROSS THE AI ECOSYSTEM. [...](https://x.com/FirstSquawk/status/2069439411604033556)
 
-이번주 변수 PCE, 마이크론 다음 분기 가이던스, 다음달 변수는 연기금 기계적 매도, 삼성전자 잠정실적 반응.
-
-시장은 금리 인상, 물가 우려가 없는 상태이며, 반도체 실적발표는 웬만해서 호재로 생각 중이고, 최근 open ai 가격 인하, 중국 ai 솔루션 침투율 확대 등에 대한 이슈들에 대해 무덤덤 해졌으나 주가가 오를수록 다시 점검할 가능성도 염두에 둘 필요가 있을지도
-
-[2026-06-23 22:54] #미증시
-
-**AI HW 및 인프라 약세
-**
-**빅테크, 바이오, 음식료, 유통 0~3% 상승
-
-반도체**
-샌디스크 -13%
-마이크론 -11%
-KLA -9%
-퀄컴 -8%
-AMD -6%
-엔비디아 -3%
-
-**데이터센터 인프라**
-버티브 -10%
-슈퍼 마이크로 -6%
-**
-전기차/로봇**
-테슬라 -4%
-
-**신재생**
-블룸에너지 -11%
-플루언스 에너지 -10%
-
-**변압기**
-지멘스 -5%
-슈나이더일렉 -4%
-
-**빅테크**
-마이크로소프트 +2%
-메타 +1%
-아마존 +1%
-알파벳 0%
-
-**바이오**
-전반적으로 0 ~ +3%
-
-**음식료**
-전반적으로 0~ +1%
-
-**유통**
-월마트 +2%
-코스트코 +1%
+출처: @marketfeed
+번역제공: 구글

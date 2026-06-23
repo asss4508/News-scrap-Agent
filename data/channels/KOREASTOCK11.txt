@@ -4,3 +4,78 @@
 https://www.hankyung.com/article/202605297700i
 
 [2026-06-23 07:27] https://www.thelec.kr/news/articleView.html?idxno=57272
+
+[2026-06-23 09:10] **[빅샷 리서치: 오리지날 ] 시노펙스(025320) · MLCC 필터, AI MLCC 사이클의 숨은 길목**
+
+**MLCC 수율을 잡은 핵심부품 **
+
+시장은 공장 외곽 공조 필터에 한눈팔지만, 진짜 하이엔드 테크는 고사양 MLCC의 가혹한 화학 공정 한복판 — 수율을 가르는 슬러리 정제에 있다.
+
+**왜 슬러리 정제가 핵심인가**
+고사양 MLCC 유전체층은 0.5µm 부근(머리카락 100분의 1). 슬러리 속 나노급 응집 입자 단 하나가 층간 단락 불량을 부른다.
+정상 입자는 통과, **응집 덩어리만 선별 제거하는 미세 기공 제어가 양산의 생사를 가른다.**
+강한 화학성·고압 순환을 견디는 산업용 소모품 — 범용 여과지로는 불가능한 영역.
+
+**시노펙스의 검증된 위치**
+**반도체 CMP 슬러리 필터 국내 1위(약 70%). **30여 년 R&D로 0.2µm급 균일 미세기공 기술 자체 확보.
+동일 기술 계열로 MLCC용 세라믹 슬러리 정제 필터를 상시 라인업 보유. 소재(미디어)부터 모듈까지 전 공정 자체 생산.
+과거 일본 독점 시장에서 국내 최초 국산화 성공 이력.
+2026년 2월, 전량 미국·일본 수입 의존하던 5나노급 케미컬 필터(ePTFE)까지 독자 개발 공개 — 소부장 독립의 기술 깊이 입증.
+공식 MF 사업부 주력 적용 분야에 [Chemical Filter]·[CMP]·[MLCC] 나란히 명시. 일회성 테마가 아닌 상시 사업.
+
+**왜 지금 보는가**
+AI 인프라 확장 → 고적층 MLCC 수요 증가 → 세라믹 슬러리 정제 필터 소모 증가. 가동률 연동 소모품 = 반복 매출 잠재력.
+2026년 MLCC 슈퍼사이클로 동종 일부가 급등할 때, 시노펙스는 오히려 저점권(7,000원대→5,000원대). 시장이 이 연결고리를 아직 반영하지 않았다는 해석이 가능한 구간.
+
+
+이 보고서는 개인의 의견이며, 기관투자가의 정식리포트가 아닙니다. 매수·매도 추천이 아니며 참고용입니다. 투자는 본인 책임입니다.
+
+[2026-06-23 09:21] * 출처 시노펙스 홈 페이지
+
+[2026-06-23 09:21] https://www.mt.co.kr/industry/2012/01/16/2012011610589613316
+
+[2026-06-23 09:30] [핫 컴퍼니]시노펙스 “중분자 물질 제거 투석 필터로 국내 투석시장 국내화 이끌겠다”
+https://www.hankyung.com/article/202605297700i
+
+[2026-06-23 10:14] **멤브레인 솔루션스(Membrane Solutions) — 필터 제조사 기술 자료**
+The aggregation of slurry particles can lead to issues such as voids in the ceramic dielectric, impurities in the electrodes, and device cracking. These adverse phenomena pose significant obstacles to improving the yield and advancing the high-end capabilities of MLCC.
+The performance and reliability of MLCC are highly dependent on its manufacturing processes, with slurry filtration technology being a crucial step to ensure product quality.
+On the CMP side, large particles formed in the slurry are transported to the wafer surface, causing defects such as micro-scratches and resulting in a significant loss of wafer yield. Therefore it is very important for CMP filtration to remove these defect-causing large particles and agglomerates without affecting polishing performance.
+
+슬러리 입자의 응집은 세라믹 유전체의 보이드, 전극 내 불순물, 소자 균열을 유발할 수 있다. 이런 현상은 MLCC의 수율 향상과 하이엔드화를 가로막는 중대한 장애물이다.
+MLCC의 성능과 신뢰성은 제조 공정에 크게 좌우되며, 슬러리 여과 기술은 제품 품질을 확보하는 핵심 단계다.
+CMP 공정에서는 슬러리 속에 형성된 큰 입자가 웨이퍼 표면으로 옮겨가 마이크로 스크래치 같은 결함을 일으키고 웨이퍼 수율을 크게 떨어뜨린다. 따라서 연마 성능을 해치지 않으면서 결함을 유발하는 대형 입자와 응집체를 제거하는 CMP 여과가 매우 중요하다.
+
+**모도르 인텔리전스(Mordor Intelligence) — 시장조사기관 (차이나 MLCC 리포트)**
+In the smallest MLCC case sizes, yield losses carry a magnified cost impact, so process controls become decisive, and foreign vendors leverage decades of ceramic-slurry know-how to safeguard reliability.
+가장 작은 MLCC 사이즈에서는 수율 손실의 비용 영향이 증폭되기 때문에 공정 관리가 결정적 변수가 되며, 해외 선도 업체들은 수십 년간 축적한 세라믹 슬러리 노하우로 신뢰성을 방어한다.
+
+[2026-06-23 10:53] MLCC Process Filtration: The Picks-and-Shovels Layer Nobody Is Pricing In
+
+
+
+The Street has converged on the MLCC supercycle. Goldman calls it the largest and longest cycle ever, still in its early stages, and ranks MLCCs as the third-largest cost item in an AI server BOM after GPUs and memory. Murata has guided the cycle out to 2030, with autonomous driving and humanoid robots as a second growth curve. Lead times for high-end parts already exceed 20 weeks.
+
+The decisive constraint is supply, not demand. Equipment and core materials depend on in-house R&D, locking annual capacity growth near 10% against far faster demand.
+
+Here is the missed angle. The bottleneck is not just the capacitor, but everything required to make a high-end capacitor at yield. As GPUs force smaller size, higher capacitance, higher heat resistance and lower ESR, these challenges transmit upstream and demand finer ceramic powders. Finer slurry means tighter process filtration.
+
+In MLCC production, slurry filtration is critical to quality. Gels and agglomerates form in the slurry, and the resulting large particles cause defects that destroy yield. Leading filters now cut to 0.05μm, and every stage runs its own media.
+
+The investment logic: process filters are consumables, not capex. They are replaced continuously and scale with high-end output and miniaturization, the two variables the whole supercycle rests on. While Murata, Samsung Electro-Mechanics and Taiyo Yuden absorb the full valuation, the filtration layer feeding their lines stays underappreciated and largely uncovered. In a cycle where supply is the binding constraint, the firms deciding whether high-end yield actually scales deserve a closer look.
+
+---
+
+
+
+MLCC 공정 필터: 시장이 아직 값을 매기지 않은 곡괭이·삽 레이어
+
+시장은 이미 MLCC 슈퍼사이클로 수렴했다. 골드만은 이를 역사상 가장 크고 긴 사이클이며 아직 초기 국면이라 보고, MLCC를 GPU·메모리에 이은 AI 서버 BOM 3대 비용 항목으로 꼽았다. 무라타는 사이클을 2030년까지 연장 제시했고, 자율주행과 휴머노이드가 두 번째 성장 곡선이다. 고급 제품 리드타임은 이미 20주를 넘었다.
+
+결정적 제약은 수요가 아니라 공급이다. 장비와 핵심 원재료가 자체 R&D에 의존해, 연간 capa 증가율이 10% 수준에 고착된 반면 수요는 훨씬 빠르게 증가한다.
+
+여기서 시장이 놓친 지점이 있다. 병목은 커패시터 그 자체가 아니라, 고급 커패시터를 수율 안에서 만들어내는 데 필요한 모든 것이다. GPU가 더 작은 크기·고용량·고내열·저ESR을 요구하면서 이 난제는 그대로 상단으로 전이되어 더 미세한 세라믹 분말을 요구한다. 분말이 미세해질수록 공정 여과는 더 정밀해져야 한다.
+
+MLCC 생산에서 슬러리 여과는 품질의 핵심이다. 슬러리 안에서 겔과 응집체가 생기고, 그렇게 만들어진 거대 입자가 결함을 일으켜 수율을 무너뜨린다. 선도 필터는 이제 0.05μm까지 걸러내며, 공정 단계마다 별도의 여과 매체가 돌아간다.
+
+투자 논리는 이렇다. 공정 필터는 capex가 아니라 소모품이다. 지속적으로 교체되며, 슈퍼사이클의 두 축인 고급 생산량과 미세화에 비례해 매출이 늘어난다. 무라타, 삼성전기, 다이요유덴이 밸류에이션을 다 흡수하는 동안, 이들 라인에 필터를 공급하는 여과 레이어는 여전히 저평가됐고 커버리지도 거의 없다. 공급이 결정적 제약인 사이클에서, 고급 수율이 실제로 확장되느냐를 좌우하는 기업들은 시장이 지금 주는 것보다 더 주목받을 자격이 있다.

@@ -15,3 +15,12 @@ https://www.reuters.com/business/energy/solar-manufacturing-group-seeks-us-tarif
 - 비은행권 직접 대출 펀드의 투명성과 대출 규율 및 소프트웨어 부문 노출에 대한 우려가 커지면서 올해 BDC 구조의 펀드들에 환매 요청이 급증하고 있다.
 - 미국 국내 투자자의 환매 요청은 4.3%로 다소 완화된 반면 해외 투자자의 환매 요청은 12.5%로 증가하는 뚜렷한 지역적 차이를 보였다.
 https://www.reuters.com/business/apollo-private-credit-fund-limits-investor-withdrawals-after-requests-surge-2026-06-22/
+
+[2026-06-23 10:27] SK하이닉스 마진 높은 범용 DRAM 전환에 집중하며 삼성전자에 HBM 기회 제공 - 조선비즈
+(by https://t.me/TNBfolio)
+- SK하이닉스는 공급 부족이 심각한 범용 DRAM 시장에 자원을 재배치하며 HBM4 양산 확대 속도를 조절하고 있다.
+- 이러한 전략 변화는 범용 DRAM의 영업이익률이 HBM보다 15%포인트 이상 높아진 수익성 역전 현상에 따른 것이다.
+- 경쟁사인 Samsung Electronics가 범용 DRAM에서 막대한 수익을 올리는 반면 Nvidia의 차세대 칩 Rubin 생산 전망이 낮아져 HBM 전환 속도를 늦출 명분이 생겼다.
+- 주요 투자은행들은 SK하이닉스의 가치를 HBM 점유율 방어보다 전체 메모리 가격 사이클과 DRAM 평균 판매가 상승으로 평가하고 있다.
+- SK하이닉스가 HBM4 물량을 조절함에 따라 올해 하반기 삼성전자가 HBM4 양산에 성공할 경우 시장 점유율을 확대할 기회가 커질 전망이다.
+https://biz.chosun.com/en/en-it/2026/06/23/UHWCPT2CAFCGTKNEUHJ2WWBEME/

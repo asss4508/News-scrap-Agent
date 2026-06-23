@@ -220,3 +220,42 @@ AI 병목 맞습니다
 담배피다 퇴근하라는 뜻이네요.
 
 [2026-06-23 15:44] 강세장에서 -10프로 조정은 3~4개월에 한번꼴로 나온다는 이은택 이사님 데이터를 봤는데.. 6월에만 2번이면 초초강세장이라서..?
+
+[2026-06-23 17:59] **🛞 이더리움 ETH 가격 변동과 공급량의 수익/손실 상태 변화**
+
+**1️⃣ 상단 차트: ETH 가격 추이**
+**1. 현재 가격**: 이더리움 가격은 약 $1,700(1.7K) 부근에 위치하고 있습니다.
+**2. 주요 역사적 변곡점:**
+① 2018 Bear Market: 2018년 대하락장 바닥 구간
+② COVID: 2020년 3월 코로나19 팬데믹 선언 당시의 급락 구간
+③ FTX: 2022년 말 FTX 거래소 파산 사태로 시장이 급락했던 시기
+④ Tariffs War Bottom: 2025년 관세 전쟁 등으로 인한 거시경제 악재 속에서 형성된 바닥
+⑤ 2026 Bear Market: 2026년 현재 직면해 있는 약세장 구간으로, 고점 대비 가격이 크게 조정받은 상태
+
+**2️⃣ 하단 차트: 수익/손실 공급량 (Supply in Profit/Loss)**
+1. **수익 상태 공급량 (Supply in Profit - 파란색 선)**: 현재 가격보다 낮은 가격에 유치되어 이익을 보고 있는 ETH 물량, 현재 24M ETH까지 감소하여 바닥권에 근접함
+**2. 손실 상태 공급량 (Supply in Loss - 빨간색 선):** 현재 가격보다 높은 가격에 매수되어 손실을 보고 있는 ETH 물량, 현재 53.3M ETH까지 치솟았음
+**3. 지표의 의미**: 역사적으로 파란색 선(수익)이 극단적으로 낮아지고 빨간색 선(손실)이 최고조에 달했을 때(붉은색 음영 구간)가 시장의 역사적 바닥(Bottom), 현재 유통 물량의 과반수가 손실 구간에 진입해 있어 시장의 투매 압박과 함께 바닥 다지기가 진행 중임을 시사함
+
+(이미지 출처: [Proekt_73](https://app.binance.com/uni-qr/cart/334775176432385?l=en&r=URWTLIOX&uc=web_square_share_link&us=copylink))
+
+#트래킹 #미국주식 #비트마인 #BMNR
+
+[2026-06-23 18:24] **🛞 Amazon의 Trainium 전략, AWS AI 성장과 마진 개선의 핵심 축으로 부상**
+
+**1. Trainium 중심의 자체 AI 칩 전략 재부각**
+① Amazon은 AWS AI 서비스가 연간 매출 런레이트 150억 달러를 넘었다고 공개했으며, 이는 AWS 전체 1,420억 달러 런레이트의 약 10% 수준임
+② Graviton, Trainium, Nitro를 포함한 Amazon 자체 칩 사업의 연간 매출 런레이트는 200억 달러 이상으로 확대됐고, 직전 공개 수치 100억 달러 대비 두 배 증가
+③ Trainium은 AI 학습·추론의 비용 대비 성능을 높이기 위해 설계된 자체 AI 칩으로, Amazon의 AI 인프라 비용 절감과 Nvidia 의존도 완화의 핵심 축으로 부각 ([Reuters](https://www.reuters.com/business/retail-consumer/amazon-says-annual-revenue-run-rate-chips-business-now-over-20-billion-2026-04-09))
+
+**2. 기업용 AI 컴퓨팅 비용 하락과 AWS 마진 전망**
+① AWS AI·기술 책임자 Matt Wood는 기업용 AI 모델 사용 비용이 빠르게 낮아지고 있으며, 일정 수준의 지능을 구현하는 비용이 약 6개월마다 1~2자릿수 규모로 하락 중이라고 언급
+② 최첨단 모델만 고집하지 않아도 상당수 기업용 AI 업무를 처리할 수 있다는 점에서, AWS 고객의 AI 도입이 실험 단계에서 대량 상용화 단계로 이동할 가능성 확대
+③ 비용 하락은 단기적으로 가격 인하 압력으로 보일 수 있으나, AWS 입장에서는 더 많은 워크로드와 거래량을 흡수해 규모의 경제와 마진 개선으로 연결될 수 있는 구조 ([Sahm](https://www.sahmcapital.com/news/content/aws-ai-chief-says-enterprise-compute-costs-are-getting-cheaper-fast-what-it-means-for-amazons-margins-2026-06-19))
+
+**3. Trainium의 AWS 내부 사용을 넘어 외부 판매 가능성 확대**
+① Amazon AI 책임자 Peter DeSantis는 AWS가 Trainium 칩을 다른 기업의 데이터센터용으로 판매하는 방안을 논의 중이라고 언급했으며, 이는 AWS 클라우드 내부 사용을 넘어선 전략 확장 신호
+② Andy Jassy는 주주서한에서 자체 칩 사업이 AWS와 외부 고객 모두에 판매되는 독립 사업이었다면 연간 런레이트가 약 500억 달러에 달할 수 있다고 언급
+③ 다만 AWS가 지금까지 외부 판매를 제한해온 이유는 칩 자체 판매보다 AWS 안에서 AI 토큰 처리, 스토리지, 보안, 네트워킹, 모니터링 등 부가 서비스를 함께 판매하는 구조가 더 높은 수익성을 제공했기 때문임 ([TechCrunch](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips))
+
+#트래킹 #미국주식 #아마존 #AMZN

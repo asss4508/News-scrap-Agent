@@ -1,15 +1,12 @@
-[2026-06-24 05:25] AI 수익화 우려, 빅테크 덮치다  투자자들은 AI 선두 기업들이 고급 LLM(거대 언어 모델)에 대해 고객들이 기꺼이 지불할 용의가 있는 가격의 상한선에 도달했을 수 있다는 점을 점점 더 우려하고 있으며, 치열한 경쟁은 계속해서 토큰 가격을 낮추고 있습니다. AI 가격이 하락함에 따라, 하이퍼스케일러들의 방대한 데이터 센터 및 GPU 투자가 기대 이하의 수익을 창출할 수 있다는 우려가 커지고 있으며, 이는 AI 생태계 전반의 가치 평가에 압박을 가하고 있습니다.
+[2026-06-25 20:27] [SK증권 반도체 한동희]
 
-원문:
-AI MONETIZATION FEARS HIT BIG TECH
+**메모리 3사 12MF P/E 업데이트 (06/25)**
+삼성전자 6.4X
+SK하이닉스 7.6X
+* SK증권 추정치 기준
 
-INVESTORS ARE INCREASINGLY WORRIED THAT AI LEADERS MAY HAVE REACHED THE CEILING ON WHAT CUSTOMERS ARE WILLING TO PAY FOR ADVANCED LLMS, WHILE FIERCE COMPETITION CONTINUES TO DRIVE TOKEN PRICES LOWER. AS AI PRICING FALLS, CONCERNS ARE GROWING THAT MASSIVE DATA CENTER AND GPU INVESTMENTS BY HYPERSCALERS COULD GENERATE LOWER-THAN-EXPECTED RETURNS, PRESSURING VALUATIONS ACROSS THE AI ECOSYSTEM. [...](https://x.com/FirstSquawk/status/2069439411604033556)
+마이크론 8.3X
+* Bloomberg consensus 기준
 
-출처: @marketfeed
-번역제공: 구글
-
-[2026-06-24 12:58] 마이크론의 이번 **2026 회계연도 3분기 실적 발표**는
-
-**한국시간:** **6월 25일(목) 오전 5시 30분
-**
-**컨퍼런스콜:** **6월 25일(목) 오전 7시**
+SK증권 리서치 IT팀 채널 : 
+[https://t.me/skitteam](https://t.me/skitteam)

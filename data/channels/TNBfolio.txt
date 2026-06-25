@@ -24,3 +24,7 @@ https://app.myzaker.com/news/article.php?pk=6a38eca98e9f09754d2df2d9
 - 일부 핵심 고용량 규격 제품은 품귀 현상을 빚고 있으며 중국 내수 업체인 Fenghua Advanced 등의 납기도 20주 이상으로 늘어났다.
 - TrendForce는 클라우드 서비스 제공사들의 자체 ASIC 가속기 도입과 AMD, NVIDIA 등 차세대 플랫폼의 설계 변경으로 고성능 MLCC 채용량이 급증했다고 분석했다.
 https://www.trendforce.com/news/2026/06/25/news-mlcc-turns-from-electronic-rice-into-a-gold-like-rally-in-huaqiangbei-with-quotes-reportedly-updating-every-30-minutes/
+
+[2026-06-25 18:47] 코스피 신용잔고
+
+[2026-06-25 18:47] 코스닥 신용잔고

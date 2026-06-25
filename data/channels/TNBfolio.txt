@@ -6,3 +6,21 @@
 - 이번 발표는 SK하이닉스의 미국 상장 계획 및 Micron Technology의 어닝 서프라이즈와 맞물려 아시아 반도체 공급망 기업들의 주가 상승을 견인했다.
 - Kioxia 최고경영자는 현재 인공지능뿐만 아니라 PC와 스마트폰 시장에서도 낸드 플래시 메모리에 대한 매우 강력한 수요가 나타나고 있다고 설명했다.
 https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring
+
+[2026-06-25 13:19] 일본 두 대기업 7월부터 육불화텅스텐 영구 중단, 글로벌 칩 소재 공급 비상 - ZAKER
+(by https://t.me/TNBfolio)
+- Kanto Denka와 Central Glass가 7월 1일부터 전 세계 생산량의 25%를 차지하는 육불화텅스텐의 생산을 영구 중단한다.
+- 이번 중단은 한국의 고순도 텅스텐 분말 수출 규제로 인해 일본 업체들의 원료 재고가 소진되고 복구 불가능한 공급망 단절이 발생했기 때문이다.
+- 반도체 선진 공정의 필수 소재인 육불화텅스텐의 공급 부족으로 인해 관련 제품 가격이 올해 초 대비 5배 이상 폭등했다.
+- 삼성전자와 SK하이닉스 등 글로벌 반도체 기업들의 원료 재고는 8월까지로 추정되며 하반기 전 세계적으로 약 2000톤의 공급 부족이 예상된다.
+- 이번 사태로 전 세계 유일의 7N급 양산 능력을 갖춘 중선특기 등 중국 기업들이 대체 공급처로 부상하며高端 소재 시장의 주도권을 장악하고 있다.
+https://app.myzaker.com/news/article.php?pk=6a38eca98e9f09754d2df2d9
+
+[2026-06-25 15:00] AI 서버 수요 폭증으로 MLCC 가격 폭등, 30분마다 견적 변경 - 트렌드포스
+(by https://t.me/TNBfolio)
+- 인공지능 서버 수요 지속으로 전자산업의 쌀로 불리는 MLCC 가격이 심천 화강북 시장에서 30분마다 업데이트될 정도로 급등하고 있다.
+- 스팟 시장의 일반 MLCC 가격은 15%에서 20% 상승했으나 인공지능 서버용 고용량 제품은 최대 50%에서 60%까지 급등했다.
+- Murata, Taiyo Yuden, 삼성전기 등 글로벌 선도 기업들이 일제히 가격을 인상했으며 고가동률 속에 납기가 약 4개월까지 연장됐다.
+- 일부 핵심 고용량 규격 제품은 품귀 현상을 빚고 있으며 중국 내수 업체인 Fenghua Advanced 등의 납기도 20주 이상으로 늘어났다.
+- TrendForce는 클라우드 서비스 제공사들의 자체 ASIC 가속기 도입과 AMD, NVIDIA 등 차세대 플랫폼의 설계 변경으로 고성능 MLCC 채용량이 급증했다고 분석했다.
+https://www.trendforce.com/news/2026/06/25/news-mlcc-turns-from-electronic-rice-into-a-gold-like-rally-in-huaqiangbei-with-quotes-reportedly-updating-every-30-minutes/

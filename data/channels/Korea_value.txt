@@ -11,7 +11,7 @@ https://m.blog.naver.com/ranto28/224328348822
 
 https://rafikiresearch.blogspot.com/2026/06/column20260626.html
 
-[2026-06-27 07:41] 제가 수년동안 실험한 결과 제가 그동안 생각해온 추세추종은 본인이 갖고 있던 생각보다 좀 더 복잡한 것이라는 것을 알게 되었습니다. 그래서 저는 진입,익절,손절 이라는 대원칙도 힘들어서, 
+[2026-06-27 07:41] 제가 그동안 생각해온 추세추종은 본인이 갖고 있던 생각보다 좀 더 복잡한 것이라는 것을 알게 되었습니다. 그래서 저는 진입,익절,손절 이라는 대원칙도 힘들어서, 
 
 손절, 오직 손절이라는 원칙만 세워두고 있습니다. 
 대시세가 나기전에는 그게 + 여도 저에게는 모두 손절일 뿐입니다.
@@ -23,4 +23,53 @@ https://rafikiresearch.blogspot.com/2026/06/column20260626.html
 
 [2026-06-27 08:06] 추세 추종이란 세상이 달라지는 방향과 함께 하는 것
 
-리서치는 최선을 다해서 꾸준하게, 자본은 시장의 중심으로.
+리서치는 최선을 다해서 꾸준하게, 
+사고와 생각은 수용적이고 긍정적으로.
+자본은 시장의 중심으로.
+
+후져지지 않도록 건강하게.
+
+[2026-06-27 11:04] 🍎 **애플 갑질의 종말**
+
+애플 관련해서 찾다가 히스토리를 좀 정리해봄. 메모리에 관련된 이야기임.
+
+**1. 옛날 LTA = 이름만 장기, 실은 매년 가격 흥정**
+마이크론이 10-K에 대놓고 적어놨음 — 고객들은 장기 고정가 싫어해서, LTA 맺어도 가격·물량·조건은 시장 봐가며 주기적으로 다시 협상한다고. 즉 공급 넘칠 때 애플 같은 큰손이 ‘쌀 때 후려치기’ 가능했단 뜻임. 
+  └ [Micron FY2025 10-K](https://investors.micron.com/static-files/7a1f8c6f-1ce9-4efe-bc6e-722b6b9c4550)
+
+**2. 마이크론, 사상 첫 5년 SCA 지름 → Q3에 16건·$100B로 떡상**
+TrendForce(3/19): “보통 1년짜리 LTA랑 다르게, 구체적 다년 약정 박아서 실적 가시성·운영 안정성 끌어올림”
+  └ [TrendForce — 첫 5년 계약](https://www.trendforce.com/news/2026/03/19/news-micron-ramps-fy26-capex-to-25b-signs-first-5-year-customer-deal/)
+  └ [Yahoo — Q2 FY26 콜](https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-q2-2026-123000098.html)
+
+6/24 Q3 실적에서 스케일 공개됨 — **SCA 16건, 최소 계약매출 ~$1,000억, take-or-pay(받든 안 받든 돈 내야 됨), 2026~2030 5년, DRAM 물량 ~20%·NAND ~1/3 커버.** 다 차면 회사 매출 절반 이상이 SCA로 묶임.
+  └ [Micron Q3 FY26 IR](https://investors.micron.com/latest-news)
+
+**★ 핵심은 가격 하한(price floor)임**
+SCA 본질 = ‘분기마다 협상은 하는데 계약 하한선 밑으론 절대 안 내려감’. 
+
+**즉, 다운사이클 와도 고객이 못 깎음. 내 계좌 녹이던 그 후려치기 갑질을 구조적으로 봉인하는 자물쇠가 이거임.
+**
+**3. 애플도 이제 싸게 못 잠금**
+애플이 마이크론 SCA에 꼈는진 공식 확인 안 됨. 근데 애플 기존 DRAM LTA가 2026 상반기까지만 커버된다는 보도 있음.
+  └ [Wccftech — H1 2026 한정](https://wccftech.com/apple-secured-dram-supply-agreement-to-cover-h1-2026-only-price-hike-imminent/)
+LTA 만료되면서 2026년 1월부터 삼성·SK하이닉스한테 프리미엄 물어야 할 판. 12GB LPDDR5X가 ~$70/개, 2025년 초 대비 +230%.
+  └ [Wccftech — 프리미엄 전환](https://wccftech.com/apple-could-begin-paying-samsung-and-sk-hynix-a-premium-for-dram-from-january-2026/)
+팀 쿡(6/17): “가격 인상 불가피함… 최대한 흡수하려 했는데 이젠 못 버팀”
+  └ [MacRumors](https://www.macrumors.com/2026/06/17/apple-increasing-prices/)
+  └ [Tom's Hardware](https://www.tomshardware.com/laptops/apple-ceo-tim-cook-warns-ai-driven-price-increases-are-unavoidable-says-company-is-trying-its-best-but-the-situation-has-become-unsustainable)
+
+**결론적으로 애플은 26년 상반기에 LTA(1년 단위) 계약이 해지됨으로써 SCA 장기고객인 것으로 보임. 
+
+아마 2Q 기준 상하한의 램가격을 받자니 부담스러웠던 것으로 추정**
+
+[2026-06-27 11:09] 제미나이에게 부탁해서...고화질로 교체했습니다..
+
+[2026-06-27 11:09] 좋은 글.
+
+메모리, 국내 증시, 바이오 시각
+구구절절 동의
+
+#seung님 
+
+https://m.blog.naver.com/tmdejr1267/224328719455

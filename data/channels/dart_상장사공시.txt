@@ -1,4 +1,4 @@
-# 코스피/코스닥 전체 상장사 DART 공시 (2026-06-27 기준 최근 7일)
+# 코스피/코스닥 전체 상장사 DART 공시 (2026-06-28 기준 최근 7일)
 
 [3S]
   20260625: 3S 정기주주총회결과
@@ -1584,8 +1584,6 @@ Markdown Content:
 Title: 동원금속/사업보고서/2026.06.24
 
 URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260624000498
-
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 유 동원금속

@@ -28,3 +28,16 @@ https://www.hankyung.com/article/2026070214527
 https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts_manual
 
 [2026-07-02 16:04] 6월 파라다이스 & GKL & 롯데관광개발 카지노 매출액
+
+[2026-07-02 18:10] 코스피 신용잔고
+
+[2026-07-02 18:10] 코스닥 신용잔고
+
+[2026-07-02 19:38] SK하이닉스, 마이크론과 달리 메모리 장기 공급 계약에서 가격 상한선 제거 - TrendForce
+(by https://t.me/TNBfolio)
+- SK하이닉스가 공급 부족으로 인한 현물 시장의 가격 상승을 계약 가격에 전면 반영하기 위해 업계 표준이었던 가격 상한선을 제거한 장기 공급 계약 구조를 도입했다.
+- 이로써 SK하이닉스는 메모리 업사이클 시기의 수익성을 극대화하기 위해 장기 계약 체계를 개편했으며, 현재 주요 공급사 중 유일하게 가격 상한선을 적용하지 않는 것으로 알려졌다.
+- 동시에 SK하이닉스와 삼성전자는 전통적인 1년 단위의 장기 공급 계약 기간을 주요 클라우드 및 빅테크 고객사들의 요청에 맞춰 3년에서 5년으로 연장하고 있다.
+- 반면 Micron은 최근 General Motors와 체결한 전략적 고객 계약에서 기존 제품의 가격 상한선을 2026년 2분기 시장 가격으로 묶어두는 상반된 계약 모델을 채택했다.
+- 삼성전자는 글로벌 전략회의를 통해 HBM3E와 차세대 HBM4, HBM4E의 공급 전략을 점검했으며, 주요 고객사들과의 장기 공급 계약 논의를 핵심 의제로 다루었다.
+https://www.trendforce.com/news/2026/07/02/news-sk-hynix-reportedly-removes-price-cap-in-memory-long-term-agreements-diverging-from-micron/

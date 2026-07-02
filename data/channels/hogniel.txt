@@ -286,3 +286,51 @@ https://news.einfomax.co.kr/news/articleView.html?idxno=4423129
 [2026-07-02 17:49] 인구형 믿고 매수하나
 
 [2026-07-02 17:50] 근데진짜 5시부터 반등하는데..이거머져?
+
+[2026-07-02 21:16] SK하이닉스가 트렌드포스가 한국 언론을 인용해 보도한 바에 따르면, 일부 메모리 장기 공급 계약에서 가격 상한선을 제거하고 있다고 합니다.
+
+이는 계약 가격이 공급 부족 시 현물 시장 급등을 완전히 반영할 수 있게 할 것입니다.
+
+이는 $MU의 전략 고객 계약 모델과 다르며, 이 모델은 가격 하한선, 4월~6월 시장 가격에 연동된 가격 상한선, 그리고 구속력 있는 물량 약속을 포함하는 것으로 알려져 있습니다.
+
+메모리 장기 공급 계약은 또한 전통적인 1년 계약에서 3~5년으로 전환되고 있는 것으로 보입니다.
+
+[2026-07-02 21:20] ⚠️⚡️⚡️⚡️⚡️⚡️⚡️⚠️
+
+[[속보] 홍명보, 돌연 미국으로 출국](https://m.sports.naver.com/fifaworldcup2026/article/382/0001281384)
+
+[2026-07-02 21:21] 조국이랑 비슷한 관상
+
+[2026-07-02 21:26] Citi) 삼성전자; 견조한 메모리 ASP 상승 추세가 지속적인 이익 성장을 뒷받침. TP 53만원.
+
+CITI 견해
+당사는 주류 서버 DRAM인 64GB DDR5 RDIMM의 ASP가 AI CPU 수요 가속화에 힘입어 예상보다 강할 것으로 판단합니다. 당사는 64GB DDR5 RDIMM의 ASP 전망치를 4Q26E 기준 1,586달러에서 1,805달러로 상향하고, 2026E 글로벌 DRAM/NAND ASP 성장률 전망치를 전년 대비 234%/236%로 상향합니다(이전 전망: 전년 대비 200%/186%). 예상보다 양호한 메모리 시장 가격을 반영해 2026E/2027E 영업이익 추정치를 각각 20%/24% 상향하고, 목표주가를 46만 원에서 53만 원으로 올립니다. 최근 시장 심리가 약화되었음에도 불구하고, 당사는 메모리 펀더멘털이 훼손되지 않았다고 판단하며, 2H26E 서버 DRAM ASP 랠리를 예상합니다. 매수 의견을 재확인합니다.
+
+1. 2Q/2H26E 서버 DRAM ASP 성장률이 예상보다 양호할 것으로 전망 - 당사는 AI CPU 수요 가속화에 힘입어 서버 DRAM ASP 성장률이 예상보다 강할 것으로 전망합니다. 최근 시장 동향을 반영해 주류 서버 DRAM인 64GB DDR5 RDIMM의 연말 가격 전망치를 1,586달러에서 1,805달러로 상향합니다. 분기 기준으로 당사는 64GB DDR5 RDIMM 가격이 2Q에 1,310달러, 3Q에 1,612달러, 4Q에 1,805달러를 기록할 것으로 모델링합니다.
+
+2. 2026E 글로벌 DRAM/NAND ASP 전망치 상향: 전년 대비 +234%/+236% (이전 전망: +200%/+186%) - 당사는 AI CPU 수요가 견인하는 예상보다 양호한 서버 DRAM 가격을 바탕으로 2026E 글로벌 DRAM ASP가 전년 대비 234% 상승할 것으로 전망합니다. 분기 기준으로는 2Q/3Q/4Q26E ASP 성장률을 전분기 대비 +44%/+20%/+13%로 전망합니다(이전 전망: 전분기 대비 +37%/+13%/+11%). NAND의 경우, 당사는 AI 서버가 견인하는 KV 캐시 메모리 수요를 바탕으로 2026E NAND ASP가 전년 대비 236% 성장할 것으로 예상합니다. 분기별로는 2Q/3Q/4Q26E ASP 성장률을 전분기 대비 +53%/+34%/+15%로 전망합니다(이전 전망: 전분기 대비 +45%/+17%/+6%). 특히, 당사는 2026E 블렌디드 서버 DRAM ASP가 전년 대비 363% 상승하고, SSD 가격이 전년 대비 330% 상승할 것으로 전망합니다.
+
+3. 메모리 펀더멘털은 견조; 메모리는 여전히 핵심 AI 병목 - Meta로 인해 촉발된 AI 컴퓨팅 용량 과잉 우려가 시장에 존재하지만, 당사는 최근 주가 조정을 기술적 조정으로 봅니다. 당사는 메모리 펀더멘털이 훼손되지 않았으며, 강한 CPU 수요를 바탕으로 서버 DRAM 가격이 아웃퍼폼해왔다고 판단합니다. 최근 ASP 추세를 반영해 당사는 2026E/2027E 영업이익 추정치를 334조 원/417조 원에서 401조 원/517조 원으로 상향합니다. 당사는 삼성전자의 2Q26E DRAM/NAND ASP 성장률이 전분기 대비 +44%/+57%를 기록하고, 예상보다 양호한 서버 DRAM 가격에 힘입어 2Q26E 영업이익이 84조 원을 기록할 것으로 전망합니다. 매수 의견을 유지합니다.
+
+[2026-07-02 21:29] https://n.news.naver.com/article/015/0005305691?sid=101
+
+[2026-07-02 21:30] 내일도 사이드카인가영
+
+[2026-07-02 21:32] U.S. JOBS GROWTH MISSES, UNEMPLOYMENT FALLS
+
+U.S. nonfarm payrolls rose just 57,000 in June, well below the 110,000 forecast, while private payrolls increased 49,000.
+
+The unemployment rate unexpectedly fell to 4.2% from an expected 4.3%. Average hourly earnings matched forecasts, rising 0.3% m/m and 3.5% y/y, while labor force participation slipped to 61.5%.
+(@WalterBloomberg)
+
+[2026-07-02 21:33] * 6월 고용 쇼크, 실업률 컨센 하회
+
+[2026-07-02 21:57] $SPCX  - DAN IVES BETS BIG ON SPACEX AS HE LEAVES WEDBUSH
+
+Dan Ives ended his eight-year tenure at Wedbush by launching coverage of SpaceX with an Outperform rating and $190 price target.
+
+He sees SpaceX evolving into a leading AI infrastructure company, driven by its launch business, Starlink, and data centers. Ives also announced plans to launch a new AI-focused merchant bank combining research, advisory, investing, and capital raising.
+(@WalterBloomberg)
+
+[2026-07-02 21:57] 댄 아이브스님 스페이스X지르고 퇴사
+근데 퇴사하면서 커버리지 개시는 왜

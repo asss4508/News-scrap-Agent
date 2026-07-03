@@ -362,3 +362,20 @@ https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000760721_9B06TFJG3HNCV10X
 
 
 잘한 엑싯 = 먹튀, 같은말
+
+[2026-07-03 20:24] #BOFA #메모리 #Meta
+
+"Meta will keep using more actively HBM, LPDDR5, eSSD."
+
+"Meta's long-term chip/component orders are getting stronger."
+
+"this does not translate into excess capacity."
+
+[2026-07-03 20:54] 하이닉스 레버리지 "99% 손실"
+
+[2026-07-03 21:34] #삼성전자 #하이닉스 #이세철 전무님
+#ADR
+
+https://www.youtube.com/watch?v=5H6hR3sq3pA
+
+"야구 선수가 한국에서 잘하시는 분이 미국으로 가게 되면 연봉이 엄청나게 올라가잖아요... 실적이 좋은 회사가 미국에 상장하기 때문에 그만큼 관심도가 더 많아지는 거죠. 마이크론 멀티플이 사실 되게 높은 편이거든요. 한국에 있는 메모리 회사에 비해서 그런 것들을 이제 리레이팅해 준다는 부분이 생길 수 있고요."

@@ -2984,7 +2984,11 @@
     "source": "채널:getfeed"
   },
   {
-    "text": "전문가 라벨 데이터**\n- 고품질 투자자 라벨로 학습한 커스텀 모델은 프론티어 모델보다 높은 성능을 기록\n- 최고 범용 모델 78.2% 대비 커스텀 모델은 84.7%, 실수는 29.8% 감소\n- AI 시대의 알파는 모델 접근권보다 자기 조직만 가진 판단 데이터에서 나옴 **3. 파인튜닝은 프롬프트보다 강함**\n- 전문가 프롬프트도 성능을 70%대까지는 올렸지만, 신뢰 가능한 80% 문턱은 못 넘김\n- 이유는 간단함. 전문가의 직관은 말로 완전히 설명하기 어려움\n- 결국 중요한 건 프롬프트 엔지니어링이 아니라 반복된 판단을 모델에 주입하는 것\n\n**4. 투자 포인트는 버티컬 AI**\n- 커스텀 모델은 성능뿐 아니라 작업당 비용도 13.8배 낮았음\n- 앞으로 AI 승자는 가장 큰 모델이 아니라, 특정 산업 워크플로우에 깊게 박힌 모델\n- 금융, 법률, 의료, 국방처럼 판단 비용이 높은 산업일수록 버티컬 AI의 가치가 커짐",
+    "text": "전문가 라벨 데이터**\n- 고품질 투자자 라벨로 학습한 커스텀 모델은 프론티어 모델보다 높은 성능을 기록\n- 최고 범용 모델 78.2% 대비 커스텀 모델은 84.7%, 실수는 29.8% 감소\n- AI 시대의 알파는 모델 접근권보다 자기 조직만 가진 판단 데이터에서 나옴 **3. 파인튜닝은 프롬프트보다 강함**\n- 전문가 프롬프트도 성능을 70%대까지는 올렸지만, 신뢰 가능한 80% 문턱은 못 넘김\n- 이유는 간단함. 전문가의 직관은 말로 완전히 설명하기 어려움\n- 결국 중요한 건 프롬프트 엔지니어링이 아니라 반복된 판단을 모델에 주입하는 것\n\n**4. 투자 포인트는 버티컬 AI**\n- 커스텀 모델은 성능뿐 아니라 작업당 비용도 13.8배 낮았음\n- 앞으로 AI 승자는 가장 큰 모델이 아니라, 특정 산업 워크플로우에 깊게 박힌 모델\n- 금융, 법률, 의료, 국방처럼 판단 비용이 높은 산업일수록 버티컬 AI의 가치가 커짐\n\n[2026-07-04 03:20] [Visualcapitalist] Charted: How China Reshaped Global Oil Trade\nCharted: How China Reshaped Global Oil Trade",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "산업일수록 버티컬 AI의 가치가 커짐\n\n[2026-07-04 03:20] [Visualcapitalist] Charted: How China Reshaped Global Oil Trade\nCharted: How China Reshaped Global Oil Trade 1990년 이후 국제 원유 무역이 어떻게 변화했는지, 중국과 인도가 수입 성장을 주도하고 북미가 순수출국으로 부상한 것을 확인해 보세요.\nSee how global crude oil trade has shifted since 1990, with China and India driving import growth and North America becoming a net exporter.\n\n[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/how-china-reshaped-global-oil-trade/)",
     "source": "채널:getfeed"
   },
   {

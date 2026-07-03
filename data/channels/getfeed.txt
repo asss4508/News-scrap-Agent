@@ -67,3 +67,11 @@ https://www.youtube.com/watch?v=xuyRwbuRxEw
 - 커스텀 모델은 성능뿐 아니라 작업당 비용도 13.8배 낮았음
 - 앞으로 AI 승자는 가장 큰 모델이 아니라, 특정 산업 워크플로우에 깊게 박힌 모델
 - 금융, 법률, 의료, 국방처럼 판단 비용이 높은 산업일수록 버티컬 AI의 가치가 커짐
+
+[2026-07-04 03:20] [Visualcapitalist] Charted: How China Reshaped Global Oil Trade
+Charted: How China Reshaped Global Oil Trade
+
+1990년 이후 국제 원유 무역이 어떻게 변화했는지, 중국과 인도가 수입 성장을 주도하고 북미가 순수출국으로 부상한 것을 확인해 보세요.
+See how global crude oil trade has shifted since 1990, with China and India driving import growth and North America becoming a net exporter.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/how-china-reshaped-global-oil-trade/)

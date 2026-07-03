@@ -1,52 +1,17 @@
-[2026-07-02 10:04] 겸상 적혈구 질환 소아 환자를 위한 최초의 유전자 치료제 __FDA 승인__
-
-
-버텍스 파마슈티컬스(Vertex Pharmaceuticals)의 카스게비(Casgevy)가 2세 이상 소아 환자를 대상으로 확장 승인을 획득했다. CRISPR/Cas9 기술 기반 최초의 조기 소아 적응증 확보로 글로벌 유전자 편집 시장의 지배력을 공고히 했다.
-
-[2026-07-02 10:34] [속보] 삼성, 충청권에 140조 투자…"초격차 소재 부품 중심지로 육성"
-https://www.hankyung.com/article/2026070214157
-
-[속보] 삼성디스플레이, 아산에 67조 투자…"2단지 신규 라인 증설"
-https://www.hankyung.com/article/2026070214207
-
-[속보] 삼성, 온양·천안에 56조 투자 "HBM 메카로 대변모"
-https://www.hankyung.com/article/2026070214287
-
-[속보] 삼성, 천안 '배터리 공장' 9조·세종 '패키지 기판' 8조 투자
-https://www.hankyung.com/article/2026070214367
-
-[속보] SK하이닉스 "청주 낸드·첨단 패키징 팹에 100조 투자"
-https://www.hankyung.com/article/2026070214527
-
-[2026-07-02 12:29] Apple, 메모리 부족 속 시장 점유율 확대를 위해 5개 신규 iPhone 모델 출시 계획 - 닛케이 아시아
+[2026-07-03 08:46] 중국 동박 제조업체 Londian Wason New Energy Tech 미국 상장 신청 - 로이터
 (by https://t.me/TNBfolio)
-- Apple은 메모리 및 부품 공급 부족 상황을 기회로 삼아 올해 하반기와 내년 상반기에 걸쳐 최소 5개의 신규 iPhone 모델을 출시하여 시장 점유율을 확대할 계획이다.
-- Apple은 첫 폴더블 iPhone의 올해 생산 목표치를 기존 700만~800만 대에서 약 1,000만 대로 상향 조정하고 관련 힌지 부품 등의 엔지니어링 문제를 상당 부분 해결했다.
-- 강력한 부품 조달 교섭력을 가진 Apple은 올해 전체 iPhone 생산 목표를 2억 2,000만 대 이상으로 설정한 반면 Xiaomi, Oppo, Vivo 등 중국 경쟁사들은 부품 부족으로 생산량을 축소했다.
-- Apple은 올해 하반기 출시될 신형 iPhone 3종 외에도 내년 상반기에 표준형 iPhone 18 및 새로운 iPhone Air를 포함한 2종을 추가로 선보일 예정이다.
-- 다만 급등하는 메모리 반도체 비용으로 인해 올해 신형 iPhone의 가격이 인상될 가능성이 있으며 공급망 유지 여부와 시장 반응에 따라 생산 계획이 조정될 수 있다.
-https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts_manual
+- 중국 동박 제조 기업인 Londian Wason New Energy Tech가 전기차 시장의 수요 증가를 발판 삼아 미국 증시 상장을 위한 서류를 제출했다.
+- 이번 상장은 최근 DSC Holdings의 미국 증시 데뷔에 이어 중국 기업들의 미국 시장 복귀 흐름을 가속화할 것으로 전망된다.
+- 이 기업은 2025년 판매량 기준 세계 최대의 리튬이온 배터리 동박 공급업체로 7.6퍼센트의 시장 점유율을 확보하고 있다.
+- 올해 1분기 기준 매출액은 40억 7천만 위안을 기록하며 전년 동기 대비 흑자 전환에 성공했다.
+- 한국의 SK Group은 계열사인 Golden Pearl EV Solutions를 통해 이 회사의 지분 29.5퍼센트를 보유하고 있다.
+https://www.reuters.com/world/china/chinese-copper-foil-maker-londian-wason-energy-tech-files-us-ipo-2026-07-02/
 
-[2026-07-02 16:04] 6월 파라다이스 & GKL & 롯데관광개발 카지노 매출액
-
-[2026-07-02 18:10] 코스피 신용잔고
-
-[2026-07-02 18:10] 코스닥 신용잔고
-
-[2026-07-02 19:38] SK하이닉스, 마이크론과 달리 메모리 장기 공급 계약에서 가격 상한선 제거 - TrendForce
+[2026-07-03 09:39] 반도체 업계, 메모리 시장 왜곡하는 조치 피하라고 미국에 촉구 - 블룸버그
 (by https://t.me/TNBfolio)
-- SK하이닉스가 공급 부족으로 인한 현물 시장의 가격 상승을 계약 가격에 전면 반영하기 위해 업계 표준이었던 가격 상한선을 제거한 장기 공급 계약 구조를 도입했다.
-- 이로써 SK하이닉스는 메모리 업사이클 시기의 수익성을 극대화하기 위해 장기 계약 체계를 개편했으며, 현재 주요 공급사 중 유일하게 가격 상한선을 적용하지 않는 것으로 알려졌다.
-- 동시에 SK하이닉스와 삼성전자는 전통적인 1년 단위의 장기 공급 계약 기간을 주요 클라우드 및 빅테크 고객사들의 요청에 맞춰 3년에서 5년으로 연장하고 있다.
-- 반면 Micron은 최근 General Motors와 체결한 전략적 고객 계약에서 기존 제품의 가격 상한선을 2026년 2분기 시장 가격으로 묶어두는 상반된 계약 모델을 채택했다.
-- 삼성전자는 글로벌 전략회의를 통해 HBM3E와 차세대 HBM4, HBM4E의 공급 전략을 점검했으며, 주요 고객사들과의 장기 공급 계약 논의를 핵심 의제로 다루었다.
-https://www.trendforce.com/news/2026/07/02/news-sk-hynix-reportedly-removes-price-cap-in-memory-long-term-agreements-diverging-from-micron/
-
-[2026-07-02 20:00] K뷰티 열풍에 올해 상반기 화장품 수출액 70억 달러 돌파하며 역대 최대 기록 - 조선비즈
-(by https://t.me/TNBfolio)
-- 올해 상반기 화장품 수출액이 지난해 같은 기간보다 27.3% 증가한 70억 달러를 기록하며 상반기 기준 역대 최대 실적을 달성했다.
-- 국가별로는 미국이 14억 5000만 달러로 전체의 20.7%를 차지하며 지난해에 이어 최대 화장품 수출국 자리를 유지했다.
-- 반면 중국으로의 수출액은 지난해보다 6.6% 감소하며 비중이 축소된 반면 폴란드, 영국, 네덜란드 등 유럽 시장의 성장세가 두드러졌다.
-- 품목별로는 기초 화장품 수출액이 지난해보다 25% 증가한 54억 8000만 달러로 가장 많았고 색조 화장품과 인체 세정용 제품이 뒤를 이었다.
-- 식품의약품안전처는 글로벌 규제 기관장 협의체 운영과 국가별 규제 정보 제공 등을 통해 K뷰티의 해외 진출 지원 정책을 지속 확대할 계획이다.
-https://biz.chosun.com/distribution/fashion-beauty/2026/07/02/YCZNCXN5GRCG5NGN5HD7ZM4T2I/
+- 반도체 산업 협회 SEMI는 가격이나 생산 능력에 영향을 미치려는 정부의 시도가 인공지능 붐으로 인한 유례없는 메모리 칩 공급 부족을 악화시킬 수 있다고 트럼프 행정부에 경고했다.
+- SEMI는 미국 정부가 기업들이 고객들과 장기 계약을 계속 체결할 수 있도록 허용하고 미국 내 생산량을 늘리기 위한 세제 혜택을 연장할 것을 촉구했다.
+- 이 협회에는 미국의 Micron Technology Inc와 한국의 SK하이닉스, 삼성전자가 회원사로 참여하고 있으며 인공지능 인프라의 폭발적인 수요가 공급을 압도해 노트북부터 자동차까지 공급 제한이 발생할 것이라고 덧붙였다.
+- 최근 메모리 칩 부족으로 인해 Apple Inc과 Microsoft Corp 등이 인기 제품의 가격을 인상하면서 정책 입안자들의 우려가 커지고 있으며 미국 고객에게 공급 우선권을 주는 시장 개입 가능성도 제기되고 있다.
+- SEMI는 전자제품 가격 상승에 따른 소비자 부담을 완화하기 위해 중국 블랙리스트 기업 부품 구매 허용 대신 소비자를 위한 세금 공제나 혜택을 개발하는 방안을 제안했다.
+https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market?srnd=homepage-americas

@@ -21,3 +21,25 @@ https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avo
 
 로빈후드 CEO "AI 에이전트, 곧 인간 트레이더 수준 도달할 것"
 https://www.theguru.co.kr/news/article.html?no=103943
+
+[2026-07-03 17:01] 삼성과 Meta, 65억 달러 규모의 칩 계약 협상 진행 중 - 브레이킹더뉴스
+(by https://t.me/TNBfolio)
+- 삼성 파운드리와 Meta Platforms는 차세대 인공지능 칩 양산을 위해 10조 원 규모의 계약을 협상 중이다.
+- 이번 협상은 Meta Platforms의 3세대 가속기인 MTIA 생산을 위한 것이라고 서울경제가 보도했다.
+- Meta Platforms는 1세대와 2세대 MTIA 칩 생산을 TSMC에 맡겼으나 이번 차세대 칩은 삼성과의 협력을 추진하고 있다.
+- Meta Platforms는 자체 칩 설계 부서가 있음에도 불구하고 설계 전문인 삼성전자 시스템LSI 사업부와 협력 체계를 구축했다.
+- 이는 6개월 주기로 진행되는 극도로 빠른 개발 속도를 자체 인력만으로 감당하기 어렵다는 판단에 따른 조치다.
+https://breakingthenews.net/Article/Samsung-Meta-said-to-be-in-talks-on-dollar6.5B-chip-contract/66628368
+
+[2026-07-03 17:05] 삼성 파운드리, 메타 및 앤스로픽과 차세대 AI 칩 설계·생산 협력 추진 - 서울경제
+(by https://t.me/TNBfolio)
+- 삼성전자는 테슬라에 이어 Meta 및 Anthropic 등 글로벌 빅테크 기업의 주문형반도체 생산 기지로 위상을 확대하고 있다.
+- Meta는 차세대 AI 가속기인 MTIA 3세대 설계와 생산을 위해 삼성 파운드리의 최선단 2나노 공정을 적용하는 10조 원 이상 규모의 협력을 추진 중이다.
+- Meta는 6개월 단위의 초고속 개발 일정을 소화하기 위해 자체 설계 조직 외에 삼성전자 시스템LSI 사업부와 초기 아키텍처 단계부터 공동 개발을 진행하고 있다.
+- Anthropic 역시 엔비디아와 구글 등 외부 칩 의존도를 낮추기 위해 삼성 파운드리의 2나노 공정을 활용한 ASIC 개발을 검토 중이다.
+- 삼성전자는 대형 수주가 본격화함에 따라 중장기 수주잔고가 50조 원에 육박할 것으로 관측되며 이르면 올해 4분기 파운드리 사업의 흑자 전환이 기대된다.
+https://m.sedaily.com/amparticle/20063585?shem=rimspwouohc
+
+[2026-07-03 19:23] 코스피 신용잔고
+
+[2026-07-03 19:23] 코스닥 신용잔고

@@ -71,3 +71,21 @@ See which OECD countries saw the biggest changes in permanent immigration betwee
 https://www.fmkorea.com/10042130881
 
 매국노들이 기술들고 다 넘어갔으니 라이벌이 아니지. 미국식 간첩 처벌이 더 중요함. 가짜뉴스 몇 개 보다 저건 진짜 개심각한 문제임.
+
+[2026-07-05 02:16] **>>AI 비용 폭증에 ‘모델 라우터’ 부상…기업 AI 비용 절감의 핵심 기술로 주목 (중국언론) **
+
+•기업들의 AI 도입이 확대되면서 AI 사용 비용이 급증하는 가운데, ’모델 라우터’가 비용 절감의 핵심 기술로 부상하고 있음
+
+•모델 라우터는 작업 난이도에 따라 대형 AI 모델과 소형 AI 모델을 자동으로 배분하는 기술로, 단순한 작업은 저비용 소형 모델이 처리하고 복잡한 작업만 고성능 모델에 맡기는 방식임. 이를 통해 결과 품질을 유지하면서도 AI 연산 비용을 최대 97%까지 절감할 수 있다는 분석이 나오고 있음
+
+•현재 빅테크와 AI 스타트업들이 모두 관련 기술 개발에 뛰어들고 있으며, 투자자들의 자금도 집중되고 있음. AI 인프라 구축 경쟁이 심화되는 가운데 모델 라우터는 AI 비용을 통제하는 핵심 기술로 떠오르며 새로운 투자 테마로 주목받고 있음
+
+>当AI账单失控，模型路由器成为企业降本新宠 https://wallstreetcn.com/articles/3776199#from=ios
+
+[2026-07-05 03:34] [Visualcapitalist] 1979년 이후 엘니뇨와 라니냐 시각화
+Visualizing Every El Niño and La Niña Since 1979
+
+1979년부터 2026년까지 엘니뇨 주기, 가장 강력했던 엘니뇨 현상, 전 지구적 기후 영향, 그리고 NOAA가 최신 엘니뇨에 대해 예측하는 내용을 살펴봅니다.
+Explore the El Niño cycle from 1979–2026, its strongest events, global climate impacts, and what NOAA forecasts for the latest El Niño.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/cp/visualizing-every-el-nino-and-la-nina-since-1979/)

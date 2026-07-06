@@ -24,3 +24,12 @@ https://asia.nikkei.com/business/markets/commodities/south-korea-s-tungsten-mine
 - SK하이닉스는 M15X에서 HBM3E용 핵심 칩인 1b DRAM을 주로 생산할 예정이며, Nvidia 공급 목적의 HBM4 개발을 완료하고 대량 생산을 준비하고 있다.
 - 삼성전자는 시장 점유율 격차를 만회하기 위해 12단 HBM3E 제품에 대해 30% 가격 인하 전략을 도입하며 Nvidia 공급망 내 격화되는 경쟁에 대응하고 있다.
 https://www.thepaper.cn/newsDetail_forward_31848096
+
+[2026-07-06 17:15] 앤트로픽의 삼성과의 칩 개발 계획은 최고 성능보다는 추론 비용 절감에 집중될 수 있다 - 디지타임즈
+(by https://t.me/TNBfolio)
+- Anthropic은 자체 AI 칩 개발을 위해 삼성전자 파운드리 사업부와 협력을 시작한 것으로 알려졌다.
+- 대다수 클라우드 AI 칩은 성능을 위해 TSMC 공정을 사용하지만 이번 프로젝트는 고성능 추론 효율성 개선과 비용 절감에 초점을 맞추고 있다.
+- 삼성전자는 Tesla의 AI 칩, Google의 CPU, Groq의 LPU 등 다수의 ASIC 설계 및 생산 경험을 보유하고 있어 Anthropic의 적절한 파운드리 파트너가 될 수 있다.
+- Anthropic은 이미 Nvidia GPU, Google TPU, AWS Trainium 등 다양한 학습용 컴퓨팅 자원을 확보하고 있어 자체 칩은 사용자 서비스용 추론에 집중할 가능성이 높다.
+- 외부 공급업체 대체보다 칩 다변화를 추구해 온 Anthropic의 성향을 고려할 때 이번 자체 칩 개발은 비용 효율적인 추론을 목표로 하는 실용적인 접근으로 분석된다.
+https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html

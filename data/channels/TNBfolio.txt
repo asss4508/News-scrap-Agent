@@ -33,3 +33,7 @@ https://www.thepaper.cn/newsDetail_forward_31848096
 - Anthropic은 이미 Nvidia GPU, Google TPU, AWS Trainium 등 다양한 학습용 컴퓨팅 자원을 확보하고 있어 자체 칩은 사용자 서비스용 추론에 집중할 가능성이 높다.
 - 외부 공급업체 대체보다 칩 다변화를 추구해 온 Anthropic의 성향을 고려할 때 이번 자체 칩 개발은 비용 효율적인 추론을 목표로 하는 실용적인 접근으로 분석된다.
 https://www.digitimes.com/news/a20260706PD212/anthropic-ai-inference-samsung-chips-performance.html
+
+[2026-07-06 19:31] 코스피 신용잔고
+
+[2026-07-06 19:32] 코스닥 신용잔고

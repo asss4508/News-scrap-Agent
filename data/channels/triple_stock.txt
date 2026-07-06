@@ -90,3 +90,53 @@ https://vo.la/xegHSjJ (링크)
 https://www.japantimes.co.jp/business/2026/07/04/tech/micron-hiroshima-chip-plant/
 
 [2026-07-06 14:20] [단독]삼성 파운드리, 6월 월간 기준 흑자전환…"3년만에 첫 흑자" https://n.news.naver.com/mnews/article/293/0000087261?rc=N&ntype=RANKING&sid=101
+
+[2026-07-06 17:51] [SK증권 반도체 한동희]
+
+**삼성전자 파운드리, 6월 월간 흑자전환 - 3년 만에 처음, 3Q26 분기 흑자 유력**
+**
+▶️ 핵심 내용**
+삼성전자 파운드리사업부, 2026년 6월 월간 기준 흑자 달성 — 2023년 이후 첫 월간 흑자
+2Q26 전체는 4~5월 적자 영향으로 분기 흑자 단정 불가
+내부에서도 3Q26 분기 흑자전환 가능성 높게 평가 중
+**
+▶️ 흑자전환 배경**
+HBM4 베이스 다이(4nm 공정) 물량 확대 → 4nm 라인 가동률 상승 → 고정비 부담 완화
+4nm 공정 수율 80% 안팎 수준까지 개선 → 불량·폐기 비용 감소
+2월 HBM4 세계 최초 양산·출하, 5월 HBM4E 12단 샘플 출하로 물량 기반 확보
+4~5월은 물량 확대 초기 비용·공정 안정화 부담 잔존 → 6월부터 본격 효과 반영
+**
+▶️ 수주 확대 현황**
+테슬라 AI6 수주 확보 (지난해)
+엔비디아 Groq 기반 AI 추론 칩 생산 수주
+메타·Anthropic도 자체 AI 칩 생산 협력 대상으로 거론
+**
+▶️ 한계 — TSMC와의 격차**
+1Q26 글로벌 파운드리 점유율: TSMC 72.3% vs 삼성전자 6.5%
+양사 격차: 1Q25 59.9%p → 1Q26 65.8%p로 확대
+삼성전자 점유율: 1Q25 7.7% → 1Q26 6.5%로 하락
+
+▶️ URL: https://buly.kr/9iIMYpK
+
+* SK증권 리서치 IT팀 채널 : https://t.me/skitteam
+
+[2026-07-06 18:15] **🛞 팔란티어, D.A. Davidson 상향과 Nvidia 협력으로 반등 모멘텀 재부각**
+
+**1. D.A. Davidson, Palantir 투자의견 매수 상향**
+① D.A. Davidson의 Gil Luria는 Palantir 투자의견을 중립에서 매수로 상향하고 목표가를 175달러로 제시. 2026년 들어 주가가 크게 조정되며 밸류에이션 부담이 일부 완화됐다는 판단 반영
+② 핵심 근거는 Palantir가 OpenAI·Anthropic 같은 특정 AI 모델 기업에 종속되지 않고, 기업이 여러 AI 모델을 선택·전환·조합할 수 있도록 돕는 AI 오케스트레이션 플랫폼이라는 점
+③ 즉 Palantir는 AI 모델 자체를 파는 회사라기보다, 기업·정부 데이터를 안전하게 연결하고 실제 업무 의사결정에 AI를 적용하게 해주는 인프라에 가까운 구조를 보여줌
+
+**2. 6월 급락 이후 7월 반등 흐름**
+① MarketWatch는 Palantir가 6월에 5년여 만의 최악의 월간 흐름을 겪은 뒤, 7월 들어 반등하고 있다고 보도. 기사 기준 Palantir는 최근 저점 대비 20.5% 반등, 7월 누적 10.8% 상승 기록
+② Barron’s는 Palantir가 최근 7거래일 연속 하락 구간에서 약 26% 급락했고, 2026년 들어서도 큰 폭의 조정을 받았다고 분석. 단기 하락이 실적 훼손보다 고밸류 AI 소프트웨어주 전반의 멀티플 압축과 관련된 흐름
+③ 다만 반등에도 불구하고 주가는 여전히 주요 이동평균선 아래에 머물러 있어, 이번 움직임은 완전한 추세 전환이라기보다 과매도 이후 투자심리 회복이 시작된 수준
+
+**3. Nvidia와 미국 정부 AI 협력 부각**
+① Palantir와 Nvidia는 미국 정부용 AI 모델 구축에서 협력 중. Nvidia의 AI 플랫폼과 Nemotron 모델, Palantir의 정부·국방 데이터 인프라를 결합해 보안성이 높은 AI 시스템을 제공하려는 방향
+② 이번 협력의 핵심은 정부 데이터와 지적재산권을 외부 폐쇄형 모델에 그대로 노출하지 않으면서, 여러 AI 모델을 안전하게 활용할 수 있는 환경을 만드는 것. Palantir의 Ontology와 애플리케이션 계층이 중요한 역할
+③ 이는 OpenAI·Anthropic 같은 모델 기업이 정부 AI 시장에 진입하더라도, Palantir가 여전히 정부·국방 AI 인프라의 핵심 연결 플랫폼으로 남을 수 있다는 점을 보여줌
+
+(출처: [MarketWatch](https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d), [Barrons](https://www.barrons.com/articles/palantir-stock-nvidia-partnership-b2091c5f))
+
+#트래킹 #미국주식 #팔란티어 #PLTR

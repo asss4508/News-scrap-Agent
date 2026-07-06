@@ -116,3 +116,79 @@ https://www.kiwoom.com/h/invest/research/VMarketSWDetailView?sqno=790
 [2026-07-06 14:01] https://biz.heraldcorp.com/article/10798976?ref=naver
 
 [2026-07-06 14:25] https://naver.me/G2Ym0kwN
+
+[2026-07-06 17:59] **🛞 Circle, Open USD 등장으로 USDC 독점 프리미엄 재평가**
+
+**1. Open USD 경쟁 등장과 대형 컨소시엄 출범**
+① Visa, Mastercard, Coinbase, Stripe, BlackRock, Google, IBM, Ripple 등 140개 이상 기업이 참여한 Open Standard 컨소시엄이 달러 연동 스테이블코인 **Open USD** 출시 계획 발표
+② Open USD는 올해 말 출시 예정이며, Coinbase 계열 블록체인 Base, Solana 등 여러 네트워크에서 운영될 예정. 이는 단일 체인 또는 특정 거래소 중심이 아니라 멀티체인·기관 네트워크 기반 스테이블코인으로 확장하려는 전략
+③ Open Standard는 Open USD의 무료 발행·상환, 발행량 제한 없음, 준비금 운용수익 공유 구조를 제시. 이는 기존 USDC·USDT 대비 기업 파트너에게 더 직접적인 경제적 인센티브를 제공하려는 구조적 차별화 보여줌 ([Reuters](https://www.reuters.com/business/consortium-including-visa-mastercard-jointly-launch-new-global-stablecoin-2026-06-30))
+
+**2. Circle 주가 급락과 USDC 지배력 우려**
+① Open USD 발표 이후 Circle 주가는 장중 약 14~18% 급락. 시장은 Open USD가 Circle의 핵심 제품인 USDC의 성장성과 수익성에 직접적인 경쟁 압력을 줄 수 있다고 반응
+② Barron’s는 당시 USDC 유통량이 약 736억 달러 수준이며, USDC가 미국 기반 스테이블코인 중 가장 큰 지위를 유지하고 있다고 보도. 다만 Open USD가 대형 결제사·자산운용사·테크 기업을 동시에 확보했다는 점에서 USDC의 제도권 파트너십 프리미엄 약화 가능성 부각
+③ Circle의 핵심 수익원은 USDC 준비금에서 발생하는 이자수익과 관련 생태계 수익인데, Open USD가 준비금 수익을 참여 기업들과 공유하는 구조를 제시하면서 Circle의 기존 수익모델에 대한 시장 우려 확대 ([Barrons](https://www.barrons.com/articles/circle-stock-price-stablecoin-network-visa-d0be710d))
+
+#트래킹 #미국주식 #서클 #CRCL
+
+[2026-07-06 17:59] **🛞 Citi, ETF 순유출·입법 지연으로 BTC·ETH 전망 동반 하향**
+
+**1. Bitcoin 12개월 목표가 112,000달러 → 82,000달러 하향**
+① Citi는 Bitcoin의 12개월 목표가를 기존 112,000달러에서 82,000달러로 하향. 이는 Bitcoin 가격 전망이 완전히 무너졌다는 의미라기보다, ETF 자금흐름과 규제 모멘텀이 기대보다 약해졌다는 점을 반영한 조정
+② Reuters 보도 당시 Bitcoin은 58,864달러 수준에서 거래되며 2024년 9월 이후 가장 낮은 가격대에 위치. 작년 10월 기록한 고점 126,223달러 대비 절반 이상 하락한 상태로, 단기 투자심리 약화가 뚜렷한 수준
+③ Citi의 약세 시나리오는 경기침체와 ETF 순유출 지속을 가정하며 Bitcoin 가격을 53,000달러까지 제시. 이는 현재 가격에서 추가 하락 가능성을 열어둔 보수적 전망 수준
+
+**2. Ether 12개월 전망치 3,175달러 → 2,240달러 하향**
+① Citi는 Ether의 12개월 전망치를 기존 3,175달러에서 2,240달러로 하향. 하향 폭은 Bitcoin보다 더 크게 체감될 수 있는데, ETH는 ETF 수급뿐 아니라 온체인 활동, 스테이블코인·RWA 사용량, 디파이 활동성에 대한 기대가 함께 반영되는 자산
+② Reuters 보도 당시 Ether는 1,585.63달러로 거래되며 2025년 4월 이후 최저권에 위치. Citi는 Bitcoin과 Ether 모두 장기 이동평균선을 밑돌고 있어 시장 심리가 약세로 기울어져 있다고 평가
+③ Citi의 약세 시나리오에서는 Ether 가격을 1,094달러까지 제시. 이는 ETH가 Bitcoin보다 변동성이 크고, 위험자산 선호가 약해질 때 더 크게 흔들릴 수 있다는 점을 보여줌
+
+**3. 전망 하향의 핵심 원인: ETF 자금흐름 악화·입법 지연·AI 자금 이동**
+① Citi는 이번 전망 하향의 핵심 이유로 12개월 ETF 순유입 가정을 기존 100억 달러에서 0달러로 낮춘 점을 제시. Bitcoin ETF는 올해 들어 약 33억 달러 순유출을 기록했고, ETF 자금흐름이 가격을 밀어 올리는 역할을 하지 못하고 있는 상황
+② 또 다른 부담은 미국 디지털자산 입법 지연. Citi는 새로운 규제 촉매가 나오기 전까지는 기관과 일반 투자자의 추가 채택이 지연될 가능성이 높다고 봄. 이는 크립토 시장이 단순 가격 반등보다 제도권 확장 모멘텀을 기다리는 국면임을 보여줌
+③ Citi는 디지털자산 트레저리 기업들의 잠재 매도 우려와 투자자금의 AI 관련 자산 이동도 함께 지적. 즉 이번 하향은 BTC·ETH의 장기 사용가치 훼손보다, 단기 수급과 정책 모멘텀 약화가 가격 전망을 낮춘 구조 ([Reuters](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01))
+
+#트래킹 #미국주식 #비트마인 #BMNR #비트코인 #BTC
+
+[2026-07-06 18:11] **🛞 팔란티어, D.A. Davidson 상향과 Nvidia 협력으로 반등 모멘텀 재부각**
+
+**1. D.A. Davidson, Palantir 투자의견 매수 상향**
+① D.A. Davidson의 Gil Luria는 Palantir 투자의견을 중립에서 매수로 상향하고 목표가를 175달러로 제시. 2026년 들어 주가가 크게 조정되며 밸류에이션 부담이 일부 완화됐다는 판단 반영
+② 핵심 근거는 Palantir가 OpenAI·Anthropic 같은 특정 AI 모델 기업에 종속되지 않고, 기업이 여러 AI 모델을 선택·전환·조합할 수 있도록 돕는 AI 오케스트레이션 플랫폼이라는 점
+③ 즉 Palantir는 AI 모델 자체를 파는 회사라기보다, 기업·정부 데이터를 안전하게 연결하고 실제 업무 의사결정에 AI를 적용하게 해주는 인프라에 가까운 구조를 보여줌
+
+**2. 6월 급락 이후 7월 반등 흐름**
+① MarketWatch는 Palantir가 6월에 5년여 만의 최악의 월간 흐름을 겪은 뒤, 7월 들어 반등하고 있다고 보도. 기사 기준 Palantir는 최근 저점 대비 20.5% 반등, 7월 누적 10.8% 상승 기록
+② Barron’s는 Palantir가 최근 7거래일 연속 하락 구간에서 약 26% 급락했고, 2026년 들어서도 큰 폭의 조정을 받았다고 분석. 단기 하락이 실적 훼손보다 고밸류 AI 소프트웨어주 전반의 멀티플 압축과 관련된 흐름
+③ 다만 반등에도 불구하고 주가는 여전히 주요 이동평균선 아래에 머물러 있어, 이번 움직임은 완전한 추세 전환이라기보다 과매도 이후 투자심리 회복이 시작된 수준
+
+**3. Nvidia와 미국 정부 AI 협력 부각**
+① Palantir와 Nvidia는 미국 정부용 AI 모델 구축에서 협력 중. Nvidia의 AI 플랫폼과 Nemotron 모델, Palantir의 정부·국방 데이터 인프라를 결합해 보안성이 높은 AI 시스템을 제공하려는 방향
+② 이번 협력의 핵심은 정부 데이터와 지적재산권을 외부 폐쇄형 모델에 그대로 노출하지 않으면서, 여러 AI 모델을 안전하게 활용할 수 있는 환경을 만드는 것. Palantir의 Ontology와 애플리케이션 계층이 중요한 역할
+③ 이는 OpenAI·Anthropic 같은 모델 기업이 정부 AI 시장에 진입하더라도, Palantir가 여전히 정부·국방 AI 인프라의 핵심 연결 플랫폼으로 남을 수 있다는 점을 보여줌
+
+(출처: [MarketWatch](https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d), [Barrons](https://www.barrons.com/articles/palantir-stock-nvidia-partnership-b2091c5f))
+
+#트래킹 #미국주식 #팔란티어 #PLTR
+
+[2026-07-06 19:04] 김부장 보고 3개월내 김부장 몸처럼 되기로 결심.
+
+매일 팔굽혀펴기 1500개 스타트 💪 
+
+https://youtube.com/shorts/kVhkRC1IA-Q?si=DA87S-lg76meHX8B
+
+[2026-07-06 19:04] 같이 작심삼일하실 분? 😊
+
+[2026-07-06 19:08] 경쟁자보다 더 잘할 수 없다면, 그냥 옷을 더 잘 입어라.
+-안나 윈투어, 패션 언론인-
+
+[2026-07-06 21:14] 또 이야기가 나왔는데...
+
+디램의 가격은 GB 단위입니다.
+중량 단위가 아니죠.
+
+중량 단위로 가격 매기는 것은 소고기, 돼지고기 같은 것들입니다.
+
+따라서 수출통계에 디램을 중량단위로 보는거는 그냥 참고만..
+
+* 중량이 아닌 성능에 따라 가격이 책정되는 속성 때문에 반도체는 위대한 것!

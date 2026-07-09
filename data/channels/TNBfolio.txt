@@ -58,3 +58,7 @@ https://asia.nikkei.com/business/energy/russia-fuel-crisis-spills-over-to-centra
 [2026-07-09 15:43] 26년 6월 신세계 매출
 
 [2026-07-09 15:44] 26년 6월 이마트 매출
+
+[2026-07-09 19:43] 코스피 신용잔고
+
+[2026-07-09 19:43] 코스닥 신용잔고

@@ -57,3 +57,59 @@ https://aagag.com/issue/?idx=1640215
 https://www.youtube.com/watch?v=kS7aHsBFz3o
 
 우리도 이제 다양성을 추구할만큼 경제 규모가 충분해졌다. 좋다.
+
+[2026-07-10 03:04] [Visualcapitalist] 순위: 신입 졸업자를 위한 최고 연봉 대학 전공
+Ranked: The Highest-Paying College Majors for New Graduates
+
+졸업 후 가장 높은 연봉을 받는 대학 전공은 무엇일까요? 공학부터 교육까지 수십 개의 전공에 걸친 초기 경력 중앙값 임금을 알아보세요.
+Which college majors pay the most after graduation? Explore early career median wages across dozens of majors, from engineering to education.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/highest-paying-college-majors-for-new-graduates/)
+
+[2026-07-10 03:04] [Visualcapitalist] 북미 최대 상품 기업은 무엇인가요?
+What are the Largest Commodity Companies in North America?
+
+북미 최대 상품 기업들을 시가총액 및 생산량 순으로 살펴봅니다. 엑손모빌이 석유 및 가스 분야에서 압도적인 지배력을 보이고 있습니다.
+See the largest commodity companies in North America by market cap and production, led by ExxonMobil’s dominance in oil and gas.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/sp/gx04-what-are-the-largest-commodity-companies-in-north-america/)
+
+[2026-07-10 03:11] NVIDIA의 Rubin Ultra 랙 가격은 2,100만 달러로 추산, 대당 HBM4e 메모리 가격은 150만 달러 예상
+
+📝 핵심적 본문 요약
+NVIDIA의 차세대 Rubin 및 Rubin Ultra 서버는 HBM 및 DRAM 가격 상승으로 인해 Blackwell보다 훨씬 높은 가격대를 형성할 전망이다. Rubin 서버는 GPU당 288GB, Rubin Ultra는 576GB의 고용량 메모리를 탑재하며, 이로 인해 HBM 메모리 비용만으로도 상당한 가격 상승 요인이 된다. Rubin 서버 랙당 평균 판매 가격은 600만 달러, Rubin Ultra는 2,100만 달러로 예상되어 기존 모델 대비 가격이 크게 오를 것으로 보인다.
+
+#천상천하 #jkhan012
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/jkhan012/224342051757)
+
+✨(In)sight
+NVIDIA의 신형 Rubin 및 Rubin Ultra 서버는 HBM 및 DRAM 가격 급등으로 인해 Blackwell 대비 두 배 이상 높은 평균 판매 가격을 기록할 전망이다. Rubin VR200 랙의 HBM 메모리 비용만 38만 달러에 달하며, 이는 전체 랙 가격의 6.4%를 차지한다. Rubin Ultra 랙은 더 큰 폭의 가격 상승을 보이며 2,100만 달러에 달할 것으로 추정된다. 이러한 고가에도 불구하고, Rubin은 막대한 AI 성능과 함께 업계 최저 수준의 총소유비용을 제공할 것으로 기대되어 수요가 Blackwell을 초과할 것으로 분석된다.
+
+#NVIDIA #Rubin #RubinUltra #AI #HBM
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※
+
+[2026-07-10 03:34] 펩트론
+
+📝 핵심적 본문 요약
+펩트론 대표의 불명확한 설명이 투자자 불안감을 증폭시켜 주가 하락을 야기했다.
+특히 터제파타이드 제형 변경 약물 PT404가 딜에 포함되지 않았다는 우려가 주된 원인으로 분석된다.
+회사의 지속적인 소통 문제와 함께 릴리의 세마글루타이드 특허 만료 시한을 고려할 때, PT404 포함 가능성을 시사하는 반론도 제기된다.
+
+#8k #hearchoi
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/hearchoi/224342050835)
+
+✨(In)sight
+펩트론의 주가 변동성은 경영진의 의사소통 방식과 시장의 해석 차이에서 비롯된 것으로 분석된다. 터제파타이드 제형 변경 제품인 PT404가 릴리 딜에 포함되지 않았다는 시장의 우려는 경영진의 불명확한 설명에서 기인했다. 지난 IR에서 PT404 관련 문의에 대한 경영진의 답변은 시장이 기대하는 구체적인 내용 대신 두루뭉술한 설명으로 일관하여 투자자들의 불안감을 증폭시켰다. 경쟁사인 일라이 릴리의 세마글루타이드 미국 특허 만료 시점이 다가오는 상황에서 펩트론의 장기 지속형 제형 기술은 릴리에게 중요한 대안이 될 수 있다. PT403이 505(b)(2) 임상 트랙 진입 가능성을 확인한 만큼, PT404 역시 유사한 가능성을 내포하고 있어 릴리의 시장 방어 전략에 긍정적으로 작용할 수 있다는 가설을 설정할 수 있다. 따라서 PT404의 딜 포함 가능성은 여전히 높다고 판단되며, 향후 경영진의 명확한 소통이 주가 안정화에 기여할 것으로 전망된다.
+
+#펩트론 #터제파타이드 #PT404 #릴리 #주가
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※

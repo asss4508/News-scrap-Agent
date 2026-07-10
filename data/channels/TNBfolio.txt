@@ -37,3 +37,14 @@ https://www.bloomberg.com/news/articles/2026-07-09/lutnick-presses-sk-hynix-sams
 https://www.bloomberg.com/news/articles/2026-07-09/eric-trump-s-bitcoin-bet-erases-600-million-from-family-fortune
 
 [2026-07-10 10:45] *정제마진 주간 평균(월~목) 기준 33.9$/bbl로 강세 지속. 일간 기준으로는 35.7$/bbl
+
+[2026-07-10 14:44] https://www.cnbc.com/video/2026/07/10/own-sk-hynixs-local-shares-or-adrs-but-not-both-investment-advisor.html
+
+[2026-07-10 15:18] SK하이닉스의 미국 증시 데뷔로 레버리지 ETF 신규 출시 붐 물꼬 - 블룸버그
+(by https://t.me/TNBfolio)
+- SK하이닉스의 성공적인 미국 증시 상장 이후 ProShares, Leverage Shares, Rex Shares 등 자산운용사들이 일일 수익률의 2배 및 인버스 성과를 추종하는 레버리지 상품 출시를 준비 중이다.
+- 다음 주 최소 6개 이상의 관련 상품이 출시될 예정이며 이러한 단일 종목 레버리지 상품은 기존 서울 및 홍콩 증시에서도 SK하이닉스 주가 변동성을 증폭시키는 원인으로 작용해 왔다.
+- JPMorgan Asset Management는 레버리지 ETF의 등장이 개인 투자자들의 추종 매매를 자극하고 대형주 변동성을 키우며, 사이클 후기의 과열 징후일 수 있다고 경고했다.
+- Bloomberg Intelligence 분석가는 수요가 유동성을 초과할 경우 발행사가 주식 조달 및 헤지에 어려움을 겪어 홍콩 사례와 유사한 추적 오차가 미국 시장에서도 발생할 수 있다고 지적했다.
+- 규제 당국에 대한 비판과 상장 폐지 요구 등 리스크 우려가 존재함에도 불구하고 발행사들은 한국 증시 상장만으로는 충족하지 못했던 전 세계 투자자들의 강한 수요를 흡수할 기회로 보고 있다.
+https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-s-us-trading-debut-unleashes-wave-of-new-leveraged-etfs

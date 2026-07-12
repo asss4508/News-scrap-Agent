@@ -1,4 +1,4 @@
-# 코스피/코스닥 전체 상장사 DART 공시 (2026-07-11 기준 최근 7일)
+# 코스피/코스닥 전체 상장사 DART 공시 (2026-07-12 기준 최근 7일)
 
 [APS]
   20260707: APS 타법인주식및출자증권취득결정
@@ -4054,8 +4054,6 @@ Markdown Content:
 Title: 이엠티/기타시장안내/2026.07.09
 
 URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709600363
-
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 문서목차

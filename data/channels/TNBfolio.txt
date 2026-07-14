@@ -60,3 +60,12 @@ https://www.sdxcentral.com/news/huawei-eyes-dram-production-to-combat-memory-sho
 - 이번 검토 과정에서 기존 고객사의 절반 이상인 특히 신생 클라우드 제공업체들이 제외되었으나 탈락한 기업도 보완 후 재신청할 수 있다.
 - 미국 상무부는 지난 5월 중국계 기업의 해외 자회사가 첨단 AI 칩에 접근하는 것을 제한하는 지침을 발표하며 Blackwell 프로세서의 중국 우회 수출 가능성에 우려를 제기한 바 있다.
 https://www.reuters.com/world/china/nvidia-halves-asia-buyer-list-china-chip-crackdown-ft-reports-2026-07-14/
+
+[2026-07-14 15:15] SoftBank 손정의 회장, 2040년까지 AI 인프라에 연간 5조 달러 투자 필요 전망 - 니케이 아시아
+(by https://t.me/TNBfolio)
+- SoftBank Group의 창업자 손정의 회장은 2040년까지 데이터 센터, 전력 공급, 휴머노이드 로봇 등 글로벌 AI 인프라 확장을 위해 연간 5조 달러의 투자가 필요할 것이라고 전망했다.
+- 손 회장은 도쿄에서 열린 연례 기업 행사에서 AI가 초인공지능으로 발전함에 따라 막대한 수익이 창출될 것이므로 이러한 대규모 투자는 충분히 정당화될 수 있다고 주장했다.
+- AI 투자 거품론을 어리석은 질문이라며 일축한 그는 OpenAI 인프라 프로젝트인 Stargate를 주도하며 미국에 5,000억 달러를 투자할 계획이라고 덧붙였다.
+- 2040년까지 AI 관련 활동이 전 세계 경제의 약 20%를 차지하고 높은 마진을 바탕으로 전 세계 시가총액의 80%를 AI 기업들이 차지할 것이라고 예측했다.
+- 미래 경제는 100조 개의 AI 에이전트와 10억 대의 휴머노이드 로봇이 주도하는 에이전트 중심 사회가 될 것이며 막대한 전력 수요를 충당하기 위해 원자력 융합 등이 대안이 될 것이라고 설명했다.
+https://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts

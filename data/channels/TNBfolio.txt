@@ -24,3 +24,30 @@ https://www.wsj.com/world/middle-east/u-s-launches-new-iran-strikes-as-trump-wei
 - 임상 연구 결과 피하주사의 전반적인 안전성 프로필은 정맥주사와 유사했으나 국소 부위의 주사 반응이 관찰되었다.
 - Eisai와 Biogen이 공동으로 상용화를 추진하는 LEQEMBI IQLIK 개시 제형은 2026년 8월 말 미국 시장에 출시될 예정이다.
 https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/fda-approves-leqembi-iqlik-lecanemab-irmb-subcutaneous-injection-as-an-initiation-dose-for-early-alzheimers-disease/2383715
+
+[2026-07-14 08:14] SK하이닉스 나스닥 상장, GraniteShares 레버리지 및 인버스 ETF 출시 예정 - 야후파이낸스
+(by https://t.me/TNBfolio)
+- SK하이닉스가 영문 티커 SKHY로 나스닥 거래를 시작하며 약 290억 달러 규모의 사상 최대 ADR 상장을 완료했다.
+- 이번 상장은 2014년 BABA와 2019년 Saudi Aramco의 기록을 넘어서는 규모로 세계 고대역폭메모리 시장의 지배적 공급업체가 미국 시간대에 거래됨을 의미한다.
+- GraniteShares는 SKHY 일간 수익률의 2배를 추종하는 SKUU와 인버스 2배를 추종하는 SKDD ETF를 각각 출시할 예정이다.
+- SK하이닉스는 향후 순이익 성장률 전망과 AI 가속기 생산의 핵심 공급처라는 점이 긍정적이나 최근 AI 심리 냉각으로 인한 주가 변동성도 존재한다.
+- 해당 레버리지 및 인버스 상품은 일일 재조정과 복리 효과로 인해 단기 트레이딩에 적합하며 장기 보유 시 원금 손실 위험이 있다.
+https://ca.finance.yahoo.com/news/sk-hynix-live-nasdaq-one-184200798.html
+
+[2026-07-14 08:17] [단독] 트럼프, 사우디 왕세자의 위험한 후티 반군 공습 계획에 지지 표명 - Axios
+(by https://t.me/TNBfolio)
+- Trump 대통령은 예멘의 친이란 후티 반군을 겨냥한 사우디아라비아의 이례적인 군사 행동에 대해 무함마드 빈 살만 왕세자에게 지지를 표명했다.
+- 이번 사우디의 사나 공항 공습과 후티 반군의 보복 미사일 공격은 2022년 이후 가장 심각한 국경 간 에스컬레이션으로 4년간의 비공식 휴전이 붕괴될 수 있음을 시사한다.
+- 빈 살만 왕세자가 사전에 Trump 대통령에게 통보하고 지지를 요청한 것은 미국의 군사적 및 외교적 지원이 필요할 수 있는 대규모 갈등을 우려하고 있기 때문이다.
+- 이번 충돌은 10일 전 이란 Mahan Air 여객기가 후티 통제 지역에 착륙해 후티 지도부를 이란 최고지도자 장례식으로 수송하면서 시작되었으며 미국 측은 해당 여객기에 무기와 군사 전문가가 탑승했다고 주장했다.
+- 사우디 군이 사나 공항을 폭격하자 후티 반군은 사우디 남서부 아바 공항에 탄도 미사일과 드론을 발사하고 사우디 영공 비행 금지를 경고하며 지역적 긴장을 고조시키고 있다.
+https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen
+
+[2026-07-14 08:32] 화웨이, 메모리 쇼티지 방어 위해 12인치 웨이퍼 기반 DRAM 팹 건설 추진 보고 - SDxCentral
+(by https://t.me/TNBfolio)
+- Huawei는 중국 선전에 메모리 부족을 해결하고 지역 공급망을 강화하기 위해 12인치 칩 웨이퍼 공장을 건설할 계획이다.
+- 이번 공장 건설을 위해 Huawei는 미국 상무부 거래제한 목록에 등재되고 선전시 정부가 지원하는 메모리 제조업체 Swaysure와 손을 잡았다.
+- 중국 정부의 지지를 받는 것으로 보이는 이번 대규모 프로젝트는 월간 약 14만 장의 웨이퍼 생산 능력을 목표로 하며 초기에는 28나노 공정 기반의 DRAM 생산에 집중할 예정이다.
+- 미국의 엄격한 하드웨어 수출 규제가 지속되는 가운데 중국은 2030년까지 반도체 자급자족을 달성하겠다는 장기적인 목표를 세우고 기반을 다지고 있다.
+- 과거 팹리스 모델을 고수해 온 Huawei는 이번 파트너십과 작년에 발표한 자체 고대역폭메모리 기술인 HiBL 1.0을 바탕으로 메모리 생산 역량을 확대하고 있다.
+https://www.sdxcentral.com/news/huawei-eyes-dram-production-to-combat-memory-shortage-report/

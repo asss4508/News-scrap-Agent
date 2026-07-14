@@ -51,3 +51,12 @@ https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen
 - 미국의 엄격한 하드웨어 수출 규제가 지속되는 가운데 중국은 2030년까지 반도체 자급자족을 달성하겠다는 장기적인 목표를 세우고 기반을 다지고 있다.
 - 과거 팹리스 모델을 고수해 온 Huawei는 이번 파트너십과 작년에 발표한 자체 고대역폭메모리 기술인 HiBL 1.0을 바탕으로 메모리 생산 역량을 확대하고 있다.
 https://www.sdxcentral.com/news/huawei-eyes-dram-production-to-combat-memory-shortage-report/
+
+[2026-07-14 12:51] Nvidia, 아시아 AI 칩 고객 리스트 절반으로 축소 - 로이터
+(by https://t.me/TNBfolio)
+- Nvidia는 더 엄격한 규정 준수 검사를 통과한 기업들로 새로운 화이트리스트를 구성하여 아시아 지역 AI 칩 승인 고객 수를 절반 이상으로 줄였다.
+- 이번 조치는 미국의 수출 통제를 피해 Nvidia의 AI 칩 제품이 중국으로 유입되는 것을 방지하기 위해 마련되었다.
+- Nvidia는 최근 몇 달 동안 싱가포르, Malaysia, Japan에서 고객사에 대한 실사 과정을 대폭 강화했다.
+- 이번 검토 과정에서 기존 고객사의 절반 이상인 특히 신생 클라우드 제공업체들이 제외되었으나 탈락한 기업도 보완 후 재신청할 수 있다.
+- 미국 상무부는 지난 5월 중국계 기업의 해외 자회사가 첨단 AI 칩에 접근하는 것을 제한하는 지침을 발표하며 Blackwell 프로세서의 중국 우회 수출 가능성에 우려를 제기한 바 있다.
+https://www.reuters.com/world/china/nvidia-halves-asia-buyer-list-china-chip-crackdown-ft-reports-2026-07-14/

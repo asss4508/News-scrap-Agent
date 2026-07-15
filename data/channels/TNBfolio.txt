@@ -6,3 +6,12 @@
 - 다만 미국의 MATCH 법안 등 추가적인 수출 규제로 인해 핵심 노광 장비인 DUV 장비 반입이 차단될 경우 이러한 확장 계획에 차질이 생길 수 있다.
 - 업계에서는 중국의 DRAM 생산력 급증이 글로벌 메모리 가격 안정에 기여할 수 있으나 대부분의 추가 물량은 중국 내수 시장에서 흡수될 것으로 분석한다.
 https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-memory-capacity-in-2026-research-claims-would-put-china-on-track-to-become-worlds-second-largest-dram-producer
+
+[2026-07-16 07:52] 라인강 가뭄에 따른 수송 차질로 독일 화학업계 생산 비상 - 블룸버그
+(by https://t.me/TNBfolio)
+- 폭염과 건조한 날씨로 라인강 수위가 급격히 낮아지면서 화학 제품과 원자재를 운송하는 바지선의 적재량 제한과 수송 비용 상승을 유발했다.
+- 독일의 대표적인 화학 기업 BASF SE는 원활한 원자재 공급을 유지하기 위해 운행 속도와 적재량이 줄어든 선박의 운항 대수를 대폭 늘려 대응하고 있다.
+- 화학 산업은 원유, 석탄, 기초 화학 물질 등 대규모 원자재를 라인강 수로를 통한 선박 운송에 전적으로 의존하고 있어 공급망 타격이 불가피하다.
+- 수위 저하 현상이 장기화될 경우 가뜩이나 에너지가 상승 충격에서 회복 중인 화학 분야 제조업 전반의 생산량 감소를 초래할 가능성이 크다.
+- 가뭄으로 인해 화학 제품 생산 비용이 증가하면 유로존 인플레이션을 자극하고 유럽중앙은행의 향후 통화 정책 결정에도 압박을 가할 전망이다.
+https://www.bloomberg.com/news/articles/2026-07-15/german-industry-output-at-risk-as-heat-wave-dries-up-rhine-river

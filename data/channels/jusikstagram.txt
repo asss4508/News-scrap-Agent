@@ -38,3 +38,50 @@ https://m.newspim.com/news/view/20260716000033
 여러 주에서 전력 연결과 환경 심사가 지연되면 클라우드 기업들이 서버 설치와 반도체 주문 시점을 늦추고 재고 계획을 조정하면서 HBM과 서버용 DDR5, 대용량 낸드플래시, eSSD의 수요 증가세와 메모리 가격 상승 기대가 동시에 약화할 수 있기 때문
 
 [2026-07-16 07:56] # 메모리 + 서버관련주 조정(코어위브 네어클라우드업체의 가격우려) VS 빅테크 + 엔비디아 강세 : 선순환
+
+[2026-07-16 08:00] AI cloud computing company [CoreWeave is](https://www.reuters.com/markets/companies/CRWV.O) exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices, according to a person familiar with the matter.
+
+The unusual move underscores how deeply the AI boom has entangled cloud providers with the volatile chip market. To lock in ⁠supply amid soaring demand, thanks to a surge in AI infrastructure construction, cloud operators including CoreWeave have signed [long-term agreements](https://www.reuters.com/legal/transactional/micron-joins-rivals-pitching-ai-deals-cure-memorys-boom-bust-cycle-2026-06-25/) with memory and storage makers such as [Micron and](https://www.reuters.com/markets/companies/MU.O) [SanDisk
+](https://www.reuters.com/markets/companies/SNDK.O)
+https://www.reuters.com/world/ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-2026-07-14/?utm_source=chatgpt.com
+
+[2026-07-16 09:20] #SK하이닉스
+
+외국인 순매수 중
+
+[2026-07-16 09:23] #메모리
+
+**최근 올라온 이슈**
+
+1. 데이터센터 착공 지연 가능성
+2. CXMT 상장으로 수급 이동 및 경쟁 심화 우려
+3. 네오클라우드의 메모리 가격에 대한 풋옵션
+4. 헬스케어, 금융, 빅테크 등으로 수급 이동
+
+[2026-07-16 10:33] **앤스로픽, 수십억달러 규모 은행 신용한도 확대 추진**
+
+: 앤스로픽이 IPO를 앞두고 수십억달러 규모의 추가 은행 신용한도(credit line) 확보를 위해 협상 중
+
+: 지난해 확보한 25억달러 규모·5년 만기 리볼빙 신용공여를 확대하는 형태
+
+: IPO는 이르면 9월 진행될 가능성이 있으며(점점 당겨지는..?), 기업가치는 1조달러 이상을 목표로 검토 중
+
+: 향후 몇 주간 기관투자자 대상 ‘테스팅 더 워터(Testing-the-Water)’ 미팅을 통해 수요와 적정 밸류를 점검할 예정
+
+: IPO 주관사인 골드만삭스, 모건스탠리를 비롯해 바클레이즈, 씨티, JP모건, RBC, MUFG 등이 기존 신용공여에도 참여
+
+: 앤스로픽은 5월 650억달러 규모 신규 자금 조달을 완료해 총 누적 자기자본 조달액이 1,300억달러에 달하지만, 신용한도는 IPO 전 필요한 경우 즉시 사용할 수 있는 유동성 안전판 역할
+
+: 오픈AI도 올해 초 신용한도를 47억달러로 확대하고 BofA를 신규 대주단에 추가. 
+
+: 신용한도 확대는 향후 회사채 발행 등 부채 조달 시장 진출의 전 단계로도 활용되는 사례. 스페이스X는 IPO 직후 250억달러 규모 투자적격등급 회사채를 발행
+
+[https://t.me/Samsung_Global_AI_SW](https://t.me/Samsung_Global_AI_SW)
+
+[2026-07-16 11:03] **📍 Daily Comments**
+
+화요일 CPI에 이어 컨센서스를 크게 하회하는 PPI가 발표되었음에도 불구하고, 전일 장 시작부터 테크 HW 투매는 계속해서 진행되었음. 전 세계에서 가장 쏠림이 심한 메모리부터 하락하기 시작하더니, 전일에는 호실적을 발표한 ASML까지 마이너스로 끌고가는 등 HW 전반에 걸친 투매가 진행. 
+
+이에 따라 많은 종목들이 엔벨롭 하단을 이탈하고, SOX 역시 50일선을 크게 하회하는 등 투매가 투매를 부르는 흐름이 이어지는 모습. 반대로 HW와 롱숏의 반대쪽 포지션에 있는 하이퍼스케일러들의 경우 큰 폭으로 상승하면서 상반기의 트레이딩을 고통스럽게 되돌리는 흐름이 계속해서 이어짐. 
+
+하반기를 기점으로 이 같은 흐름이 계속해서 나오고 있으며, 최근 나오는 외사 IB들의 톤 역시 하나같이 이를 뒷받침하고 있어(하드웨어 숏 - 하이퍼스케일러 롱), 사실상 장 색깔이 이미 변화했다고 보는 것이 맞지 않을까 하는 생각이 계속해서 들게 만드는 시세 흐름이 이어지고 있음.

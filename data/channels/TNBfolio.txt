@@ -15,3 +15,21 @@ https://www.tomshardware.com/pc-components/dram/cxmt-close-to-matching-microns-m
 - 수위 저하 현상이 장기화될 경우 가뜩이나 에너지가 상승 충격에서 회복 중인 화학 분야 제조업 전반의 생산량 감소를 초래할 가능성이 크다.
 - 가뭄으로 인해 화학 제품 생산 비용이 증가하면 유로존 인플레이션을 자극하고 유럽중앙은행의 향후 통화 정책 결정에도 압박을 가할 전망이다.
 https://www.bloomberg.com/news/articles/2026-07-15/german-industry-output-at-risk-as-heat-wave-dries-up-rhine-river
+
+[2026-07-16 10:31] Anthropic, OpenAI와 DeepSeek 따돌리고 가을 IPO 추진 - DIGITIMES
+(by https://t.me/TNBfolio)
+- Anthropic은 Claude 개발사로서 기업가치를 1조 달러 이상으로 평가받기 위해 몇 주 안에 투자자들과 미팅을 가질 예정이다.
+- 이번 상장은 이르면 9월이나 10월에 가능할 전망이며 경쟁사인 OpenAI와 중국의 DeepSeek보다 빠르게 상장하여 프론티어 AI 연구소 최초의 공모가를 책정하게 된다.
+- Anthropic은 Claude 기반 코딩 도구의 폭발적인 수요 덕분에 연환산 매출 300억 달러를 돌파하는 전례 없는 매출 성장세를 기록하고 있다.
+- 상장을 앞두고 기존 25억 달러의 회전 신용 한도에 수십억 달러의 신용 라인을 추가하기 위해 대형 은행들과 논의를 진행하고 있다.
+- 이번 공모는 SpaceX와 SK Hynix 등의 연이은 상장으로 뜨겁게 달아오른 2026년 미국 IPO 시장의 최대 관심사로 떠오르고 있다.
+https://www.digitimes.com/news/a20260716VL205/anthropic-openai-deepseek-claude-bloomberg.html
+
+[2026-07-16 11:28] 우크라이나, 드론과 미사일 습격으로 러시아 정유시설 파괴 - WSJ
+(by https://t.me/TNBfolio)
+- 우크라이나가 사거리와 탄두 중량을 대폭 늘린 자체 제작 장거리 드론과 Flamingo 크루즈 미사일을 동원해 러시아 에너지 인프라를 집중 타격했다.
+- 이번 봄부터 시작된 수십 차례의 공습으로 러시아 10대 정유공장을 포함한 핵심 시설들이 타격받았으며, 러시아 전체 정제 능력의 4분의 1 이상이 소실된 것으로 추정된다.
+- 공습을 받은 정유시설 중 일부는 서방 기술로 설계되어 러시아가 단기간에 부품을 대체하기 어려운 주요 공정 장비를 포함하고 있다.
+- 정유시설 파괴로 인해 러시아 내 56개 지역에서 연료 배급제가 실시되는 등 심각한 연료 부족 사태가 발생하자 러시아 정부는 디젤 수출 금지 조치를 내렸다.
+- Donald Trump 대통령은 우크라이나가 러시아 본토 깊숙한 곳의 목표물을 타격하는 행위를 전쟁을 끝낼 수 있는 격상 조치라며 지지 의사를 표명했다.
+https://www.wsj.com/world/how-ukraine-is-taking-out-russias-refineries-5e6ec9ff

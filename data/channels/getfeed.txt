@@ -155,3 +155,84 @@ IBK투자증권 [ [링크]](https://stock.naver.com/research/company/94224)
 출처: [ 📍네이버증권 리서치](https://stock.naver.com/research)
 
 Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전송됨. 따라서 나는 종목 추천 없음. 나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.
+
+[2026-07-18 02:22] [Visualcapitalist] 세계에서 가장 가치 있는 레스토랑 체인 순위
+Ranked: The World’s Most Valuable Restaurant Chains
+
+맥도날드는 거의 2000억 달러에 달하는 시가총액으로 세계 최대 규모의 공개 레스토랑 체인입니다.
+McDonald's is by far the largest public restaurant chain in the world, with a nearly $200 billion market capitalization.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/the-worlds-most-valuable-restaurant-chains/)
+
+[2026-07-18 02:44] [내일은 투자왕 - 김단테] 나스닥을 멈춰세운 중국 AI 키미 K3 집중분석 (함정도 있다?)
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=_v6JIMZY6AY)
+
+[2026-07-18 03:04] 변곡점 발생 : 중국 모델의 역습 (전쟁의 시작)
+
+📝 핵심적 본문 요약
+K3 모델은 중국 클라우드 거인 알리바바와 텐센트가 배후에 있는 프론티어 베팅이다.
+2.8조 파라미터 규모는 저가 모델이 아닌 대규모 서빙 API 모델로서, 클라우드 수요를 증명하며 관련 투자를 강제한다.
+이는 미국 빅테크가 AI 모델을 위해 데이터센터를 짓는 구조의 중국 버전으로, 하드웨어 수요 확대 논거가 된다.
+
+#작은투자자 #richyun0108
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/richyun0108/224349892151)
+
+✨(In)sight
+중국 AI 모델 K3의 등장은 단순한 저가 경쟁 모델이 아니다. K3는 알리바바와 텐센트가 지원하는 2.8조 파라미터 규모의 대규모 API 제공 모델로, 스마트폰이나 단일 서버가 아닌 랙스케일 시스템을 요구한다. 이는 중국 내 프론티어급 수요 존재와 클라우드 서빙 가치를 증명하며, 알리바바와 텐센트의 클라우드 투자 확대를 정당화한다. 이러한 구조는 자체 컴퓨트를 보유하지 않는 오픈AI, 앤스로픽과 이들의 클라우드를 짓는 마이크로소프트, 아마존, 구글의 미국 사례와 유사하다. K3를 둘러싼 시장의 과매도 해석은 수요 감소가 아닌, 패권 경쟁 심화 및 클라우드 하드웨어 수요 확대라는 점에 주목해야 한다.
+
+#AI모델 #K3 #알리바바 #텐센트 #클라우드
+
+ ※우라가 오지 않으면 그것은 인사이트가 아니다. 우라가 올 떄까지 기다릴뿐.. 
+
+
+※※※모든 내용이 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접해라. 난 모른다. 여긴 학습 전용이다.※※※
+
+[2026-07-18 04:00] 📈 **요즘 많이 보는 리포트 TOP 10**
+2026-07-18 04:00 기준
+
+**🏆. SK하이닉스, 시선을 약간만 아래로**
+미래에셋증권 [ [링크]](https://stock.naver.com/research/company/94143)
+조회수: 36,600 
+
+**🥈. LG전자, 엔비디아와의 AI동맹 확대**
+교보증권 [ [링크]](https://stock.naver.com/research/company/94172)
+조회수: 13,591 
+
+**🥉. SK스퀘어, 프리미엄 확인하면 늦어!**
+대신증권 [ [링크]](https://stock.naver.com/research/company/94103)
+조회수: 8,210 
+
+**🎖️. 삼성전기, 이 와중에도 외국인이 계속 사는 이유**
+IBK투자증권 [ [링크]](https://stock.naver.com/research/company/94224)
+조회수: 8,073 
+
+**✋. 삼성중공업, 2Q26 Pre: 보다 중요한 하반기 FDC**
+유안타증권 [ [링크]](https://stock.naver.com/research/company/94110)
+조회수: 6,631 
+
+**6️⃣. 알테오젠, 시밀러가 아닌 ALT-B4를 쓴 이유가 있지 않겠습니까**
+하나증권 [ [링크]](https://stock.naver.com/research/company/94211)
+조회수: 6,463 
+
+**7️⃣. POSCO홀딩스, 실적 개선에 따른 저평가 해소 기대**
+미래에셋증권 [ [링크]](https://stock.naver.com/research/company/94107)
+조회수: 6,258 
+
+**8️⃣. 대우건설, 실적, 모멘텀 반등 기대. 투자의견 '매수' 상향**
+미래에셋증권 [ [링크]](https://stock.naver.com/research/company/94108)
+조회수: 5,914 
+
+**9️⃣. 카카오, 카나나 서비스의 가능성 증명 필요**
+교보증권 [ [링크]](https://stock.naver.com/research/company/94171)
+조회수: 5,855 
+
+**🔟. LS ELECTRIC, 수주 모멘텀 가속, 이익 레벨 상향**
+유안타증권 [ [링크]](https://stock.naver.com/research/company/94163)
+조회수: 5,835 
+
+──────────────
+출처: [ 📍네이버증권 리서치](https://stock.naver.com/research)
+
+Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전송됨. 따라서 나는 종목 추천 없음. 나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.

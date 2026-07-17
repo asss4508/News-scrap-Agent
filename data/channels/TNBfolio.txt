@@ -33,3 +33,21 @@ https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-delev
 - 호주 자본 시장은 현재 단일 기업 추종형 고배율 레버리지 상품의 직접 출시를 금지하고 있어 총 운용 자산 규모는 23억 달러 선에 그친다.
 - 반면 한국 금융당국은 단일 종목의 2배 레버리지 ETF를 전격 허용해 mechanical 매매 재조정 과정에서 시장 폭락을 부추긴다는 비판을 자초했다.
 https://www.afr.com/markets/equity-markets/australians-getting-a-taste-for-south-korea-s-leveraged-etf-mania-20260715-p60ff4
+
+[2026-07-17 15:57] [단독] PC 브랜드들, 2027년 말까지 물량 확보 위해 CXMT DRAM 주문 급증 - 디지타임스
+(by https://t.me/TNBfolio)
+- 중국 DRAM 제조업체 CXMT의 기업공개가 최종 단계에 진입한 가운데 미중 긴장 완화 조짐이 보이며 글로벌 PC 브랜드들의 주문이 폭주하고 있다.
+- 메모리 가격 상승세가 지속되자 대형 PC 제조사들은 안정적인 공급망 확보를 위해 CXMT 제품 검증을 마치고 우선 순위 물량 배정을 고대하고 있다.
+- 미국 정부가 CXMT를 제재 대상 지정 목록에서 유예했고 도널드 트럼프 대통령과 시진핑 주석의 회담 이후 양국 간 긴장이 다소 완화했다.
+- Apple은 중국 시장용 제품에 CXMT 메모리를 도입하기 위해 제품 테스트를 시작했으며 미국 정부를 상대로 로비를 진행 중이다.
+- Apple을 비롯한 주요 기업들의 행보가 규제 완화 신호로 해석되면서 CXMT와 YMTC에 대한 주문이 밀려들어 이미 2027년 말까지 출하 예약이 완료됐다.
+https://www.digitimes.com/news/a20260717PD219/cxmt-ipo-pc-dram.html
+
+[2026-07-17 16:29] 일 키옥시아 주가, 특허 침해 평결 및 반도체주 약세로 사상 최고치서 반토막 - 연합인포맥스
+(by https://t.me/TNBfolio)
+- Kioxia 주가가 미국 반도체주 투매와 특허 침해 패소 판결 여파로 한 달 전 사상 최고치 대비 반토막 수준으로 폭락했다.
+- 미국 텍사스 연방지방법원은 Kioxia가 미국 Viasat의 컴퓨터 메모리 특허를 침해했다며 2억 2천900만 달러의 배상금 지불을 명령했다.
+- 전날 미국 증시의 반도체주 급락세와 한국 시장 휴장 영향이 겹치면서 일본 반도체 업종에 하락 압력이 집중됐다.
+- Kioxia의 급락은 Advantest와 Tokyo Electron 등 일본 주요 반도체 장비 기업들의 동반 폭락을 유발했다.
+- 투자자들이 Kioxia 급락에 따른 손실을 보전하기 위해 은행주를 매도하면서 일본 증시 전반의 약세를 이끌었다.
+https://news.einfomax.co.kr/news/articleView.html?idxno=4425590

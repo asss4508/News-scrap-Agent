@@ -15,3 +15,21 @@ https://www.reuters.com/business/energy/us-refiner-margins-hit-new-records-fuel-
 - 규제 강화 분위기 속에서도 중국 로봇 기업 UBTech은 1인 가구를 겨냥해 감정 인식과 동반자 역할을 제공하는 실사형 휴머노이드 로봇 U1을 공개했다.
 - UBTech은 감정 지능을 탑재해 평생 동반자가 가능한 U1 로봇의 사전 주문이 이미 13,000건을 넘어섰으며 대량 생산 준비를 마쳤다고 밝혔다.
 https://uk.finance.yahoo.com/news/china-cracks-down-ai-girlfriends-135650580.html
+
+[2026-07-17 12:36] AI 주식 디레버리지 직면하며 키옥시아 16% 급락 - 닛케이
+(by https://t.me/TNBfolio)
+- 아시아 증시가 AI 테마주의 급격한 매도세에 힘입어 전반적으로 하락한 가운데 일본 메모리 반도체 기업 Kioxia 주가가 일일 제한폭까지 떨어지며 16% 급락했다.
+- 이번 급락은 기술주에 누적된 레버리지 자금을 투자자들이 회수하면서 발생했으며 Kioxia의 시가총액은 고점 대비 절반 수준인 28조 엔으로 감소했다.
+- 대만의 TSMC가 4% 하락하고 뉴욕 증시에서 SK Hynix ADR이 14% 급락하는 등 아시아 주요 반도체 및 AI 관련 주식들이 일제히 약세를 보였다.
+- J.P. Morgan 전략가들은 AI 거품론 등의 비관적 전망이 확산하는 가운데 모멘텀 기반 AI 주식들이 바닥을 다지기까지 추가적인 시간이 필요할 것으로 분석했다.
+- 시장 전문가들은 AI 투자가 지속되겠으나 개인 투자자들의 레버리지 베팅 누적으로 변동성이 커진 만큼 밸류에이션과 실적 지속성에 대한 시장의 민감도가 높아졌다고 평가했다.
+https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-deleveraging?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts
+
+[2026-07-17 14:38] 호주 개인 투자자들, 레버리지 단일 종목 ETF 열풍 확산에 따른 경고 직면
+(by https://t.me/TNBfolio)
+- 호주 시드니의 데이 트레이더들을 중심으로 변동성이 심한 한국의 반도체 대장주인 삼성전자와 SK Hynix의 낙폭 과대 시점 매수가 유행하고 있다.
+- 파생상품과 부채 채무를 동원해 일간 변동 폭을 수배로 증폭하는 단일 종목 레버리지 ETF 상품이 글로벌 개인 투자자들 사이에서 전성기를 맞이했다.
+- 이에 호주 자산운용가들은 해당 고위험 기법이 장기적으로 가계를 파산시키는 자산 파괴 수단이 될 수 있다고 강력한 경고 메시지를 보냈다.
+- 호주 자본 시장은 현재 단일 기업 추종형 고배율 레버리지 상품의 직접 출시를 금지하고 있어 총 운용 자산 규모는 23억 달러 선에 그친다.
+- 반면 한국 금융당국은 단일 종목의 2배 레버리지 ETF를 전격 허용해 mechanical 매매 재조정 과정에서 시장 폭락을 부추긴다는 비판을 자초했다.
+https://www.afr.com/markets/equity-markets/australians-getting-a-taste-for-south-korea-s-leveraged-etf-mania-20260715-p60ff4

@@ -6,3 +6,12 @@
 - NDRC는 공식 휘발유 및 경유 소매 가격 상한선을 매 10영업일마다 검토하고 글로벌 시장 동향을 반영해 조정한다.
 - 이번 인상은 지난 6월 두 차례 가격 인하에 이어 지난 7월 3일 추가로 가격을 내린 이후 처음으로 단행한 유가 반등 조치다.
 https://www.reuters.com/business/energy/china-raise-domestic-retail-petrol-diesel-prices-july-18-2026-07-17/
+
+[2026-07-18 19:19] 미국 데이터센터 증설 반대 시위 전국 확산, 주민 반발 심화 - 로이터
+(by https://t.me/TNBfolio)
+- 미국 전역 최소 125개 지역에서 AI 인프라 확장에 따른 데이터센터 급증에 반대하는 첫 전국 규모의 연대 시위가 열린다.
+- 풀뿌리 단체 HumansFirst가 주도하는 이번 시위는 전기요금 인상, 수자원 고갈, 환경 오염 등에 대한 주민들의 분노를 대변한다.
+- 최근 설문조사 결과 개인 투자자와 주민의 14%만이 Meta, Alphabet, Amazon, Microsoft, xAI 등 빅테크의 AI 프로젝트를 위한 지역 내 데이터센터 건설을 지지했다.
+- 이번 반대 여론은 정파를 초월해 확산하고 있으며, 특히 데이터센터 개발이 활발한 Texas주를 비롯해 Georgia주와 California주 등에서 대규모 시위가 예정됐다.
+- 주민들은 불투명한 개발 과정과 무분별한 용수 사용을 비판하며 개발 투명성 확보와 자원 보호를 강하게 요구하고 있다.
+https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/

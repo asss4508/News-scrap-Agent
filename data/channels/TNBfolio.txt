@@ -33,3 +33,12 @@ https://breakingthenews.net/Article/Iran-says-two-oil-tankers-exploded-in-Strait
 - 서유럽의 디젤 정제 마진이 최고치를 기록한 가운데 유럽 내 디젤 재고는 올해 말까지 수년 만에 가장 낮은 수준으로 감소할 전망이다.
 - 다만 Morgan Stanley는 이러한 수급 경색 우려가 이미 가격에 반영되었다며 현재 시점에서 추가 상승을 노린 투자는 자제할 것을 권고했다.
 https://www.bloomberg.com/news/articles/2026-07-20/diesel-squeeze-in-europe-is-set-to-deepen-morgan-stanley-says
+
+[2026-07-20 14:09] 호주 정부, AI 데이터센터의 전력 및 용수 사용 규제안 발표 - WSJ
+(by https://t.me/TNBfolio)
+- 호주 정부는 급성장하는 AI 산업을 통제하고 국익을 보호하기 위해 대형 데이터센터를 대상으로 한 새로운 표준 규제를 도입할 예정이다.
+- 신규 규제에 따르면 대형 데이터센터는 자체 전력 공급원을 확보하고 접속 비용을 전액 부담하여 일반 소비자의 전기 요금 인상을 방지해야 한다.
+- 데이터센터는 전력망 안정을 위해 필요시 전력 사용량을 줄여야 하며, 용수 사용 효율성을 극대화해야 하는 법적 의무를 지게 된다.
+- 호주 정부는 국가 차원의 AI 규제 표준을 신속히 시행하기 위해 총리각료성 산하에 전담 조직인 Office of AI를 신설할 방침이다.
+- 예술가와 미디어의 지적 재산권을 보호하기 위해 창작자의 동의 없이 무단으로 AI 학습에 콘텐츠를 사용하는 행위를 금지하는 법안도 함께 추진한다.
+https://www.wsj.com/tech/ai/australia-plans-to-govern-use-of-water-power-for-ai-0bd16d55

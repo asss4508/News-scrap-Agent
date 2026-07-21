@@ -40,3 +40,21 @@ https://www.reuters.com/commentary/reuters-open-interest/forget-crude-war-pushes
 - AI 기술의 급격한 발전에도 불구하고 사회적 저항과 마찰 요소로 인해 경제 성장 속도는 느려질 수 있다.
 - 미국인들은 기술 발전으로 인한 속도보다는 제어 가능성과 안정성을 선호하는 경향을 보인다.
 https://www.bloomberg.com/opinion/articles/2026-07-20/new-york-data-center-moratorium-friction-slows-economic-growth
+
+[2026-07-21 12:20] 한국 개인 투자자, 빚투 비중 4월 이후 최저 수준으로 축소 - Bloomberg
+(by https://t.me/TNBfolio)
+- 메모리 반도체 관련주 하락으로 증시 상승세가 꺾이면서 한국 개인 투자자들이 신용거래 매수 잔고를 3개월 만에 최저 수준으로 줄였다.
+- 금융투자협회에 따르면 7월 16일 기준 신용융자 잔고는 33조 4,000억 원으로 6월 말 고점 대비 13% 감소했다.
+- AI 열풍 지속성에 대한 우려로 코스피가 6월 고점 대비 약 30% 폭락한 가운데 삼성전자와 SK하이닉스 주가가 이달 들어 크게 하락했다.
+- JPMorgan Chase 전략가들은 한국 증시의 기초체력은 견조하지만 급격한 레버리지 청소가 주가 하락과 외국인 매도를 유발했다고 분석했다.
+- 고객예탁금도 6월 초 고점인 139조 7,000억 원에서 7월 16일 기준 108조 1,000억 원으로 줄어들며 개인 투자자들의 투자 열기가 식어가는 모습을 보였다.
+https://www.bloomberg.com/news/articles/2026-07-21/korean-stock-traders-unwind-leveraged-bets-to-lowest-since-april
+
+[2026-07-21 12:22] 반도체업체 설비 확장 속 2028년 메모리 공급 과잉 가능성 제기 - DIGITIMES
+(by https://t.me/TNBfolio)
+- 메모리 반도체 기업들의 대규모 설비 투자로 인해 AI 데이터센터 수요가 기대에 미치지 못할 경우 2028년 공급 과잉에 직면할 수 있다는 분석이 나왔다.
+- 단기적으로는 서버용 DDR5 공급 부족으로 수익성이 크게 개선되었으나 AI 투자의 수익성 의구심과 마이클 버리의 매도 포지션 등이 시장 불안을 키우고 있다.
+- 한국 정부와 삼성전자, SK하이닉스가 용인 클러스터 등 생산 능력을 대폭 확충하고 있어 2027년 하반기부터 공급 압박이 본격화될 수 있다.
+- 미국 데이터센터 건설의 전력 및 용수 부족 문제와 PC, 스마트폰 등 전방 산업의 수요 둔화도 메모리 시장 흡수력을 제약하는 요소로 꼽힌다.
+- 특히 중국 CXMT의 대규모 자금 조달과 범용 DRAM 생산 능력이 급증하면서 글로벌 메모리 수급의 가장 큰 변수로 떠오르고 있다.
+https://www.digitimes.com/news/a20260720VL223/2028-dram-hbm-demand-sk-hynix.html?chid=10

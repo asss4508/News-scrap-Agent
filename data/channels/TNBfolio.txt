@@ -89,3 +89,21 @@ https://www.trendforce.com/news/2026/07/21/news-china-memory-prices-show-early-s
 - 반면 스마트폰과 노트북 PC 시장의 수요 약세가 지속되며 2027년에도 완제품 생산량 감소세가 이어질 것으로 보인다.
 - TrendForce는 2026년 NAND Flash 시장이 4~5% 수준의 공급 부족을 기록한 뒤 2027년 하반기부터 수급 균형을 회복할 것으로 분석했다.
 https://www.trendforce.com/presscenter/news/20260721-13148.html
+
+[2026-07-21 19:52] 해성디에스, CXMT에 DDR5 패키지 기판 공급 및 DDR6 패널 생산 검토 - DIGITIMES
+(by https://t.me/TNBfolio)
+- 해성디에스가 중국 CXMT의 DDR5 패키지 기판 품질 테스트를 통과해 2분기부터 납품을 시작했다.
+- CXMT는 DRAM 생산 능력을 확대하고 있으나 1분기 DDR5 수율은 낮았던 것으로 알려졌다.
+- 해성디에스는 연속 생산 방식인 리릴(Reel-to-Reel) 공정을 활용해 DDR5 패키지 기판 사업을 확대하고 있다.
+- 고층화 기판이 요구되는 DDR6 세대에 대응하기 위해 차세대 패널 생산 방식 설비 투자를 내부 검토 중이다.
+- 해성디에스는 2026년 1분기 매출 1,887억 원과 영업이익 110억 원을 기록하며 전년 동기 대비 큰 폭의 실적 개선을 이뤘다.
+https://www.digitimes.com/news/a20260721VL212/ddr5-substrate-production-cxmt-panel.html
+
+[2026-07-21 22:27] 미 미국 대통령, 수십 개국 대상 신규 관세 부과 준비 - Yahoo
+(by https://t.me/TNBfolio)
+- Donald Trump 미국 대통령이 이르면 이번 주 수십 개국을 대상으로 새로운 관세를 부과할 준비를 하고 있다.
+- 이번 조치는 오는 금요일 만료 예정인 기존 10%의 임시 보편 관세를 대체하기 위한 것으로 알려졌다.
+- 새롭게 적용될 관세율은 현재 시행 중인 10% 관세 수준과 유사한 규모가 될 것으로 예상된다.
+- 미 행정부는 더 높은 관세를 부과할 수 있는 법적 근거를 확보하기 위해 별도의 조사를 진행 중이다.
+- 이번 보도는 파이낸셜 타임스가 처음 전했으며 로이터는 해당 내용을 즉각 확인하지는 못했다.
+https://finance.yahoo.com/video/us-imposes-50-tariffs-20-091449065.html

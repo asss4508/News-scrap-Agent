@@ -41,3 +41,12 @@ https://youtu.be/n0prjgqABlU?si=feSBuYOkde02Zv7v
 [2026-07-22 18:01] 코스피 신용잔고
 
 [2026-07-22 18:01] 코스닥 신용잔고
+
+[2026-07-22 22:07] AMD, 앤스로픽과 최대 50억 달러 규모 투자 및 AI 칩 공급 계약 체결 - 브레이킹더뉴스
+(by https://t.me/TNBfolio)
+- AMD와 Anthropic이 최대 2기가와트 규모의 AI 인프라 구축을 위한 다년 계약을 체결했다.
+- 이번 계약을 통해 Anthropic은 AMD의 차세대 Instinct MI450 프로세서를 자사 데이터센터 및 클라우드 제공업체를 통해 도입한다.
+- AMD는 배치 목표가 달성됨에 따라 Anthropic에 최대 50억 달러를 투자할 계획이다.
+- 차세대 프로세서 배치는 2027년 상반기부터 본격적으로 시작될 예정이다.
+- 리사 수 AMD 최고경영자는 양사 엔지니어링 팀이 컴퓨팅 용량 확장을 위해 협력해 왔다고 밝혔다.
+https://breakingthenews.net/Article/AMD-to-invest-up-to-dollar5-billion-in-Anthropic-deal/66749143

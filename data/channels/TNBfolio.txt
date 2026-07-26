@@ -1,26 +1,12 @@
-[2026-07-25 09:52] Nvidia, SK그룹과 5000억 달러 규모 파트너십 발표 계획 - breakingthenews
-(by https://t.me/TNBfolio)
-- Nvidia CEO Jensen Huang은 SK그룹과 5000억 달러 규모의 사업 파트너십을 발표할 계획이라고 밝혔다.
-- Nvidia는 반도체 및 메모리 설계 분야에서 삼성전자, SK하이닉스와 협력할 예정이다.
-- 이번 협력 발표는 샌프란시스코에서 열린 회담 도중 공개되었다.
-- 회담은 이틀 일정으로 미국을 방문한 한국의 이재명 대통령과 진행되었다.
-- 양측은 반도체 공급망 및 차세대 기술 협력을 한층 강화할 방침이다.
-https://breakingthenews.net/Article/Nvidia-plans-dollar500B-partnership-with-S.-Korea's-SK-Group/66773612
+[2026-07-26 16:40] https://www.bloomberg.com/news/videos/2026-07-25/nvidia-s-jensen-huang-on-south-korea-s-golden-age-sk-hynix-group-partnership
 
-[2026-07-25 14:11] **한국·글로벌 기술기업: 9,500억 달러 규모 협력 프로젝트 합의 - YONHAP**
+[2026-07-26 16:42] *러시아 정부, 당초 7/31일 종료 예정이었던 휘발유 수출 금지 조치를 올해 말까지 연장하기로 결정. 해당 조치는 생산업체와 비생산업체 모두에 동일하게 적용될 예정
 
-S. KOREAN, GLOBAL TECH FIRMS AGREE ON US$950 BLN COOPERATION PROJECTS: OFFICIAL - YONHAP
+**반면, 디젤 수출 금지는 국내 수급이 안정되는 대로 해제할 계획. 앞서 Bloomberg는 러시아 정부가 디젤 수출 금지를 한 달 더 연장하는 방안을 검토 중이라고 보도한 바 있어
 
-[뉴스 링크](https://x.com/FirstSquawk/status/2080880295050625251)
+**Alexander Novak 러시아 부총리, "정유사들이 재고 과잉으로 정제 가동률을 낮춰야 하는 상황을 방지하기 위해 적절한 시점에 디젤 수출 금지를 해제할 것"이라고 밝혀
 
-[2026-07-25 14:11] **네이버, 엔비디아·브룩필드와 한국 국가 AI 팩토리 인프라 개발 강화**
 
-NAVER, NVIDIA AND BROOKFIELD TO ENHANCE SOUTH KOREA’S NATIONAL AI FACTORY INFRASTRUCTURE DEVELOPMENT
+▶ Russia Says It Will End Diesel Export Ban When Market Recovers (7/25, Bloomberg)
 
-[뉴스 링크](https://x.com/FinancialJuice/status/2080883378992054608)
-
-[2026-07-25 14:15] **SK그룹: 엔비디아 포함 미국 기술기업들과 7,500억 달러 규모 반도체 공급 계약 추진 검토 - 연합뉴스**
-
-SK GROUP EYES $750 BILLION CHIP SUPPLY DEALS WITH U.S. TECH FIRMS, INCLUDING NVIDIA: YONHAP
-
-[뉴스 링크](https://x.com/FirstSquawk/status/2080868485568319537)
+https://www.bloomberg.com/news/articles/2026-07-25/russia-says-it-will-end-diesel-export-ban-when-market-recovers?srnd=phx-industries-energy as

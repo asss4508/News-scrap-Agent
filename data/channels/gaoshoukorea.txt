@@ -22,3 +22,86 @@
 [2026-07-27 07:55] 유가 급락
 
 [2026-07-27 07:56] 나선
+
+[2026-07-27 08:19] 네이버 미리 축하드립니다 🎉
+
+* 축하드립니다는 저희가 커버한 이래 주가가 올라와 있으면서 당일 8%이상 주가가 상승할 때 말씀드립니다.
+
+#축하드립니다
+
+[2026-07-27 08:33] 엔비디아는 네이버의 3대 주주가 될 예정
+
+1. 국민연금(8%)
+2. 블랙록(6%)
+3. 엔비디아(4.5%)
+
+[2026-07-27 11:29] **🛞 워런 버핏 알파벳 투자 & 빅테크를 철도에 비유**
+
+**1. AI 인프라 대규모 자본 지출(CapEx)과 철도·유틸리티 사업 비유 **
+① 워런 버핏은 CNBC 인터뷰를 통해 빅테크 기업들이 데이터 센터와 반도체 등 AI 인프라 구축을 위해 매년 수천억 달러를 투입하는 현상을 과거 철도 및 유틸리티 산업의 자본 집약적 구조에 비유.
+② 과거 가벼운 자산(Asset-light) 위주였던 테크 기업들이 AI 시대 진입에 따라 대규모 자본이 필수적으로 투입되는 자산 집약형 구조로 변모하고 있음을 지적. 
+③ 하이퍼스케일러 기업들이 시장 경쟁에서 생존하기 위해 대규모 자본 지출을 이어갈 수밖에 없는 "선택의 여지가 없는 게임"을 치르는 중이라고 설명.
+
+**2. 구글(알파벳) 310억 달러 직접 매수 및 과거 미투자 실책 시인** 
+① 버크셔 해서웨이의 알파벳 지분 매수가 후계자 그레그 에이블이 아닌 워런 버핏 본인의 주도로 직접 이루어졌음을 확인. 
+② 20년 전 구글의 광고 비즈니스 모델을 파악하고도 투자를 진행하지 않았던 것은 명백한 실수였음을 재차 시인. 
+③ 대규모 설비 투자가 수반되는 새로운 비즈니스 구조가 본인의 전통적 가치 투자 프레임워크(철도·전력 등)와 부합하여 총 310억 달러 규모의 투자를 단행했음을 강조
+
+**3. 알파벳의 독보적 경쟁력 평가 및 AI 투자 리스크 제기** 
+① 알파벳이 월가에서 거래되는 전체 상장 기업 중 상위 90~95% 이상의 높은 승률과 성공 가능성을 지닌 독보적 비즈니스 구조를 보유하고 있음을 평가. 
+② 엄청난 AI 자본 지출 부담 속에서도 구글 검색 및 구글 클라우드 매출이 견조한 현금흐름을 창출해 내고 있다는 점을 긍정적으로 분석. 
+③ 다만 무분별한 AI 군비 경쟁은 과거 IBM 사례처럼 자칫 위협이 될 수 있다는 경고를 덧붙이며 승자 독식 시장에서의 신중한 접근 필요성을 언급. ([TimesOfIndia](https://timesofindia.indiatimes.com/technology/tech-news/googles-100-billion-plus-capital-expenditure-that-is-making-many-analysts-worried-is-what-has-made-worlds-biggest-investor-warren-buffet-invest-31-billion-in-the-company-as-he-says-they-dont-have-any-/articleshow/132455292.cms))
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
+
+[2026-07-27 11:32] **🛞 비트코인, ETF 자금 복귀와 CLARITY Act 진전**
+
+**1. 6만6,000달러 돌파하며 단기 가격 회복**
+① 비트코인은 7월 21일 6만6,000달러를 돌파하며 6월 초 이후 약 5주 만의 최고 가격을 기록한 반등세
+② 이후 7월 22일에는 6만5,613달러로 약 1.2% 하락했지만, 최근 저점 구간에서 형성된 매수세가 가격을 6만5,000달러 안팎에서 지지하는 모습
+③ 다만 6만7,000달러 부근에서 추가 상승이 제한된 만큼 완전한 추세 전환보다는 ETF 자금 유입과 규제 기대가 결합된 단기 회복 국면으로 볼 수 있는 수준 ([Barron’s](https://www.barrons.com/livecoverage/stock-market-news-today-072226/card/bitcoin-pulls-back-from-rally-do1C4R6DZRMcQVfwLgrw))
+
+**2. 현물 ETF에 7거래일간 약 10억 달러 순유입**
+① 미국 현물 비트코인 ETF는 7월 14일부터 22일까지 7거래일 연속 순유입을 기록했으며, 이 기간 누적 순유입액은 약 9억9,930만 달러 규모
+② 7월 21일 하루 순유입액은 2억320만 달러로, 블랙록 IBIT 1억6,390만 달러, 피델리티 FBTC 2,310만 달러, ARK·21Shares ARKB 970만 달러 등이 자금 유입을 주도한 구조
+③ 정확히는 2억320만 달러가 유입된 날이 6거래일 연속 순유입 시점이고, 다음 날 6,910만 달러가 추가 유입되며 7거래일 연속 기록이 완성됐으나 7월 23~24일에는 합계 4억6,520만 달러가 다시 유출되며 아직 불안정한 기관 수급 수준 ([Farside](https://farside.co.uk/btc/))
+
+**3. CLARITY Act 수정안 공개에도 남아 있는 상원 협상**
+① 트럼프 대통령과 공화당 의원들이 대통령을 포함한 공직자의 암호화폐 이해충돌을 제한하는 윤리조항에 합의한 이후, 7월 22일 상원 은행위원회와 농업위원회의 내용을 통합한 CLARITY Act 수정안이 공식 공개된 진전
+② 수정안은 대통령·부통령·의원·연방판사 등 공직자와 배우자가 재임 중 디지털자산을 직접 발행하거나 후원하는 행위를 제한하고, 법무부 장관이 위반 사항을 집행하도록 규정한 구조
+③ 그러나 민주당은 주 법무장관의 집행권 부재와 윤리조항의 우회 가능성을 지적하고 있으며, 자금세탁방지·고객확인·불법자금 추적·소비자 보호 문제도 남아 있어 상원 통과 가능성은 높아졌지만 60표 확보가 확정되지는 않은 수준 ([Lummis](https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/))
+
+#트래킹 #미국주식 #비트코인 #BTC
+
+[2026-07-27 11:35] 🛞 **애플, 구독형 판매 확대 & 자동차 플랫폼 진출**
+
+**1. ‘Apple Upgrade’로 기기 판매를 구독형 모델로 전환**
+① Apple이 Klarna와 협력해 대부분의 iPhone·Mac·iPad·Apple Watch를 월 단위로 이용하는 ‘Apple Upgrade’를 7월 28일 미국에서 출시할 계획이라는 보도
+② iPhone과 Apple Watch는 24개월, Mac과 iPad는 36개월 동안 요금을 납부하며 중도 완납 후 신제품으로 교체하거나 계약 종료 후 잔존가치를 지불하고 기기를 보유할 수 있는 구조
+③ 기존 프로그램보다 월 납부액을 낮춰 기기 가격 상승에 따른 구매 부담을 완화하려는 전략이지만 AppleCare와 보급형 일부 제품·교육 및 기업 구매는 제외될 예정인 수준 ([Reuters](https://www.reuters.com/business/apple-launch-upgrade-device-leasing-program-spur-sales-bloomberg-news-reports-2026-07-21))
+
+**2. Ford 전기차에 Apple Maps를 기본 소프트웨어로 탑재**
+① Ford가 2027년 출시할 Universal Electric Vehicle Platform에 Apple의 새로운 ‘MapKit for Automotive’를 적용해 iPhone 연결 없이 Apple Maps를 차량 디스플레이에서 직접 이용할 수 있도록 한 협력
+② 실시간 교통·사고 정보, 자연어 길 안내, 장소 검색, 전기차 충전 경로 계산과 배터리 사전 온도 조절 기능까지 제공하며 단순 CarPlay 연결보다 깊어진 차량 시스템 통합
+③ 약 3만 달러의 차세대 중형 전기차를 시작으로 Apple Maps의 도로 데이터를 Ford의 차세대 BlueCruise와 Latitude AI 개발에도 활용하며 Apple의 자동차 소프트웨어 플랫폼 영향력 확대 ([Apple](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/))
+
+**3. 미국 정치권의 EU 디지털 규제 대응 요구**
+① 미국 공화당 의원 25명이 EU의 디지털시장법이 Apple·Google·Meta·Amazon 등 미국 기업을 차별적으로 겨냥하고 있다며 트럼프 행정부에 적극적인 대응을 요구한 서한
+② 의원들은 Apple·Meta·Amazon이 ‘게이트키퍼’로 지정된 반면 Temu와 AliExpress 등 중국 기업이 제외된 점과 Amazon·Microsoft의 클라우드 사업까지 규제 대상에 포함될 가능성을 문제로 지적한 상황
+③ 협의가 신속하게 성과를 내지 못할 경우 미국 무역법 301조에 따른 조사와 관세 등 보복 조치를 검토해야 한다는 주장인 반면 EU는 규제가 공정하고 비차별적으로 집행되고 있다는 입장인 수준 ([Reuters](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/))
+
+#트래킹 #미국주식 #애플 #AAPL
+
+[2026-07-27 11:38] **🛞 엔비디아, 한국 AI 인프라 확장 & 오픈 생태계 주도 **
+
+**1. SK그룹과 5,000억 달러 이상 AI 협력 추진**
+① 엔비디아와 SK그룹이 AI 데이터센터 건설부터 차세대 메모리 공급까지 포괄하는 5,000억 달러 이상의 협력 의향서에 서명했으며, 단일 GPU 구매 계약이 아니라 장기간에 걸쳐 추진되는 종합 AI 인프라 프로젝트의 성격
+② SK텔레콤이 엔비디아의 Vera Rubin 가속 컴퓨팅과 DSX 플랫폼, SK하이닉스의 HBM4를 결합한 최대 2GW 규모의 AI 데이터센터를 한국에 건설하고 첫 시설을 2027년부터 가동할 계획
+③ 엔비디아가 SK하이닉스로부터 차세대 HBM 공급을 장기적으로 확보하는 동시에 메모리를 공동 개발함으로써 GPU뿐 아니라 데이터센터 시스템과 소프트웨어까지 판매하는 풀스택 사업 기반 강화 ([Nvidia](https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory))
+
+**2. 오픈웨이트 AI 모델을 둘러싼 정책 주도권 확대**
+① 엔비디아·마이크로소프트·메타·IBM·팔란티어 등 25개 기업과 기관이 모델의 학습 결과인 가중치를 내려받아 직접 실행·수정할 수 있는 오픈웨이트 AI 모델을 지원해 달라는 공동서한을 미국 정책당국에 제출한 움직임
+② 스타트업과 대학이 거대한 AI 모델을 처음부터 개발하거나 고가의 외부 API를 계속 이용하지 않고 기존 모델을 용도에 맞게 수정할 수 있어 AI 개발 비용과 특정 사업자에 대한 종속을 낮출 수 있다는 주장
+③ 연산 자원과 공용 데이터·평가도구에 대한 접근성을 확대하되 불법적인 기술 탈취와 정상적인 모델 증류를 구분해야 한다고 강조했으며, 이는 다양한 모델의 개발과 사용을 늘려 엔비디아의 GPU·AI 인프라 수요 기반을 넓히려는 정책적 이해관계와도 연결되는 구조 ([Tom's](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban))
+
+#트래킹 #미국주식 #엔비디아 #NVDA

@@ -1,12 +1,19 @@
-[2026-07-26 16:40] https://www.bloomberg.com/news/videos/2026-07-25/nvidia-s-jensen-huang-on-south-korea-s-golden-age-sk-hynix-group-partnership
+[2026-07-27 08:19] [교보증권 IT 최보영]
 
-[2026-07-26 16:42] *러시아 정부, 당초 7/31일 종료 예정이었던 휘발유 수출 금지 조치를 올해 말까지 연장하기로 결정. 해당 조치는 생산업체와 비생산업체 모두에 동일하게 적용될 예정
+* AI 수요는 견조하나, 시장의 시선은 자본효율성으로 이동
 
-**반면, 디젤 수출 금지는 국내 수급이 안정되는 대로 해제할 계획. 앞서 Bloomberg는 러시아 정부가 디젤 수출 금지를 한 달 더 연장하는 방안을 검토 중이라고 보도한 바 있어
+- 빅테크의 호실적과 샌프란시스코 AI 서밋은 AI 수요와 한국 메모리 반도체의 전략적 중요성이 여전히 견조함을 보여줌. 다만 장기금리와 유가 상승은 성장주 할인율과 데이터센터 운영비 부담을 높이며 반도체 섹터의 조정을 촉발함
 
-**Alexander Novak 러시아 부총리, "정유사들이 재고 과잉으로 정제 가동률을 낮춰야 하는 상황을 방지하기 위해 적절한 시점에 디젤 수출 금지를 해제할 것"이라고 밝혀
+- 알파벳의 FCF 적자 전환, 인텔의 투자 확대, 메타의 높은 차입금리와 CDS 거래 급증은 AI 투자의 지속가능성에 대한 우려를 키우고 있음. 결국 최근 주가 하락은 수요 둔화보다 자본비용 상승과 투자 회수 속도에 대한 재평가로 볼 수 있으며, 향후 핵심 변수는 금리에 대한 불확실성 해소임
 
+보고서 링크:
+https://www.iprovest.com/upload/research/report/idxnews/20260727/20260727_B45_20190031_521.pdf
 
-▶ Russia Says It Will End Diesel Export Ban When Market Recovers (7/25, Bloomberg)
-
-https://www.bloomberg.com/news/articles/2026-07-25/russia-says-it-will-end-diesel-export-ban-when-market-recovers?srnd=phx-industries-energy as
+[2026-07-27 08:50] Nvidia, OpenAI의 2500억 달러 규모 오하이오 데이터센터 대출 보증 협의 - The Wall Street Journal
+(by https://t.me/TNBfolio)
+- Nvidia가 OpenAI의 오하이오주 10GW 규모 데이터센터 임대를 위해 약 2500억 달러의 금융 보증을 제공하는 방안을 협의 중이다.
+- 이번 프로젝트는 SoftBank의 에너지 자회사가 개발 중이며, 칩 구매를 포함한 총 사업비가 5000억 달러를 초과하는 역대 최대 규모다.
+- 미국 정부와 일본이 합작 투자한 이 사업은 정부가 전력 통제권을 가지며 Howard Lutnick 상무장관이 전력 배분을 결정한다.
+- 신용등급이 없는 OpenAI는 Nvidia의 보증을 통해 데이터센터 건설 및 임대 자금을 우량한 조건으로 조달할 수 있게 된다.
+- Nvidia는 3500억 달러 규모의 칩 구매 자금 조달도 함께 논의 중이나 순환 출자 구조에 대한 시장의 우려도 제기된다.
+https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3

@@ -24,3 +24,7 @@ https://finance.yahoo.com/markets/stocks/articles/ais-biggest-winners-selling-of
 - 지속적인 인프라 투자를 진행 중인 OpenAI는 2030년까지 총 6000억 달러 규모의 컴퓨팅 지출을 계획하며, Nvidia와 데이터센터 관련 협의를 이어가고 있다.
 - 지난 6월 미국 증권거래위원회(SEC)에 비공개로 상장 신청서를 제출한 OpenAI는 Codex의 성장을 바탕으로 코딩 시장 내 점유율 회복에 집중하고 있다.
 https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html
+
+[2026-07-30 18:53] 코스피 신용잔고
+
+[2026-07-30 18:53] 코스닥 신용잔고

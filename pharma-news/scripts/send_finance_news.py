@@ -59,6 +59,25 @@ def is_finance_related(title):
             return True
     return False
 
+# 같은 사안을 여러 언론사가 각자 다른 제목으로 보도해 중복 게재되는 경우가 많아,
+# "이슈 단위"로 묶어 한 회차 다이제스트에는 사안당 1건만 남긴다.
+# 제목 텍스트 유사도(문자/단어 n-gram)로는 표현이 제각각이라 오탐/누락이 심해서
+# 반복적으로 겹치는 이슈를 키워드 조합(AND)으로 직접 정의하는 방식을 쓴다.
+TOPIC_SLOTS = [
+    ("fed_rate", [["금리"], ["동결", "인상", "인하"]]),
+    ("leverage_etf", [["레버리지"], ["ETF", "총량", "배율"]]),
+    ("kospi_selloff", [["코스피", "증시", "지수", "시총"], ["급락", "폭락", "추락", "조정", "하락", "뚝"]]),
+    ("won_fx", [["환율", "원화", "달러"], ["급등", "급락", "강세", "약세", "재돌파"]]),
+    ("ny_stock", [["뉴욕증시", "뉴욕 증시"], ["하락", "급락", "상승", "랠리"]]),
+    ("oil_price", [["국제유가", "브렌트유", "유가"], ["급등", "급락", "재돌파", "상승", "하락"]]),
+]
+
+def match_topic_slot(title):
+    for name, groups in TOPIC_SLOTS:
+        if all(any(kw in title for kw in group) for group in groups):
+            return name
+    return None
+
 def normalize_url(href):
     article_id = re.search(r'article_id=(\d+)', href)
     office_id = re.search(r'office_id=(\d+)', href)
@@ -80,9 +99,10 @@ def get_full_title(url):
 def fetch_naver_finance(limit=15):
     articles = []
     seen = set()
+    used_topic_slots = set()
     page = 1
 
-    while len(articles) < limit and page <= 5:
+    while len(articles) < limit and page <= 8:
         url = f"https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258&date=&page={page}"
         res = requests.get(url, headers=HEADERS, timeout=10)
         res.encoding = "euc-kr"
@@ -111,7 +131,13 @@ def fetch_naver_finance(limit=15):
             if is_invalid_title(title):
                 continue
 
+            topic_slot = match_topic_slot(title)
+            if topic_slot and topic_slot in used_topic_slots:
+                continue  # 이미 같은 사안의 기사를 실었으므로 건너뜀
+
             seen.add(clean_url)
+            if topic_slot:
+                used_topic_slots.add(topic_slot)
             articles.append((title, clean_url))
 
             if len(articles) >= limit:

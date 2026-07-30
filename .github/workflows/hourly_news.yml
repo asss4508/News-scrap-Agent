@@ -1,17 +1,19 @@
 name: 시간별 스몰캡 뉴스
 on:
   schedule:
-    - cron: "30 14 * * 1-5"
-    - cron: "30 17 * * 1-5"
-    - cron: "30 20 * * 1-5"
-    - cron: "30 22 * * 1-5"
+    # 매일 3시간마다 (KST 00/03/06/09/12/15/18/21시 = UTC 15/18/21/00/03/06/09/12시)
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 jobs:
   send-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: 코드 체크아웃
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Python 설치
         uses: actions/setup-python@v5
         with:
@@ -23,3 +25,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python pharma-news/scripts/send_hourly_news.py
+      - name: 전송 이력 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/hourly_sent_log.json
+          git diff --cached --quiet || git commit -m "chore: 시간별 뉴스 전송 이력 업데이트"
+          git push

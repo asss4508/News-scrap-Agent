@@ -2,10 +2,17 @@
 from bs4 import BeautifulSoup
 import os
 import re
+import json
 from datetime import datetime, timezone, timedelta
 
 TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+
+# 3시간마다 실행되므로 최근에 이미 보낸 기사는 다시 보내지 않도록 이력을 저장한다.
+SENT_LOG_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "..", "data", "hourly_sent_log.json"
+)
+SENT_LOG_KEEP = 60  # 최근 며칠치 실행분(3시간 간격 기준 약 7일)만 보관
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -33,6 +40,26 @@ HIGH_PRIORITY = [
     "어닝", "배당", "자사주", "M&A", "인수", "합병", "상장", "상폐"
 ]
 
+# 당일 핫이슈로 취급할 산업/빅테크 섹터 (반도체·이차전지·조선·방산·빅테크 등)
+# 이 목록에 걸리면 HIGH_PRIORITY보다 가중치를 더 줘서 상단에 노출시킨다.
+SECTOR_KEYWORDS = [
+    # 반도체
+    "반도체", "파운드리", "HBM", "메모리", "낸드", "D램", "DDR5", "웨이퍼",
+    "삼성전자", "SK하이닉스", "TSMC", "엔비디아", "AMD", "ASML",
+    # 이차전지
+    "이차전지", "배터리", "2차전지", "양극재", "음극재", "전고체", "전해질",
+    "LG에너지솔루션", "삼성SDI", "SK온", "에코프로", "포스코퓨처엠",
+    # 조선
+    "조선", "조선업", "선박", "수주", "LNG선", "컨테이너선", "HD현대",
+    "삼성중공업", "한화오션", "현대미포조선",
+    # 방산
+    "방산", "방위산업", "무기수출", "K9", "천궁", "한화에어로스페이스",
+    "KAI", "한국항공우주", "현대로템", "LIG넥스원",
+    # 빅테크/AI
+    "빅테크", "AI", "인공지능", "챗GPT", "생성형", "테슬라", "애플",
+    "마이크로소프트", "구글", "아마존", "메타", "오픈AI", "데이터센터",
+]
+
 def clean_title(title):
     title = re.sub(r'^\d+', '', title)
     title = re.sub(r'\[.*?기자.*?\]', '', title)
@@ -55,6 +82,9 @@ def get_priority(title):
     for keyword in HIGH_PRIORITY:
         if keyword in title:
             score += 1
+    for keyword in SECTOR_KEYWORDS:
+        if keyword in title:
+            score += 2
     return score
 
 def get_article_date(url):
@@ -224,7 +254,23 @@ def fetch_articles(url, domain, href_filter=None):
         pass
     return articles
 
-def pick_best_article():
+def normalize_title(title):
+    return re.sub(r'[^\w]', '', title)
+
+def load_sent_titles():
+    try:
+        with open(SENT_LOG_PATH, encoding="utf-8") as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+def save_sent_titles(sent_titles, newly_sent_title):
+    updated = list(sent_titles)[-(SENT_LOG_KEEP - 1):] + [newly_sent_title]
+    os.makedirs(os.path.dirname(SENT_LOG_PATH), exist_ok=True)
+    with open(SENT_LOG_PATH, "w", encoding="utf-8") as f:
+        json.dump(updated, f, ensure_ascii=False, indent=2)
+
+def pick_best_article(sent_titles):
     all_articles = []
     all_articles += fetch_articles("https://news.naver.com/breakingnews/section/101/258", "https://news.naver.com", "article")
     all_articles += fetch_articles("https://www.fnnews.com/section/002001000", "https://www.fnnews.com")
@@ -235,20 +281,20 @@ def pick_best_article():
     seen_titles = set()
     unique = []
     for title, url, score in all_articles:
-        t = re.sub(r'[^\w]', '', title)
+        t = normalize_title(title)
         if t not in seen_titles:
             seen_titles.add(t)
             unique.append((title, url, score))
 
     unique.sort(key=lambda x: x[2], reverse=True)
 
-    if unique:
-        return unique[0][0], unique[0][1]
+    for title, url, score in unique:
+        if normalize_title(title) not in sent_titles:
+            return title, url
+
     return None
 
 def build_message(article):
-    if article is None:
-        return "기사를 가져오지 못했습니다."
     title, url = article
     summary = get_article_summary(url)
     msg = "🔜 <b>" + title + "</b>\n\n"
@@ -271,7 +317,12 @@ def send_telegram(message):
 
 if __name__ == "__main__":
     print("뉴스 수집 중...")
-    article = pick_best_article()
+    sent_titles = load_sent_titles()
+    article = pick_best_article(sent_titles)
+    if article is None:
+        print("새로 보낼 핫뉴스가 없어 이번 회차는 건너뜁니다.")
+        raise SystemExit(0)
     msg = build_message(article)
     print(msg)
     send_telegram(msg)
+    save_sent_titles(sent_titles, normalize_title(article[0]))

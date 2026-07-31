@@ -27,6 +27,25 @@ EXCLUDE_KEYWORDS = [
     "교육감", "현수막", "봉사", "캠프", "여학생"
 ]
 
+# 손실 없이 확정 수익을 낼 수 있다는 식으로 낚는 광고성/후킹성 제목 문구
+AD_HOOK_KEYWORDS = [
+    "무손실", "원금보장", "손실없이", "확정수익", "고정수익", "보장수익",
+]
+
+# "OO 안 했더니 수익률 1위" 처럼 반전을 미끼로 쓰는 낚시성 제목 패턴
+AD_HOOK_PATTERNS = [
+    r'안\s*했(더니|다가).{0,15}(1위|대박|수익률|성공)',
+]
+
+def is_ad_hook_title(title):
+    for keyword in AD_HOOK_KEYWORDS:
+        if keyword in title:
+            return True
+    for pattern in AD_HOOK_PATTERNS:
+        if re.search(pattern, title):
+            return True
+    return False
+
 FINANCE_KEYWORDS = [
     "주가", "증시", "코스피", "코스닥", "주식", "종목", "매수", "매도",
     "상장", "공모", "청약", "ETF", "펀드", "채권", "금리", "환율",
@@ -44,6 +63,8 @@ def is_invalid_title(title):
         if keyword in title:
             return True
     if re.search(r'\d{2}:\d{2}', title):
+        return True
+    if is_ad_hook_title(title):
         return True
     return False
 

@@ -116,3 +116,94 @@ https://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-poten
 **가격 전망:** **2026년과 같은 폭등세는 다소 누그러져 가격 상승 폭은 완화되겠으나, 제조사들의 강한 주도권 속에서 메모리 가격은 높은 수준을 지속 유지(고점 유지)할 것으로 예상**됩니다.
 
 https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&id=0000763847_DVY7YHX65GMLYZ6UQEEMP
+
+[2026-08-04 06:18] **FMS 2026 **
+
+**FMS 2026(Future of Memory and Storage)**는 2026년 8월 4~6일 미국 캘리포니아주 **산타클라라 컨벤션센터·하얏트 리젠시**에서 개최됩니다. 올해는 20주년 행사로, 주최 측 기준 약 **350명 이상의 연사, 100개 이상의 전시기업, 1,500개 기관, 3,500명 이상의 참가자, 20개 이상의 기술 트랙**으로 구성
+
+**주요 기조연설**
+
+**8월 4일: 메모리 3사의 AI 인프라 전략**
+**1. 키옥시아·엔비디아 — 11:10 PDT**
+한국시간 **8월 5일 03:10**
+**Redefining Data Center Storage for the AI Era with Flash Memory and SSDs**
+AI 산업의 중심이 학습에서 실제 고객 서비스를 제공하는 **추론**으로 이동하면서, 데이터센터 설계와 스토리지 요구조건도 바뀐다는 내용입니다.
+
+키옥시아 BiCS FLASH 3D NAND의 성능·밀도·신뢰성 향상
+AI 추론 데이터센터용 SSD와 소프트웨어
+대규모 AI 시스템에서 플래시가 담당할 메모리 계층
+엔비디아 AI 플랫폼과 스토리지 생태계의 연결
+키옥시아의 Neville Ichhaporia와 Katsuki Matsudera, 엔비디아 스토리지 기술 부문 Jason Hardy가 발표합니다.
+
+**2. 삼성전자 — 11:40 PDT**
+한국시간 **8월 5일 03:40**
+**The Memory Imperative: How Samsung Is Building the Foundation of the AI Era**
+에이전틱 AI가 장기간 문맥을 유지하고 여러 에이전트를 동시에 운용하면서 컴퓨팅보다 **메모리 용량·대역폭·데이터 이동**이 병목이 된다는 관점입니다.
+삼성전자는 다음을 제시할 예정입니다.
+컴퓨팅 중심에서 메모리 중심으로의 AI 인프라 전환
+차세대 DRAM과 플래시 스토리지 통합
+메모리·SSD 컨트롤러·파운드리·첨단 패키징의 수직 통합
+AI 데이터 이동 병목 해소와 용량 확장
+연사 중 Kyungryun Kim 부사장이 삼성전자 **HBM5 설계 프로그램 책임자**라는 점에서 HBM5와 차세대 HBM 아키텍처 관련 언급도 관심 대상입니다. 다만 HBM5 제품 발표가 공식적으로 예고된 것은 아닙니다.
+
+
+**3. SK하이닉스 — 13:20 PDT**
+한국시간 **8월 5일 05:20**
+**Orchestrating Efficient AI Infrastructure through Tiered Memory in the Era of Agentic AI**
+이번 행사에서 투자 관점으로 가장 주목할 만한 발표 중 하나입니다.
+SK하이닉스는 기존 G1·G2·G3 계층 사이에 새로운 메모리 계층을 추가하는 방안을 설명합니다.
+**G0.5:** xPU 위에 적층하는 3D DRAM
+**G1.5:** HBF, 즉 고대역폭 플래시
+**G2.5:** CXL 기반 메모리 풀링
+KV 캐시를 일반 SSD보다 빠르게 처리하는 AI 전용 스토리지
+대용량 QLC NAND를 이용한 비용 효율적 용량 확장
+핵심 메시지는 AI 성능이 단순 GPU 연산력이 아니라 **HBM·DRAM·HBF·CXL·QLC를 얼마나 효율적으로 조율하느냐**에 의해 결정된다는 것입니다.
+
+
+**4. FADU·샌디스크 — 13:50 PDT**
+한국시간 **8월 5일 05:50**
+**The Future of AI Storage: From Silicon Innovations to Hyper-Scale Efficiency**
+FADU는 이번 기조연설에서 다음 제품과 전략을 공개할 예정입니다.
+차세대 **PCIe Gen6 SSD 컨트롤러**
+Gen6 엔터프라이즈 SSD 제품군
+AI 워크로드용 성능 대비 전력 효율
+고밀도 QLC와 SSD 관측·관리 기술
+발열과 전력 제약을 고려한 하이퍼스케일 스토리지
+FADU의 Gen6 컨트롤러가 실제 고객 인증과 양산 일정까지 연결되는지가 핵심 확인 포인트입니다.
+
+
+**5.  마이크론 — 14:50 PDT**
+한국시간 **8월 5일 06:50**
+
+**The Memory Wall Is Here: How AI Remembers in the Inference Era**
+
+마이크론은 AI 데이터를 온도에 따라 나누는 계층 구조를 제시합니다.
+Hot: GPU 가까이에 있는 HBM
+Warm: DRAM 및 메모리 확장
+Cold: 데이터센터 SSD
+장문 컨텍스트와 AI 에이전트가 확산되면 추론의 경제성이 연산량보다 **컨텍스트를 이동하고 저장하는 비용**에 의해 좌우된다는 주장입니다.
+
+
+**8월 5일: NAND의 AI 메모리화**
+
+**샌디스크 — 11:40 PDT**
+
+NAND를 단순한 저장장치가 아니라 AI 추론의 **대용량 확장 메모리 계층**으로 규정합니다. 장문 컨텍스트·에이전틱 워크플로·토큰 경제성이 NAND 수요를 어떻게 변화시키는지가 핵심입니다.
+
+마이크론 — 13:50 PDT
+AI 추론이 기존 데이터센터 메모리·스토리지 아키텍처를 어떻게 바꾸는지를 설명합니다. 8월 4일 발표가 마이크론의 제품 계층 전략이라면, 두 번째 발표는 산업 전반의 구조 변화에 더 초점이 맞춰져 있습니다.
+
+
+**8월 6일: 엔비디아 특별 세션**
+11:00 PDT
+한국시간 **8월 7일 03:00**
+
+**Balancing Memory and Storage to Operate AI Factories and Agents at Scale**
+
+**엔비디아, 마이크론, 키옥시아, 삼성전자, Everpure 관계자들이 참여해 다음을 논의합니다.**
+
+AI 팩토리에서 메모리와 스토리지의 적정 비율
+AI 에이전트의 장기 컨텍스트와 KV 캐시
+HBM·DRAM·SSD 간 데이터 이동
+기존 엔터프라이즈 스토리지와 AI 스토리지의 차이
+AI 추론용 스토리지가 향후 어떻게 진화해야 하는지

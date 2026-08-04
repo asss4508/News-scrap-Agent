@@ -280,3 +280,162 @@ https://n.news.naver.com/mnews/article/016/0002679284
 https://n.news.naver.com/mnews/article/030/0003453769
 
 [2026-08-04 14:25] 하이퍼스케일러들의 수주잔고 증가율
+
+[2026-08-04 15:50] **2026.08.04.(화) **📈**미미의 신고가**
+https://t.me/mimi_ATH
+
+(Ai dc) 지엔씨에너지, 아이크래프트
+(제약/바이오) 앱튼
+(교육) 아이비김영
+(지주사) kisco홀딩스
+(동전주/시총500억이하) 비큐ai, 티웨이홀딩스, 청보, 한창제지
+(몰루) 블루콤
+
+[2026-08-04 16:05] 야스 4.7% 대여는 너무한거아닙니까
+
+[2026-08-04 16:06] 어제는 -10%, 오늘은 -5% 녹음
+
+[2026-08-04 16:21] 갤럭시 Z8 사전판매 144만 대로 신기록…폴드8이 흥행 주도
+https://n.news.naver.com/mnews/article/056/0012230906?sid=101
+
+[2026-08-04 16:30] 이비덴 시간외 +20%
+
+[2026-08-04 16:31] 굉장히 낯선 장마감이네..
+
+[2026-08-04 16:47] 사실 PBR만 보면 착각하기 쉽다.
+PBR(주가순자산비율)은 이 회사가 장부가 대비 싸냐, 비싸냐를 보는 지표이다.
+
+예를 들어 PBR 0.5는 싸 보이고
+PBR 2는 비싸 보인다.
+장부가 대비 2배나 비싸서 이게 비싸 보인다는 것이다.
+
+그런데 여기에 함정이 있다.
+
+0.5라는 것이 왜 싼지에 대해서 전혀 설명할 수가 없다.
+
+여기에 ROE가 그 이유를 설명해 준다.
+ROE는 자기자본이익률로 이 회사가 자본으로 얼마나 돈을 잘 버는가를 의미한다.
+
+즉 ROE가 높으면 돈을 잘 버는 회사인 거고
+ROE가 낮으면 돈을 못 버는 회사에 가깝다.
+
+그래서 PBR = ROE * PER 이 된다.
+
+PBR이라는 것이 ROE의 결과물에 가깝다
+
+ROE 높다 - > 시장이 프리미엄을 준다 -> PBR이 상승한다
+ROE 낮다 -> 시장이 할인한다 -> PBR 내려간다.
+
+여기서 ROE는 다시 구조적으로 쪼갤 수 있다.
+
+ROE = 순이익(R) / 자기자본(E)로 되는데 ROE를 높일 수 있는 방법은 크게 2가지이다.
+
+이익(R)을 증가시키는 것 -> 회사가 성장
+자본(E)를 감소시키는 것 -> 주주 환원 (자사주, 배당 등)
+
+그래서 지금 삼성전자, 하이닉스의 같은 경우에도 반도체 P의 사이클로 인해서 수익을 많이 냈다면
+이제는 자본(E)를 꾸준히 감소시켜야 하는 구간에 들어가길 원하고 있다.
+미국의 대형 빅테크 회사들의 성장도 자본(E)의 감소로 인한 효과가 아주 컸다.
+
+조금 더 한 단계 더 들어가면
+
+ROE는 ROA + 레버리지로 나뉜다.
+ROE = ROA * (자산 / 자본)
+
+ROA는 본업의 수익성으로 볼 수 있다.  
+(자산/자본)은 레버리지라고 볼 수 있다.
+
+그래서 ROE를 볼 때도 진짜 사업이 좋아서 (ROA 높음) 올라간 건지
+빛을 많이 써서 (레버리지 높음) 을 확인할 필요가 있다.
+
+이야기가 좀 돌아간 것 같은데 말 그대로
+
+PBR만 보면 반쪽짜리에 가깝다.
+밸류 트랩에 빠질 가능성이 높다.
+
+예를 들어 PBR 0.5라서 싸다고 했지만
+ROE 2%  이런 회사들은 그냥 돈을 못 버는 회사다.
+
+반대로 PBR 2라고 해서 비싸다고 생각했지만
+ROE 25% 이런 회사들은 돈을 매우 잘 버는 회사로 프리미엄을 받아도 충분하다고 생각한다.
+
+PBR은 가격이고 ROE는 실력이라고 생각하면 편할 것 같다.
+
+결론
+
+PBR이 낮다고 반드시 저평가는 아니다.
+그 기업이 얼마나 효율적으로 자본을 활용해서 이익을 만들어내는지 ROE를 함께 보지 않으면 가치 함정에 빠진다.
+결국 시장은 자산의 크기가 아니라 자산으로 얼마나 벌어들일 수 있는지를 기준으로 가격을 매긴다.
+
+https://blog.naver.com/love392722/224366935458
+
+[2026-08-04 16:48] 주도섹터 : 데이터센터 (데크크)
+
+정부의 3대 메가 프로젝트 (AI뉴딜 정책)
+- 반도체, 로봇, 데이타센터
+
+SK그룹 5GW 
+GS그룹 2.4GW
+NAVER 1GW
+
+데이터센터를 건설하는데 필요한 : 지엔씨에너지, SK이터닉스, OCI홀딩스, LS, SGC에너지 등등
+
+지엔씨에너지
+https://stockeasy.intellio.kr/share_chat/6a863b3e-21bc-4afd-9c99-f15cb1fe433e
+https://stockeasy.intellio.kr/stock-analysis/stock-info/119850
+
+SK이터닉스
+https://stockeasy.intellio.kr/share_chat/972e01cb-a5a8-48ce-8eec-19558ac4856e
+https://stockeasy.intellio.kr/stock-analysis/stock-info/475150
+
+GS
+https://stockeasy.intellio.kr/share_chat/9903936b-4de6-470b-8d3f-f01b2fb6a0cf
+https://stockeasy.intellio.kr/stock-analysis/stock-info/078930
+
+자이에스앤디
+https://stockeasy.intellio.kr/share_chat/9dad8bcd-7801-47f6-8a5f-1e7ca4c954df
+https://stockeasy.intellio.kr/stock-analysis/stock-info/317400
+
+SGC에너지
+https://stockeasy.intellio.kr/share_chat/5cfcd7d9-40ef-48d8-8c3f-0ec7da4ad991
+https://stockeasy.intellio.kr/stock-analysis/stock-info/005090
+
+SK텔레콤
+https://stockeasy.intellio.kr/share_chat/fed4b1ea-02e8-4a16-b7a4-0a039c72d588
+https://stockeasy.intellio.kr/stock-analysis/stock-info/017670
+
+LS
+https://stockeasy.intellio.kr/share_chat/749d9aa1-4f52-484f-a205-5dc3529445ee
+https://stockeasy.intellio.kr/stock-analysis/stock-info/006260
+
+NAVER
+https://stockeasy.intellio.kr/share_chat/8c1550f7-6acc-4b1f-b8d2-b6b6807ad00a
+https://stockeasy.intellio.kr/stock-analysis/stock-info/035420
+
+OCI홀딩스
+https://stockeasy.intellio.kr/share_chat/28ed38ef-8bdd-49d8-8227-e473e63ee509
+https://stockeasy.intellio.kr/stock-analysis/stock-info/010060
+
+[2026-08-04 17:33] 2026.08.04 17:22:35
+기업명: 야스(시가총액: 786억) A255440
+보고서명: 주식등의대량보유상황보고서(일반)
+
+대표보고 : 정광호(56년생)/대한민국
+보유목적 : 경영권 영향
+
+보고전 : 46.59%
+보고후 : 22.08%
+보고사유 : 장내매도 및 주식담보계약 상환,주식대차 조기 상환
+
+* 정광호
+2026-07-29/장내매도(-)/보통주/ -590,135주/반대매매
+2026-07-30/장내매도(-)/보통주/ -1,055,723주/반대매매
+2026-07-31/장내매도(-)/보통주/ -427,807주/반대매매
+2026-08-03/장내매도(-)/보통주/ -265,280주/반대매매
+2026-08-03/장내매도(-)/보통주/ -336,807주/장내매도
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260804000528
+회사정보: https://finance.naver.com/item/main.nhn?code=255440
+
+[2026-08-04 17:52] [단독] 테슬라 로보택시 '눈' , 삼성·LG가 독점 공급
+https://www.hankyung.com/article/2026080447831

@@ -46,6 +46,23 @@ def is_ad_hook_title(title):
             return True
     return False
 
+# 실적/주가와 무관하게 "누가 대표가 됐다"는 인사 발표성 제목.
+# 상장 여부를 직접 판별할 방법이 없어, 이런 순수 인사 소식 문구 자체를 걸러낸다
+# (스몰캡 투자 다이제스트 취지상 비상장사·거래소 인사 공지가 섞여 들어오는 경우가 많음).
+PERSONNEL_CHANGE_KEYWORDS = [
+    "신임 대표", "신임 사장", "신임 회장", "신임 CEO", "신임 부회장",
+    "대표이사 선임", "대표 선임", "사장 선임", "회장 선임", "CEO 선임",
+    "대표 교체", "대표 취임", "경영진 개편", "인사 발령",
+    # "OO 맡은 김나영…왜 그를 택했나" 류 인물 프로필/발탁 배경 분석 기사
+    "택했나", "택했을까", "발탁", "낙점",
+]
+
+def is_personnel_change_title(title):
+    for keyword in PERSONNEL_CHANGE_KEYWORDS:
+        if keyword in title:
+            return True
+    return False
+
 FINANCE_KEYWORDS = [
     "주가", "증시", "코스피", "코스닥", "주식", "종목", "매수", "매도",
     "상장", "공모", "청약", "ETF", "펀드", "채권", "금리", "환율",
@@ -65,6 +82,8 @@ def is_invalid_title(title):
     if re.search(r'\d{2}:\d{2}', title):
         return True
     if is_ad_hook_title(title):
+        return True
+    if is_personnel_change_title(title):
         return True
     return False
 

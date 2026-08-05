@@ -28,7 +28,9 @@ BROKER_KEYWORDS = [
 
 EXCLUDE_KEYWORDS = [
     "동영상", "재생시간", "포토", "[영상]", "[사진]",
-    "부음", "부고", "마감시황", "장마감", "시황"
+    "부음", "부고", "마감시황", "장마감", "시황",
+    # 실제 산업/기업 뉴스가 아닌 "누가 얼마나 사고팔았다"류 기계적 매매동향 리포트
+    "초고수", "매매동향", "매매일지", "고수의 매매", "순매수 상위", "순매도 상위"
 ]
 
 HIGH_PRIORITY = [
@@ -61,7 +63,7 @@ SECTOR_KEYWORDS = [
 ]
 
 def clean_title(title):
-    title = re.sub(r'^\d+', '', title)
+    title = re.sub(r'^\d+[.\)]?\s*', '', title)
     title = re.sub(r'\[.*?기자.*?\]', '', title)
     title = re.sub(r'\[.*?특파원.*?\]', '', title)
     title = re.sub(r'·\[.*?\]', '', title)
@@ -112,7 +114,35 @@ def get_article_date(url):
         pass
     return None
 
-def get_article_summary(url):
+# 사이트마다 툴바 문구 조합/순서가 달라 고정된 문구 정규식만으로는 다 못 잡는다.
+# 본문 맨 앞에 이런 단어만 연달아 나오면(문장부호 없이) 사이트 UI 잔재로 보고 통째로 잘라낸다.
+UI_NOISE_WORDS = {
+    "뉴스", "듣기", "글자", "크기", "설정", "보통", "크게", "아주",
+    "기사", "공유", "기사공유", "페이스북", "엑스", "카카오톡",
+    "이메일", "주소복사", "북마크", "다크모드", "프린트", "네이버",
+    "채널구독",
+}
+
+def strip_leading_ui_noise(text):
+    words = text.split(" ")
+    i = 0
+    while i < len(words) and words[i] in UI_NOISE_WORDS:
+        i += 1
+    return " ".join(words[i:])
+
+def cut_after_title_repeat(text, title):
+    """카테고리/브레드크럼브 뒤에 제목이 그대로 반복되는 사이트가 있어,
+    본문 앞부분에서 제목이 다시 나오면 그 뒤부터를 실제 본문으로 본다."""
+    if not title or len(title) < 10:
+        return text
+    search_zone = text[:400]
+    needle = title if len(title) <= 60 else title[:60]
+    pos = search_zone.find(needle)
+    if pos == -1:
+        return text
+    return text[pos + len(needle):].strip()
+
+def get_article_summary(url, title=None):
     try:
         res = requests.get(url, headers=HEADERS, timeout=8)
         res.encoding = "utf-8"
@@ -162,6 +192,7 @@ def get_article_summary(url):
                 tag.decompose()
 
             text = content.get_text(separator=" ", strip=True)
+            text = cut_after_title_repeat(text, title)
 
             # UI 버튼 텍스트 패턴 제거
             text = re.sub(r'뉴스\s*듣기.*?크기', '', text)
@@ -171,6 +202,7 @@ def get_article_summary(url):
             text = re.sub(r'채널구독\s*다음\s*채널구독', '', text)
             text = re.sub(r'다크모드\s*프린트\s*네이버', '', text)
             text = re.sub(r'이메일\s*주소복사', '', text)
+            text = strip_leading_ui_noise(text.strip())
 
             # 기자 서명, 출처 제거
             text = re.sub(r'\S+@\S+\.\S+', '', text)
@@ -296,7 +328,7 @@ def pick_best_article(sent_titles):
 
 def build_message(article):
     title, url = article
-    summary = get_article_summary(url)
+    summary = get_article_summary(url, title)
     msg = "🔜 <b>" + title + "</b>\n\n"
     if summary:
         msg += summary + "\n\n"

@@ -64,3 +64,50 @@ d) **국내 대표 휴머노이드** 기업과도 휴머노이드 활용한 제�
 상승 : **AI HW/인프라** <반도체/소부장/기판/변압기/전선/데이터센터/태양광/CPO> + 바이오 + 자동차 + AI SW
 
 하락 : 미용 / 정유 / 내수
+
+[2026-08-05 13:24] #포트폴리오 #고민 
+
+이번주 나스닥 차트는 크게 반등했기 때문에 어떤 종목들이 반등했는지 보는것이 의미가 있어보임. 월요일은 CSP가 주도했고, 어제는 CSP(cloud service provider), HW, SW 구분 없이 AI 진영 중심으로 상승. 즉 AI 진영 안에서 놀아야된다는 그림으로 보인다. 
+
+국장에서는 AI 진영이라고 하면  "데이터센터" (NAVER, SKT), "전력" (효중/OCI홀딩스), "반도체/CPO" (전자닉스, 소부장, RF머트리얼즈), "로봇" (로보티즈, 에스피지), "AI SW"(솔트룩스)가 강세다. 
+
+**포트 그대로 유지**
+
+데이터센터 : NAVER 
+반도체 : 삼성전자
+로봇 : 로보티즈/레인보우/현대모비스/씨메스로보틱스
+ETF : KODEX로봇액티브
+
+**8월 단기 모멘텀**
+
+NAVER = 데센 수주 
+삼성전자 = 주주환원
+로봇 = 현대차 인베스터데이(8/24), 옵티머스 생산 개시, 유니트리 IPO
+
+[2026-08-05 13:47] #로봇
+
+ Unitree Robotics
+상장시장: 상하이 STAR
+공모 규모: 약 **42억 위안**
+예상 기업가치: **500~560억 위안(약 10조원 수준)**
+
+**일정**
+공모가 확정: 이번 주
+**8월 10일부터 청약**
+이후 상장 예정
+
+휴머노이드 순수 플레이 중에서는 사실상 첫 대형 A주 상장이라 가장 관심을 받고 있습니다.
+
+https://www.reuters.com/world/asia-pacific/chinas-unitree-sets-august-10-subscription-shanghai-ipo-2026-07-30/?utm_source=chatgpt.com
+
+[2026-08-05 13:48] #로봇 
+
+AgiBot (즈위안로봇)
+화웨이 출신 펑즈후이(彭志辉)가 창업
+텐센트, JD, SAIC 등 투자
+기업가치 약 **200억 위안 이상**
+**홍콩 IPO 절차를 공식 시작**
+
+정확한 공모 일정은 아직 미공개지만 시장에서는 **2026년 하반기 상장**을 예상
+
+https://www.reuters.com/world/asia-pacific/chinese-robot-maker-agibot-starts-hong-kong-ipo-process-securities-times-reports-2026-07-24/?utm_source=chatgpt.com

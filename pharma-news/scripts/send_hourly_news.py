@@ -64,6 +64,7 @@ SECTOR_KEYWORDS = [
 
 def clean_title(title):
     title = re.sub(r'^\d+[.\)]?\s*', '', title)
+    title = re.sub(r'^영상\s+(?=\S)', '', title)  # "영상" 동영상 배지가 제목에 붙어 나오는 경우
     title = re.sub(r'\[.*?기자.*?\]', '', title)
     title = re.sub(r'\[.*?특파원.*?\]', '', title)
     title = re.sub(r'·\[.*?\]', '', title)
@@ -204,6 +205,12 @@ def get_article_summary(url, title=None):
             text = re.sub(r'이메일\s*주소복사', '', text)
             text = strip_leading_ui_noise(text.strip())
 
+            # 'AI프리즘' 등 여러 이슈를 묶어 자동 요약하는 브리핑형 기사는
+            # 목차/서비스 소개 문구가 실제 내용보다 앞서 나오므로 통째로 제거
+            text = re.sub(r'■?\s*AI\s*프리즘.*?제공합니다\.', '', text)
+            text = re.sub(r'^[▲\s]*\[[^\[\]]{1,20}\]\s*', '', text.strip())
+            text = text.replace('■', ' ').replace('▲', ' ')
+
             # 기자 서명, 출처 제거
             text = re.sub(r'\S+@\S+\.\S+', '', text)
             text = re.sub(r'\d{4}-\d{2}-\d{2}\s*\d{2}:\d{2}:\d{2}', '', text)
@@ -260,7 +267,7 @@ def fetch_articles(url, domain, href_filter=None):
         seen = set()
         for a in soup.select("a"):
             href = a.get("href", "")
-            title = clean_title(a.get_text(strip=True))
+            title = clean_title(a.get_text(separator=" ", strip=True))
             if len(title) < 10:
                 continue
             if is_invalid(title):

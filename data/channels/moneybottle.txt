@@ -7,3 +7,25 @@
 https://www.dispatch.co.kr/2346037
 
 [2026-08-06 11:20] 일론머스크: 장기적으로 컴퓨팅의 99%는 추론에 사용될 것
+
+[2026-08-06 11:47] 딜런 파텔(SemiAnalysis): 하이닉스의 ADR 상장에도 불구, 마이크론 대비 디스카운트가 남아있는건 ‘지배구조’ 때문임
+
+[2026-08-06 13:52] 애플, DRAM 부족으로 TSMC에 A20 Pro 다이가 패키징 대기 상태로 쌓여 있음.
+
+The chip production is moving well on the line, but the DRAM supply constraint is creating a major problem. Culpinion notes that TSMC has around $1 billion of A20 Pro chipsets waiting for the DRAM to get packaged.
+
+[2026-08-06 14:22] 김정관 장관 “반도체 성과급, 주총 승인 받도록”…상법·자본시장법 개정 시사
+
+https://m.etoday.co.kr/news/view/2611754
+
+[2026-08-06 14:27] 산업부 김정관 장관은 아주 상식적인 얘기만 했네요
+
+1. 성과급 받고싶으면 회사의 주인인 주주들의 승인을 받아라
+
+2. 반도체 기업들의 수익을 사회적으로 배분할 필요 없다. 회사가 알아서 하겠지.
+
+3. 기업의 이익에 정부가 관여하면 안된다. 정부는 법인세 이상의 개입을 해서는 안된다
+
+4. 주 52시간제 개선 필요하다
+
+https://m.etoday.co.kr/news/view/2611754

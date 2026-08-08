@@ -11,3 +11,11 @@ AI 시즌2
 <테슬라를 넘어서 스페이스X로> 
 
 http://product.kyobobook.co.kr/detail/S000220438441?LINK=NVM&NaPm=ct%3Dmsjkpl5k%7Cci%3Dc13bd42974b51e85bf9dfdece77d0bcc4e619918%7Ctr%3Dboksl1%7Csn%3D5342564%7Chk%3D4e84d9cfda8a55855329d97104a9e207b710e393
+
+[2026-08-08 19:07] **>>Agentic AI 새 트렌드: 아마존 AWS에서 ‘CPU 부족’ 발생 (The Information)**
+
+•AWS 고위 임원은 올해 5월 엔지니어들에게 컴퓨팅 자원을 절약해서 사용해야 한다고 경고했으며, 내부 CPU 대기 시간이 기존 수시간에서 수일로 늘어난 것으로 전해짐. 핵심 원인은 **Agentic AI의 대규모 확산으로 CPU 수요가 급증했기 때문**
+
+•또한 인텔 데이터에 따르면 CPU와 GPU 사용 비율이 기존 **1:4에서 최근 거의 1:1 수준까지 상승**했음. 이는 AI 연산 수요가 GPU뿐 아니라 CPU까지 빠르게 확대되고 있음을 보여주며, 향후 **클라우드 컴퓨팅 비용에도 상승 압력**으로 작용할 가능성
+
+>Agentic AI新趋势：亚马逊AWS出现“CPU短缺”  https://wallstreetcn.com/articles/3778989#from=ios

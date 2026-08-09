@@ -10,3 +10,40 @@
 [2026-08-09 07:03] https://m.blog.naver.com/ranto28/224371746030
 
 [2026-08-09 07:03] 아침 공기 괜찮네요
+
+[2026-08-09 08:20] 🚀 **SpaceX 뉴스 브리핑** (2026-08-09 08:19 KST)
+
+**1. 세미애널리시스, 2027년 말까지 SpaceX 연매출 3000억 달러 전망에 동의**
+- 세미애널리시스는 SpaceX가 2027년 말까지 연간 최대 3000억 달러의 매출을 달성할 수 있다는 NextBigFuture의 분석에 동의했다.
+- AI 관련 임대 요금이 해당 매출 전망의 근거로 제시되었으며, 현물 가격은 더 높은 수준을 기록하고 있다.
+- CoreWeave와 Nebius는 고정 프리미엄 GPU 연간 가격을 분산 적용하면서 5년 약정을 요구하고 있다.
+📰 출처: Next Big Future | 🔗 [원문 링크](https://www.nextbigfuture.com/2026/08/semianalysis-agrees-with-nextbigfuture-300b-per-year-for-spacex-by-end-of-2027.html)
+---
+
+**2. SpaceX 2027년 10GW 달성 – 현실성과 5000억 달러 ARR 전망, 그리고 마이크로소프트가 최대 고객이 될 이유**
+- SemiAnalysis는 SpaceX가 2027년까지 10GW 규모의 전력 인프라를 구축할 것이라고 분석했다.
+- 이 계획이 실현될 경우 SpaceX는 연간 반복 매출(ARR) 5000억 달러를 창출할 수 있다고 전망됐다.
+- AMD 주가는 일론 머스크가 SpaceX의 AI 인프라에 엔비디아 칩을 사용하겠다고 밝히면서 8% 하락했다.
+📰 출처: Slashdot.org | 🔗 [원문 링크](https://slashdot.org/firehose.pl?op=view&id=184894254)
+---
+
+**3. 스페이스X 주가, 4주간의 혹독한 하락세를 오늘 끊을 수 있는 이유 - 배런스**
+- 스페이스X 주가는 4주 연속 하락세를 기록하며 투자자들의 주목을 받고 있다.
+- 실적 발표와 보호예수 기간 만료라는 중요한 시험대 속에서도 주가가 반등하는 흐름을 보였다.
+- 스페이스X는 3,270억 달러 규모의 랠리를 거쳐 IPO 가격에 근접한 수준까지 다시 접근하고 있다.
+📰 출처: Slashdot.org | 🔗 [원문 링크](https://slashdot.org/firehose.pl?op=view&id=184894108)
+---
+
+**4. 첫 번째 락업 만료 후 SpaceX 주가 급등, 투자자 수요가 예상을 뛰어넘어**
+- SpaceX 주가는 첫 번째 락업 만료 이후 급등세를 보였다.
+- 투자자들의 SpaceX 장기 성장 가능성에 대한 신뢰가 강하게 유지되고 있다.
+- 이번 주가 상승은 락업 만료 후 일반적으로 나타나는 시장 반응을 뒤엎는 결과로 평가된다.
+📰 출처: Crypto Briefing | 🔗 [원문 링크](https://cryptobriefing.com/spacex-stock-surges-lockup-expiry/)
+---
+
+**5. 일론이 'FEL FTW'라고 말했다. 칩 생산량을 50배 늘릴 레이저의 정체**
+- SpaceX는 TERAFAB의 핵심 부품을 개선하기 위해 새로운 기술 도입을 추진할 예정이다.
+- 해당 기술은 2030~2035년까지 칩 생산량을 50배, 2040~2045년까지 수천 배 늘리는 것을 목표로 한다.
+- ASML의 기존 기술을 한 단계 발전시키는 방향으로 개발이 진행될 것으로 제시되고 있다.
+📰 출처: Next Big Future | 🔗 [원문 링크](https://www.nextbigfuture.com/2026/08/elon-said-fel-ftw-heres-the-laser-that-will-boost-chip-volumes-50x.html)
+---

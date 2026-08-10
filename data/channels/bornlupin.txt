@@ -166,3 +166,31 @@ https://biz.chosun.com/it-science/ict/2026/08/10/QHNNV6OHJVAT7JVY4QWZLBFUXA/?utm
 **수주 가시성**: **내년까지 AI 서버 관련 수요가 이어지며 수주 가시성이 꾸준히 확대되고 있습니다.**
 
 https://www.ctee.com.tw/news/20260810700078-439901
+
+[2026-08-10 13:51] 미국, 중국 의존도를 낮추기 위해 호주 희토류 광산업체 지원
+
+https://www.ft.com/content/d88b7e46-6806-4286-94d7-3bb16facee41?syn-25a6b1a6=1
+
+[2026-08-10 13:54] **중국의 수출 규제 여파 속 호주 스칸듐 광산 업체, 미국 정부 지원받는다**
+
+**호주 스칸듐 광산 개발업체 선라이즈 에너지 메탈스(Sunrise Energy Metals)의 주가가 월요일 오전 거래에서 20% 급등**했다. **해당 기업이 미국 정부의 핵심 광물 프로젝트 지원 대상 후보에 포함된 데 따른 것**이다.
+
+https://asia.nikkei.com/business/markets/commodities/australian-scandium-miner-gets-us-backing-as-chinese-restrictions-bite
+
+[2026-08-10 13:55] 2026.08.10 13:52:35
+기업명: 대동(시가총액: 1,940억) A000490
+보고서명: 연결재무제표기준영업(잠정)실적(공정공시)
+
+매출액 : 4,671억(예상치 : -)
+영업익 : 412억(예상치 : -)
+순이익 : 262억(예상치 : -)
+
+**최근 실적 추이**
+2026.2Q 4,671억/ 412억/ 262억
+2026.1Q 3,777억/ 60억/ -61억
+2025.4Q 3,293억/ -160억/ -421억
+2025.3Q 3,541억/ 4억/ -37억
+2025.2Q 4,146억/ 251억/ 68억
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800261
+회사정보: https://finance.naver.com/item/main.nhn?code=000490

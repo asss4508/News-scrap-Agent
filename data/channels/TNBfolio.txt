@@ -25,3 +25,71 @@
 공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800144
 최근계약 : https://www.awakeplus.co.kr/board/contract/329180
 회사정보: https://finance.naver.com/item/main.nhn?code=329180
+
+[2026-08-10 12:56] Unitree Robotics, IPO 청약 개시 및 60.99억 위안 자금 조달 추진 - 每日经济新闻
+(by https://t.me/TNBfolio)
+- Unitree Robotics가 8월 10일 상하이 증권거래소 커창판 IPO를 위한 온·오프라인 공모 청약을 공식 개시했다.
+- 이번 공모의 주당 발행가는 150.80위안이며, 총 조달 예정 금액은 약 60.99억 위안이다.
+- 상장 후 예상 시가총액은 약 609.93억 위안에 달하며, A주 시장 최초의 휴머노이드 로봇 완제품 상장 기업이 된다.
+- 공모 자금은 지능형 로봇 모델 및 본체 연구개발, 신형 제품 개발, 제조 베이스 구축에 집중 투입한다.
+- 2026년 커창판 신주 첫날 평균 상승률(466.61%)을 적용할 경우 1주당(500주) 장부 수익은 최대 35.18만 위안으로 추산된다.
+https://baijiahao.baidu.com/s?id=1873091511746802795&wfr=spider&for=pc
+
+[2026-08-10 13:13] SK하이닉스, 미국에서 HBM 및 3D NAND 특허 침해 소송 직면 - DIGITIMES
+(by https://t.me/TNBfolio)
+- MonolithIC 3D가 특허 침해를 주장하며 미국 국제무역위원회(USITC)에 SK하이닉스를 상대로 두 번째 관세법 337조 조사를 신청했다.
+- 이번 조사는 HBM DRAM 및 3D NAND 메모리 칩과 이를 탑재한 솔리드 스테이트 드라이브(SSD) 등 주요 저장 장치 제품군을 포함한다.
+- MonolithIC 3D는 SK하이닉스 제품의 미국 내 수입 금지 명령 및 판매 중지 명령을 USITC에 요청했다.
+- 연방법원에 제기된 동일 특허 소송은 USITC의 조사가 진행되는 동안 절차가 일시 정지된 상태이다.
+- MonolithIC 3D가 SK하이닉스를 상대로 연방법원과 USITC에 제시한 특허는 총 22개에 달한다.
+https://www.digitimes.com/news/a20260810VL205/sk-hynix-3d-patent-nand-hbm.html
+
+[2026-08-10 13:18] OCI홀딩스, AI 데이터센터 수요 및 SpaceX 협력 강화로 성장에 가속도 - DIGITIMES
+(by https://t.me/TNBfolio)
+- OCI홀딩스는 비중국 공급망 입지를 바탕으로 미국 AI 데이터센터의 태양광 수요 증가와 SpaceX와의 공급 협력 수혜를 받고 있다.
+- 말레이시아, 베트남, 미국을 잇는 수직계열화 공급망을 구축한 OCI홀딩스는 2028년에서 2029년까지의 폴리실리콘 및 웨이퍼 물량이 이미 완판되었다고 밝혔다.
+- OCI홀딩스의 말레이시아 자회사는 SpaceX와 3~5년간 약 1조 원 규모의 폴리실리콘 장기 공급 계약을 논의 중이다.
+- 이번 협력은 미국 내 100GW 규모의 태양광 제조 역량을 확보하고 궤도 상 태양광 AI 인공위성을 배치하려는 Elon Musk의 비전에서 비롯되었다.
+- 미국 정부의 비중국 공급망 강화 기조와 최저가격제 도입에 따라 OCI홀딩스의 신규 고객 확보 및 수익성 개선이 더욱 가속화될 전망이다.
+https://www.digitimes.com/news/a20260810PD226/solar-polysilicon-spacex-supplier-data.html
+
+[2026-08-10 13:18] 29년까지 완판. 
+3~5년 1조 장기공급계약
+
+[2026-08-10 13:21] 우주데이터센터
+
+[2026-08-10 13:22] 우주 관련주, Wall Street의 투자 심리 회복에 일제히 상승 - yahoo.com
+(by https://t.me/TNBfolio)
+- SpaceX 주가가 투자의견 상향 조정에 힘입어 11% 급등했으며 Rocket Lab과 Intuitive Machines 등 동종 기업들도 일제히 상승했다.
+- Argus는 AI 인프라 투자에 대한 회수 가능성이 긍정적이라며 SpaceX에 대해 매수 의견과 목표가 160달러를 제시했다.
+- 보호예수 기간 해제에 따른 물량 부담 우려가 완화되고 상장 후 첫 실적 발표에서 제시된 대규모 컴퓨팅 투자 계획이 재평가받았다.
+- 예상보다 약화된 7월 고용 지표 발표로 금리 인상 가능성이 낮아지면서 자본 집중도가 높은 우주 기술주에 호재로 작용했다.
+- Rocket Lab은 92번째 랩터 임무 성공을 바탕으로 8% 상승했으며 우주 섹터 전반에 투자 매수세가 이어졌다.
+https://finance.yahoo.com/markets/stocks/articles/spacex-rises-11-intuitive-machines-154718800.html
+
+[2026-08-10 13:35] 위 뉴스 중 스페이스X와 우주데이터 센터 관련 내용 발췌
+(by https://t.me/TNBfolio)
+ 
+...a supply partnership with SpaceX that is extending its reach from terrestrial solar projects into space applications.
+지상 태양광 프로젝트를 넘어 우주 응용 분야로 영역을 확장하는 스페이스X와의 공급 파트너십이다.
+ 
+Meanwhile, OCI TerraSus is reportedly working with SpaceX on a multiyear polysilicon supply agreement estimated at around KRW1 trillion, with a contract period of three to five years.
+한편, OCI TerraSus는 스페이스X와 계약 기간 3~5년, 약 1조 원 규모로 추정되는 다년간의 폴리실리콘 공급 계약을 추진 중인 것으로 알려졌다.
+ 
+The two sides are also discussing supplies from the additional capacity scheduled to come online following the 2029 expansion, potentially establishing OCI Holdings as a key supplier within the US space supply chain.
+양사는 2029년 증설 이후 추가되는 생산 물량에 대한 공급도 논의하고 있어, OCI 홀딩스가 미국 우주 공급망 내 핵심 공급업체로 자리매김할 가능성이 있다.
+ 
+The partnership stems from Elon Musk's vision for space-based AI data centers.
+이 파트너십은 우주 기반 AI 데이터센터를 향한 일론 머스크의 비전에서 비롯되었다.
+ 
+SpaceX and Tesla are each planning to establish 100 GW of annual solar manufacturing capacity in the US, spanning the entire production chain from ingot growth and wafer slicing to solar cells and modules.
+스페이스X와 테슬라는 잉곳 성장 및 웨이퍼 절단부터 태양광 셀과 모듈에 이르기까지 전체 생산 과정을 아우르는 연간 100GW 규모의 태양광 제조 역량을 미국 내에 각각 구축할 계획이다.
+ 
+The combined 200 GW of capacity is expected to enter full production within three years, with plans ultimately extending to deploying solar-powered AI satellites in orbit.
+합산 200GW 규모의 생산 역량은 3년 이내에 본격 가동될 예정이며, 궁극적으로 궤도 상에 태양광 기반 AI 위성을 배치하는 계획으로 이어진다.
+ 
+Industry sources expect OCI Holdings and SpaceX to deepen their partnership, given the high technological barriers to producing ultra-high-purity polysilicon and US requirements for non-China supply chains.
+초고순도 폴리실리콘 생산의 높은 기술적 장벽과 비중국산 공급망을 요구하는 미국의 조건으로 인해 OCI 홀딩스와 스페이스X 간의 파트너십이 더욱 깊어질 것으로 업계는 전망한다.
+ 
+Looking ahead, expanding long-term supply agreements with the aerospace industry are also expected to provide greater earnings stability.
+앞으로 항공우주 산업과의 장기 공급 계약 확대는 더 큰 수익 안정성을 제공할 것으로 기대된다.

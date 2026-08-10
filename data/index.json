@@ -272,7 +272,15 @@
     "source": "채널:dart_한미약품"
   },
   {
-    "text": "[2026-08-10 13:07] ●유동성 장세와 확산 장세가 연출될 가능성\n\n[2026-08-10 17:14] ●반도체는 Q사이클에 저평가된 소재주를 볼만한 시기",
+    "text": "[2026-08-10 13:07] ●유동성 장세와 확산 장세가 연출될 가능성\n\n[2026-08-10 17:14] ●반도체는 Q사이클에 저평가된 소재주를 볼만한 시기\n\n[2026-08-10 23:30] **UBS\n\n마이크론**\n\n**\"NAND에는 약간의 잡음이 있지만, DRAM은 기존 예상보다도 더 타이트하다\"**\n\n- 목표주가 $1,625 유지\n- 단 **27년 HBM ASP 전망치를 상향조정(+67% -> 79%)**\n- 루빈울트라 다이당 스펙에 대해선 다운그레이드 맞으나 **최근 시장 예상들(최저 192GB)보다 높은 용량 전망(384GB, 512GB)**\n- 26년 **3분기, 4분기 디램 ASP 각 +20%QOQ로 전망**(컨센은 3Q +15~20%, 4Q +single digit)\n\n\"DRAM의 경우, **HBM 수요/공급 상황이 기존 예상보다 더 타이트해졌으며, 특히 HBM4와 HBM4E의 가격이 예상보다 강할 것으로 판단**합니다. 이 때문에 NVIDIA의 차세대 VR300 관련 HBM4E 가격 전망을 상향했습니다.\"",
+    "source": "채널:triple_stock"
+  },
+  {
+    "text": "single digit)\n\n\"DRAM의 경우, **HBM 수요/공급 상황이 기존 예상보다 더 타이트해졌으며, 특히 HBM4와 HBM4E의 가격이 예상보다 강할 것으로 판단**합니다. 이 때문에 NVIDIA의 차세대 VR300 관련 HBM4E 가격 전망을 상향했습니다.\" \"또한 메모리 업체들이 **HBM과 DDR 간 가격 프리미엄을 다시 확대하고 있다는 점도 확인**되고 있습니다. UBS는 MU의 HBM 대비 일반 DRAM 가격 배율이 :\n2026년 약 1.4배\n2027년 약 1.6배\n수준까지 올라갈 것으로 보고 있습니다.\"\n\n\"UBS는 **마이크론의 2027년 HBM 혼합 ASP를 전년 대비 +79%로 예상**합니다(기존 예상은 +67%). 특히 **HBM4E 가격은 GB당 약 30달러에 근접할 가능성**이 있다고 봅니다.\"\n\n\"UBS의 조사에 따르면 첫 번째 **VR300 버전은 GPU당 384GB HBM4**를 탑재할 것으로 보입니다.\n구성은 대략\n8-Hi × 24Gb × 8 × 2 die\n형태.",
+    "source": "채널:triple_stock"
+  },
+  {
+    "text": "). 특히 **HBM4E 가격은 GB당 약 30달러에 근접할 가능성**이 있다고 봅니다.\"\n\n\"UBS의 조사에 따르면 첫 번째 **VR300 버전은 GPU당 384GB HBM4**를 탑재할 것으로 보입니다.\n구성은 대략\n8-Hi × 24Gb × 8 × 2 die\n형태. 이후 **2027년 하반기에는 GPU당 512GB HBM4E로 전환**될 것으로 예상합니다.\n구성은 8-Hi × 32Gb × 8 × 2 die\n입니다.\n이는 기존 UBS의 GPU당 HBM4E 768GB 전망보다 낮아진 것입니다.\"\n\n\"DDR의 경우 2026년 3분기, 4분기 계약가격 각각 +20%QoQ\n로 보고 있습니다.\"",
     "source": "채널:triple_stock"
   },
   {
@@ -336,7 +344,15 @@
     "source": "채널:TNBfolio"
   },
   {
-    "text": "o-gallery\n\n**셔터스톡 — 美 데이터센터 건설 이미지** — 애리조나·캘리포니아·오하이오 등지의 대규모 데이터센터 철골 골격 및 외관 공사 사진 모음.\nhttps://www.shutterstock.com/search/data-center-construction **게티이미지 — 데이터센터 공사 현장** — AI·클라우드 데이터센터의 철골 프레임 조립, 크레인 작업, 골격 시공 현장 고화질 이미지.\nhttps://www.gettyimages.com/photos/data-center-construction\n\n**아이스톡 — 데이터센터 스틸 구조물 공사** — 빅테크 기업 데이터센터 건물 뼈대(철골 H빔·트러스) 시공 현장 사진.\nhttps://www.istockphoto.com/photos/data-centre-construction",
+    "text": "o-gallery\n\n**셔터스톡 — 美 데이터센터 건설 이미지** — 애리조나·캘리포니아·오하이오 등지의 대규모 데이터센터 철골 골격 및 외관 공사 사진 모음.\nhttps://www.shutterstock.com/search/data-center-construction **게티이미지 — 데이터센터 공사 현장** — AI·클라우드 데이터센터의 철골 프레임 조립, 크레인 작업, 골격 시공 현장 고화질 이미지.\nhttps://www.gettyimages.com/photos/data-center-construction\n\n**아이스톡 — 데이터센터 스틸 구조물 공사** — 빅테크 기업 데이터센터 건물 뼈대(철골 H빔·트러스) 시공 현장 사진.\nhttps://www.istockphoto.com/photos/data-centre-construction\n\n[2026-08-10 23:33] [26년 8월 10일  한국 뉴스]",
+    "source": "채널:TNBfolio"
+  },
+  {
+    "text": "구조물 공사** — 빅테크 기업 데이터센터 건물 뼈대(철골 H빔·트러스) 시공 현장 사진.\nhttps://www.istockphoto.com/photos/data-centre-construction\n\n[2026-08-10 23:33] [26년 8월 10일  한국 뉴스] 1. 美 기업들 AI 도입으로 마진 및 수익성 개선 효과\n \n2. 닛케이 지수 AI 및 반도체 중심으로 2% 반등 마감\n3. 중국 증시 경기둔화 우려 속에 혼조세로 마감\n4. 반도체업체 CXMT MSCI 편입 및 본토 시총 1위\n5. 대만 증시 美 반도체 강세 힘입어 사흘 만에 반등\n \n6. KDI 반도체 중심 경기 개선세 확대 평가 발표\n7. 리노공업과 휴젤 코스닥 1부리그 후보 상위 등극\n \n8. IEA 에너지 인프라가 미래 산업패권 좌우 전망\n9. LS일렉트릭 세계 최초 직류 공장 본격 가동 개시\n \n10. SK하이닉스 패키징 매각 후 AI 메모리 집중\n11. K-우주데이터센터 구축으로 반도체와 배터리 우주 진출\n12. 우주데이터센터 시동으로 AI반도체와 배터리 기업 확장\n13. 우주청 AI 및 ICT 기업 간담회 개최 진행\n14. 삼성전자 와이드 폴드 흥행으로 폴드8 증산 결정\n15. 미국 피지컬 AI까지 기술 봉쇄 전선 확대 추진\n16. 국내 데이터센터 시장 2029년까지 연평균 고성장 전망\n \n17. 중국 상반기 세계 휴머노이드 로봇 출하량 97% 점유\n18. 에스비비테크 모터 및 전장 M&A 추진 발표\n19. 나우로보틱스 산업용 휴머노이드 실증 과제 수주 성공\n20. 정부 피지컬 AI 구매 확대 통한 로봇 생태계 육성\n \n21. 건설업계 주택 대신 반도체와 데이터센터로 활로 모색\n22. 원전 투자 재개와 전력수요 급증에 건설사 수주 기대\n23. 중국 해운사 북극항로 최초 정기 운항 본격 시작\n24. 세아베스틸지주 내년 초 美 공장 가동으로 우주소재 공급\n25. 우주항공청 AI 및 ICT 기업의 우주산업 진입 지원\n26. 한화 KAI 지분 확대 따라 기업결합심사 신청 예정\n27. 한화와 LIG 손잡고 AI 군참모 시스템 개발 착수\n28. K조선 미래 먹거리 FDC 및 SMR 사업 본격화",
+    "source": "채널:TNBfolio"
+  },
+  {
+    "text": "美 공장 가동으로 우주소재 공급\n25. 우주항공청 AI 및 ICT 기업의 우주산업 진입 지원\n26. 한화 KAI 지분 확대 따라 기업결합심사 신청 예정\n27. 한화와 LIG 손잡고 AI 군참모 시스템 개발 착수\n28. K조선 미래 먹거리 FDC 및 SMR 사업 본격화 https://naver.me/GQGA4ZCv\n\n(전문은 링크 참조)",
     "source": "채널:TNBfolio"
   },
   {
@@ -388,7 +404,11 @@
     "source": "채널:moneybottle"
   },
   {
-    "text": "0조투자했지만8년째삽도못뜨는(이재명두번째임기중발생)상황뒤늦게나타나지만성과급은8년동안70억이정상지급되어이미대한민국은계층이전닉과그외로나뉘고FCF기적의0%로최종승자는전라도잼버리짬짜미뒤에서먹튀와전닉직원들이며모든덤탱이는주주가뒤집어쓰는시나리오로 가나요?\n\n허헛 상상만 해봤네요 😀 [2026-08-10 19:07] 마이크론보다 저렴한 이유를 알것같으면 개추\n\n정보) 마이크론은 FCF의 100%를 주주환원에 사용할 예정이다\n\n[2026-08-10 20:07] 🚀**키옥시아 일주일만에 자사주 매입 완료**\n\n총 8000억엔, 시총의 2.96%\n\n[2026-08-10 20:20] 큰일난걸수도 있음\n\n키옥시아랑 삼성전자 하이닉스는 시총이 4-5배정도 차이남\n\n시총 기준으로 비교하면 30-40조원 사는거랑 비슷하다는건데.. 그만큼 사도 주가에 티도 안난다는거\n\n자사주 바이백 100조 해도 많이 오르기는 어려울수도 있음\n\n[2026-08-10 22:00] 주주환원 FCF 50%는 너무 적다\n\n화끈하게 가보자",
+    "text": "0조투자했지만8년째삽도못뜨는(이재명두번째임기중발생)상황뒤늦게나타나지만성과급은8년동안70억이정상지급되어이미대한민국은계층이전닉과그외로나뉘고FCF기적의0%로최종승자는전라도잼버리짬짜미뒤에서먹튀와전닉직원들이며모든덤탱이는주주가뒤집어쓰는시나리오로 가나요?\n\n허헛 상상만 해봤네요 😀 [2026-08-10 19:07] 마이크론보다 저렴한 이유를 알것같으면 개추\n\n정보) 마이크론은 FCF의 100%를 주주환원에 사용할 예정이다\n\n[2026-08-10 20:07] 🚀**키옥시아 일주일만에 자사주 매입 완료**\n\n총 8000억엔, 시총의 2.96%\n\n[2026-08-10 20:20] 큰일난걸수도 있음\n\n키옥시아랑 삼성전자 하이닉스는 시총이 4-5배정도 차이남\n\n시총 기준으로 비교하면 30-40조원 사는거랑 비슷하다는건데.. 그만큼 사도 주가에 티도 안난다는거\n\n자사주 바이백 100조 해도 많이 오르기는 어려울수도 있음\n\n[2026-08-10 22:00] 주주환원 FCF 50%는 너무 적다\n\n화끈하게 가보자\n\n[2026-08-10 23:14] 모든 자산이 대폭등중 🚀🚀🚀\n\n샌디스크 마이크론 상태 좋죠\n\n새 역사를 쓰러갑시다\n\n메모리혁명수비대 여러분",
+    "source": "채널:moneybottle"
+  },
+  {
+    "text": "해도 많이 오르기는 어려울수도 있음\n\n[2026-08-10 22:00] 주주환원 FCF 50%는 너무 적다\n\n화끈하게 가보자\n\n[2026-08-10 23:14] 모든 자산이 대폭등중 🚀🚀🚀\n\n샌디스크 마이크론 상태 좋죠\n\n새 역사를 쓰러갑시다\n\n메모리혁명수비대 여러분 [2026-08-10 23:23] 하이닉스가 주주환원에 10원도 안쓰겠다 어쩔건데 식으로 나와도 300만원 전고 돌파는 식은죽먹기입니다\n\n그냥 하이닉스가 많이 올라서 잠시 내리고 싶었고\n\n여기 140만 150만 부근에서 잠시 머무르고 싶었던 것뿐\n\n시대의 흐름과 하이닉스의 체급 앞에서는 쪼개기 상장과 주주환원도 노이즈일 뿐입니다\n\n꿈을 크게 꾸십시오\n\n글로벌 스탠다드에 맞추려면 그에 상응하는 주주환원을 해야한다고요?\n\n그러지 않으면 오르기 어려울거라고요?\n\n이보쇼\n\n국장이 언제부터 그런거 따졌습니까?\n\n나스닥인지 글로벌인지 뭐 얼마나 잘나가는지 모르겠는데\n\n꼬우면 너네가 하이닉스에 와서 맞춰라 이거야\n\n뭣도 아닌놈들이 대 하이닉스에 잣대 들이밀지 말라 이겁니다\n\n회사의 주인은 주주라고?\n\n약한 자들의 핑계일 뿐..\n\n하이닉스는 그딴거 없이 1200만원 간다\n\n수고들 해라",
     "source": "채널:moneybottle"
   },
   {
@@ -569,6 +589,10 @@
   },
   {
     "text": "og.naver.com/stalk0218/224374056439\n\n[2026-08-10 17:49] https://m.blog.naver.com/tosoha1/224374131775\n\n[2026-08-10 18:32] https://youtu.be/bzFCbiXjOGo [2026-08-10 19:30] - 코스피 변동성 하락 중\n- 주봉으로는 여전히 높지만 이대로 내려와주면 좋겠다\n\n[2026-08-10 20:19] «파이낸셜타임스(FT)의 7월 23일자 '빅리드' 기사는 일본이 '잃어버린 30년'이라는 긴 터널에서 벗어난 것으로 진단하고 있습니다. 이제 한국 경제는 부활한 일본 경제와 다시 경쟁을 펼쳐야 할 지도 모르겠습니다.»\n\n→ 좋은 내용입니다. 일독을 권합니다.\n\nhttps://www.pado.kr/article/2026080712538876116\n\n[2026-08-10 20:52] *CLOUDFLARE PROPOSES PRIVATE OFFERING OF $2.175B CONV NOTES\n\n[2026-08-10 21:00] 갤럭시 폴드8 주름 수준",
+    "source": "채널:Korea_value"
+  },
+  {
+    "text": ".pado.kr/article/2026080712538876116\n\n[2026-08-10 20:52] *CLOUDFLARE PROPOSES PRIVATE OFFERING OF $2.175B CONV NOTES\n\n[2026-08-10 21:00] 갤럭시 폴드8 주름 수준 [2026-08-10 22:08] __파마리서치, 2Q26 topline beat yet margin miss, structural positives underway, Citi__\n\n[2026-08-10 22:40] 국중박 분장대회 반가사유상 님\n\n[2026-08-10 22:41] 반가사유상님 360도 수동 회전\n\n[2026-08-10 22:44] #투자 #리루\n\n투자의 기술은 좋은 기회가 없을 때는 무행동을, 기회가 발견되면 공격적인 행동을 하는 훈련입니다.",
     "source": "채널:Korea_value"
   },
   {
@@ -2736,7 +2760,11 @@
     "source": "채널:YoungTiger_stock"
   },
   {
-    "text": ", 스태콤 등 확장 가능.\n-고압/초고압 변압기 공급 부족으로 높은 가격 지불 가능성.\n-반덤핑 이슈로 지연된 국내 창원 공장의 초고압 변압기 미국 수출도 하반기부터 정상화 예상.\n-4Q26가동 예정인 퀀타 JV향 GCB 공급물량은 미반영이라 추가 상향 가능성 존재함. [2026-08-10 17:48] 실적 추이 전망/ 변압기 생산능력 전망\n\n[2026-08-10 17:54] **<비에이치아이>**\n-웨스팅하우스 IPO를 통해 자본 유입이 촉진됨에 따라 추진중인 프로젝트의 발주 등이 가속화 될 전망.\n=> 이 부분을 투자 포인트로 원전쪽 보고 있는 분들이 좀 있는 것 같습니다.\n\n[2026-08-10 17:55] 비에이치아이 연도별 실적 추이 및 전망",
+    "text": ", 스태콤 등 확장 가능.\n-고압/초고압 변압기 공급 부족으로 높은 가격 지불 가능성.\n-반덤핑 이슈로 지연된 국내 창원 공장의 초고압 변압기 미국 수출도 하반기부터 정상화 예상.\n-4Q26가동 예정인 퀀타 JV향 GCB 공급물량은 미반영이라 추가 상향 가능성 존재함. [2026-08-10 17:48] 실적 추이 전망/ 변압기 생산능력 전망\n\n[2026-08-10 17:54] **<비에이치아이>**\n-웨스팅하우스 IPO를 통해 자본 유입이 촉진됨에 따라 추진중인 프로젝트의 발주 등이 가속화 될 전망.\n=> 이 부분을 투자 포인트로 원전쪽 보고 있는 분들이 좀 있는 것 같습니다.\n\n[2026-08-10 17:55] 비에이치아이 연도별 실적 추이 및 전망\n\n[2026-08-10 23:49] <네트워크 업종>\n-IT 전력은 회계 처리와 무관하게 물리적으로 확장된다. 투자액이 아니라 실제 구축되는 용량을 봐야 한다.\n-27년에 실적 모멘텀이 집중된다. 26년의 기록적 투자와 착공 확대가 27년 매출로 전환된다.\n-멀티플이 먼저 오르고 이제 이익이 멀티플을 증명할 차례다.",
+    "source": "채널:YoungTiger_stock"
+  },
+  {
+    "text": "종>\n-IT 전력은 회계 처리와 무관하게 물리적으로 확장된다. 투자액이 아니라 실제 구축되는 용량을 봐야 한다.\n-27년에 실적 모멘텀이 집중된다. 26년의 기록적 투자와 착공 확대가 27년 매출로 전환된다.\n-멀티플이 먼저 오르고 이제 이익이 멀티플을 증명할 차례다. [2026-08-10 23:51] <HBM>\n-인터포저 워피지 현상과 접합 수율 저하의 이유로 적층 수율 저하.\n-그럼에도 HBM 수요는 급증할 전망.\n\n[2026-08-10 23:56] COWOS CAPA, HBM CAPA\n\n[2026-08-10 23:57] HBM 1위를 27년에 삼전이 탈환할 예정.",
     "source": "채널:YoungTiger_stock"
   },
   {
@@ -2852,7 +2880,39 @@
     "source": "채널:easobi"
   },
   {
-    "text": "기업에 검사 장비 2종 공급  https://w...\n\nℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.\n\n🖌 서화백의그림놀이\n✉️ https://t.me/easobi\n\n🖌 서화백의AI놀이\n✉️ https://t.me/easobi_ai 🖌 액시즈의대시보드\n✉️ https://dashboard.camelresearch.com",
+    "text": "기업에 검사 장비 2종 공급  https://w...\n\nℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.\n\n🖌 서화백의그림놀이\n✉️ https://t.me/easobi\n\n🖌 서화백의AI놀이\n✉️ https://t.me/easobi_ai 🖌 액시즈의대시보드\n✉️ https://dashboard.camelresearch.com\n\n[2026-08-10 23:11] 📝 텔레그램 심층 분석 Report (23시 11분) 기준\n\n🌡️ 센티먼트 경계 (-10)\n💡 요약 인텔의 대규모 유상증자 및 애플의 하향 전망이 시장에 부정적인 영향을 미치고 있습니다. 중동 지역의 지정학적 불확실성 (호르무즈 해협)이 시장 불안을 가중시키고 있습니다.\n\n🗣️ Top 키워드: 인텔(69), 비트코인(59), AI(51), 마이크로소프트(41), HBM(38)",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "규모 유상증자 및 애플의 하향 전망이 시장에 부정적인 영향을 미치고 있습니다. 중동 지역의 지정학적 불확실성 (호르무즈 해협)이 시장 불안을 가중시키고 있습니다.\n\n🗣️ Top 키워드: 인텔(69), 비트코인(59), AI(51), 마이크로소프트(41), HBM(38) 🔥 주목받는 종목\n📉 인텔 (-100)\n대규모 유상증자 발표로 인한 주가 하락, AI 투자 확대 위한 대규모 유상증자, 주가 하락 압력, 리포트 톤 부정으로 급변\n📈 HD현대중공업 (+100)\n9560억 발전설비, 미국 데이터센터 엔진/발전설비 대규모 수주, 지속적인 실적 성장 기대\n📈 마이크로소프트 (+95)\nAI 칩 개발 및 생산 확대 소식, 마이크로소프트는 NVDA디아 의존도를 낮추기 위해 차세대 자체 AI 가속기 Maia 300을 올가을 공, TSMC와 2027년 인도분 Maia 300 30만\n📈 Varex Imaging (+85)\n피인수 기업 가치 상승, Q3 revenue rises\n📈 TSMC (+75)\n자본 지출 600억~640억 달러로 상향 조정, 매출/자본지출 상향 조정, 7월 매출이 45% 증가\n📉 애플 (-75)\n주가 2.5% 하락, 메모리 수급 문제 및 중국산 부품 사용, 투자의견 하향 조정\n📈 엔비디아 (+60)\n주가 급등 및 시총 1위 재탈환, HBM 사양 하향·AAPL은 ‘중국산 칩’ 테스트, 비용 절감 위한 HBM 사양 하향 및 중국산 칩 테스트\n📈 Bitdeer (+50)\n생산/채굴량 대폭 증가, 비트COIN 채굴량을 거의 5배 가까이 늘렸습니다.\n📈 SK하이닉스 (+45)\n메모리 시장 슈퍼사이클 및 폭발적 성장 전망, 직원들이 경영진과의 성과급 협상력을 강화하기 위해 새로운 노동조합 설립에 나선 것으로 나타남., 예상치 상회하는 실적 (어닝 서프라이즈)\n📉 비트코인 (-40)\n가상자산 가격 급락 우려, 대규모 자산 매각, 매도/매수 포지션 혼재",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "시장 슈퍼사이클 및 폭발적 성장 전망, 직원들이 경영진과의 성과급 협상력을 강화하기 위해 새로운 노동조합 설립에 나선 것으로 나타남., 예상치 상회하는 실적 (어닝 서프라이즈)\n📉 비트코인 (-40)\n가상자산 가격 급락 우려, 대규모 자산 매각, 매도/매수 포지션 혼재 🎉 성공! 94개 채널에서 오늘 게시글 484개 수집 완료!\n\n🔥 현시점 인기 게시글 TOP 10\n\n[1위] 8,858 👁️ | 314 📤\n📺 요약하는 고잉\n📝 **블랙록 지분 5%이상 주요기업**\n🔗 https://t.me/one_going/3910\n\n[2위] 7,002 👁️ | 81 📤\n📺 요약하는 고잉\n📝 **■ 메가프로젝트 2차 점검회의 주요내용 요약  1) '메가특구특별법'...\n🔗 https://t.me/one_going/3909\n\n[3위] 5,615 👁️ | 83 📤\n📺 에테르의 일본&미국 리서치\n📝 JP모건) HD현대중공업; HHI, 두 번째 미국 AIDC 엔진 수주 확...\n🔗 https://t.me/aetherjapanresearch/24481",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "ps://t.me/one_going/3909\n\n[3위] 5,615 👁️ | 83 📤\n📺 에테르의 일본&미국 리서치\n📝 JP모건) HD현대중공업; HHI, 두 번째 미국 AIDC 엔진 수주 확...\n🔗 https://t.me/aetherjapanresearch/24481 [4위] 5,561 👁️ | 45 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 미국 바이오주는 진짜 무섭네요...;;\n🔗 https://t.me/insidertracking/60800\n\n[5위] 6,950 👁️ | 24 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 AST 스페이스모바일과 라쿠텐이 약 10억 달러 규모의 일본 J-LEO ...\n🔗 https://t.me/insidertracking/60793\n\n[6위] 5,465 👁️ | 36 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 인텔이 150억 달러 규모의 주식 발행 계획 발표.\n🔗 https://t.me/insidertracking/60792",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "me/insidertracking/60793\n\n[6위] 5,465 👁️ | 36 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 인텔이 150억 달러 규모의 주식 발행 계획 발표.\n🔗 https://t.me/insidertracking/60792 [7위] 2,318 👁️ | 62 📤\n📺 리포트 갤러리\n📝 [**키움증권**] 삼성전자전자와 HBM 서플라이 체인에 **집중하는 투...\n🔗 https://t.me/report_figure_by_offset/11729\n\n[8위] 4,457 👁️ | 39 📤\n📺 [신한 리서치본부] 제약/바이오\n📝 한올바이오파마 파트너사 이뮤노반트 52주 신고가 수준 2개월째 강하게 유...\n🔗 https://t.me/bio_shinhan/4685\n\n[9위] 6,411 👁️ | 18 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 AAPL이 다음 달 첫 폴더블 아이폰을 공개할 것으로 예상되며, 외부 5...\n🔗 https://t.me/insidertracking/60790",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "nhan/4685\n\n[9위] 6,411 👁️ | 18 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 AAPL이 다음 달 첫 폴더블 아이폰을 공개할 것으로 예상되며, 외부 5...\n🔗 https://t.me/insidertracking/60790 [10위] 6,011 👁️ | 20 📤\n📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)\n📝 SK하이SKSK하이닉스 직원들이 경영진과의 성과급 협상력을 강화하기 위해...\n🔗 https://t.me/insidertracking/60787\n\nℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.\n\n🖌 서화백의그림놀이\n✉️ https://t.me/easobi\n\n🖌 서화백의AI놀이\n✉️ https://t.me/easobi_ai\n\n🖌 액시즈의대시보드\n✉️ https://dashboard.camelresearch.com\n\n[2026-08-10 23:47] **Apple Cut at Jefferies on iPhone Worries as Sell Ratings Pile Up**",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "/easobi_ai\n\n🖌 액시즈의대시보드\n✉️ https://dashboard.camelresearch.com\n\n[2026-08-10 23:47] **Apple Cut at Jefferies on iPhone Worries as Sell Ratings Pile Up** (Bloomberg) -- Apple Inc. was downgraded to an underperform rating at Jefferies, in the latest example of growing bearishness toward the company.",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "Up** (Bloomberg) -- Apple Inc. was downgraded to an underperform rating at Jefferies, in the latest example of growing bearishness toward the company. Analyst Edison Lee is concerned about the outlook for the company's iPhone, especially Apple's ability to drive higher average selling prices (ASPs) over time.Supply-chain checks indicate that the company \"has cancelled the 20th anniversary all-glass iPhone model due to poor production yield,\" he wrote. \"This shows that introducing new form factors in the iPhone to drive higher ASP is more difficult than expected.\"",
+    "source": "채널:easobi"
+  },
+  {
+    "text": "to poor production yield,\" he wrote. \"This shows that introducing new form factors in the iPhone to drive higher ASP is more difficult than expected.\" https://finance.yahoo.com/markets/stocks/articles/apple-cut-jefferies-iphone-worries-115949846.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJfHNEgWpUBnuwt22JcoZHzcPQMIqCaFJsRH5mdBsOC21EL_WMUVFY65mwutSPgUaKUwilzzNOa4R2oL3_r7k4tAAhFkK6HR4OhEzqErso6jXTke7RNYXv6drsiED2OVefjpROHKNsbbY2O6M1G4o9KjyxkUYzaHXFvTxcmZsESM",
     "source": "채널:easobi"
   },
   {
@@ -3004,7 +3064,15 @@
     "source": "채널:jusikstagram"
   },
   {
-    "text": "갈지는 아직 모름.\n\n[2026-08-10 15:26] 美 국채금리 정점 찍었나...버크셔, 3년만에 주식 매수\n\nhttps://www.hankyung.com/article/2026081045015\n\n[2026-08-10 16:21] [SK증권 반도체 한동희, 손 건] **1. 메모리 3사 12MF P/E 업데이트 (08/10)**\n삼성전자 4.0X\nSK하이닉스 3.5X\n* SK증권 추정치 기준\n\n마이크론 6.1X \nCXMT 21.0X\n* Bloomberg consensus 기준\n\n**2. SK하이닉스 본주 & ADR 간 괴리율: 36.6%**\n\nSK증권 리서치 IT팀 채널 : \nhttps://t.me/skitteam",
+    "text": "갈지는 아직 모름.\n\n[2026-08-10 15:26] 美 국채금리 정점 찍었나...버크셔, 3년만에 주식 매수\n\nhttps://www.hankyung.com/article/2026081045015\n\n[2026-08-10 16:21] [SK증권 반도체 한동희, 손 건] **1. 메모리 3사 12MF P/E 업데이트 (08/10)**\n삼성전자 4.0X\nSK하이닉스 3.5X\n* SK증권 추정치 기준\n\n마이크론 6.1X \nCXMT 21.0X\n* Bloomberg consensus 기준\n\n**2. SK하이닉스 본주 & ADR 간 괴리율: 36.6%**\n\nSK증권 리서치 IT팀 채널 : \nhttps://t.me/skitteam\n\n[2026-08-10 23:24] #메모리\n\n6월부터 대형사들 AI 토큰 사용량 통제하기 시작하면서 서서히 조정 나타남\n\n하지만 빅테크 CAPEX 투자 멈추지 않을 것\n\n투자에 필요한 자금 공급자는 멈출 수 있음\n\n그래서 국채금리가 중요\n\n오라클 CDS 프리미엄도 금리 오를때 비슷하게 올라갔었음\n\n8월 고용지표 (9월 발표) 약하게 나올 것으로 생각. 이렇게되면 9월 FOMC 금리 인상 확률 낮아지면서 부담 완화",
+    "source": "채널:jusikstagram"
+  },
+  {
+    "text": "투자 멈추지 않을 것\n\n투자에 필요한 자금 공급자는 멈출 수 있음\n\n그래서 국채금리가 중요\n\n오라클 CDS 프리미엄도 금리 오를때 비슷하게 올라갔었음\n\n8월 고용지표 (9월 발표) 약하게 나올 것으로 생각. 이렇게되면 9월 FOMC 금리 인상 확률 낮아지면서 부담 완화 이번주 CPI도 시간당 임금지표 보면 인상할정도로 과하게 나올 가능성은 낮음\n\nhttps://www.youtube.com/watch?v=wEnMi8VoF3s\n\n[2026-08-10 23:25] #메모리\n\nISM제조업지수 이번에 서프 나옴. 코스피 지수도 비슷하게 따라갔었음.\n\n빨간 박스, 화살표는 제가 직접 표시한겁니다.\n\nhttps://www.youtube.com/watch?v=wEnMi8VoF3s\n\n[2026-08-10 23:28] #메모리\n\n50일 이격도 매우 심하게 발생 중\n\n25년 4월에도 크게 조정 받았었는데, 이거 대비해서 이격도 상당히 벌어짐\n\nhttps://www.youtube.com/watch?v=wEnMi8VoF3s\n\n[2026-08-10 23:34] 낸드 가격이 8월초 예상과 달리 반등이 나옴.\n\n[2026-08-10 23:50] #미증시\n\n전반적으로 보합",
+    "source": "채널:jusikstagram"
+  },
+  {
+    "text": "었는데, 이거 대비해서 이격도 상당히 벌어짐\n\nhttps://www.youtube.com/watch?v=wEnMi8VoF3s\n\n[2026-08-10 23:34] 낸드 가격이 8월초 예상과 달리 반등이 나옴.\n\n[2026-08-10 23:50] #미증시\n\n전반적으로 보합 SW쪽 팔란티어 및 보안주 +4%\n정유, 빅테크(마소, 메타) +2~3%",
     "source": "채널:jusikstagram"
   },
   {
@@ -3065,6 +3133,22 @@
   },
   {
     "text": "16%, 열저항 특성 14% 이상 개선, 1c D램 + 삼성 파운드리 4nm 로직 베이스 다이 조합 유지, 양산은 고객사 일정에 맞춰 진행\n- SK하이닉스는 6월 12단 HBM4E 샘플로 대응, 핀당 최대 16Gbps에 Advanced MR-MUF로 열저항 17% 감소 * 체크 포인트\n- 양사 병행 램프업으로 경쟁 기준이 성능 스펙 단독에서 생산 수율, 가용 캐파, 대량 공급 신뢰성으로 이동하는 중\n- 삼성의 수율 개선이 예상보다 빠르다는 점은 하반기 HBM 점유율 재편 가능성을 시사\n- 화성 유휴 클린룸 전환과 평택 P4 1c 증설은 장비 발주로 즉시 연결되는 변수\n- 칩 부족이 2028년까지 이어진다는 전망은 메모리 가격 사이클의 지속 기간에 대한 시각을 바꾸는 요인\n\n**HBM 경쟁의 승부처가 스펙과 수율에서 캐파와 공급 신뢰성으로 넘어가는 국면, 하반기 점유율 재편의 관전 포인트는 누가 더 빨리 물량을 확보하느냐임.**\n\nhttps://t.me/alphasignal_now",
+    "source": "채널:alphasignal_now"
+  },
+  {
+    "text": "모리 가격 사이클의 지속 기간에 대한 시각을 바꾸는 요인\n\n**HBM 경쟁의 승부처가 스펙과 수율에서 캐파와 공급 신뢰성으로 넘어가는 국면, 하반기 점유율 재편의 관전 포인트는 누가 더 빨리 물량을 확보하느냐임.**\n\nhttps://t.me/alphasignal_now [2026-08-10 22:20] **엔비디아 GPU가 소프트웨어만으로 초저지연 추론 영역에 진입하며 Groq·세레브라스 등 전용칩의 TAM을 위협하는 구도 형성 (SemiAnalysis, 2026-08-10)**\n\n* 프리미엄 '패스트 모드'가 만든 수요\n- 더 낮은 지연과 빠른 토큰 생성에 추가 요금을 지불하는 사용자가 확인되며 고마진 구조 가능성 부각\n- OpenAI 등 프런티어 랩이 세레브라스·엔비디아 Groq LPU 등 초고 인터랙티비티 특화 추론 시스템을 검토 중\n- 실시간 어시스턴트, 풀듀플렉스 음성(GPT-Live 등 동시 청취·발화) 워크로드에서 응답 지연이 즉각 체감되는 점이 핵심 수요 근거",
+    "source": "채널:alphasignal_now"
+  },
+  {
+    "text": "가능성 부각\n- OpenAI 등 프런티어 랩이 세레브라스·엔비디아 Groq LPU 등 초고 인터랙티비티 특화 추론 시스템을 검토 중\n- 실시간 어시스턴트, 풀듀플렉스 음성(GPT-Live 등 동시 청취·발화) 워크로드에서 응답 지연이 즉각 체감되는 점이 핵심 수요 근거 * GPU의 한계는 대역폭이 아니라 레이턴시\n- 8-GPU HGX B200 기준 이론 HBM 대역폭 합계 64TB/s, 배치사이즈 1에서 GLM-5(NVFP4)는 토큰당 약 21GB 활성 파라미터 트래픽만 요구\n- 루프라인상 최대 3,047 tokens/s/user까지 가능하나 실제 성능은 이에 크게 미달하는 상태\n- 다수 커널을 개별 실행·동기화하는 전통적 GPU 프로그래밍 모델의 셋업·티어다운 오버헤드가 원인, CUDA 그래프로도 sub-ms TPOT 구간에서는 해소되지 않음\n- 세대별 메모리 대역폭은 2~3배씩 증가했으나 메모리 레이턴시는 전혀 개선되지 않은 점이 구조적 병목",
+    "source": "채널:alphasignal_now"
+  },
+  {
+    "text": "다수 커널을 개별 실행·동기화하는 전통적 GPU 프로그래밍 모델의 셋업·티어다운 오버헤드가 원인, CUDA 그래프로도 sub-ms TPOT 구간에서는 해소되지 않음\n- 세대별 메모리 대역폭은 2~3배씩 증가했으나 메모리 레이턴시는 전혀 개선되지 않은 점이 구조적 병목 * TileRT 퍼시스턴트 엔진\n- 디코드 그래프 전체를 단일 퍼시스턴트 커널로 정적 컴파일해 연산·메모리 로드/스토어·통신의 오버랩을 극대화\n- InferenceX GLM5 FP8 744B 벤치마크(B200 디코드 서버 1대)에서 최대 500 tokens/s/user 검증, 전통 엔진 구동 GB300 NVL72 대비 약 3배 수준\n- 출력 토큰당 동일 비용 기준으로는 최대 2배 빠른 인터랙티비티 확보\n- TileLang DSL을 만든 커뮤니티 조직에서 개발, vLLM V1 커넥터 설계를 기반으로 구성\n\n* PD 디스에그리게이션과 실사용 사례\n- 지연 민감한 디코드는 TileRT가, 스루풋 중심 프리필은 vLLM·SGLang이 담당하는 분업 구조\n- 샤오미 MiMo V2.5 Pro UltraSpeed, ZAI GLM 5.1 HighSpeed에 이미 프로덕션 적용된 상태",
+    "source": "채널:alphasignal_now"
+  },
+  {
+    "text": "* PD 디스에그리게이션과 실사용 사례\n- 지연 민감한 디코드는 TileRT가, 스루풋 중심 프리필은 vLLM·SGLang이 담당하는 분업 구조\n- 샤오미 MiMo V2.5 Pro UltraSpeed, ZAI GLM 5.1 HighSpeed에 이미 프로덕션 적용된 상태 * 투자 포인트\n- 범용 GPU가 소프트웨어 레이어만으로 초저지연 구간을 커버할 경우 Groq LPU·세레브라스·삼바노바 등 전용칩 TAM 잠식 가능성\n- 역으로 엔비디아 생태계의 소프트웨어 해자가 재확인되는 구도, 전용칩 진영은 가격·전력 효율 외 차별점 입증 부담 확대\n- **메모리 관점에서는 대역폭이 아닌 레이턴시가 차세대 경쟁 변수로 부상**\n\n**추론 경쟁의 축이 대역폭에서 레이턴시로, 하드웨어에서 컴파일러·커널 소프트웨어로 이동하는 국면**\n\nhttps://t.me/alphasignal_now",
     "source": "채널:alphasignal_now"
   },
   {
@@ -3884,7 +3968,51 @@
     "source": "채널:getfeed"
   },
   {
-    "text": "러 이상을 차지한다.\nThe world’s 40 most valuable food commodities generate $4.3 trillion combined, with five meat commodities accounting for over $1 trillion. [📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/ranked-the-worlds-most-valuable-food-commodities/)",
+    "text": "러 이상을 차지한다.\nThe world’s 40 most valuable food commodities generate $4.3 trillion combined, with five meat commodities accounting for over $1 trillion. [📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/ranked-the-worlds-most-valuable-food-commodities/)\n\n[2026-08-10 22:15] **인텔 주가 하락 지속, 최대 5.3% 급락**\n\nINTEL SHARES EXTEND LOSSES TO DROP AS MUCH AS 5.3%\n\n인텔의 주가 급락은 반도체 업계의 전반적인 투자 심리 위축과 경쟁 심화를 반영하며, AI 칩 시장에서의 점유율 변화가 투자자들의 우려를 키우고 있다.\n\n#인텔 #주가하락 #반도체 #AI칩 #투자심리\n\n(Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015748))",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "심화를 반영하며, AI 칩 시장에서의 점유율 변화가 투자자들의 우려를 키우고 있다.\n\n#인텔 #주가하락 #반도체 #AI칩 #투자심리\n\n(Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015748)) [2026-08-10 22:15] **MS, 자체 AI 칩 개발 속도... 초기 부진 딛고 성과 가시화 (The Information)**\n\nMICROSOFT’S HOMEGROWN AI CHIP EFFORT SHOWS SIGNS OF LIFE AFTER SLOW START - INFORMATION\n\n빅테크 기업들의 자체 칩 개발은 AI 반도체 시장에서 엔비디아의 독점적 지위에 도전하는 움직임으로, 장기적으로 AI 인프라 비용 구조와 공급망 지형을 바꿀 수 있는 변수다.\n\n#마이크로소프트 #AI칩 #엔비디아 #반도체 #AI인프라\n\n(Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015750))\n\n[2026-08-10 22:15] **호르무즈 해협 통행량 주말 급감, 확인 통과 선박 15척 → 6척",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "디아 #반도체 #AI인프라\n\n(Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015750))\n\n[2026-08-10 22:15] **호르무즈 해협 통행량 주말 급감, 확인 통과 선박 15척 → 6척 이란과 오만이 항행 협정에 근접했다는 징후에도 불구하고, 호르무즈 해협의 통행량은 주말 동안 더욱 악화됐다. Kpler에 따르면 확인된 통과 선박 수는 금요일 15척에서 토요일 11척, 일요일 6척으로 감소했다. 이는 전 세계 원유의 약 5분의 1이 통과하는 전략적 수로의 교란으로 에너지 시장에 심각한 영향을 미치고 있다.**\n\nHORMUZ SHIPPING TRAFFIC WEAKENS FURTHER\n\nTRAFFIC THROUGH THE STRAIT OF HORMUZ DETERIORATED OVER THE WEEKEND DESPITE SIGNS THAT IRAN AND OMAN ARE NEARING A NAVIGATION AGREEMENT, ACCORDING TO KPLER.",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "IC THROUGH THE STRAIT OF HORMUZ DETERIORATED OVER THE WEEKEND DESPITE SIGNS THAT IRAN AND OMAN ARE NEARING A NAVIGATION AGREEMENT, ACCORDING TO KPLER. CONFIRMED CROSSINGS FELL FROM 15 ON FRIDAY TO 11 ON SATURDAY AND JUST SIX ON SUNDAY.\n\nTHE DISRUPTION REMAINS CRITICAL FOR ENERGY MARKETS, WITH ROUGHLY ONE-FIFTH OF GLOBAL CRUDE OIL TYPICALLY PASSING THROUGH THE STRATEGIC WATERWAY.\n\n이란과 오만의 협상 시그널에도 불구하고 해협 통행량이 급감한 것은 지정학적 리스크가 실제 해상 물류에 즉각 반영되고 있음을 보여준다. 이는 중동 지역의 긴장 고조가 에너지 공급망의 취약성을 다시 한번 부각시키는 동시에, 단기간 내 해협 안정화가 이뤄지지 않을 경우 글로벌 원유 가격 상승 압력으로 이어질 수 있음을 시사한다.\n\n#호르무즈해협 #원유 #에너지시장 #중동정세 #Kpler",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "있음을 보여준다. 이는 중동 지역의 긴장 고조가 에너지 공급망의 취약성을 다시 한번 부각시키는 동시에, 단기간 내 해협 안정화가 이뤄지지 않을 경우 글로벌 원유 가격 상승 압력으로 이어질 수 있음을 시사한다.\n\n#호르무즈해협 #원유 #에너지시장 #중동정세 #Kpler (Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015760))\n\n[2026-08-10 22:22] 주식 다마고치\n\n주식 다마고치\n\n#깡토 #love392722\n\n[📜📜📜**본문보기**📜📜📜](https://blog.naver.com/love392722/224374429743)\n\n[2026-08-10 22:25] 뭔가를 시작하는데 필요한 건,\n\n📝 핵심적 본문 요약\n박완서 작가는 40세에 첫 소설 '나목'으로 등단했다. 그전에는 아이 다섯을 키우는 전업주부였다. 소설가가 되려는 꿈이 없었지만, 박수근 화백의 유작전을 보고 그의 삶을 기록하려는 글쓰기가 소설이 되었다. 등단 후 40여 년간 왕성하게 활동했다. 시작이 늦었지만 그전의 시간이 작품의 바탕이 되었다.\n\n#고잉투더문 #going_tothe_moon",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "키우는 전업주부였다. 소설가가 되려는 꿈이 없었지만, 박수근 화백의 유작전을 보고 그의 삶을 기록하려는 글쓰기가 소설이 되었다. 등단 후 40여 년간 왕성하게 활동했다. 시작이 늦었지만 그전의 시간이 작품의 바탕이 되었다.\n\n#고잉투더문 #going_tothe_moon [📜📜📜**원문보기**📜📜📜](https://blog.naver.com/going_tothe_moon/224374447060)\n\n✨(In)sight\n박완서 작가의 사례는 늦은 시작이 오히려 독특한 경쟁력이 될 수 있음을 보여준다. 전업주부로 보낸 시간은 단순한 공백이 아니라 작품의 소재와 깊이를 형성한 자산이었다. 이는 창작뿐 아니라 기업의 성장 경로에도 시사점을 준다. 즉, 초기에는 비전문가로 보이던 경력이 혁신의 원천이 될 수 있다. 최근 시장에서도 비전통적 배경의 창업자나 기업이 두각을 나타내는 사례가 늘고 있다. 이는 표면적 성과보다 근본적 역량의 가치를 재평가하게 한다.\n\n#박완서 #늦깎이등단 #나목 #전업주부 #성공사례\n\n※우라가 오지 않으면 그것은 인사이트가 아니다.\n\n※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "있다. 이는 표면적 성과보다 근본적 역량의 가치를 재평가하게 한다.\n\n#박완서 #늦깎이등단 #나목 #전업주부 #성공사례\n\n※우라가 오지 않으면 그것은 인사이트가 아니다.\n\n※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※ [2026-08-10 22:55] **이란, 호르무즈 해협 전쟁 전 조건 복귀 불가 선언…이란·오만 합의 경로만 인정 (이란 국영매체)\n\n이란 부의장 알리 닉자드가 호르무즈 해협 재개방에 군사적 해법은 없다고 못 박고, 이란과 오만이 합의한 통행로만 인정한다고 밝혔다. 테헤란은 자국 군이 지정한 경로만 따라야 한다는 기존 입장을 재확인했다. 이는 미국의 군사 압박에도 불구하고 해협 통제권을 협상 카드로 유지하려는 의도로 풀이된다.**\n\nIRAN SAYS HORMUZ WON’T RETURN TO PRE-WAR CONDITIONS\n\nIRAN SAYS THE STRAIT OF HORMUZ WILL NOT RETURN TO ITS PRE-WAR OPERATING CONDITIONS, REINFORCING ITS STANCE OVER THE CRITICAL SHIPPING ROUTE.",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "NDITIONS\n\nIRAN SAYS THE STRAIT OF HORMUZ WILL NOT RETURN TO ITS PRE-WAR OPERATING CONDITIONS, REINFORCING ITS STANCE OVER THE CRITICAL SHIPPING ROUTE. DEPUTY PARLIAMENT SPEAKER ALI NIKZAD SAID THERE IS NO MILITARY SOLUTION TO REOPENING THE STRAIT AND THAT ONLY ROUTES AGREED BY IRAN AND OMAN WILL BE RECOGNIZED.\n\nTEHRAN MAINTAINS THAT VESSELS MUST FOLLOW THE PASSAGE DESIGNATED BY IRAN’S ARMED FORCES.\n\n이란은 호르무즈 해협을 단순한 에너지 수송로가 아닌 지정학적 압박 수단으로 활용하며, 미국과의 협상에서 우위를 점하려는 전략을 고수하고 있다. 오만과의 합의 경로만 인정하겠다는 발언은 역내 중재국을 활용한 외교적 포석으로, 미국의 일방적 재개방 요구에 대한 거부 의사를 분명히 한 것이다.\n\n#호르무즈해협 #이란 #미국 #중동정세 #오만",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "단으로 활용하며, 미국과의 협상에서 우위를 점하려는 전략을 고수하고 있다. 오만과의 합의 경로만 인정하겠다는 발언은 역내 중재국을 활용한 외교적 포석으로, 미국의 일방적 재개방 요구에 대한 거부 의사를 분명히 한 것이다.\n\n#호르무즈해협 #이란 #미국 #중동정세 #오만 (Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1015772))\n\n[2026-08-10 23:08] 빅테크가 텍사스로 달려가는 이유: AI 데이터 센터의 새로운 성지\n\n📝 핵심적 본문 요약\n미국 전역에서 AI 데이터 센터 건설에 대한 주민 반대가 심화되는 가운데, 텍사스 퍼미안 분지의 대형 토지 보유 기업들이 새로운 수혜주로 부상하고 있다. Texas Pacific Land, LandBridge, EagleRock 등은 기존 석유·가스 시추 기반 수익 구조에서 AI 데이터 센터 토지 임대, 수자원 및 건설 자재 판매로 사업을 다각화하고 있다. 낮은 인구 밀도와 풍부한 전력·수자원, 기업 친화적 규제 환경을 갖춘 퍼미안 분지는 데이터 센터 입지로 각광받으며, 이들 기업의 주가가 급등하고 있다.",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "유·가스 시추 기반 수익 구조에서 AI 데이터 센터 토지 임대, 수자원 및 건설 자재 판매로 사업을 다각화하고 있다. 낮은 인구 밀도와 풍부한 전력·수자원, 기업 친화적 규제 환경을 갖춘 퍼미안 분지는 데이터 센터 입지로 각광받으며, 이들 기업의 주가가 급등하고 있다. #energyinfo #energyinfo\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/energyinfo/224374478522)\n\n✨(In)sight\nAI 데이터 센터 건설 붐은 전력과 부지 부족 문제를 야기하며, NIMBY 현상으로 인해 규제가 적고 인프라가 풍부한 텍사스 퍼미안 분지로 수요가 집중되고 있다. 전통적 석유 기업 대비 자본 지출 부담이 적은 토지 임대 및 자원 판매 모델의 토지 보유 기업들은 높은 영업 레버리지를 활용해 수익성을 극대화할 잠재력을 지닌다. TPL, LB, EROK은 풍부한 토지와 수자원을 기반으로 데이터 센터 개발사에 필수적인 인프라를 제공하며, 셰브런과 마이크로소프트의 대규모 전력 공급 계약 등이 실적 성장을 견인할 전망이다.\n\n#AI데이터센터 #퍼미안분지 #토지투자 #TexasPacificLand #에너지인프라",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "B, EROK은 풍부한 토지와 수자원을 기반으로 데이터 센터 개발사에 필수적인 인프라를 제공하며, 셰브런과 마이크로소프트의 대규모 전력 공급 계약 등이 실적 성장을 견인할 전망이다.\n\n#AI데이터센터 #퍼미안분지 #토지투자 #TexasPacificLand #에너지인프라 ※우라가 오지 않으면 그것은 인사이트가 아니다.\n\n※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※\n\n[2026-08-10 23:15] 8월 매매전략 시장 트랜드 읽기\n\n📝 핵심적 본문 요약\n현재 국내 증시는 코스피 박스권과 코스닥 상승장이 대세를 이루고 있다. 시장 자금은 재료가 있는 테마로 몰리며 급등과 급락이 반복된다. 이러한 흐름에 맞춰 단기 매매 전략이 필요하며, 대형주보다는 코스닥 중심의 접근이 유효하다.\n\n#최고이고싶다 #qowoals119\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/qowoals119/224374496865)",
+    "source": "채널:getfeed"
+  },
+  {
+    "text": "과 급락이 반복된다. 이러한 흐름에 맞춰 단기 매매 전략이 필요하며, 대형주보다는 코스닥 중심의 접근이 유효하다.\n\n#최고이고싶다 #qowoals119\n\n[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/qowoals119/224374496865) ✨(In)sight\n코스피가 박스권에 머무는 동안 코스닥 지수는 사상 최고치를 경신하며 시장의 유동성이 중소형주와 테마주로 집중되는 모습이다. 이는 삼성전자와 SK하이닉스 등 대형주의 수급이 정체된 반면, 개인 투자자들이 단기 재료에 기반한 종목을 적극적으로 매수한 결과로 분석된다. 특히 마녀공장의 실적 발표를 앞두고 기대감이 형성되었고, 한화엔진과 엘앤에프는 급등 후 급락하는 모습을 보였다. 이러한 흐름은 실적보다는 기대감에 의한 것으로, 강한 테마 장세의 전형적인 특징이다. 따라서 현재 시장은 펀더멘털보다는 심리적 요인이 지배하고 있으며, 이에 따른 변동성 확대가 불가피하다.\n\n#코스닥 #테마주 #단기매매 #실적발표 #인버스\n\n※우라가 오지 않으면 그것은 인사이트가 아니다.\n\n※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※",
     "source": "채널:getfeed"
   },
   {

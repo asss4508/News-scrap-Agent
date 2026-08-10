@@ -111,3 +111,81 @@ KATSEYE × Buldak
 달러자산 사들이는 구간.
 
 이유는 아시죠?
+
+[2026-08-10 14:28] https://n.news.naver.com/article/008/0005397780
+
+[2026-08-10 14:51] https://n.news.naver.com/article/119/0003120048?ntype=RANKING
+
+11월에 스페이스X 보면 되나요
+
+"아직 실현되지 않은 예언 중 가장 구체적인 내용은 외계 생명체와의 접촉이다. **오는 11월** 거대한 우주선이 지구 대기권에 진입해 인류가 외계 생명체와 처음 접촉한다는 내용이다"
+
+#미국주식 #스페이스X
+
+[2026-08-10 15:26] 하이닉스 빙고판 새로 뜸
+
+[2026-08-10 15:44] 국장 투자자분들 수고많으셨습니다.
+이제 미장 준비하겠습니다.
+
+[2026-08-10 15:46] https://youtu.be/ALmGADaL5Kk?si=ssH8qQJCJ2ldC_yj
+
+잠시 노래 감상하시며 준비하시죠.
+
+#음악 #가슴이차가운남자
+
+[2026-08-10 15:47] **🛞 구글 AI 수장 교체, ‘연구자’ 카부쿠오글루가 Gemini 실행 총괄**
+
+**1. 데미스 하사비스에서 코레이 카부쿠오글루로 운영 리더십 이동**
+① 데미스 하사비스가 Google DeepMind의 일상적인 경영에서 물러나 **Google DeepMind Chair 및 Alphabet Chief Scientist**로 이동하며 AGI·과학 연구 등 장기 전략에 집중하는 구조
+② 기존 CTO이자 Google Chief AI Architect였던 **코레이 카부쿠오글루가 Senior VP로 승진해 Gemini 모델 개발·AI 연구·Gemini 앱 및 개발자 조직을 실질적으로 총괄하는 구조**
+③ 카부쿠오글루가 Sundar Pichai CEO에게 직접 보고하면서 Google AI의 연구부터 제품화까지 실행 책임을 맡게 된 모습 ([Google](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum))
+
+**2. DeepMind 초기부터 AI 핵심 기술을 개발한 연구자**
+① 카부쿠오글루는 NYU에서 AI 석학 Yann LeCun의 지도를 받은 AI 연구자로, 2012년 DeepMind에 합류해 10년 넘게 핵심 연구를 담당한 인물
+② DeepMind의 딥러닝팀을 창설하고 강화학습의 대표적 돌파구인 DQN(Deep Q-Network)과 음성 생성 모델 WaveNet 등의 개발을 주도한 경력
+③ 이후 VP of Research와 CTO를 거쳐 Google Chief AI Architect까지 승진하며 연구뿐 아니라 Gemini를 Google 제품에 적용하는 역할까지 확대해온 인물 ([Google](https://blog.google/authors/koray-kavukcuoglu/))
+
+**3. 구글의 선택 배경은 ‘연구 → 제품화·실행’ 가속**
+① Google이 Gemini 기술력을 확보한 이후 경쟁의 무게중심이 순수 모델 성능에서 **AI 에이전트·코딩·제품 통합·수익화 속도**로 빠르게 이동하는 상황
+② 특히 Anthropic이 AI 코딩 시장에서 앞서가면서 Google이 별도 전담팀까지 구성했고, 카부쿠오글루와 Sergey Brin이 직접 관여할 정도로 실행 속도를 높이는 중
+③ 카부쿠오글루가 이미 Google 전체 제품에 Gemini를 확산시키는 Chief AI Architect 역할을 맡아온 만큼, 하사비스는 장기 AGI 연구에 집중시키고 카부쿠오글루에게 실행 조직을 맡기는 것이 Google의 AI 상용화 속도를 높이기 위한 선택으로 해석되는 모습 ([The Information](https://www.theinformation.com/articles/google-creates-strike-team-improve-coding-models?offer=ab-25&))
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
+
+[2026-08-10 15:47] **🛞 Alphabet, 최대 250억 달러 회사채 발행으로 AI 투자 재원 확대**
+
+**1. 미국 회사채 시장에서 최대 250억 달러 추가 조달**
+① Alphabet이 미국 회사채 시장에서 **200억~250억 달러 규모의 신규 채권 발행**을 추진하며 올해 대규모 자금조달을 지속하는 모습
+② 이번 발행은 만기 2년부터 최대 40년까지 약 10개 트랜치로 구성될 예정으로 장단기 자금을 동시에 확보하려는 구조
+③ Alphabet의 2026년 글로벌 회사채 조달액이 이미 500억 달러를 넘어선 가운데 AI 인프라 투자에 필요한 장기 자금을 선제적으로 확보하는 흐름 ([Reuters](https://www.reuters.com/business/alphabet-seeks-up-25-billion-its-latest-bond-sale-bloomberg-news-reports-2026-08-06))
+
+**2. AI CapEx 급증으로 현금만으로는 투자 부담이 커진 상황**
+① Alphabet이 2026년 CapEx 전망을 최대 2,050억 달러까지 높이며 데이터센터·서버·네트워크·AI 인프라 투자를 대폭 확대하는 중
+② 2분기 CapEx만 약 449억 달러를 집행하면서 사상 처음으로 분기 잉여현금흐름이 약 -59억 달러로 마이너스 전환한 모습
+③ Google Cloud 매출이 전년 대비 82% 증가할 정도로 수요는 강하지만, AI 인프라 구축 속도가 영업현금흐름 증가보다 빨라지면서 외부 자금조달 필요성이 커진 상황 ([Reuters](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/))
+
+**3. AI 투자 리스크가 ‘실적’에서 ‘현금흐름·재무구조’로 이동**
+① Alphabet은 여전히 막대한 현금창출력과 높은 신용도를 보유하고 있어 당장의 채무상환 위험은 매우 낮은 수준
+② 다만 AI 투자 확대에 따라 Alphabet·Amazon·Meta 등 하이퍼스케일러의 회사채 발행이 급증하면서 시장에서는 AI 투자 수익률과 부채 증가를 함께 보기 시작한 모습
+③ 앞으로는 EPS 성장보다 **AI CapEx가 얼마나 빠르게 Cloud·Gemini 매출과 잉여현금흐름으로 회수되는지**가 Alphabet의 밸류에이션을 결정하는 핵심 변수로 부상하는 흐름 ([Reuters](https://www.reuters.com/business/finance/ai-debt-sales-reshape-global-corporate-bond-markets-2026-06-01/))
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
+
+[2026-08-10 15:47] **🛞 Tesla·SpaceX, 168억 달러 규모 ‘Terafab’으로 AI 반도체 수직계열화**
+
+**1. 텍사스에 초대형 AI 반도체 단지 건설**
+① Tesla와 SpaceX가 텍사스 Grimes County에 **초기 투자금 168억 달러 규모의 Terafab 반도체 단지**를 공동 건설할 계획
+② 전체 부지는 약 1억 제곱피트 규모로, 장기적으로 완전 확장 시 총 투자액이 약 1,190억 달러까지 늘어날 가능성
+③ 최소 3,000개의 고임금 일자리를 창출하며 텍사스를 Musk 생태계의 핵심 제조 거점으로 확대하는 계획 ([Reuters](https://www.reuters.com/business/media-telecom/spacex-says-terafab-be-built-texas-with-initial-investment-168-billion-2026-08-06))
+
+**2. Tesla·SpaceX가 필요한 1TW 이상 AI 연산능력 자체 확보**
+① Terafab은 Tesla의 Cybercab·Optimus와 SpaceX의 우주 기반 데이터센터에 필요한 AI 반도체 공급을 목표로 하는 시설
+② Musk는 향후 Tesla와 SpaceX가 필요로 하는 반도체 수요가 현재 글로벌 공급능력을 크게 웃돌 것으로 예상하며 **연간 1TW 이상의 AI 연산능력 확보**를 목표로 제시
+③ 외부 파운드리의 증설 속도만으로 향후 수요를 충족하기 어렵다는 판단 아래 자체 공급능력을 구축하려는 전략
+
+**3. 설계·생산·메모리·패키징까지 한곳에 모으는 수직계열화**
+① Terafab은 일반적인 반도체 공장과 달리 **로직 반도체·메모리·첨단 패키징·테스트 등 여러 생산 단계를 한 캠퍼스에 통합**하는 구조
+② 여러 국가와 공급업체에 분산된 기존 반도체 공급망을 줄여 개발 속도와 생산 효율성을 높이고 공급망 병목 위험을 낮추려는 목적
+③ Tesla 입장에서는 차량과 Optimus의 AI 추론 칩을 자체적으로 확보하고, SpaceX는 우주 데이터센터용 반도체까지 공급받을 수 있어 Musk 생태계 전체의 반도체 자립도를 높이는 전략
+
+#트래킹 #미국주식 #테슬라 #TSLA

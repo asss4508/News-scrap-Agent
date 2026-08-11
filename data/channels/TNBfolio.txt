@@ -79,3 +79,7 @@ https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach
 
 공시링크 : https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811800697
 회사정보 : https://finance.naver.com/item/main.naver?code=009450
+
+[2026-08-11 18:40] 코스피 신용잔고
+
+[2026-08-11 18:40] 코스닥 신용잔고

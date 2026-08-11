@@ -6,3 +6,36 @@
 - 이번 사업은 그동안 빠른 감가상각 자산으로 분류되던 GPU를 담보 대출이 가능한 장기 금융 자산군으로 전환하려는 시도다.
 - Larry Fink BlackRock CEO는 이번 이니셔티브를 1970년대 주택담보증권 출범에 비견되는 금융공학의 새로운 미래라고 평가했다.
 https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
+
+[2026-08-11 08:48] 글로벌 휴머노이드 출하량, 2026년 상반기 급증세 기록 - azernews
+(by https://t.me/TNBfolio)
+- 2026년 상반기 글로벌 인간형 로봇 출하량이 19,100대를 기록하며 전년 동기 5,100대 대비 3배 이상 증가했다.
+- 중국 제조업체들이 생산 능력을 확장하고 정부 지원에 힘입어 전체 출하량의 97% 이상을 점유했다.
+- Agibot이 8,400대로 출하량 1위를 기록했으며 Unitree Robotics가 5,900대, Galbot이 900대로 뒤를 이었다.
+- 전체 출하 물량의 70% 이상이 생산, 물류, 창고 등 산업 및 상업용 목적으로 구매되었다.
+- SAG는 올해 전체 출하량이 60,000대에 달하고 2030년에는 연간 50,0000대 규모까지 성장할 것으로 전망했다.
+https://www.azernews.az/region/262214.html
+
+[2026-08-11 09:10] **브루크필드 CEO 플랫 "AI 인프라 구축, 수요 소화에 턱없이 부족"**
+월가 주요 CEO 및 엔비디아 젠슨 황, 5000억 달러 규모 AI 인프라 투자 논의
+
+
+**OVERVIEW
+
+글로벌 AI 백본 인프라 확장과 펀딩 구조 혁신**
+브루크필드 자산운용의 브루스 플랫 CEO는 CNBC 방송에 출연해 젠슨 황 엔비디아 CEO 등이 논의 중인 5,000억 달러 규모의 AI 인프라 투쟁에 대해 견해를 밝혔다. 플랫 CEO는 자본 과잉 공급에 대한 일각의 우려를 일축하며, 전 세계적으로 폭증하는 계산 용량 및 전력 수요를 전력·데이터센터 공급 속도가 따라가지 못하는 것이 본질적 문제라고 진단했다. 산업 전반에서 진행 중인 AI 기반 생산성 혁신이 지대하며, 이를 뒷받침하기 위해 글로벌 자본을 유치할 새로운 자금 조달 구조 마련이 시급함을 강조했다. 아울러 엔비디아, 브루크필드, 네이버 간 합작 추진 사례를 들어 AI 연산 인프라 표준화 및 범용성 확보 방안을 제시했다.
+
+[2026-08-11 09:16] 인터뷰 영상을 직접 보시려면 여기 
+
+https://www.cnbc.com/video/2026/08/10/brookefield-ceo-on-ai-infrastructure-we-cannot-build-fast-enough-to-keep-up-with-demand.html
+
+[2026-08-11 10:12] Nvidia Vera Rubin 원가의 62%는 메모리 반도체, HBM4보다 SOCAMM2 비중 높아 - DIGITIMES
+(by https://t.me/TNBfolio)
+- Nvidia의 차세대 AI 플랫폼 Vera Rubin 슈퍼칩의 제조 원가는 약 3만 9,000달러이며 이 중 메모리 반도체가 약 62%를 차지한다.
+- Vera CPU에 탑재하는 SOCAMM2 모듈 원가가 약 1만 9,400달러로 전체의 49.8%를 차지해 HBM4 비중인 12.7%를 크게 상회한다.
+- Vera CPU가 이전 세대 대비 3배 이상 늘어난 최대 1.5TB의 LPDDR5X 용량을 지원함에 따라 SOCAMM2 원가 비중이 급증했다.
+- 삼성전자, SK하이닉스, Micron 등 메모리 3사는 HBM4뿐만 아니라 LPDDR5X 기반 SOCAMM2 공급 확대를 적극 추진하고 있다.
+- 메모리 공급 부족 여파로 Nvidia가 Vera Rubin의 SOCAMM 탑재 용량이나 Rubin Ultra의 HBM 스펙을 하향 조정할 가능성이 제기된다.
+https://www.digitimes.com/news/a20260810PD241/rubin-hbm4-cost-nvidia-chips.html
+
+[2026-08-11 10:12] 그렇군요 SOCAMM2가 더 많군요.

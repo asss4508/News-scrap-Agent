@@ -5,3 +5,5 @@
 Woodring은 **AI가 컴퓨팅과 스토리지 수요를 계속 견인하고 있고, 높은 메모리 가격이 기업의 구매를 미루게 하는 것이 아니라 오히려 구매를 앞당기고 있다**고 설명했습니다.
 
 https://www.barrons.com/articles/hewlett-packard-enterprise-hpe-stock-ai-price-43f20b6f?utm_source=chatgpt.com
+
+[2026-08-11 13:12] 낸드 가격이 8월초 예상과 달리 반등이 나옴. 메모리 가격 피크 시기가 뒤로 밀릴 수 있는 근거나 나옴

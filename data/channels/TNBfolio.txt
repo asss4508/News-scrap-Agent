@@ -39,3 +39,19 @@ https://www.cnbc.com/video/2026/08/10/brookefield-ceo-on-ai-infrastructure-we-ca
 https://www.digitimes.com/news/a20260810PD241/rubin-hbm4-cost-nvidia-chips.html
 
 [2026-08-11 10:12] 그렇군요 SOCAMM2가 더 많군요.
+
+[2026-08-11 10:52] Anthropic, 대형 IPO 앞두고 투자자 신뢰 확보 총력 - Wall Street Journal
+(by https://t.me/TNBfolio)
+- Anthropic이 올해 가을로 예정된 초대형 IPO를 앞두고 투자자 신뢰를 확보하기 위해 예비 투자자들과 미팅을 진행하고 있다.
+- 이번 상장은 빠르면 오는 9월 또는 10월 초에 전격 추진될 수 있다.
+- Anthropic은 투자자들로부터 중국 경쟁사들과의 격차, Trump 행정부 시기의 정세 불안, AI 인프라 붐 지속성에 관한 날카로운 질문을 받고 있다.
+https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?mod=rss_Technology
+
+[2026-08-11 12:18] GM, 인디애나 배터리 합작법인 지분 삼성SDI에 매각 추진 - 블룸버그
+(by https://t.me/TNBfolio)
+- GM이 미국 인디애나주에 계획했던 35억 달러 규모의 전기차 배터리 합작법인 지분 절반을 파트너사인 삼성SDI에 매각할 예정이다.
+- 삼성SDI는 해당 부지를 매입하고 합작법인을 인수하여 인디애나주 뉴카라일의 배터리 생산 시설 소유권을 확보하게 된다.
+- GM은 전기차 수요 둔화와 미국 정부의 보조금 폐지 여파로 전기차 사업 축소 조치를 이어가고 있다.
+- 당초 양사는 2027년 양산을 목표로 인디애나 공장을 발표했으나 전기차 판매 감소로 프로젝트를 지연시켜 왔다.
+- GM은 약 110억 달러의 전기차 관련 손실을 처리하고 LG에너지솔루션과의 합작공장 지분도 매각하는 등 사업 구조조정을 진행 중이다.
+https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say

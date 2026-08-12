@@ -52,3 +52,12 @@ https://www.digitimes.com/news/a20260810PD237/nuclear-investment-government-2026
 [2026-08-12 19:00] 코스피 신용잔고
 
 [2026-08-12 19:00] 코스닥 신용잔고
+
+[2026-08-12 20:57] Micron, 데이터센터 메모리 수요 절반도 못 채워 - TrendForce
+(by https://t.me/TNBfolio)
+- Micron은 치솟는 가격에도 불구하고 고객들의 강력한 수요로 인해 데이터센터 메모리 수요의 절반 이하만 충족하고 있다.
+- 인공지능(AI) 확산으로 DRAM 용량 수요가 급증함에 따라 2027년 수급 불균형은 2026년보다 더욱 심화될 전망이다.
+- 주요 고객사들은 인프라 확장의 가장 큰 병목 구간으로 전력이나 데이터센터 공간이 아닌 DRAM 공급 부족을 꼽고 있다.
+- Micron은 약 절반의 매출을 담보하는 16개 장기 공급 계약(SCA)을 체결했으나, 고객과의 상생을 위해 가격 인상 폭을 일부 조절 중이다.
+- 미국 내 유일한 전공정 메모리 팹 투자 기업으로서 프리미엄 가격을 확보했으며, 서버 DRAM 계약가는 3분기에도 상승세를 이어갈 것으로 보인다.
+https://www.trendforce.com/news/2026/08/12/news-micron-can-meet-less-than-half-of-data-center-demand-as-customers-rush-to-secure-memory-at-very-high-prices/

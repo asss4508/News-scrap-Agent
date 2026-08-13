@@ -212,3 +212,67 @@ DS투자증권(2026. 08. 07.) [ [링크]](https://stock.naver.com/research/compa
 출처: [ 📍네이버증권 리서치](https://stock.naver.com/research)
 
 Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전송됨. 따라서 나는 종목 추천 없음. 나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.
+
+[2026-08-14 05:00] [단기예보] 기상청 통보문
+2026년 08월 14일 (금)요일 05:00 발표
+
+□ (종합) 오늘 전국 소나기, 내일 오후부터 남부지방 중심 강하고 많은 비, 돌풍, 천둥.번개 유의, 동해안과 남해안, 제주도해안 너울 유의
+ 
+○ (오늘, 14일) 전국 구름많다가 밤부터 차차 흐려지겠고, 강원도 대체로 흐림,
+   오후(12~18시)까지 강원동해안.산지, 밤(18~24시)부터 제주도산지 곳에 따라 비,
+   오전(09~12시)부터 저녁(18~21시) 사이 전국 곳에 따라 소나기, 
+   아침(06~09시)까지 강원내륙과 충북북부, 부산.경남남해안, 오후(12~18시)까지 제주도 곳에 따라 0.1mm 미만 빗방울
+ 
+○ (내일, 15일) 전국 대체로 흐림,
+   제주도 비, 오후(12~18시)부터 남부지방 비, 
+   오후(12~18시)부터 저녁(18~21시) 사이 중부지방 곳에 따라 소나기
+ 
+○ (모레~글피, 16~17일) 전국 대체로 흐림, 
+   전국 대부분 비가 내리다가 글피 밤(18~24시)부터 차차 그치겠음, 글피는 중부지방 곳에 따라 소강상태
+
+* 예상 강수량(14일)
+- (강원도) 강원동해안.산지: 5~10mm
+- (경상권) 울릉도.독도: 5~20mm
+- (제주도) 제주도산지: 5~10mm
+
+* 소나기에 의한 예상 강수량(14일)
+- (수도권) 서울.인천.경기: 5~40mm
+- (강원도) 강원내륙: 5~40mm
+- (충청권) 대전.세종.충남, 충북: 5~40mm
+- (전라권) 광주.전남내륙, 전북: 5~40mm
+- (경상권) 대구.경북: 5~40mm/ 부산.울산.경남: 5~20mm
+
+* 소나기에 의한 예상 강수량(15일) 
+- (수도권) 서울.인천.경기: 5~50mm
+- (강원도) 강원내륙.산지: 5~50mm
+- (충청권) 대전.세종.충남, 충북: 5~50mm
+
+* 예상 강수량(15~16일)
+- (수도권, 16일) 서울.인천.경기, 서해5도: 5~30mm
+- (강원도, 16일) 강원내륙.산지: 5~30mm/ 강원동해안: 5mm 안팎
+- (충청권, 16일) 대전.세종.충남, 충북: 20~60mm
+- (전라권) 광주.전남, 전북: 30~80mm(많은 곳 전남남해안, 지리산 부근 120mm 이상)
+- (경상권) 부산.울산.경남: 50~100mm(많은 곳 경남남해안, 지리산 부근 150mm 이상)/ 대구.경북: 30~80mm/ (16일)울릉도.독도: 20~60mm
+- (제주도) 제주도: 30~80mm(많은 곳 제주도산지 150mm 이상)
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-08-14 05:41] [Visualcapitalist] 2026年全球最具价值航空公司20强排名
+Ranked: The World’s 20 Most Valuable Airlines in 2026
+
+델타는 단연 세계에서 가장 가치 있는 항공사다. 신흥 경쟁사 중 다수는 태평양 건너편에 있다.
+Delta is by far the world's most valuable airline. Many of its emerging competitors are found across the Pacific.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/the-worlds-most-valuable-airlines/)
+
+[2026-08-14 05:41] [Visualcapitalist] 차트로 보는 현대 포트폴리오에서 금의 중요성 증가
+Charted: The Rising Importance of Gold in Modern Portfolios
+
+Gold’s role in the optimal World Portfolio has grown over time, rising to 45% in 2025 as investors rethink the traditional 60/40 model.
+Gold’s role in the optimal World Portfolio has grown over time, rising to 45% in 2025 as investors rethink the traditional 60/40 model.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/sp/usmr01-charted-the-rising-importance-of-gold-in-modern-portfolios/)

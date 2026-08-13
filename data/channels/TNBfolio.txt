@@ -56,3 +56,21 @@ https://finance.eastmoney.com/a/202608133839539131.html
 - Fundstrat Global Advisors는 메모리 반도체 제조업체들의 반등세에 힘입어 한국 증시 상승세가 더 이어질 수 있다고 분석했다.
 - 다만 미국 국채 금리와 달러화가 다시 상승세를 보일 경우 이번 반등 모멘텀이 약화될 수 있다는 우려도 제기되었다.
 https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html
+
+[2026-08-13 11:42] NVIDIA, 젠슨 황 "AI는 단순 기술 아닌 인프라" 금융권과 AI 자금 조성 - 벤징가
+(by https://t.me/TNBfolio)
+- NVIDIA는 AI 인프라 구축과 GPU 도입을 지원하기 위해 글로벌 대형 금융기관들과 협력 양해각서(MOU)를 체결했다.
+- 이번 협력은 민간 자본과 제도권 신용을 활용해 AI 데이터센터와 Hardware에 5,000억 달러 이상을 조달하는 것을 목표로 한다.
+- Jensen Huang CEO는 AI 컴퓨팅이 전력이나 인터넷과 같은 핵심 인프라로 자리 잡았으며, 데이터센터에 도입된 칩은 수익을 창출하는 자산이라고 강조했다.
+- Goldman Sachs의 David Solomon CEO는 AI 인프라 확장을 위한 자금 조달 수요에 강한 confidence를 보이며 NVIDIA와의 협력을 확정했다.
+- 이번 이니셔티브는 NVIDIA의 자체 자금이 아닌 독립적인 제3자 장기 자본을 활용해 진행할 예정이다.
+https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-says-ai-213109451.html
+
+[2026-08-13 14:35] Anthropic 투자자들, 역사상 최대 규모 상장에 2조 달러 가치 기대 - 파이낸셜 타임스
+(by https://t.me/TNBfolio)
+- Anthropic의 투자자들은 오는 10월 예정된 기업공개(IPO)에서 회사의 기업 가치가 2조 달러 이상에 달할 것으로 기대하고 있다.
+- 앤트로픽의 연환산 매출은 Claude 모델과 관련 도구의 수요 급증에 힘입어 2026년 말까지 최대 1,200억 달러에 이를 것으로 전망된다.
+- 미 상무부의 일시적 규제와 대중국 경쟁 심화 등 도전 과제가 존재함에도 회사는 가파른 성장세를 이어가고 있다.
+- 높은 AI 모델 이용 가격과 기업들의 비용 절감 기조가 위험 요인으로 꼽히나, 여전히 우수한 성능으로 시장 지배력을 유지 중이다.
+- 이번 상장이 성공할 경우 앤트로픽은 역사상 가장 큰 규모의 상장 기록을 세우며 조 단위 달러의 가치 창출을 달성할 것으로 보인다.
+https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1

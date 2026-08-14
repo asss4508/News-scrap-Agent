@@ -25,3 +25,12 @@ https://breakingthenews.net/Article/Russia:-Operations-at-Orsk-refinery-fully-st
 - 개인 투자자 중심의 레버리지 ETF 투기 수요가 시장 변동성을 키울 수 있다는 우려가 제기되는 가운데, 한국의 규제 강화 사례가 주목받고 있다.
 - 미국 SEC의 최종 승인이 떨어질 경우, 일본 투자자들도 해외 상장된 해당 상품을 통해 자국 규제를 우회하여 투자할 수 있게 될 전망이다.
 https://asia.nikkei.com/business/markets/equities/kioxia-linked-leveraged-etfs-await-us-approval?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts
+
+[2026-08-14 10:11] LG, NVIDIA와 협력해 2027년 1분기 차세대 휴머노이드 로봇 공개 - 비즈니스포스트
+(by https://t.me/TNBfolio)
+- LG그룹은 NVIDIA 본사에서 양사 최고경영진이 참석한 가운데 전략적 사업협력을 위한 업무협약(MOU)을 체결했다.
+- LG는 NVIDIA의 '아이작 그루트'와 '젯슨 토르'를 기반으로 주요 계열사의 부품 및 제조 역량을 결합한 이족보행 휴머노이드를 2027년 1분기에 선보인다.
+- 연내 미국 테네시 생산라인에 로봇 'LG 클로이드'를 투입해 제조 현장 실증을 진행하며 로봇 파운데이션 모델(RFM) 경쟁력을 강화한다.
+- 양사는 충남 천안에 80MW 규모의 AI 팩토리를 2028년 상반기까지 구축하고 글로벌 빅테크 대상 패키지 솔루션 공급을 추진한다.
+- 모빌리티 부문에서는 NVIDIA의 '드라이브 하이페리온'에 LG의 전장 기술을 결합해 차세대 AI 정의 차량(AIDV) 플랫폼을 개발한다.
+https://www.businesspost.co.kr/BP?command=article_view&num=444758

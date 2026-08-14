@@ -1,3 +1,18 @@
 [2026-08-15 00:21] 막판 재상고
 
 https://n.news.naver.com/mnews/article/014/0005561908?sid=101
+
+[2026-08-15 06:56] 드러켄밀러, 포트폴리오에 구글 크게 추가
+
+신규 포지션: 
+-$GOOGL: $120.2 million
+$FOXA: $115.0 million
+$CDW: $104.6 million
+$BTDR: $64.7 million
+$DAL: $56.5 million
+$AMD: $42.3 million
+
+최대 보유 포지션:
+$TSM: $281 million
+$STM: $232 million
+$AMZN: $129 million

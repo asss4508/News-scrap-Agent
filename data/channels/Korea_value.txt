@@ -520,3 +520,76 @@ https://aladin.kr/p/gSYSP
 2025.2Q 415억/ 40억/ 42억
 
 공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002714
+
+[2026-08-14 20:47] 투자자들이 주목해야 할 다섯 가지 뉴스는 다음과 같다.
+
+**트럼프, 드론 관세 부과:** 트럼프 대통령은 미국이 수입 드론과 부품에 관세를 부과하며, 대부분의 조치는 21일 뒤 발효된다고 밝혔다. 백악관 포고문은 더 크거나 국가안보상 민감한 [일부](https://seekingalpha.com/news/4632964-trump-slaps-tariffs-on-drone-imports-says-u-s-too-reliant-on-foreign-sources#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews) 드론에 100% 관세를, 소형 모델에는 25% 부과금을 적용한다고 명시했다. 유주얼 머신스 ([UMAC](https://seekingalpha.com/symbol/UMAC#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)), 레드 캣 홀딩스 ([RCAT](https://seekingalpha.com/symbol/RCAT#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)), 온다스 ([ONDS](https://seekingalpha.com/symbol/ONDS#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)), 에이벡스 ([AVEX](https://seekingalpha.com/symbol/AVEX#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)), 에어로바이런먼트 ([AVAV](https://seekingalpha.com/symbol/AVAV#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)) 주가는 시간외 거래에서 상승했다.
+
+**골드만삭스, 엔비디아 AI 자금조달 검토:** 로이터에 따르면 골드만삭스 ([GS](https://seekingalpha.com/symbol/GS#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews))는 엔비디아 ([NVDA](https://seekingalpha.com/symbol/NVDA#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews))가 계획 중인 5,000억 달러 규모 AI 인프라 자금조달 이니셔티브와 관련해 잠재 투자자들과 참여 방안을 논의하고 있다. 미국 보험사, 자산운용사, 은행들이 자본의 상당 부분을 제공할 것으로 [예상되는](https://seekingalpha.com/news/4633017-goldman-sachs-lines-up-investors-for-nvidias-500b-ai-funding-plan---report#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews) 가운데, 골드만삭스는 자산운용 사업을 통해 후순위 금융과 사모신용 자금을 제공할 수 있다. 이 투자은행은 사모신용 펀드와 향후 공모시장에 부채를 배분하는 데도 도움을 줄 수 있다.
+
+**애플, 중국 전용 AI 모델 개발:** 로이터에 따르면 애플 ([AAPL](https://seekingalpha.com/symbol/AAPL#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews))은 기존에 제3자 AI 모델에 의존하던 방식에서 벗어나 중국 시장 전용 대규모 언어 모델을 학습시켰다. 해당 모델은 애플의 중국 AI 전략에서 협력하고 있는 알리바바 ([BABA](https://seekingalpha.com/symbol/BABA#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews))의 지원을 받아 [개발됐다](https://seekingalpha.com/news/4633040-apple-partners-with-alibaba-on-custom-ai-model-for-china-reuters#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews). 이번 움직임은 오픈AI의 챗GPT와 앤스로픽의 클로드를 이용할 수 없는 중국에서 애플이 생성형 AI를 배포하는 데 직면한 제약을 반영한다.
+
+**구글, 제미나이 3.7 플래시 출시:** 알파벳 ([GOOG](https://seekingalpha.com/symbol/GOOG#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)) ([GOOGL](https://seekingalpha.com/symbol/GOOGL#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews)) 산하 구글은 코딩, 소프트웨어 엔지니어링, 지식 업무, 웹 개발을 개선하도록 설계된 새 AI 모델 제미나이 3.7 플래시를 출시했다. 구글은 이 모델이 코딩 벤치마크에서 경쟁 모델보다 더 강한 결과를 냈으며 제미나이 3.6 플래시 이후 3주 만에 [출시됐다고](https://seekingalpha.com/news/4632681-google-launches-gemini-37-flash-which-beat-sonnet-5-and-gpt-56-in-coding-evals#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews) 밝혔다. 회사는 또한 이를 기존 3.6 플래시의 100만 토큰당 가격의 절반 수준으로 제공하고 있다.
+
+**CENTCOM, 다국적 드론 태스크포스 창설:** 미 중부사령부는 미국 인력과 역내 파트너들을 결합한 최초의 다국적 공격 드론 태스크포스인 태스크포스 팰컨 스트라이크를 발표했다. 미 특수작전사령부 중부가 이 부대를 지휘하며, 부대는 중동의 공중 및 해상 환경 [전반에서](https://seekingalpha.com/news/4632712-centcom-forms-multinational-attack-drone-task-force-for-middle-east#source=section%3Amain_content%7Cbutton%3Abody_link%7Cfirst_level_url%3Anews) 일방향 공격 드론을 운용할 예정이다. 이번 이니셔티브는 군의 저비용 무인 시스템 활용 확대를 부각하며, 방산 드론 공급망 전반에 걸친 지속적인 투자를 뒷받침할 수 있다.
+
+[2026-08-14 20:48] 2026.08.14 15:55:56
+기업명: 티에스이(시가총액: 2조 8,760억) A131290
+보고서명: 반기보고서 (2026.06)
+
+잠정실적 : N
+
+매출액 : 1,888억(예상치 : 1,463억, +29.0%)
+영업익 : 525억(예상치 : 426억, +23.2%)
+순이익 : 424억(예상치 : -)
+
+**최근 실적 추이**
+(기간/ 매출/ 영업익/ 순익)
+2026.2Q 1,888억/ 525억/ 424억
+2026.1Q 1,507억/ 420억/ 400억
+2025.4Q 1,239억/ 198억/ 219억
+2025.3Q 1,044억/ 115억/ 118억
+2025.2Q 1,176억/ 148억/ 46억
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002616
+
+[2026-08-14 20:51] [메리츠증권 전기전자/IT부품 양승수]
+
+▶ 기가비스 1H26 반기보고서 주요 내용
+
+2Q26 신규수주액 570억원, 수주잔고 653억원 기록
+
+(1Q25 334억원 → 2Q25 344억원 → 3Q25 346억원 → 4Q25 136억원 → 1Q26 186억원 → 2Q26 653억원)
+
+* 본 자료는 당사의 의견 없이 국내외 언론 보도 및 전자공시 자료를 인용한 것으로, 별도의 승인 절차 없이 제공됩니다.
+
+[2026-08-14 21:24] 12:54 ㅋㅋㅋㅋㅋㅋㅋㅋ
+https://youtu.be/hqSzEdrSpno
+
+[2026-08-14 21:48] 2026.08.14 17:18:25
+기업명: 이지바이오(시가총액: 2,081억) A353810
+보고서명: 반기보고서 (2026.06)
+
+잠정실적 : N
+
+매출액 : 1,481억(예상치 : -)
+영업익 : 151억(예상치 : -)
+순이익 : 109억(예상치 : -)
+
+**최근 실적 추이**
+(기간/ 매출/ 영업익/ 순익)
+2026.2Q 1,481억/ 151억/ 109억
+2026.1Q 1,307억/ 132억/ 117억
+2025.4Q 1,293억/ 136억/ 108억
+2025.3Q 1,169억/ 112억/ 86억
+2025.2Q 1,138억/ 110억/ 41억
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003507
+
+[2026-08-14 21:49] 실패하는 사람과 성공하는 사람의 사고방식
+
+이미지 공유 : 하루님)
+
+
+**실패의 크기를 줄여가는 모습이 인상적이네요. **
+그래도 주식에선 가급적 큰실패는 절대 하지 말기!!!

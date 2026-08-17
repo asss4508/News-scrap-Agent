@@ -39,3 +39,30 @@ US스틸(비상장)도 니뽄스틸 이번 실적에 붙어 나왔는데 서프�
 - Nvidia는 하드웨어 칩 공급을 넘어 대규모 AI 인프라 프로젝트의 금융 및 신용 지원까지 역할을 적극 확대하고 있다.
 - 빅테크 기업들의 AI 컴퓨팅 수요 선점 경쟁이 심화되면서 초거대 데이터센터와 전력 인프라 확보를 위한 대규모 자본 투입이 가속화하고 있다.
 https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html
+
+[2026-08-17 20:04] 삼성전자 상반기 중국 매출이 미국 추월, Nvidia는 5대 고객사에서 제외 - DIGITIMES
+(by https://t.me/TNBfolio)
+- 삼성전자의 2026년 상반기 중국 매출이 88조 6천억 원을 기록하며 미국 매출 70조 6천 5백억 원을 넘어섰다.
+- AI 서버 및 데이터 센터 투자가 확대됨에 따라 HBM과 DRAM 등 메모리 반도체 수요가 급증하며 매출 상승을 견인했다.
+- 삼성전자의 DS 부문은 상반기 총매출의 68.5%를 차지하며 영업이익의 대부분을 창출하는 핵심 동력으로 자리 잡았다.
+- 삼성전자의 상반기 5대 주요 고객사는 Alphabet, Amazon, Apple, Hong Kong Techtronics, Supreme Electronics로 확인되었다.
+- Nvidia는 HBM4 공급 등 협력 관계에도 불구하고 이번 삼성전자의 5대 주요 고객사 명단에는 포함되지 않았다.
+https://www.digitimes.com/news/a20260817VL216/samsung-sales-nvidia-2026-hbm.html?chid=10
+
+[2026-08-17 20:18] 트럼프, 더 강력해진 김정은을 설득하기 위해 과거 방식 재시도 - WSJ
+(by https://t.me/TNBfolio)
+- 트럼프 대통령은 북미 교착 상태를 해소하고 대화를 재개하기 위해 한미 연합훈련 축소를 지시했다.
+- 2018년 첫 훈련 중단 이후 북한은 핵무기를 증강하고 러시아 지원을 통해 실전 경험과 군사 기술을 확보했다.
+- 미국이 이란 전쟁 여파로 중동에 군사 자산을 재배치하면서 아시아 내 대북 및 대중 억지력 약화 우려가 커졌다.
+- 군사 전문가들은 연합훈련 축소가 한미 연합 방위 태세를 훼손하고 동맹국에 안보 불안을 야기할 수 있다고 경고했다.
+- 한국 정부는 훈련을 지속하며 대화 재개를 기대하고 있으나, 북한은 대화의 전제 조건으로 핵보유국 인정을 요구하고 있다.
+https://www.wsj.com/world/asia/trump-tries-old-move-to-woo-a-more-powerful-kim-jong-un-3e7a3bde?mod=rss_worldnews
+
+[2026-08-17 20:27] Alibaba, AI 집중 위해 15억 달러 규모에 게임 사업부 매각 - Bloomberg
+(by https://t.me/TNBfolio)
+- Alibaba는 AI 및 클라우드 컴퓨팅 중심의 사업 재편을 가속화하기 위해 산하 게임 사업부인 Lingxi Games를 아시아계 사모펀드 Trustar Capital에 매각하기로 합의했다.
+- 이번 매각 거래 규모는 최소 15억 달러 이상으로 평가되며, 비핵심 자산을 매각해 전략적 우선순위 사업에 집중하려는 목적이다.
+- Eddie Wu CEO 체제 하에서 Alibaba는 5년 내 AI 부문 매출 1,000억 달러 달성을 목표로 포트폴리오 개편을 추진하고 있다.
+- Alibaba는 최근 미국 선도 기업 Anthropic의 성능에 필적하는 역대 최대 규모의 자체 AI 모델을 선보이며 글로벌 경쟁력을 끌어올렸다.
+- 매각 대상인 Lingxi Games는 일본 Koei Tecmo Holdings와 공동 개발한 '삼국지 전략판'을 대표작으로 보유한 대형 모바일 게임사다.
+https://www.bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot

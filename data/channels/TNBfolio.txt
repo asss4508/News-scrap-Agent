@@ -17,3 +17,16 @@ https://cryptobriefing.com/nvidia-h100-gpu-rental-costs-surge/
 https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea
 
 [2026-08-17 10:42] 대북?
+
+[2026-08-17 15:31] 미국 데이터센터 수요 급증, 철강사 BlueScope 실적 견인 - Bloomberg
+(by https://t.me/TNBfolio)
+- BlueScope Steel은 북미 데이터센터 건설 붐에 힘입어 6월 30일 기준 회계연도 기저 순이익이 전년 대비 2배 이상 증가한 8억 5,120만 호주달러를 기록했다.
+- 아시아 지역 매출이 4% 감소했으나 북미 사업부 매출이 9% 증가하며 전체 실적 성장을 견인했다.
+- BlueScope Steel 경영진은 데이터센터 수요 강세를 확인하는 동시에 급증하는 데이터센터 전력 소비가 에너지 공급 및 비용에 미칠 영향을 경계하고 있다고 밝혔다.
+- 회사는 지난 2월 Steel Dynamics Inc.와 SGH Ltd. 컨소시엄이 제안한 150억 호주달러 규모의 인수 제안을 기업가치 저평가를 이유로 거절한 이후 독자 성장에 집중하고 있다.
+- 미국 오하이오주 소재 North Star 제철소는 중국발 공급 과잉에 대응한 미국의 수입 관세 정책에 따른 반사이익도 함께 누리고 있다.
+https://www.bloomberg.com/news/articles/2026-08-17/us-data-center-demand-helps-boost-steelmaker-bluescope-s-profit?srnd=all
+
+[2026-08-17 15:51] 데이터센터에 철골 구조가 이렇게 어마어마하게 쓰이니 당연히 그렇죠?
+
+US스틸(비상장)도 니뽄스틸 이번 실적에 붙어 나왔는데 서프였습니다.

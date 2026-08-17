@@ -30,3 +30,12 @@ https://www.bloomberg.com/news/articles/2026-08-17/us-data-center-demand-helps-b
 [2026-08-17 15:51] 데이터센터에 철골 구조가 이렇게 어마어마하게 쓰이니 당연히 그렇죠?
 
 US스틸(비상장)도 니뽄스틸 이번 실적에 붙어 나왔는데 서프였습니다.
+
+[2026-08-17 16:11] Nvidia, OpenAI의 오하이오 데이터센터 위해 1,000억 달러 규모 신용 보증 협상 최종 단계 - DIGITIMES
+(by https://t.me/TNBfolio)
+- Nvidia가 OpenAI의 오하이오 10GW 규모 데이터센터 구축을 위해 약 1,000억 달러 규모의 신용 보증을 제공하는 계약 체결에 근접했다.
+- 이번 데이터센터 프로젝트는 인공지능(AI) 인프라 구축 역사상 최대 규모 중 하나로 평가받고 있다.
+- 초대형 인프라 프로젝트에 대한 신용 보증은 OpenAI의 대규모 AI 연산 자원 확보와 데이터센터 건립 속도를 높이는 핵심 동력이 될 전망이다.
+- Nvidia는 하드웨어 칩 공급을 넘어 대규모 AI 인프라 프로젝트의 금융 및 신용 지원까지 역할을 적극 확대하고 있다.
+- 빅테크 기업들의 AI 컴퓨팅 수요 선점 경쟁이 심화되면서 초거대 데이터센터와 전력 인프라 확보를 위한 대규모 자본 투입이 가속화하고 있다.
+https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html

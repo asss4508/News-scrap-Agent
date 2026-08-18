@@ -184,3 +184,98 @@ Q. 게임 산업의 미래는?
 [2026-08-18 15:00] 제헌절은 하락 피해가서 가장 비싼 제헌절이였는데,
 
 광복절은 상승 피해가서 가장 비싼 광복절이구나.
+
+[2026-08-18 16:59] **🛞Nvidia, OpenAI Ohio 데이터센터 최대 1,050억 달러 보증 확정 — GPU 수요와 금융지원 결합
+
+1. 최대 1,050억 달러 보증으로 OpenAI의 20년 임대 지원**
+① Nvidia가 OpenAI가 20년간 사용할 Ohio 데이터센터 프로젝트에 대해 최대 1,050억 달러 규모의 보증을 제공하기로 합의하며 기존에 논의되던 금융지원 구조가 구체화된 모습
+② 보증 대상은 전체 건설비가 아니라 OpenAI의 일부 임대료·전력비와 데이터센터의 최소 자산가치로, OpenAI가 지급불능에 빠질 경우 Nvidia가 일정 범위의 손실을 보전하는 구조
+③ Nvidia가 고객의 데이터센터 투자를 직접 지원함으로써 OpenAI의 자금조달을 돕는 동시에 향후 자사 GPU 수요를 장기간 확보하려는 전략을 보여줌 ([Reuters](https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/))
+
+**2. 최대 8GW 규모, Nvidia가 독점 AI 칩 공급**
+① Ohio Pike County에 건설되는 데이터센터는 초기 4.25GW, 향후 최대 8GW 규모로 확대될 예정이며 첫 800MW는 2028년 가동을 목표로 하는 수준
+② Nvidia는 해당 시설의 독점 AI 칩 공급업체가 될 예정이며, Jensen Huang은 초기 4.25GW만으로도 Nvidia에 최대 2,000억 달러의 매출을 가져올 수 있다고 설명한 상황
+③ Ohio 확장분까지 포함해 OpenAI가 2030년까지 총 16GW 규모의 Nvidia 컴퓨팅을 사용한다는 가정에서는 Nvidia 매출이 최대 6,000억 달러에 이를 수 있다는 경영진 추정이 제시된 수준
+
+**3. SB Energy 직접 투자까지 병행하며 AI 인프라 금융 확대**
+① Nvidia는 보증과 별도로 데이터센터 개발사인 SoftBank 계열 SB Energy에 15억 달러를 직접 투자하며 프로젝트의 지분 투자자로도 참여하는 구조
+② 프로젝트 자금조달은 SB Energy·SoftBank 등의 자기자본을 먼저 투입한 뒤 프로젝트 파이낸싱 대출과 회사채 등 부채를 추가하는 방식이 검토되고 있어 Nvidia 보증이 금융기관의 대출 위험을 낮추는 역할
+③ Nvidia는 최근 Apollo·BlackRock·Blackstone·Brookfield·Goldman Sachs·KKR과도 5,000억 달러 이상의 제3자 AI 인프라 자금을 조성하는 플랫폼을 추진하고 있어, 직접 자금을 모두 부담하기보다 금융기관의 자본을 AI 데이터센터로 끌어들이는 전략이 강화되는 모습 ([Nvidia](https://nvidianews.nvidia.com/news))
+
+#트래킹 #미국주식 #엔비디아 #NVDA
+
+[2026-08-18 17:02] **🛞 SpaceX, 8월 20일 추가 락업 해제 — 단기 수급 부담 다시 시험대**
+
+**1. 8월 20일 약 3.19억 주 추가 락업 해제**
+① SpaceX는 8월 20일 약 3억1,900만 주의 추가 락업이 해제될 예정이며, 초기 투자자와 내부자들이 해당 주식을 시장에서 매도할 수 있게 되는 구조
+② 앞서 8월 6일에는 약 9억1,200만 주가 처음으로 매도 가능해졌지만 예상했던 대규모 매도는 나타나지 않았고, 오히려 이후 주가가 강하게 반등하는 모습
+③ 다만 락업 해제는 신규 주식 발행에 따른 희석이 아니라 기존 주주의 매도 가능 물량이 늘어나는 이벤트인 만큼, 실제 주가 영향은 얼마나 많은 기존 주주가 매도에 나서는지에 좌우되는 구조 ([Barrons](https://www.barrons.com/articles/spacex-stock-elon-musk-share-unlock-ipo-4d7503c3))
+
+**2. 연말까지 추가 해제가 이어져 수급 변동성 지속 가능성**
+① 8월 20일 이후에도 9월 약 7억 주 이상, 10월 약 6.5억 주 등 여러 차례의 추가 락업 해제가 예정돼 있어 유통 가능 주식이 단계적으로 확대될 전망
+② SpaceX는 IPO 직후 제한된 유통물량 때문에 주가가 빠르게 상승했지만, 향후 내부자와 초기 투자자의 주식이 계속 시장에 풀리면서 기존의 희소성 프리미엄이 점차 낮아질 가능성이 존재
+③ 첫 락업 해제 때처럼 실제 매도가 적다면 충격은 제한적일 수 있지만, 장기간 투자한 초기 주주들이 차익실현에 나설 경우 단기적으로 펀더멘털과 무관한 주가 변동성이 커질 가능성 ([Business Insider](https://www.businessinsider.com/spacex-shares-volatility-early-investors-cash-out-analyst-2026-8))
+
+**3. Alphabet의 9억 달러 투자는 한때 942억 달러까지 증가**
+① Alphabet은 2015년 SpaceX에 약 9억 달러를 투자했으며, 2026년 6월 말 기준 5억5,120만 주를 보유한 것으로 확인된 상황
+② 6월 30일 SpaceX 주가 170.86달러를 기준으로 Alphabet 보유지분 가치는 약 942억 달러로 평가되며 초기 투자금의 100배 이상으로 증가한 수준
+③ 이후 SpaceX 주가 하락으로 지분가치도 약 780억 달러 수준까지 낮아졌지만, 초기 투자자들이 여전히 막대한 미실현 이익을 보유하고 있어 향후 락업 해제 때 차익실현 유인이 충분히 존재하는 구조 ([Reuters](https://www.reuters.com/business/finance/alphabets-spacex-bet-grows-100-fold-over-decade-94-billion-2026-08-14))
+
+#트래킹 #미국주식 #테슬라 #TSLA #스페이스X #SPCX
+
+[2026-08-18 17:05] **🛞 Tesla Cybercab, 8월 Austin 서비스 투입 준비 — Model Y 중심 Robotaxi에서 전용 차량으로 전환
+
+1. Cybercab, 이르면 8월 Austin 공개도로 운행 시작**
+① Tesla가 직원들에게 Cybercab의 Austin 공개도로 운행을 이르면 8월 중 시작할 계획을 전달한 것으로 보도되며 상용화 준비가 구체화되는 모습
+② 초기 단계에서는 일반 고객보다 Tesla 직원들이 먼저 Cybercab에 탑승해 실제 도로 환경에서 차량과 서비스 운영을 검증할 예정
+③ 이는 Cybercab이 사설도로와 제한적인 테스트 단계를 넘어 실제 Robotaxi 서비스에 투입되기 직전 단계로 이동하고 있음을 보여줌 ([Reuters](https://www.reuters.com/business/autos-transportation/tesla-prepares-cybercab-launch-august-starting-with-rides-employees-information-2026-08-17/))
+
+**2. 직원 테스트 후 Austin Robotaxi 서비스에 실제 편입 가능성**
+① The Information 보도를 인용한 Reuters에 따르면 직원 대상 운행이 순조롭게 진행될 경우 며칠 내 Cybercab을 Austin Robotaxi 서비스에 편입하는 방안이 준비되는 상황
+② 현재 Tesla의 Robotaxi는 Austin·Dallas·Houston·Miami·Orlando·Tampa에서 Model Y를 중심으로 운영되고 있어 Cybercab 투입은 전용 무인차량으로 전환하는 첫 사례가 될 가능성
+③ Tesla 역시 공식 Robotaxi 페이지에서 현재 서비스는 Model Y로 시작했으며 Cybercab은 향후 Robotaxi 승객을 태울 전용 완전자율주행 차량이라고 설명하는 수준
+
+**3. 핵심은 생산보다 실제 ‘무감독 유료 운행’ 전환**
+① Cybercab은 스티어링 휠과 페달이 없는 완전자율주행 전용 차량이기 때문에 실제 서비스 투입 자체가 Tesla의 자율주행 기술 상용화를 보여주는 중요한 이정표
+② Austin에서는 이미 Model Y 기반 무감독 Robotaxi가 Austin Metro 전체로 확대됐으며, 6월 기준 약 50대가 현지에서 운영된 것으로 확인된 상황
+③ 따라서 향후에는 Cybercab 생산대수보다 실제 유료 서비스 투입대수, 무감독 운행거리, 차량당 가동률, 인간 개입 빈도가 Robotaxi 사업의 경제성을 판단하는 핵심 지표가 될 전망
+
+#트래킹 #미국주식 #테슬라 #TSLA
+
+[2026-08-18 17:08] **🛞 Berkshire Hathaway, Alphabet 지분 83% 확대 — AI 투자까지 직접 지원하며 3대 보유종목으로 부상
+
+1. Alphabet 보유량 5,780만 주 → 1억600만 주로 83% 확대**
+① Berkshire Hathaway가 2분기 Alphabet 보유량을 약 5,780만 주에서 약 1억600만 주로 83% 확대하며 대규모 추가 매수에 나선 모습
+② 6월 말 기준 보유지분 가치는 약 378억 달러로, Apple 660억 달러와 American Express 513억 달러에 이어 Berkshire의 세 번째로 큰 상장주식 투자로 올라선 수준
+③ Berkshire가 14개 분기 연속 순매도 기조를 끝내고 2분기 235억 달러어치 주식을 매수한 가운데 Alphabet이 핵심 매수 대상으로 자리 잡은 점을 보여줌 ([Reuters](https://www.reuters.com/business/finance/berkshire-buys-more-alphabet-which-becomes-its-third-largest-stock-investment-2026-08-14))
+
+**2. Berkshire, Alphabet의 AI 인프라 증자에도 100억 달러 직접 투자**
+① Alphabet은 지난 6월 AI 인프라와 컴퓨팅 투자를 위해 대규모 증자를 추진했으며, Berkshire가 그 과정에서 100억 달러 규모의 사모투자에 참여한 구조
+② 해당 투자는 Class A와 Class C 주식에 각각 50억 달러씩 배분되는 구조로, Berkshire가 기존 지분 매입을 넘어 Alphabet의 AI CapEx 확대에 직접 자본을 공급한 모습
+③ Alphabet이 2026년 CapEx 전망을 1,950억~2,050억 달러까지 높인 상황에서도 Berkshire가 오히려 지분을 확대했다는 점에서 장기 AI 투자 회수 가능성을 긍정적으로 평가한 것으로 해석될 여지가 큰 수준
+
+**3. Search·Cloud·AI 인프라의 현금창출력에 대한 장기 베팅**
+① Alphabet은 2분기 Google Cloud 매출이 전년 대비 82% 증가한 248억 달러를 기록하며 AI 수요가 실제 매출 성장으로 연결되고 있음을 보여줌
+② 반면 AI 인프라 투자 확대 영향으로 2분기 59억 달러의 마이너스 잉여현금흐름을 기록하고 대규모 주식·채권 발행까지 병행하고 있어 투자 부담도 동시에 커진 상황
+③ 그럼에도 Berkshire가 Alphabet을 3대 보유종목으로 끌어올린 것은 Search 광고의 현금창출력과 Cloud·AI 인프라의 성장성을 함께 보면서 단기 CapEx 부담보다 장기 자본수익률을 높게 평가한 투자로 해석 가능한 수준
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
+
+[2026-08-18 17:11] **🛞 Amazon, Morgan Stanley이 제시한 AWS 1조 달러 매출 시나리오 — AI 성장의 핵심은 ‘컴퓨팅 용량 × 수익화’**
+
+**1. AWS 연환산 매출 1,700억 달러 → 1조 달러 성장 가능성**
+① Morgan Stanley는 현재 약 1,700억 달러인 AWS 연환산 매출이 향후 8~10년 내 약 1조 달러까지 증가할 가능성을 제시하며 장기 AI 성장 여력을 높게 평가
+② 1조 달러 달성을 위해서는 현재 대비 약 490%의 매출 확대가 필요하며, Morgan Stanley의 낙관적 시나리오에서는 2035년 전후 AWS 매출 1조 달러, EBIT 약 3,000억 달러 달성이 가능한 수준
+③ 최근 AWS의 2분기 매출도 422억 달러로 YoY +37% 성장하며 18개 분기 만의 가장 높은 성장률을 기록해 AI 수요가 실제 클라우드 매출 가속으로 연결되고 있음을 보여줌 ([Barrons](https://www.barrons.com/articles/amazon-stock-aws-revenue-ai-5b77d087))
+
+**2. 성장의 핵심은 고객 수요보다 AI 컴퓨팅 용량 확보**
+① Morgan Stanley는 AWS 성장의 핵심 변수를 AI 수요 자체보다 Amazon이 얼마나 많은 컴퓨팅 용량을 실제로 공급할 수 있는지로 판단하는 모습
+② 최신 추정에서는 Amazon이 2026년 약 8GW, 2027년에도 약 8GW의 컴퓨팅 용량을 추가할 것으로 예상돼 기존에 알려진 2026년 6GW 추정보다 공격적인 증설 전망
+③ Amazon 역시 AI 수요가 공급능력을 앞서고 있다는 입장을 지속적으로 밝혀온 만큼, 향후 추가 데이터센터·전력 용량이 확보될수록 대기 중인 AI 수요가 AWS 매출로 전환될 가능성이 큰 구조
+
+**3. 1W당 매출이 AWS 1조 달러 시나리오의 핵심 변수**
+① Morgan Stanley는 AWS가 현재 추가 컴퓨팅 용량 1W당 약 8달러의 매출을 창출하고 있는 것으로 추정하며, 향후 제품 성능과 가격 개선을 통해 이를 약 12달러까지 높일 가능성을 제시
+② 1W당 매출이 12달러 수준까지 올라가면서 8GW 안팎의 신규 용량이 지속적으로 추가될 경우 AWS가 2035년경 1조 달러 매출에 도달할 수 있다는 계산
+③ 다만 Amazon은 AI 투자를 위해 2026년 CapEx 전망을 약 2,200억 달러까지 확대하고 있어, 향후 투자자 입장에서는 단순 GW 증가보다 신규 전력 1W가 실제로 얼마의 AWS 매출과 이익을 만들어내는지가 투자 효율성을 판단하는 핵심 지표
+
+#트래킹 #미국주식 #아마존 #AMZN

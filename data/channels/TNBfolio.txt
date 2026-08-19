@@ -72,3 +72,12 @@ https://finance.yahoo.com/energy/articles/diesel-prices-breaking-records-3-15353
 - 러시아 정부 역시 전국 여러 지역의 주유소 연료 공급 상황이 여전히 심각한 수준임을 공식 인정했다.
 - 세계 최대 석유제품 생산국인 러시아는 국내 공급 부족을 메우기 위해 인도와 모로코 등에서 휘발유 수입을 진행했다.
 https://ukranews.com/en/news/1169292-russia-faces-another-gasoline-shortage-restrictions-imposed-in-at-least-10-regions-due-to-attacks
+
+[2026-08-19 11:44] 중국, AI 경쟁 속 Nvidia H200 칩 수입 규제 일부 완화 - Financial Times
+(by https://t.me/TNBfolio)
+- 중국 정부가 미국과의 AI 경쟁을 지원하기 위해 Nvidia의 H200 칩 소량 반입을 허용했다.
+- ByteDance와 Tencent는 최근 각각 약 1만 개의 H200 프로세서를 공급받았으며, 추가 승인도 이어질 전망이다.
+- 중국 당국은 자국 반도체 생태계 육성을 위해 대량 물량은 본토 외 지역이나 홍콩에 배치하도록 유도하고 있다.
+- Lenovo 등 주요 파트너사는 H200 기반 서버 주문 재개를 고객사에 안내했으나 국가발전개혁위원회(NDRC)의 승인 절차는 여전히 필수적이다.
+- 중국 AI 기업들은 추론 영역에서 국산 칩 사용을 늘리고 있으나 정밀한 모델 훈련을 위해서는 Nvidia 칩 의존을 지속하고 있다.
+https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7

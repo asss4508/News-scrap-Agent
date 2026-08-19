@@ -29,3 +29,13 @@
 ​SK하이닉스 노동조합이 사측과 논의 중인 임금 잠정 합의안의 최종 문구를 조율하고 있으며, 오늘(19일) 오후 조합원들을 대상으로 세부 조건을 설명할 예정이라고 협상 관계자가 밝혔습니다.
 
 https://www.reuters.com/world/asia-pacific/sk-hynix-union-finalising-preliminary-wage-deal-source-says-2026-08-19/
+
+[2026-08-19 12:30] **엔비디아 H200 칩, 소규모 물량 중국 반입 (FT 보도)**
+​
+​엔비디아(Nvidia)의 고성능 AI 반도체인 H200 칩 소규모 물량이 중국 본토에 반입되었습니다.
+
+​**바이트댄스(ByteDance)와 텐센트(Tencent)가 최근 각각 약 1만 개의 H200 칩을 공급받았으며, 다른 중국 빅테크 기업들도 추가 물량을 확보할 가능성이 있습니다.**
+
+https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/
+
+[2026-08-19 12:38] AI 성장 둔화에 대한 많은 논쟁이 있지만, **실제로는 7월 기준 OpenAI와 앤트로픽(Anthropic)의 합산 ARR(연간 반복 매출) 전년 대비(y/y) 성장률이 다시 가속화**

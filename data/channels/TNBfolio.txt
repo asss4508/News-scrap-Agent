@@ -81,3 +81,7 @@ https://ukranews.com/en/news/1169292-russia-faces-another-gasoline-shortage-rest
 - Lenovo 등 주요 파트너사는 H200 기반 서버 주문 재개를 고객사에 안내했으나 국가발전개혁위원회(NDRC)의 승인 절차는 여전히 필수적이다.
 - 중국 AI 기업들은 추론 영역에서 국산 칩 사용을 늘리고 있으나 정밀한 모델 훈련을 위해서는 Nvidia 칩 의존을 지속하고 있다.
 https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7
+
+[2026-08-19 18:47] 코스피 신용잔고
+
+[2026-08-19 18:47] 코스닥 신용잔고

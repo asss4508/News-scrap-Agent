@@ -36,3 +36,39 @@
 https://naver.me/xzHjMSdP
 
 (전문은 링크 참조)
+
+[2026-08-19 07:34] LG에너지솔루션, 미국 정부 및 방산 기업과 드론용 배터리 공급 논의 - Bloomberg
+(by https://t.me/TNBfolio)
+- LG에너지솔루션은 전기차 수요 둔화에 대응하여 미국 정부 및 주요 방산 기업들과 드론을 비롯한 무인 무기체계용 배터리 공급 논의를 진행 중이다.
+- 이번 방위산업 진출 추진은 전통적으로 방산 분야를 피해왔던 LG그룹의 전략적 전환을 의미하며, 미국의 군수품 재고 확충 및 드론 공급망 내재화 기조와 맞물려 있다.
+- LG에너지솔루션은 북미 공장 8곳 중 5곳을 에너지저장장치(ESS) 생산 라인으로 전환하는 등 AI 데이터센터 및 전력망 인프라 수요 급증에 맞춰 사업 구조를 빠르게 개편하고 있다.
+- 미국 미시간주 랜싱 합작 공장은 2027년부터 Tesla의 대용량 에너지저장장치 Megapack에 공급할 43억 달러 규모의 LFP 배터리와 Toyota Motor 공급용 니켈 배터리를 생산할 예정이다.
+- 미국 정부가 중국산 수입 드론 및 부품에 최대 100% 관세를 부과하기로 결정함에 따라 한국 배터리 기업들의 북미 시장 내 반사이익과 입지가 한층 강화될 전망이다.
+https://www.bloomberg.com/news/articles/2026-08-18/south-korea-s-lg-energy-in-talks-with-us-for-drone-batteries
+
+[2026-08-19 07:50] Anthropic, 대규모 IPO 앞두고 창업자 지배력 강화 추진 - The Information
+(by https://t.me/TNBfolio)
+- AI 스타트업 Anthropic이 대규모 IPO를 앞두고 창업자 측에 과반수 의결권을 부여하는 지배구조 개편을 추진 중이다.
+- CEO Dario Amodei와 공동 창업자들의 보유 지분율은 낮지만, 상장 후 외부 압력으로부터 경영권을 보호하기 위한 조치다.
+- 개편안에는 비경제적 특수 주식을 통해 이사회 과반수를 선임할 수 있는 독립 기구인 '장기 혜택 신탁(Long-Term Benefit Trust)'이 포함된다.
+- 공익법인(PBC) 형태를 유지하는 Anthropic은 상장 성공 시 Veeva Systems를 제치고 미국 증시 최대 가치의 공익기업이 될 전망이다.
+- 신탁과 창업자 간의 구체적인 의결권 배분 구조는 향후 제출할 최종 투자설명서에서 확정될 예정이다.
+https://www.investing.com/news/stock-market-news/anthropic-moves-to-bolster-founder-control-ahead-of-megaipo--the-information-4866136
+
+[2026-08-19 08:53] 디젤 정제마진 사상 최고치 기록, 공급난 속 정유사 반사이익 전망 - Yahoo Finance
+(by https://t.me/TNBfolio)
+- 미국의 디젤 크랙 스프레드가 평소의 5배 수준인 배럴당 102.20달러로 치솟으며 사상 최고치를 경신했다.
+- 정제시설 타격과 러시아의 수출 금지 조치로 글로벌 디젤 재고가 5년 내 최저 수준으로 떨어졌다.
+- 전략비축유(SPR) 방출은 원유 중심 조치여서 정제설비 병목현상으로 발생한 정유 제품 부족을 해결하지 못하고 있다.
+- Marathon Petroleum과 Valero 등 정유사들은 정제마진 급등에 힘입어 기록적인 수익과 주주 환원을 달성했다.
+- BofA는 디젤 시장의 공급 부족 현상이 내년까지 이어지며 운송비와 식료품 등 전반적인 물가 상승 압력으로 이어질 것이라 전망했다.
+https://finance.yahoo.com/energy/articles/diesel-prices-breaking-records-3-153538803.html
+
+[2026-08-19 08:53] 러시아, 정유소 피격 여파로 휘발유 품귀 재발…최소 10개 지역 공급 제한 - 로이터
+(by https://t.me/TNBfolio)
+- 우크라이나의 정유소 드론 공격 여파로 러시아 내 최소 10개 지역에서 연료 판매 통제가 강화되며 휘발유 공급난이 재발했다.
+- 계절적 수요 성수기 속에 다수 정유 시설이 가동을 멈추면서 모스크바주를 비롯한 주요 지역 주유소에서 휘발유 품절 현상이 나타났다.
+- 상트페테르부르크 원자재 거래소의 휘발유 거래량이 전월 대비 약 20% 감소했으며, 기존 수출 금지 조치도 뚜렷한 효과를 내지 못했다.
+- 러시아 정부 역시 전국 여러 지역의 주유소 연료 공급 상황이 여전히 심각한 수준임을 공식 인정했다.
+- 세계 최대 석유제품 생산국인 러시아는 국내 공급 부족을 메우기 위해 인도와 모로코 등에서 휘발유 수입을 진행했다.
+https://ukranews.com/en/news/1169292-russia-faces-another-gasoline-shortage-restrictions-imposed-in-at-least-10-regions-due-to-attacks

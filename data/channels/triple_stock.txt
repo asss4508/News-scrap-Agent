@@ -8,3 +8,16 @@ US TREASURY SECRETARY BESSENT ON INFLATIONMARKERS ARE SAYING THAT IT WILL BE LOW
 #미국경제 #인플레이션 #베센트 #재무장관 #통화정책
 
 (Insight: @pcstfu | Source: [@marketfeed](https://t.me/marketfeed/1021964) | Disclaimer: 면책조항, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 독자에게 일체 귀속됨.)
+
+[2026-08-21 02:18] **AIDC 세미나 중 일부분 **
+
+**국내 글로벌 테넌트 유입의 3대 판별 지표:**
+1. 네이버: 200MW 고객사 계약 체결 여부
+2. SGC에너지: LOI 공식 발표 여부 
+3. GS: 동해 PF 기표 여부
+**
+각사 성격**
+a. GS = 순수 임대
+b.네이버 = 네오클라우드(운영사 시설을 임차해 GPU 서비스)
+c. SKT = 임대+네오클라우드 혼합(30MW씩 네오클라우드 테스트)
+d. SGC에너지 = 임대.

@@ -117,3 +117,21 @@ https://asia.nikkei.com/business/technology/artificial-intelligence/hyundai-bets
 - 기업 자체의 투자 덕분에 연구가 지속될 수 있었으나 근본적으로는 정부 지원 연구에 기반을 두고 있었다.
 - 이는 현 보건복지부(HHS)가 얼마나 퇴행적이며 mRNA와 백신에 대해 반대하는 입장을 취하고 있는지를 단적으로 보여준다.
 - 이러한 정책적 한계에도 불구하고 해당 백신은 명백히 수많은 생명을 구할 것이다.
+
+[2026-08-20 15:22] 일론 머스크 "mRNA 기술이 질병 치료를 소프트웨어 문제로 전환할 것" - 야후 파이낸스
+(by https://t.me/TNBfolio)
+- 일론 머스크는 인공 RNA 기술이 발전하면서 질병 치료가 생물학적 영역에서 프로그래밍 가능한 소프트웨어 문제로 진화하고 있다고 평가했다.
+- Moderna와 Merck는 흑색종 환자를 대상으로 진행한 맞춤형 mRNA 암 백신과 Keytruda 병용 임상 3상 시험에서 긍정적인 결과를 확보했다.
+- 이번 임상 성공 소식에 힘입어 암 백신 개발에 성공한 Moderna의 주가는 177% 폭등했다.
+- 일론 머스크는 인공지능과 Tesla의 Optimus 휴머노이드 로봇 기술을 결합해 인류에게 보편적이고 우수한 의료 서비스를 제공하겠다는 구상을 강조했다.
+- 유사한 mRNA 항암 치료제를 개발 중인 BioNTech와 Arcturus Therapeutics 등 관련 기업들의 주가도 시장에서 동반 급등세를 기록했다.
+https://finance.yahoo.com/healthcare/articles/elon-musk-says-mrna-tremendous-031829506.html
+
+[2026-08-20 15:40] [단독] 중국, 대만행 주요 광학·항공우주 소재 수출 제한…공급망 병목 심화 - 닛케이 아시아
+(by https://t.me/TNBfolio)
+- 중국 당국이 통관 지연과 규제 강화를 통해 게르마늄 및 석영 기반 소재 등 대만으로 향하는 핵심 광학·항공우주 원자재 수출을 지연시키고 있다.
+- 게르마늄과 석영은 열화상 렌즈와 반도체 장비 제조에 필수적인 소재로 공급 차질이 발생해 현지 기업들의 제품 리드타임이 수개월 연장되었다.
+- 모터와 첨단 로봇 구동에 필수적인 네오디뮴 영구자석 등 항공우주 소재 공급망 역시 병목 현상에 직면했다.
+- 대만 제조사들은 중국산 고정밀 대체재를 확보하지 못해 납기 일정을 맞추지 못하고 고객사 주문을 취소당하는 피해를 입었다.
+- 대만 경제부는 핵심 소재의 대중국 의존도를 낮추고 자립도를 강화하기 위해 공업기술연구원(ITRI)과 함께 3년 내 희토류 시험 생산 라인을 구축할 방침이다.
+https://asia.nikkei.com/spotlight/supply-chain/exclusive-china-slows-exports-of-key-optical-aerospace-metals-to-taiwan?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts

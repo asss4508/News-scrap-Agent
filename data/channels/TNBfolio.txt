@@ -42,3 +42,12 @@
 https://naver.me/xZKRfzYV
 
 (전문은 링크 참조)
+
+[2026-08-21 06:18] Anthropic, SpaceX 기록 넘어서는 대규모 기업공개 추진 - 블룸버그
+(by https://t.me/TNBfolio)
+- Anthropic이 사상 최대 규모의 기업공개를 기록한 SpaceX의 수치를 넘어서거나 대등한 수준의 IPO를 준비하고 있다.
+- Claude를 개발하는 Anthropic은 이르면 이달 말 공모 절차를 시작할 예정이며, 최근 투자자 대상 설명회를 진행했다.
+- 지난 5월 9650억 달러의 기업가치로 650억 달러를 조달한 Anthropic은 빠른 성장세에 힘입어 OpenAI보다 앞서 증시에 입성할 전망이다.
+- 다만 모델 개발을 위한 막대한 컴퓨팅 파워 비용으로 인해 2025년 기준 약 420억 달러의 순손실을 기록하는 등 높은 운영 비용이 과제로 남아 있다.
+- IPO 주관사로는 Morgan Stanley, Goldman Sachs, JPMorgan Chase & Co.가 참여하며, 창업자들의 경영권 방어를 위한 차등의결권 도입도 검토 중이다.
+https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it

@@ -51,3 +51,12 @@ https://naver.me/xZKRfzYV
 - 다만 모델 개발을 위한 막대한 컴퓨팅 파워 비용으로 인해 2025년 기준 약 420억 달러의 순손실을 기록하는 등 높은 운영 비용이 과제로 남아 있다.
 - IPO 주관사로는 Morgan Stanley, Goldman Sachs, JPMorgan Chase & Co.가 참여하며, 창업자들의 경영권 방어를 위한 차등의결권 도입도 검토 중이다.
 https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it
+
+[2026-08-21 07:34] Broadcom, Anthropic 지원 위해 600억 달러 규모 AI 부채 조달 추진 - 블룸버그
+(by https://t.me/TNBfolio)
+- Broadcom이 Anthropic 등 AI 기업의 인프라 지원을 위해 대주단과 600억 달러 이상의 부채 조달을 논의 중이다.
+- 이번 자금 조달은 선순위 보증 채권과 약 300억 달러 규모의 후순위 채권을 포함해 총규모가 최대 1000억 달러에 달할 전망이다.
+- Blackstone과 Apollo Global Management가 특수목적법인(SPV)을 통해 참여하며, 맞춤형 AI 칩을 구매해 리스하는 구조를 취한다.
+- Broadcom은 이번 거래를 통해 데이터센터 장비와 칩 공급을 확대하며 이 시장에서 Nvidia와의 경쟁력을 강화하고 있다.
+- 이번 프로젝트는 원자력 발전소 20기 발전량에 맞먹는 20GW 이상의 컴퓨팅 파워 구축을 목표로 막대한 자금을 투입한다.
+https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal

@@ -1,3 +1,100 @@
 [2026-08-21 07:05] https://youtu.be/o0o2jZMv7SY?si=tM1Yaj0okUeGEP3Z
 
 [2026-08-21 07:06] 애플이 북한산 DRAM을 조달하기 위한 셋업인거 같다네영
+
+[2026-08-21 07:48] https://n.news.naver.com/article/028/0002819506?sid=101
+
+[2026-08-21 07:48] 일본산 다음은 북한산 시그널인가영
+
+[2026-08-21 07:55] https://youtu.be/LGnBrz5nBZw?si=WxQMaeDQLxtXMtUe
+
+[2026-08-21 07:56] 골디락스가 바람직한게 아니었다네영
+
+[2026-08-21 08:08] #두산에너빌리티 #중국원전 #라이양원전 #원전공급망 #단조품
+
+**<두산에너빌리티, 중국 라이양 원전에 추가 단조품 수주>**
+
+- 두산에너빌리티는 중국 산둥성 라이양 원전 5·6호기 증기발생기용 초대형 단조품 공급계약을 Dongfang Electric 계열사들과 체결
+
+- 공급 물량은 채널헤드 4개와 튜브시트 4개 등 총 8개로, 직경 약 5m·최대 중량 130톤이며 2029년까지 납품할 예정
+
+- 라이양 원전은 CAP1400 기반 Guohe One 원자로 6기를 건설하는 사업으로, 올해 7월 5·6호기를 포함한 초기 건설계획이 중국 국무원 승인을 받음
+
+- 두산에너빌리티는 지난해 라이양 3·4호기에도 동일 단조품을 수주했으며, 창원공장의 1만7000톤 프레스와 초대형 단조기술을 기반으로 중국 원전 공급망 입지를 확대 중
+
+https://www.world-nuclear-news.org/articles/further-chinese-order-for-doosan-enerbility-forgings
+
+[2026-08-21 08:10] https://www.edaily.co.kr/news/read?newsId=02499366645549616
+
+[2026-08-21 08:10] https://n.news.naver.com/article/009/0005723793?sid=105
+
+[2026-08-21 08:11] ✅ [속보]현대차 노조, 10년 만에 전면 파업...상여금 50% 인상 등 쟁점
+
+https://n.news.naver.com/mnews/article/243/0000101944
+
+[2026-08-21 08:17] [ESS 배터리 설치 동향 - 하나증권 2차전지 김현수]
+
+'6월 ESS Battery : 북미 +76% 증가'
+
+자료 링크: https://buly.kr/90db3Ow
+
+▶ ESS 신규 설치 현황
+
+- 6월 글로벌 ESS 신규 설치량(Grid+BTM) : 50.8GWh, 전년 대비 +51% 증가
+
+▶ 누적 설치 현황(6월)
+
+- 글로벌 : 182.2GWh(YoY +40.7%)
+- 북미 : 34.5GWh(YoY +29.2%)
+- 유럽 : 22.2GWh(YoY +141.5%)
+- 중국 : 66.6GWh(YoY -2.4%)
+
+
+▶ 시사점 및 의견: 북미 가파른 성장 재개, 하반기 추가 수주 가능성
+
+- 6월 글로벌 ESS 신규 설치량(Grid+BTM)은 50.8GWh로, 전년 대비 +51% 증가했다. 2026년 누적(1-6월) 기준으로는 182.2GWh의 신규 ESS가 설치되며 전년 동기 대비 +41% 증가했다. 
+(최근 북미 출하량의 전월 데이터 사후 수정 폭이 매우 커, 이를 반영하여 6월 데이터 재 발간. 7월 데이터 역시 사후 조정 가능성 고려해 9월에 발간 예정).
+
+- 북미 시장의 6월 ESS 설치량이 전년 동기 대비 +76% 증가하며 글로벌 성장을 견인했다. 북미 ESS 상반기 누적 설치량은 +29% 증가했다.
+
+- 신규 설치량의 84%를 차지하는 전력망(Grid) ESS의 경우, 6월 42.8GWh(YoY +50%)가 신규 설치됐다. 2026년 누적(1~6월) 글로벌 Grid ESS 설치량은 136.5GWh로 전년 동기 대비 +37% 증가하며 견조한 성장세를 이어가고 있다. 북미 Grid ESS 설치량 역시 전년 동기 대비 +81% 증가했고, 유럽은 6월 2.5GWh, 누적(1~6월) 13.1GWh의 Grid ESS가 신규 설치되며 월간 및 누적 기준 모두 전년 동기 대비 세 자릿수 성장률을 기록했다. 
+
+- 한편, 8월 18일, 미국 펜실베니아 주지사는 피크전력 25MW 초과 대형 데이터센터 허가와 관련해 발전 및 송배전 관련 비용을 개발사가 부담하는 내용의 행정명령에 서명했다. 이는 지난 3월 미 연방정부가 하이퍼스케일러와 체결했던 납세자 보호서약(Ratepayer Protection Pledge)과 유사한 정책 철학을 담고 있다. 
+
+두 사안 모두 핵심은 데이터센터가 필요한 전력과 인프라를 직접 확보해야 한다는 것인데, 처음에는 이 것이 허들로 작용하겠으나, 이렇게 직접 전력을 확보하는 기업에게는 오히려 인허가 절차를 단축 시켜주는 내용이 담겨있어 향후 직접 발전 및 송배전 시설을 설치하는 규모가 대폭 확대될 것으로 판단한다. 이에 따라 데이터센터 내 발전원과 연계해 피크 수요와 계통 부담을 낮추고 백업전원 역할까지 수행할 수 있는 온사이트 ESS의 구조적 수혜가 지속될 것으로 판단한다(관련 기업 : LG에너지솔루션, 삼성SDI). 
+
+
+(컴플라이언스 승인을 득함)
+
+[2026-08-21 08:20] https://www.koreadaily.com/article/20260820130043870
+
+[2026-08-21 08:26] https://n.news.naver.com/mnews/article/366/0001187438
+
+[2026-08-21 09:02] **(Bloomberg) -- Samsung Electronics Co. plans to announce Friday a new shareholder return package that could be worth as much as 110 trillion won ($79 billion), according to a person familiar with the matter.**
+
+A board meeting is scheduled to take place around 4 p.m. local time after the close of the Korean stock market, and the company is set to disclose the details of the program shortly afterwards, the person said, asking not to be named discussing private information. 
+
+The size of the shareholder return package is expected to range between 90 trillion won and 110 trillion won, making it one of the company’s most significant capital-return initiatives, the person said.
+
+[2026-08-21 09:02] 4시에 이사회??
+
+[2026-08-21 09:04] 텅스텐이 확실히 상황이 좋긴 좋은가벼
+[
+Xiamen Tungsten Co: Revenue and profit surged over 80% and 127% YoY, with all core segments delivering strong growth](https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3947421:0-xiamen-tungsten-co-revenue-and-profit-surged-over-80-and-127-yoy-with-all-core-segments-delivering-strong-growth/)
+
+[2026-08-21 09:07] **에이프릴바이오, 항체 넘어 RNA 치료제로 확장…AOC·siRNA 동시 공략**
+https://www.hankyung.com/article/202608213720i
+
+[2026-08-21 10:16] #일라이릴리 #RNA추가딜
+
+일라이 릴리가 또 RNA 쪽에 손을 뻗었습니다. 원형RNA, siRNA, 이번 taRNA 등등  RNA 전반을 가져가려는 모습입니다.
+
+이번에는 Amplitude Therapeutics와 taRNA(trans-amplifying RNA) 기반 감염병 백신을 공동개발합니다. Amplitude는 ARCH Venture Partners와 Gates Foundation이 투자한 스텔스 바이오텍이고, 릴리의 Gateway Labs 입주사이기도 합니다.
+
+taRNA는 쉽게 말하면 자가증폭 RNA의 차세대 버전입니다. RNA를 복제하는 ‘엔진’과 실제 항원을 만드는 ‘설계도’를 따로 나눠 전달해서, 더 적은 용량으로도 높은 단백질 발현을 노리는 기술입니다.
+
+저는 이런 딜이 기존 RNA 기업들에 악재라고 보지는 않습니다. 오히려 반대라고 생각합니다. (오늘 빠져서 질문이 많이 들어오시길래)
+
+릴리가 특정 RNA 하나를 고르는 게 아니라 여러 종류의 RNA 플랫폼에 계속 돈을 넣고 있다는 건, 결국 빅파마가 RNA 자체를 하나의 큰 신약개발 축으로 보고 있다는 뜻이니까요.
+
+mRNA 항암백신 3상 성공에 이어 릴리까지 차세대 RNA 플랫폼을 계속 담고 있습니다. 결국 지금의 시대정신 중 하나는 ‘RNA’라는 생각이 더 강해지네요. https://www.prnewswire.com/news-releases/amplitude-therapeutics-and-lilly-enter-strategic-collaboration-to-develop-trans-amplifying-rna-vaccines-for-infectious-diseases-302855610.html

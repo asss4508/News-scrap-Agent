@@ -1,17 +1,17 @@
-[2026-08-22 09:09] 엔비디아, 한국 AI 칩 스타트업 리벨리온과 협력 및 인수 논의 - 블룸버그
+[2026-08-23 11:28] Nvidia, 메모리 가격 급등으로 AI 서버 공급가 15% 이상 인상 통보 - 블룸버그
 (by https://t.me/TNBfolio)
-- Nvidia가 한국 AI 칩 설계 기업 Rebellions와 기술 파트너십, 투자, 인수 등을 포함한 협력 방안을 논의 중이다.
-- Jensen Huang Nvidia 최고경영자가 최근 미국 산타클라라 본사에서 박성현 Rebellions 최고경영자를 만나 협력 가능성을 타진했다.
-- Rebellions는 AI 추론에 최적화된 NPU를 설계하는 스타트업으로, SK Hynix와 Samsung Ventures 등으로부터 투자를 유치한 바 있다.
-- 이번 논의는 초기 단계이며 구체적인 합의에 이를지는 불확실한 상황이다.
-- Nvidia의 시장 지배력과 한국 정부의 반도체 전략적 중요성을 고려할 때 실제 계약 추진 시 규제 당국의 심사가 변수가 될 전망이다.
-https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal
+- Nvidia의 주요 고객사들이 메모리 반도체 가격 상승 여파로 자사 AI 칩을 탑재한 서버 가격을 15% 이상 인상한다는 통보를 받았다.
+- 이번 가격 인상은 내년 초 출하하는 Vera Rubin 및 Grace Blackwell 칩 기반 시스템부터 적용될 예정이다.
+- AI 인프라 수요 급증 속에 삼성전자, SK하이닉스, Micron Technology 등 메모리 제조사의 협상력이 대폭 강화되면서 비용 상승 압박이 커졌다.
+- Microsoft, Alphabet 산하 Google, Meta 등 빅테크 기업들이 자체 칩 개발을 추진하고 있으나 데이터센터 확충을 위해 여전히 Nvidia 제품에 크게 의존하고 있다.
+- 이번 서버 가격 인상은 노동력 부족과 자본 시장 경색 등과 맞물려 글로벌 IT 기업들의 대규모 AI 데이터센터 구축 계획에 추가 부담으로 작용할 전망이다.
+https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15
 
-[2026-08-22 09:20] [단독] 중국 NAND 플래시 제조사 YMTC 모회사, 49억 달러 규모 상하이 IPO 추진 - 로이터
+[2026-08-23 12:00] 업비트, XRP와 TRUMP 거래 급증으로 시간당 거래대금 8억 3,000만 달러 돌파 - 비인크립토
 (by https://t.me/TNBfolio)
-- YMTC의 모회사인 CCSH가 상하이 STAR Market 상장을 통해 49억 달러 규모의 자금 조달을 추진한다.
-- AI 데이터센터 수요 급증과 NAND 플래시 공급 부족이 맞물리며 YMTC의 실적이 폭발적으로 성장했다.
-- 2026년 1분기 YMTC는 333억 8천만 위안의 순이익을 달성하며 전년도 전체 수익을 이미 넘어섰다.
-- 확보한 자금은 생산 라인 고도화와 차세대 NAND 플래시 및 고속 저장장치 연구개발에 투입될 계획이다.
-- 미국의 수출 규제와 제재 리스크에도 불구하고 중국 정부의 기술 자립 기조에 따라 상장 절차를 밟고 있다.
-https://www.reuters.com/world/asia-pacific/chinese-flash-memory-chipmaker-ymtc-plans-raise-49-billion-shanghai-ipo-2026-08-21/
+- 국내 가상자산 거래소 업비트에서 1시간 동안 약 8억 3,000만 달러(약 1조 1,500억 원) 규모의 거래량이 발생하며 사상 최고치를 기록했다.
+- 이번 거래량 급증은 전체 거래 비중의 32.2%를 차지한 XRP와 10.93%를 기록한 TRUMP 토큰이 주도했다.
+- 업비트의 24시간 거래대금은 약 38억 1,000만 달러에 달했으며, 빗썸과 코인원도 각각 19억 5,400만 달러와 1억 7,200만 달러를 기록했다.
+- 이번 반등은 Ripple의 XRP Ledger 수정안 지지와 ETF 자금 유입 기대감, 그리고 Solana 기반 밈코인 회복세가 맞물린 결과다.
+- 국내 투자자들의 자금이 가상자산 시장으로 완전히 복귀한 것인지, 혹은 단기적 반등에 그칠지에 대해 시장의 관심이 쏠리고 있다.
+https://finance.yahoo.com/markets/crypto/articles/830-million-hour-xrp-trump-183700758.html

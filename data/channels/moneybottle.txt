@@ -11,3 +11,5 @@ https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-abo
 **새로운 칩은 전력효율적으로 만들어 전략당 토큰 생성량이 더 많아짐**
 
 엔비디아가 블랙웰, 베라루빈, 파인만 칩 가격 결정력을 갖는 이유
+
+[2026-08-23 15:35] Codex 리셋 예정

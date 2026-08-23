@@ -15,3 +15,12 @@ https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-abo
 - 이번 반등은 Ripple의 XRP Ledger 수정안 지지와 ETF 자금 유입 기대감, 그리고 Solana 기반 밈코인 회복세가 맞물린 결과다.
 - 국내 투자자들의 자금이 가상자산 시장으로 완전히 복귀한 것인지, 혹은 단기적 반등에 그칠지에 대해 시장의 관심이 쏠리고 있다.
 https://finance.yahoo.com/markets/crypto/articles/830-million-hour-xrp-trump-183700758.html
+
+[2026-08-23 19:39] 미국 지방 정부 공무원들, AI 데이터센터 건설 갈등으로 살해 협박 및 총격 위협 직면 - Tom's Hardware
+(by https://t.me/TNBfolio)
+- 미국 전역에서 AI 데이터센터 건설을 둘러싼 갈등이 격화되면서 찬반 여부와 관계없이 지방 정부 공무원들을 향한 살해 협박이 이어지고 있다.
+- 미시간주 마셜과 아이오와주 살릭스 등 여러 지자체 공무원들이 테러 위협을 받았으며, 일부 의원은 자택에 총격을 받거나 경찰 경호를 받고 있다.
+- 데이터센터 증설에 반대하는 여론과 안전 우려로 인해 500개 이상의 미국 지자체가 신규 데이터센터 건설을 제한하거나 모라토리엄을 선언했다.
+- 주민들의 위협과 항의가 거세지자 캔자스주 엠포리아 등 일부 지자체는 공청회를 전면 취소하고 회의를 온라인으로 전환했다.
+- 소셜 미디어 분석 결과 데이터센터 인프라 및 관련 공무원을 표적으로 한 온라인 위협 게시물이 올해 4월 이후 급증한 상태를 유지하고 있다.
+https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment

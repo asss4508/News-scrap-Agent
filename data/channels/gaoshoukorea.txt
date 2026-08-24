@@ -137,3 +137,76 @@ https://news.einfomax.co.kr/news/articleView.html?idxno=4431396
 환전 수요 아직 한참 남았다고 생각합니다.
 
 [2026-08-24 15:39] https://naver.me/GsBMlAWs
+
+[2026-08-24 16:59] **🛞 Tesla Cybercab 9월 3일 Austin 출시 행사 — 목적형 Robotaxi의 실제 서비스 투입 임박**
+
+**1. 9월 3일 Austin에서 Cybercab Launch Event 개최**
+① Tesla는 2026년 9월 3일 Austin에서 Cybercab Launch Event를 개최하며, 초청장에 “완전자율주행의 미래를 경험하라”는 문구를 넣어 실제 Cybercab 체험 가능성을 높여준 모습
+② 행사 참석자 모집을 위해 8월 17~23일 기존 Robotaxi 탑승 고객을 대상으로 추첨을 진행했으며, 탑승 횟수가 많을수록 응모 기회가 늘어나는 구조
+③ 다만 9월 3일이 일반 고객 대상 유료 Cybercab 서비스의 공식 시작일이라는 점은 아직 확인되지 않았으며, Tesla의 현재 Robotaxi 공식 페이지도 Cybercab은 향후 서비스에 투입될 차량으로 설명하는 수준 ([Tesla](https://www.tesla.com/robotaxi))
+
+**2. Cybercab은 이미 생산을 시작했고, Austin 실도로 투입 단계로 진입**
+① Tesla는 2026년 1분기부터 Cybercab 파일럿 생산을 시작했으며, 최근 Austin 공장에서 조립·배터리·드라이브유닛·사출성형 등 Cybercab 양산 관련 인력을 지속적으로 채용하는 모습
+② Reuters가 인용한 The Information 보도에 따르면 Tesla는 8월 중 Austin 공공도로에서 직원 대상 Cybercab 탑승을 시작한 뒤 테스트가 순조로우면 며칠 내 기존 Robotaxi 서비스에 차량을 추가하는 방안을 준비한 상황
+③ Cybercab은 Model Y와 달리 운전대와 페달이 없는 목적형 완전자율주행 차량인 만큼, 실제 서비스 투입은 Tesla Robotaxi가 기존 승용차 개조형에서 전용 자율주행 차량 기반으로 전환되는 첫 단계라는 의미가 큰 수준
+
+**3. 핵심은 행사 자체보다 실제 무인 서비스 규모 확대 여부**
+① Tesla의 현재 Robotaxi 서비스는 Austin·Dallas·Houston과 Miami·Orlando·Tampa 등 6개 도시에서 Model Y 중심으로 운영되고 있으며, 공식 페이지에서도 Cybercab은 아직 미래 투입 차량으로 구분된 상태
+② Tesla는 이미 Cybercab용 긴급구조 가이드와 First Responder Interaction Plan까지 공개해, 단순 프로토타입 시연을 넘어 실제 Robotaxi 서비스 투입을 위한 운영 준비가 진행되고 있음을 보여줌
+③ 따라서 9월 3일 행사에서 가장 중요한 확인 포인트는 ① Cybercab의 실제 유료 운행 시작일 ② Austin 투입 차량 수 ③ 운전대·페달 없는 상태에서 완전 무인 운행 허용 여부 ④ 다른 도시로의 확대 일정이 공개되는지 여부 ([Reuters](https://www.reuters.com/business/autos-transportation/tesla-prepares-cybercab-launch-august-starting-with-rides-employees-information-2026-08-17))
+
+#트래킹 #미국주식 #테슬라 #TSLA
+
+[2026-08-24 17:02] **🛞 Nvidia, AI 서버 가격 15% 이상 인상 가능성 — HBM 가격 급등이 차세대 시스템 가격에 전가**
+
+**1. Vera Rubin·Grace Blackwell 기반 AI 서버 가격 15% 이상 인상 가능성**
+① Nvidia가 주요 고객들에게 AI 칩이 탑재된 서버 가격이 15% 이상 오를 수 있다는 내용을 전달한 것으로 보도되며, 차세대 AI 인프라 구축비용 상승 가능성을 보여줌
+② 가격 인상 대상에는 Nvidia의 차세대 Vera Rubin과 기존 Grace Blackwell 기반 시스템이 포함되며, 실제 인상폭은 칩 세대와 메모리 구성에 따라 달라질 전망
+③ 이번 인상은 즉시 적용되는 것이 아니라 2027년 초부터 출하되는 시스템을 중심으로 반영될 가능성이 큰 상황 ([Reuters](https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22))
+
+**2. 핵심 원인은 HBM 등 메모리 가격 급등**
+① 가격 인상의 가장 큰 원인은 GPU 자체 가격보다 HBM을 비롯한 메모리 가격의 급격한 상승으로 지목되는 상황
+② AI 서버는 일반 서버보다 훨씬 많은 고성능 메모리를 필요로 하기 때문에, HBM 가격 상승이 전체 시스템 원가에 미치는 영향도 큰 구조
+③ AI 인프라 수요가 계속 빠르게 늘어나는 가운데 메모리 공급이 이를 따라가지 못하면서, Nvidia가 늘어난 부품 비용을 고객에게 전가할 수 있을 정도의 강한 가격결정력을 보여줌
+
+**3. Nvidia에는 가격결정력 확인, Hyperscaler에는 AI CapEx 부담 확대**
+① Nvidia 서버 제조사들은 이미 Microsoft·Google·Oracle 등 대형 데이터센터 운영사에 가격 인상 내용을 전달한 것으로 알려져, 가격 상승이 실제 주요 고객사의 AI CapEx로 전가될 가능성을 보여줌
+② Nvidia 입장에서는 높은 수요가 유지되는 가운데 원가 상승분을 고객에게 넘길 수 있어 매출 성장과 마진 방어 측면에서 긍정적인 신호로 해석 가능한 상황
+③ 반면 Hyperscaler 입장에서는 이미 데이터센터·전력·네트워크에 막대한 자금을 투입하는 상황에서 서버 가격까지 상승해, 향후 AI 투자의 투자수익률과 자본효율성에 대한 시장의 검증이 더욱 중요해지는 구조
+
+#트래킹 #미국주식 #엔비디아 #NVDA
+
+[2026-08-24 17:06] 🛞 **Alphabet·Marvell 장기 AI 반도체 제휴 — TPU 공급망 다변화와 Nvidia 의존도 축소**
+
+**1. Google, Marvell과 TPU 생태계 전반의 맞춤형 반도체 장기 협력**
+① Google과 Marvell은 2026년 7월 29일 Google의 TPU 생태계에 연결되는 맞춤형 반도체를 공동 개발하는 장기 상업계약을 체결한 상황
+② 협력 범위에는 AI 추론 가속기, 스토리지 컨트롤러, 네트워크 인터페이스 컨트롤러, 메모리 인터페이스 컨트롤러, Near-Memory Compute 등이 포함돼 단순 TPU 칩 한 종류보다 훨씬 넓은 구조
+③ 이는 Google이 자체 TPU를 중심으로 AI 데이터센터의 연산·메모리·네트워크까지 수직적으로 최적화하고, 특정 공급사에 대한 의존도를 낮추려는 전략을 보여줌 ([Marvell](https://investor.marvell.com/sec-filings/all-sec-filings/content/0001193125-26-356217/d412696d8k.htm))
+
+**2. 최대 122억 달러 규모 워런트, Google의 구매량과 연동된 구조**
+① Marvell은 이번 협력과 함께 Google에 주당 206.58달러로 최대 5,897만907주의 Marvell 주식을 살 수 있는 워런트를 부여해, 전량 행사 시 약 122억 달러 규모에 해당하는 수준
+② 이 가운데 약 136만주는 첫 1년 동안 시간 경과에 따라 부여되지만, 나머지 대부분은 Google이 Marvell 제품을 얼마나 구매하느냐에 따라 단계적으로 부여되는 구조
+③ 구체적으로 Google의 Marvell 맞춤형 제품 구매매출이 5억 달러씩 발생할 때마다 240개 트랜치 중 하나가 부여되며, 조건상 최대 약 1,200억 달러의 누적 구매까지 연결될 수 있어 장기 협력 강도가 매우 큰 수준 ([Reuters](https://www.reuters.com/technology/marvell-grants-google-122-billion-stock-warrant-custom-chip-deal-2026-08-19))
+
+**3. 핵심은 Nvidia를 완전히 대체하는 것이 아니라 AI 공급망의 선택지를 늘리는 것**
+① Google은 이미 Broadcom과 오랫동안 TPU를 공동 개발해 왔으며, 이번 Marvell 제휴는 기존 파트너를 단번에 대체하기보다 TPU 공급망을 다변화하고 협상력을 높이는 전략으로 해석되는 모습
+② 자체 ASIC인 TPU를 확대하면 범용 Nvidia GPU보다 특정 AI 연산에 맞춘 비용·전력 효율을 높일 수 있어, 장기적으로 Google의 AI 인프라 원가를 낮추는 데 도움이 될 가능성이 큰 구조
+③ 다만 Nvidia GPU는 범용 AI 학습과 CUDA 생태계에서 여전히 핵심 위치를 차지하고 있어, 이번 계약은 Nvidia를 제거하는 전략이라기보다 TPU·Nvidia GPU·다수 공급사를 병행하는 멀티칩 전략을 강화하는 움직임으로 보는 것이 적절한 수준
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL #엔비디아 #NVDA
+
+[2026-08-24 17:43] 서진시스템은
+또 전환사채를 발행하는군요
+
+ㅡㅡㅡㅡㅡㅡㅡ
+
+발행금액 : 375억(전체대비 : 1.74%)
+발행방법 : 사모
+전환가액 : 33,255원(현재가 : 38,150원)
+최저조정 : -
+표면이율 : 2.0%
+만기이율 : 5.0%
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824000269
+
+[2026-08-24 17:47] 서진시스템 금융부채

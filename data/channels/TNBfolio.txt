@@ -58,3 +58,12 @@ https://www.reuters.com/markets/commodities/hormuz-crude-volume-debate-masks-rea
 - 미국 유권자의 61%가 거주지 인근 데이터센터 건설에 반대하면서 전력 및 용수 과소비 문제가 핵심 정치적 쟁점으로 부상했다.
 - 지역사회의 반발과 인허가 지연이 지속될 경우 AI 인프라 투자 속도가 둔화해 미국 경제 전반에 큰 타격을 줄 전망이다.
 https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash
+
+[2026-08-24 12:58] 미국 국제무역위원회(USITC), 한중 배터리 경쟁 심화 속 원통형 배터리 특허 침해 조사 착수 - DIGITIMES
+(by https://t.me/TNBfolio)
+- 미국 국제무역위원회(USITC)는 LG에너지솔루션이 제기한 관세법 337조 위반 혐의에 따라 원통형 배터리 및 부품에 대한 특허 침해 조사에 착수했다.
+- 이번 조사는 중국 EVE Energy와 독일 Robert Bosch, 일본 Koki Holdings 등 복수의 글로벌 제조 및 유통사를 피신청인으로 지정했다.
+- LG에너지솔루션은 미국 내 특허를 침해한 원통형 배터리 제품의 수입 금지와 판매 중단 명령을 요청했다.
+- EVE Energy는 2026년 상반기 출하량이 전년 대비 51.7% 급증하는 등 글로벌 원통형 배터리 시장에서 한국 기업을 빠르게 추격하고 있다.
+- USITC는 조사 개시 후 45일 이내에 최종 판정 일정을 확정할 예정이며, 이번 결정은 글로벌 배터리 공급망 전반에 큰 영향을 미칠 전망이다.
+https://www.digitimes.com/news/a20260824VL200/investigation-north-america-lges-nanjing-policy.html

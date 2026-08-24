@@ -232,3 +232,25 @@ https://www.techm.kr/news/articleView.html?idxno=154551
 공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800095
 최근계약 : https://www.awakeplus.co.kr/board/contract/010120
 회사정보: https://finance.naver.com/item/main.nhn?code=010120
+
+[2026-08-24 12:23] **엔비디아, 300억 달러 이상의 기업가치로 퍼플렉시티 투자 논의**
+
+해당 논의에 정통한 관계자들에 따르면, **엔비디아(Nvidia)는 AI 스타트업 퍼플렉시티(Perplexity)의 기업가치를 300억 달러 이상으로 평가하는 지분 투자 라운드 참여를 논의**하고 있습니다. **이번 펀딩 라운드는 수십억 달러 규모에 달할 것으로 보이며, 직전 투자 유치 대비 기업가치가 50% 이상 상승할 전망**입니다.
+
+https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal
+
+[2026-08-24 13:41] **전력이 부족합니다.**
+
+**AI 칩 수요로 인한 글로벌 전력 수요는 2033년까지 사상 최고치인 약 315기가와트(GW)로 급증할 것으로 전**망됩니다.
+
+이는 2025년 대비 1,100% 이상 증가한 수치입니다.
+
+미국은 이러한 신규 AI 전력 수요의 약 64%(약 200GW)를 차지할 것으로 예상됩니다.
+
+**한편, AI 데이터 센터는 전력 인프라에도 막대한 부담을 주고 있습니다.
+**
+모델 학습 중 수십만 개의 GPU가 동시에 켜지고 꺼지면서, 전력 사용량이 설계 용량보다 최대 50%까지 치솟을 수 있습니다.
+
+이러한** 급격한 전력 변동은 배터리, 발전기, 냉각 시스템 등 주요 인프라의 마모를 가속화하여 유지보수 및 교체 비용을 증가**시킵니다.
+
+https://x.com/KobeissiLetter/status/2091609670297485728?s=20

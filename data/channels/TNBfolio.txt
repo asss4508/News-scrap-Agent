@@ -67,3 +67,21 @@ https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash
 - EVE Energy는 2026년 상반기 출하량이 전년 대비 51.7% 급증하는 등 글로벌 원통형 배터리 시장에서 한국 기업을 빠르게 추격하고 있다.
 - USITC는 조사 개시 후 45일 이내에 최종 판정 일정을 확정할 예정이며, 이번 결정은 글로벌 배터리 공급망 전반에 큰 영향을 미칠 전망이다.
 https://www.digitimes.com/news/a20260824VL200/investigation-north-america-lges-nanjing-policy.html
+
+[2026-08-24 14:22] 알리바바와 YMTC의 자금 조달 여파로 중국 테크주 하락 - 블룸버그
+(by https://t.me/TNBfolio)
+- 알리바바와 YMTC의 대규모 자금 조달 계획이 발표되면서 공급 우려가 부각되어 중국 테크주가 하락 압력을 받았다.
+- 삼성전자는 주주 환원 계획에 대한 시장의 기대치에 미치지 못하면서 서울 증시에서 큰 폭으로 하락했다.
+- 알리바바는 홍콩 증시에서 대규모 신주 발행 계획을 공개한 후 급락세를 기록했다.
+- 글로벌 시장은 잭슨홀 미팅에서 나올 연방준비제도 의장의 발언과 엔비디아의 실적 발표를 앞두고 관망세를 보였다.
+- 인공지능 투자 붐의 지속 가능성에 대한 우려와 함께 하드웨어 비용 상승이 기업들의 투자 수익률을 압박하고 있다.
+https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes?srnd=live-events-v2
+
+[2026-08-24 15:23] 삼양바이오팜 mRNA 암백신 전달 플랫폼 기술 주목 속 주가 급등 - 데일리메디
+(by https://t.me/TNBfolio)
+- 삼양바이오팜이 자체 개발한 mRNA 암백신 전달체 플랫폼 나노레디의 비임상 연구 성과를 국제학술지에 표지 논문으로 게재했다.
+- 나노레디는 수지상세포를 표적해 기존 LNP 대비 최대 20배 많은 mRNA를 탑재하며 반복 투여 시 안전성을 개선했다.
+- 미리 제조한 전달체에 맞춤형 mRNA를 혼합하는 방식으로 환자 개인맞춤형 암백신을 신속하게 생산할 수 있다.
+- Moderna와 MSD의 맞춤형 암백신 임상 3상 성공 소식이 전해지며 mRNA 플랫폼을 보유한 삼양바이오팜 주가는 상한가를 기록했다.
+- 회사는 향후 연구개발 영역을 In vivo CAR-T 및 중추신경계 치료제로 확장하고 글로벌 기술이전을 본격 추진할 계획이다.
+https://www.dailymedi.com/news/news_view.php?wr_id=939662

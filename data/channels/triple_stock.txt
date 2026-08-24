@@ -1,169 +1,94 @@
-[2026-08-24 10:22] **●이번주 미국시장 반도체 섹터 대전환 전망**
-
-* 아래 내용은 개인적인 이번주 시나리오입니다. 참고만 해주세요. 
-
-지난주까지 미국 반도체는 꽤 답답했습니다. AI 사이클 우려가 다시 커졌다기보다 금리, 유가, 옵션 수급이라는 세 가지 변수가 동시에 반도체에 불리하게 작용한 영향이 컸다고 봅니다.
-
-그런데 이번 주부터는 이 세 가지 변수가 하나씩 반대로 움직일 수 있는 구간에 들어갑니다. 저는 이번 주를 AI 인프라의 상대강도가 다시 살아나는 변곡점으로 보고 있습니다.
-
-**1. 지난주 옵션만기일과 수급 전환**
-
-지난 금요일 8월 21일은 미국 월간 옵션만기일이었습니다. 옵션만기 전후에는 델타, 감마 헤지와 포지션 롤오버가 겹치면서 펀더멘털보다 수급이 주가를 강하게 지배하는 구간이 만들어질 수 있습니다.
-18일 이후 반도체는 금리 상승과 함께 차익실현 압력이 강했던 것도 옵션만기일의 영향이 컸다고 판단합니다.
-
-제가 중요하게 보는 것이 SW 대비 HW 상대강도입니다. 올해초 대비 이 상대강도는 6월 22일 134.9%였던게 7월 29일에는 67.0%까지 하락했고, 8월 21일에도 74.9%에 불과합니다.
-
-6월 22일 고점과 7월 29일 저점의 절반 수준인 101% 수준 아래에서는 AI 인프라의 비중을 높게 가져가는게 유리하다는 전략이고, 현재는 70% 수준 근방이기 때문에 AI 인프라의 전환점을 노릴 시점입니다.
-
-**2. 미국-이란 전환과 매크로 지표 전환**
-
-지난 반도체 조정에서 가장 부담스러웠던 변수는 결국 유가 -> 인플레이션 -> 장기금리였습니다.
-
-미국이 군사적 압박보다 베센트의 대규모 경제제재를 전면에 내세우는 가운데, 페제시키안 대통령은 외교적 해결을 공개적으로 강조하고 있습니다. 반면 외무장관과 강경파는 제재에 맞서겠다는 입장이어서 아직 이란 내부가 합의된 것은 아닙니다. 다만 호르무즈에서는 2주 전 약 40척에서 지난주 약 200척으로 선박 통행이 급증했고, 이란이 이라크 유조선의 통과까지 허용했습니다. 
-
-즉, 미국은 ‘전쟁 -> 경제압박’으로 무게중심을 이동하고, 이란은 장기전과 제재 비용이 커지며 내부적으로 협상론이 부상하며, 호르무즈 통제력이라는 이란의 핵심 협상 카드까지 약해지는 흐름입니다.
-
-따라서 역TACO의 핵심은 당장 종전 선언이 아니라 제재 발표 -> 이란의 협상 복귀 -> 부분 휴전 및 호르무즈 정상화 -> 최종 합의 순으로 전개될 가능성입니다.  
-
-추가 군사공격 가능성이 낮아지고 호르무즈 리스크가 완화되기 시작한다면,
-이란 긴장 완화 -> 유가 안정 -> 기대인플레이션 안정 -> 장기금리 안정 -> 반도체 밸류에이션 회복이라는 연결이 가능합니다.
-
-마침 이번 주에는 PCE와 Jackson Hole까지 이어집니다. 시장은 26일 PCE와 28일 연준 의장 케빔 워시의 잭슨홀 연설을 통해 금리가 다시 올라갈 것인지 확인하게 됩니다.
-
-**3. 반도체 이벤트 소화 후, 이제 P에서 Q사이클로**
-
-Hot Chips 2026에서는 엔비디아의 Vera CPU와 Rubin GPU, 인텔의 Diamond Rapids와 Crescent Island, AMD MI400, 삼성전자 PIM, 브로드컴 Thor Ultra, 엔비디아 BlueField-4와 Spectrum-X까지 등장합니다.
-
-이어 26일 NVIDIA, 27일 Marvell 실적이 이어집니다. 
-
-저는 이번 이벤트들을 지나면 시장의 방향성이 달라질 가능성이 높다고 봅니다.
-
-그동안 시장은 AI 데이터센터 CAPEX 강도에 따라 인프라 병목의 확산 과정에 주목했습니다. Q사이클보다는 P사이클에 가까운 흐름입니다. 이제는 가격과 기대의 사이클에서 Q, 즉 출하량의 사이클로 넘어갑니다.
-
-Blackwell과 Rubin이 몇 대 출하되는지, HBM이 얼마나 필요한지, 800G/1.6T 네트워크가 얼마나 깔리는지, AI 서버가 실제로 몇 대 출하되는지가 더 중요해질 것입니다.
-
-최근 Agent 경제성이 부각되면서 AI 소프트웨어 섹터가 크게 상승했습니다. B2B 관점으로 수요가 증가하여 소프트웨어 기업들의 실적이 개선된다는 것인데, 이 논리가 이제 AI 반도체의 Q사이클로 연결될 수 있습니다. 모두가 약한 고리로 생각한 것들이 해소되기 시작한다면, 그 약한 고리에서 새로운 기회가 시작되며, 이는 큰 전환점의 시작일 수 있습니다.
-
-[2026-08-24 10:55] **HBM 수요와 TAM(골드만삭스)
-**
- - HBM 수요는 2025년 26.8억 GB에서 2028년 97.1억 GB로 약 3.6배 증가할 전망임
- - 전체 DRAM 수요에서 HBM 비중도 2025년 7%에서 2028년 14%까지 상승함
- - HBM 시장 규모는 2025년 US$33.4bn에서 2027년 US$116.3bn, 2028년 US$168.4bn으로 확대될 전망
- - **특히 2027년은 물량이 45% 증가하고 ASP도 44% 상승하면서 TAM이 108% 급증하는 핵심 변곡점**✍️**
-** - ASIC 수요 비중이 2025년 21%에서 2028년 39%로 높아져 GPU 중심의 HBM 수요 기반이 다변화되는 구간
-
-[2026-08-24 11:58] 2026.08.24 11:23:40
-기업명: 한미사이언스(시가총액: 3조 1,973억) A008930
-보고서명: 투자판단관련주요경영사항(자회사의 주요경영사항)
-
-종속회사 : 한미약품
-
-
-제목 : HM17321(LA-UCN2) 기술이전 계약 체결
-
-* 주요내용 
-※ 투자유의사항 
-동 계약은 기술이전 계약으로서, 본 계약을 통한 수익 인식은 임상시험과 품목허가 등의 성공 여부에 따라 달라질 수 있습니다. 계약 조건에 따라, 규제기관에 의한 연구ㆍ개발의 중단, 품목허가 실패 등 발생시 계약이 해지될 수 있습니다. 
- 
-1) 계약상대방: Genentech, Inc.(미국) 
- 
-2) 계약의 내용: 
-
-- CRF2 수용체를 선택적으로 활성화하는 장기 지속형 
-
- UCN2 유사체 'HM17321' 기술이전 계약 
-
-- 계약기간 중 한미약품은 제넨텍에게 연구, 개발, 
-
- 제조 및 상업화에 대한 독점적 라이선스를 부여함. 
- 
-3) 계약체결일: 2026년 08월 24일 
- 
-4) 계약기간: 로열티 기간 만료일까지 
- 
-5) 계약지역: 전 세계(대한민국 제외) 
- 
-6) 계약금액: 총 US$ 2,305,000,000 (약 3조 1,892억원) 
-
-① 계약금(Upfront): US$ 190,000,000(약 2,629억원) 
-
- 
-
-② 마일스톤(Milestone): US$ 2,115,000,000(약 2조 9,263억원) 
-
- - 임상개발, 허가, 상업화에 따른 단계별 수령 예정 
-
-③ 경상기술료(Royalty) 
-
-- 시판 후 연간 순매출액에 따라 경상기술료 수령 예정 
- 
-※ 마일스톤 및 경상기술료의 세부사항은 공개 불가 
- 
-7) 기타 투자판단에 참고할 사항 
-
-- 상기 계약금액의 원화 환산액은 2026년 08월 24일 최초 매매기준율(USD/KRW 1,383.60)을 적용한 금액임.
-
-공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800150
-회사정보: https://finance.naver.com/item/main.nhn?code=008930
-
-[2026-08-24 11:59] https://www.fnnews.com/news/202608241126233995
-
-[2026-08-24 13:11] [메리츠증권 전기전자/IT부품 양승수]
-
-▶ 矽晶圓漲價紅利又來 全系列規格漲幅一成起跳 台勝科等六壯士全笑了
-
-- 반도체용 실리콘 웨이퍼 가격이 약 3년 만에 상승 전환, 6·8·12인치 전 규격에서 10% 이상의 가격 인상이 진행
-
-- GlobalWafers에 따르면 현물뿐만 아니라 장기계약(LTA) 가격도 동반 상승하고 있으며, 원가 상승을 반영하기 위한 고객사와의 추가 가격 협상도 진행
-
-- 고객사별 협상 시점에는 차이가 있지만, 6개월마다 가격을 협상하는 일부 12인치 폴리시드 웨이퍼는 이미 새로운 인상 가격이 적용되기 시작했으며, 인상폭은 두 자릿수(약 10% 이상) 수준으로 파악
-
-- 통상 연 1회 가격을 협상하는 8인치 실리콘 웨이퍼는 2027년 가격 협상이 2026년 4분기부터 시작될 예정이며, 이 역시 두 자릿수 수준의 가격 인상 가능성을 전망
-
-- 이번 가격 상승은 AI를 중심으로 한 반도체 수요 확대에 따른 웨이퍼 사용량 증가와 수급 개선이 주요 배경
-
-- 업황 회복 기대가 확대되며 대만 실리콘 웨이퍼 밸류체인 주가도 동반 강세, Formosa Sumco·GlobalWafers·Wafer Works가 상한가를 기록하는 등 관련 업체 전반으로 매수세 확산
-
-https://buly.kr/9XNtJI4 (링크) 
-
-* 본 자료는 당사의 의견 없이 국내외 언론 보도 및 전자공시 자료를 인용한 것으로, 별도의 승인 절차 없이 제공됩니다.
-
-[2026-08-24 13:37] **엔비디아, 퍼플렉시티에 투자 논의**
-
-엔비디아가 Perplexity의 신규 투자 라운드에 참여하는 방안을 논의 중입니다. 수십억 달러 규모의 투자 유치로, 기업가치는 300억 달러 이상이 거론됩니다. 1년 전 마지막 투자 대비 50% 이상 높아진 수준입니다.
-
-Perplexity의 연환산 매출은 연초 2.5억 달러 미만에서 현재 7.5억 달러 이상으로 3배 넘게 증가했습니다. 특히 컴퓨터 작업을 자동화하는 AI 에이전트 Perplexity Computer가 성장에 기여했습니다.
-
-당초 엔비디아는 Perplexity에 수십억 달러를 지급해 일부 기술을 라이선스하고 인력을 영입하는 방안도 검토했습니다. 최근 Poolside에 60억 달러를 지급하는 등 **AI 스타트업의 기술과 인력을 확보해 자체 Nemotron 모델을 강화하는 전략의 연장선입니다.**
-
-Perplexity는 지난 3월 Nvidia의 Nemotron Coalition에도 합류했으며, 양사는 현재 하드웨어와 소프트웨어 개발을 위해 매주 여러 차례 협업하고 있습니다.
-
-**Nvidia는 중국 오픈 모델에 대응해 서방의 경쟁력 있는 오픈 AI 모델 생태계를 키우고, 이를 다시 Nvidia 칩 수요로 연결하려는 전략을 강화**하고 있습니다.
-
-- 출처: The Information
-
-[2026-08-24 18:43] **베센트 : **
-
-**"적에 대해 동원된 역사상 가장 거대한 단일 금융 공세"**
-
-**"미국은 이란의 경제 및 금융 시스템과 거래하는 국가들을 표적으로 삼을 것**"
-
-
-** 기자회견은 오늘 ET 기준 오후 1시, 한국시간 기준 오늘 자정
-
-** 개인적으로 매우 중요하게 생각하는 이벤트
-
-[2026-08-24 18:48] * 강력한 경제 제재 발표는 극단적인 군사적 옵션 행사 가능성을 일축하게 되며 유가 변동성을 축소시킬 전망
--> 현재 금리 상방을 제한시키는 요인
-
-* 시장은 베센트 풋으로 이동중 -> 베센트가 장기채 시장을 안정시킬 수 있을지에 대한 시장의 신뢰가 형성될 경우, 금리 안정과 함께 AI 및 반도체 섹터의 반등 예상
-
-**★오늘 미국시장을 변곡점으로 보는 이유**
-
-[2026-08-24 22:09] **TGA 가동. 금리 하락폭 확대**
-
-=========================
-
-~ The Treasury could use its near $1 trillion General Account to help fund its recently announced plans to increase purchases of government bonds, according to two senior Treasury officials
-
-https://www.google.com/amp/s/www.cnbc.com/amp/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html
+[2026-08-25 00:41] * 전환점은 극단적인 값과 심리에서 되돌리는게 의미있다.
+
+[2026-08-25 00:41] * 오늘 SOXX 반등 포인트에 대한 시나리오
+
+[2026-08-25 00:55] ●Semiconductors 섹터 Forward PER
+
+[2026-08-25 00:58] ●Semiconductor Equipment & Materials 섹터 Forward PER
+
+[2026-08-25 01:02] [NVIDIA Groq 3 LPX 양산 시작… Agentic AI용 초고속 추론 가속기]
+
+*발표 개요
+-NVIDIA가 8월 24일 Groq 3 LPX의 양산을 시작했다고 발표
+-Groq 3 LPX는 Interactive AI Inference Accelerator
+-NVIDIA Vera Rubin 플랫폼을 확장하는 형태로 제공
+-Agentic AI의 초고속 토큰 생성을 목적으로 설계
+-Nebius가 Groq 3 LPX를 채택하는 첫 번째 AI Cloud 사업자
+
+*Groq 3 LPX의 역할
+-Agentic AI는 하나의 작업을 완료하기 위해 수백~수천 단계의 추론을 수행할 수 있음
+-각 단계에서 대규모 토큰을 생성하기 때문에 토큰 생성속도가 Agent의 작업속도에 영향을 미침
+-Groq 3 LPX는 Vera Rubin NVL72의 추론 성능을 확장해 토큰 생성속도를 높이는 역할
+-특히 개별 사용자를 위한 토큰 생성속도인 Interactivity를 높이도록 설계
+-NVIDIA는 Context가 큰 작업과 지연시간에 민감한 Agentic AI 작업을 주요 활용처로 제시
+
+*Artificial Analysis 벤치마크
+-Groq 3 LPX는 Artificial Analysis 테스트에서 초당 3,400개의 Output Token을 기록
+-테스트 모델은 오픈소스 Agentic 모델 Gemma 4 31B
+-Context Length는 100,000 Token
+-NVIDIA에 따르면 해당 모델 기준 지금까지 기록된 가장 빠른 성능
+-Agentic Coding 및 Latency-sensitive workload를 주요 적용 사례로 제시
+
+*경쟁 플랫폼 대비 성능
+-NVIDIA는 Groq 3 LPX가 Agent와 Latency-sensitive workload에서 가장 가까운 대안 플랫폼 대비 4배 빠른 Responsiveness를 제공한다고 설명
+-Agentic Coding 작업의 경우 몇 시간이 걸리던 작업을 몇 분 단위로 수행할 수 있다고 설명
+-구체적인 비교 대상 플랫폼 이름은 보도자료에서 공개하지 않음
+
+*Agentic AI에서 필요한 두 가지 연산
+-NVIDIA는 Agentic AI가 크게 두 가지 컴퓨팅 과제를 발생시킨다고 설명
+-첫째는 대규모 Context를 효율적으로 처리하는 것
+-둘째는 매우 낮은 Latency로 Token을 생성하는 것
+-Groq 3 LPX는 이 가운데 빠른 Token Generation에 특화
+-Token 생성속도가 빨라지면 Agent가 파일 확인, 코드 작성, 테스트, Tool Call, 결과 검증, 재작업을 더 빠르게 수행할 수 있음
+
+*Vera Rubin NVL72와의 관계
+-Vera Rubin NVL72는 Training과 Inference를 모두 처리하는 AI Factory 플랫폼
+-Groq 3 LPX는 Vera Rubin NVL72를 대체하는 제품이 아니라 추론 성능을 확장하는 제품
+-Vera Rubin NVL72가 다양한 AI 연산을 처리하고 Groq 3 LPX가 초고속 Token Generation을 담당하는 구성
+-고객의 AI Factory에서 워크로드 특성에 따라 두 플랫폼을 함께 활용할 수 있도록 설계
+
+*Nebius
+-Nebius가 Groq 3 LPX를 도입하는 첫 번째 AI Cloud 사업자
+-Nebius는 자사 Production Inference Platform인 Nebius Token Factory에 Groq 3 LPX를 적용할 계획
+-개발자들은 기존 Nebius API를 그대로 이용하면서 Groq 3 LPX의 Token Generation 성능을 사용할 수 있음
+-Nebius는 별도의 새로운 Software Stack으로 Migration할 필요가 없다고 설명
+
+*Groq
+-Nebius에 이어 AI Inference Cloud 사업자 Groq도 Groq 3 LPX의 초기 도입 사업자 가운데 하나가 될 계획
+-NVIDIA 보도자료에서는 Groq와 관련된 구체적인 도입 규모나 시점을 공개하지 않음
+
+*Vera Rubin AI Factory 구성
+-NVIDIA는 Vera Rubin을 7개의 칩과 5개의 목적별 Rack을 공동 설계한 AI Factory 플랫폼이라고 설명
+-Vera Rubin NVL72와 Groq 3 LPX를 고객별 AI Factory 요구에 맞춰 활용
+-Frontier Model 개발사와 Open Model Service Provider 등을 주요 고객으로 제시
+
+*함께 사용되는 NVIDIA 인프라
+-NVIDIA BlueField-4 DPU
+-NVIDIA Vera CPU Rack
+-NVIDIA Vera BlueField-4 STX Storage
+-NVIDIA Spectrum-6 SPX Ethernet
+-NVIDIA는 이들 시스템을 함께 사용해 Multi-Agent System의 Throughput per Watt와 Inference Latency를 개선하도록 설계했다고 설명
+
+*Jensen Huang 발언
+-Jensen Huang은 Inference를 AI 성장의 핵심 동력이라고 설명
+-Grace Blackwell과 NVL72가 LLM Inference의 성능과 효율성을 크게 높였다고 언급
+-Vera Rubin에서는 Agentic AI 시대에 맞춰 워크로드별로 최적화된 AI Factory 구성을 제공한다고 설명
+-LPX는 초고속 Token Generation을 담당하는 구성이라고 설명
+
+*현재 상태
+-Groq 3 LPX는 현재 Full Production 상태
+-Nebius는 첫 AI Cloud 도입 사업자로 발표
+-Groq도 초기 도입 사업자 가운데 하나가 될 계획
+-구체적인 판매가격은 공개되지 않음
+-출하량과 고객별 주문규모도 공개되지 않음
+-NVIDIA는 일부 제품과 기능의 출시시점 및 사양이 변경될 수 있다고 명시
+
+*핵심 수치
+-Output Generation: 초당 3,400 Token
+-Benchmark Model: Gemma 4 31B
+-Context: 100,000 Token
+-Responsiveness: 가장 가까운 대안 플랫폼 대비 4배
+-Vera Rubin Platform: 7개 Chip + 5개 Purpose-built Rack
+-첫 AI Cloud 고객: Nebius
+
+링크: https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai

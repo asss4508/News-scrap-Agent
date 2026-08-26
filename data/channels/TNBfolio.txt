@@ -6,3 +6,21 @@
 - 이 치료제는 최소 한 가지 이상의 전신 치료를 받았거나 다제 요법 적용이 어려운 성인 전이성 췌장암 환자 치료에 사용된다.
 - FDA는 미충족 의료 수요가 극심한 췌장암 분야에서 환자들에게 중대한 새로운 치료 옵션을 제공하게 되었다고 밝혔다.
 https://www.biospace.com/drug-development/revmed-receives-early-fda-approval-for-groundbreaking-pancreatic-cancer-drug
+
+[2026-08-27 07:41] NuScale Power의 분기 실적보다 중요한 TVA 계약, 미국 역사상 최대 원전 계약 될 수도 - The Motley Fool
+(by https://t.me/TNBfolio)
+- Bank of America는 AI 및 데이터센터 전력 수요 급증에 힘입어 향후 원자력 에너지가 10조 달러 규모의 기회를 창출할 것으로 전망했다.
+- NuScale Power는 미국 원자력규제위원회(NRC)로부터 소형 모듈 원자로(SMR) 표준 설계 승인을 획득한 유일한 기업이다.
+- 회사는 선제적 규제 승인을 바탕으로 Tennessee Valley Authority(TVA)와 6GW 규모의 대형 프로젝트를 추진 중이며, 완공 시 세계 최대 규모의 SMR 시설이 된다.
+- 시장의 이목은 11월 5일로 예정된 3분기 실적 발표에서 TVA와의 전력구매계약(PPA) 체결 여부에 집중되고 있다.
+- 과거 프로젝트 취소 이력으로 인해 시장이 회의적인 시각을 보이는 가운데, PPA 체결을 통한 재정적 확약 확보가 실제 착공과 주가 반등의 핵심 전환점이 될 전망이다.
+https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html
+
+[2026-08-27 07:46] KEPCO와 CyrusOne, 오사카부에 2029년 완공 목표 하이퍼스케일 데이터센터 건설 - MarketWatch
+(by https://t.me/TNBfolio)
+- 일본 대형 전력사 KEPCO와 데이터센터 운영사 CyrusOne의 합작법인 CyrusOne KEP가 오사카부 미노오시에 대규모 하이퍼스케일 데이터센터를 건설한다.
+- 이번 시설은 연면적 약 3만 제곱미터 규모의 4층 건물로 조성되며, 올해 가을 이후 착공해 2029년 완공을 목표로 추진한다.
+- CyrusOne KEP는 2030년대 초까지 1조 엔 이상을 투자해 원전 1기 발전량에 맞먹는 900MW 규모의 수전 용량을 갖춘 데이터센터 인프라를 구축할 계획이다.
+- 생성형 AI 확산으로 빅테크(GAFAM)의 데이터 통신 및 대용량 전력 수요가 급증하는 가운데, KEPCO는 안정적 전력망 공급 역량을 활용해 새로운 수익원을 확보하려 한다.
+- 최근 데이터센터 증설에 따른 소음과 환경 우려로 주민 반발이 발생하는 점을 고려해, KEPCO는 주민 설명회를 열고 사전 이해를 구할 방침이다.
+https://www.marketwatch.com/story/yomiuri-kepco-cyrusone-to-build-hyperscale-data-center-in-osaka-prefecture-with-completion-planned-in-2029-15604510?mod=asia-markets

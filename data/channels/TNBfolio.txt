@@ -60,3 +60,21 @@ https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.h
 - 이번 프로젝트는 단순 도급 발주가 아닌 양국 정부 간 협력을 통해 사업을 발굴하고 기업을 매칭하는 방식으로 추진한다.
 - 정부는 공공기관 및 금융기관과 협력해 팀 코리아를 구성하고, 전략적 금융지원을 결합해 국내 기업의 미국 인프라 수주를 적극 지원할 방침이다.
 https://www.yna.co.kr/view/AKR20260826031100003?input=1195m
+
+[2026-08-26 14:06] OpenAI 자체 AI 추론 칩 Jalapeno 공개, 삼성전자 HBM4 공급 유력 - TrendForce
+(by https://t.me/TNBfolio)
+- OpenAI가 자체 설계한 첫 AI 추론용 칩 Jalapeno를 공개했으며 초기 벤치마크에서 NVIDIA의 최신 랙 시스템 대비 전력당 처리량과 지연 속도 면에서 뛰어난 효율을 입증했다.
+- 이번 칩은 Broadcom이 ASIC 설계를 맡고 TSMC의 3nm 공정에서 제조하며, 패키지당 6개의 HBM4 스택을 탑재해 216GiB 용량과 15.4TB/s의 대역폭을 구현했다.
+- 업계에서는 삼성전자가 Jalapeno에 들어가는 HBM4 메모리의 핵심 공급사 역할을 맡은 것으로 파악하고 있다.
+- Jalapeno의 대규모 양산 배치가 본격화할 경우 NVIDIA와의 확보 경쟁이 겹치면서 글로벌 HBM4 공급망 병목 현상이 한층 심화할 전망이다.
+- OpenAI는 훈련용이 아닌 추론 워크로드 효율화에 집중하고 있으며 이미 차세대 칩 개발과 테이프아웃 일정을 빠르게 추진하고 있다.
+https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/
+
+[2026-08-26 14:55] SoftBank, OpenAI 투자 자금 조달 위해 최대 200억 달러 규모 채권 발행 검토 - 블룸버그
+(by https://t.me/TNBfolio)
+- SoftBank Group이 OpenAI 투자용 대출을 차환하기 위해 100억~200억 달러 규모의 달러 및 유로화 채권 발행을 논의 중이다.
+- 이번 채권 발행으로 조달하는 자금은 올해 초 OpenAI 투자 목적으로 확보했던 400억 달러 규모의 브릿지론을 상환하는 데 주로 쓰인다.
+- 10월까지 OpenAI에 약 650억 달러를 투자할 예정인 SoftBank Group은 미국 기관 투자자 수요를 확보하기 위해 10여 년 만에 144A 규정 적용을 검토하고 있다.
+- 이번 발행 규모가 상단에 이를 경우 올해 아시아 기업이 발행한 역외 채권 가운데 최대 규모이자 SoftBank Group의 올해 두 번째 해외 채권 발행이 된다.
+- 글로벌 빅테크 기업들이 AI 데이터센터 구축을 위해 채권 시장에서 대규모 차입을 이어가는 가운데, 투자 수익성 및 신용 위험에 대한 우려도 함께 커지고 있다.
+https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing

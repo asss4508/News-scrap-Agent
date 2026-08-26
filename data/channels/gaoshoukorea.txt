@@ -172,3 +172,79 @@ KATSEYE 1위 (170,000 Unit)
 
 #엔터 #하이브 #SM #YG #JYP 
 #빌보드 #음원판매 #해외음원
+
+[2026-08-26 17:03] **🛞 비트코인 $80,000 돌파, ETH까지 동반 강세…美 장기금리 안정이 크립토 반등 촉발**
+
+**1. 비트코인, 3개월 만에 $80,000 돌파하며 8월 강한 반등**
+① 비트코인이 8월 25일 장중 $80,000을 돌파하며 약 3개월 만의 최고 수준에 도달한 모습
+② 8월 들어 상승률은 약 28% 수준까지 확대됐으며, 최근 며칠간 장기금리 하락과 달러 약세가 겹치며 상승 탄력이 크게 강화된 흐름
+③ 미국 정부가 장기금리 급등을 방치하지 않을 것이라는 기대와 달러 가치 희석 우려가 동시에 부각되며 비트코인과 금 등 희소자산으로 자금이 이동하는 모습 ([Reuters](https://www.reuters.com/business/finance/bitcoin-rises-above-80000-soft-dollar-debasement-fears-boost-momentum-2026-08-25))
+
+**2. 美 재무부 장기국채 바이백 확대가 금리·달러 하락의 촉매**
+① 미국 재무부가 장기국채 유동성 지원을 위해 1회당 바이백 한도를 20억 달러에서 최소 40억 달러로 확대하면서 30년물 국채금리가 5.34%에서 약 5.19%까지 하락한 흐름
+② 장기금리 하락은 무이자 자산인 비트코인의 상대적 기회비용을 낮추고 달러 약세를 유도하면서 크립토 등 위험자산의 투자매력을 높이는 요인으로 작용
+③ 다만 이번 바이백은 Fed가 신규 유동성을 공급하는 QE와는 다른 국채시장 유동성 관리 수단으로, 정책 자체보다 과도하게 쌓여 있던 숏 포지션을 청산시키는 촉매 역할이 더 컸다는 평가 ([CoinDesk](https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days))
+
+**3. ETF 자금 유입과 숏스퀴즈에 ETH 아웃퍼폼까지 동반**
+① 미국 현물 Bitcoin ETF에는 8월 17~21일 5거래일 동안 약 19.2억 달러의 순유입이 발생했으며, 8월 25일 직전 거래일에도 약 3.4억 달러가 추가 유입된 모습
+② 가격 급등 과정에서 최근 24시간 약 6.5억 달러의 크립토 숏 포지션이 청산되는 등 숏스퀴즈가 상승폭을 확대했지만 ETF·현물 매수도 동시에 유입돼 단순 파생상품 반등만으로 보기는 어려운 수준
+③ ETH는 최근 주간 기준 약 30% 이상 상승하며 BTC를 웃도는 흐름을 보이고 있어, 비트코인 중심의 반등이 이더리움과 주요 알트코인으로 확산되는 시장 위험선호 회복 신호
+
+#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
+
+[2026-08-26 17:06] **🛞 Nvidia 2Q27 실적 발표 임박…Rubin 전환과 AI 투자 지속성이 핵심 검증 포인트**
+
+**1. 2Q27 매출 약 920억 달러 예상, 시장 눈높이 이미 매우 높은 수준**
+① Nvidia는 8월 26일 장 마감 후 FY2027 2분기 실적을 발표할 예정이며, 회사가 제시했던 매출 가이던스는 910억 달러±2% 수준
+② 시장 컨센서스는 약 921.8억 달러로 회사 가이던스를 소폭 웃돌며, 데이터센터 매출 역시 전년 대비 큰 폭의 성장을 이어갈 것으로 기대되는 상황
+③ 실적 자체의 성장률보다 향후 분기 매출 가이던스와 약 75% 수준의 높은 매출총이익률 유지 여부가 주가 반응을 좌우할 가능성이 큰 모습 ([Nvidia](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results/default.aspx))
+
+**2. Blackwell 이후 Rubin이 다음 AI 성장 사이클을 이어갈 수 있는지가 핵심**
+① Nvidia의 차세대 Vera Rubin 플랫폼은 이미 본격 양산 단계에 진입했으며, Rubin 기반 제품은 2026년 하반기부터 AWS·Google Cloud·Microsoft·OCI 등 주요 클라우드 사업자에 공급될 예정
+② Vera Rubin은 Grace Blackwell 대비 대규모 Agentic AI 환경에서 최대 10배의 Agent 처리량 향상을 목표로 하며, GPU뿐 아니라 CPU·네트워크·스토리지까지 하나의 AI Factory 플랫폼으로 통합하는 구조
+③ 따라서 이번 실적에서는 Blackwell 수요가 유지되는 가운데 Rubin 주문이 얼마나 빠르게 확대되는지가 2027년 이후 Nvidia 성장률 둔화를 막을 핵심 검증 포인트 ([Reuters](https://www.reuters.com/business/retail-consumer/nvidia-faces-growth-test-rubin-debut-meets-ai-financing-scrutiny-2026-08-25))
+
+**3. AI CapEx 지속성뿐 아니라 ‘Nvidia가 직접 수요를 떠받치는가’에 대한 우려도 부상**
+① Microsoft·Alphabet·Amazon·Meta 등 주요 빅테크의 AI 데이터센터 투자가 계속 확대되는 가운데 Nvidia는 Wall Street 금융사들과 최대 5,000억 달러 규모의 AI 인프라 금융 생태계 구축을 추진 중
+② Nvidia가 OpenAI의 Ohio 데이터센터와 관련해 최대 1,050억 달러 규모의 보증을 제공하는 등 고객사의 자금조달까지 지원하면서, AI 수요가 순수한 최종수요인지 Vendor financing에 의해 일부 증폭되는지에 대한 논쟁이 확대되는 상황
+③ 이에 따라 이번 실적의 핵심은 단순한 매출 성장보다 Rubin 수요의 강도, 하이퍼스케일러 CapEx 지속성, Nvidia의 금융지원 없이도 AI 인프라 수요가 자생적으로 유지되는지 여부
+
+#트래킹 #미국주식 #엔비디아 #NVDA
+
+[2026-08-26 17:06] **🛞 SpaceX, 루이지애나에 1,000억 달러 투자…세계 최대 Starship 우주항 건설 추진**
+
+**1. 1,000억 달러 규모 ‘Starbase Louisiana’ 건설 추진**
+① SpaceX가 루이지애나주 Pecan Island 일대 약 12.5만 에이커 부지에 최소 1,000억 달러를 투자해 새로운 Starship 발사기지를 건설할 계획
+② 2027년 착공, 2029년 첫 발사를 목표로 하며 총 10개의 Starship 발사패드와 추진제·발전·항만·물류시설 등을 함께 구축할 예정
+③ 단순 발사장 추가가 아니라 주거·물류·에너지 인프라까지 포함한 초대형 우주산업 거점 조성 계획 ([Reuters](https://www.reuters.com/business/media-telecom/spacex-build-starship-spaceport-louisiana-2026-08-25))
+
+**2. 핵심 목적은 Starship의 연간 수천 회 대량 발사체계 구축**
+① SpaceX는 Starbase Louisiana를 향후 연간 수천 회의 Starship 발사를 지원할 수 있는 거점으로 개발할 계획
+② Starship의 완전 재사용이 현실화되면 기존 일회성 발사체보다 발사비용과 운용주기를 크게 낮출 수 있어 우주 운송의 경제성이 근본적으로 달라질 가능성
+③ 차세대 Starlink 위성 대량 배치뿐 아니라 달·화성 운송과 우주 데이터센터 구축까지 지원할 수 있어 Starship을 시험용 로켓에서 대규모 상업 운송수단으로 전환하려는 준비를 보여줌 ([FT](https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d))
+
+**3. SpaceX의 본격적인 초대형 CapEx 사이클 진입을 의미**
+① 기존 Texas Starbase가 Starship 개발·제조의 중심이라면 Louisiana 기지는 대규모 발사·운용 능력을 담당하는 형태의 지역별 역할 분담 구조가 형성될 가능성
+② 향후 Texas·Florida·Louisiana 등 복수 거점에서 Starship을 동시에 운용할 경우 SpaceX는 단일 발사기지 중심에서 전국 단위 우주수송 네트워크로 확장되는 구조
+③ 이번 1,000억 달러 투자계획은 Starlink·Starship·달·화성·우주 데이터센터를 연결하는 장기 비전을 현실화하기 위해 SpaceX가 선제적으로 물리적 CAPA를 구축하기 시작했다는 의미가 큰 뉴스 ([SpaceX](https://new.spacex.com/vehicles/starship))
+
+#트래킹 #미국주식 #스페이스X #SPCX #테슬라 #TSLA
+
+[2026-08-26 17:09] **🛞 Meta, 美 29개 주와 아동·청소년 중독성 소송 본격화…최대 2,000억 달러 제재 가능성
+
+1. 29개 주, Meta가 아동·청소년을 중독시키도록 플랫폼을 설계했다고 주장**
+① California·Colorado·Kentucky·New Jersey 등은 Meta가 Instagram과 Facebook의 추천·알림·무한 스크롤 등 기능을 통해 청소년의 사용시간을 의도적으로 늘리도록 설계했다는 주장
+② 원고 측은 이러한 설계가 불안·우울 등 청소년 정신건강 문제를 악화시켰으며, Meta가 관련 위험성을 알면서도 소비자에게 충분히 알리지 않았다고 주장하는 상황
+③ 전체 29개 주는 별도로 Meta가 13세 미만 아동의 개인정보를 부모 동의 없이 수집·사용해 연방법을 위반했다는 혐의도 제기한 상태 ([Reuters](https://www.reuters.com/business/meta-29-states-head-court-biggest-test-yet-youth-social-media-litigation-2026-08-12))
+
+**2. Mosseri 증언에서 ‘Take a Break’ 기능의 낮은 실제 사용률이 쟁점으로 부상**
+① Instagram 책임자 Adam Mosseri는 8월 25일 증언에서 사용시간이 길어진 청소년에게 휴식을 권고하는 ‘Take a Break’ 기능이 초기에는 극소수 청소년에게만 사용됐음을 인정
+② 해당 기능은 2021년 도입됐지만 청소년 계정에서 기본값으로 적용된 것은 2024년으로, 검찰 측은 Meta가 이용시간 감소를 우려해 안전조치를 적극 적용하지 않았다는 점을 문제 삼는 모습
+③ Mosseri는 청소년들이 해당 기능을 원하지 않았기 때문이라고 반박하고, Meta가 안전정보를 숨기거나 안전조치 도입을 의도적으로 지연했다는 주장도 부인하는 입장 ([AP](https://apnews.com/article/meta-trial-instagram-mosseri-1a4cd3adc495d8201e69b7236785e8d4))
+
+**3. 패소 시 최대 2,000억 달러 제재와 플랫폼 설계 변경 가능성이 핵심 리스크**
+① 원고 측 29개 주는 Meta의 아동 개인정보 수집과 소비자보호법 위반 등이 인정될 경우 민사 제재금이 최대 약 2,000억 달러에 달할 수 있다는 입장
+② 금전적 손해배상뿐 아니라 연령 확인 강화, 청소년 추천 알고리즘·알림·사용시간 관리 기능 변경 등 Instagram과 Facebook의 제품 설계 자체가 규제 대상이 될 가능성도 존재
+③ 이번 재판은 약 6주간 진행될 예정이며 Zuckerberg 등 추가 핵심 관계자 증언도 예정돼 있어, 단기 실적보다 향후 Meta의 규제비용과 청소년 대상 플랫폼 운영방식에 영향을 줄 수 있는 장기 법률 리스크가 부각되는 상황
+
+#트래킹 #미국 #메타 #META

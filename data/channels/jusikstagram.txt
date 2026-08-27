@@ -11,3 +11,27 @@ https://jusikbot.com/
 CFO 콜레트 크레스는 애널리스트와의 통화에서 엔비디아가 2028 회계연도 매출 성장률을 70%로 예상한다고 말했으며, 애널리스트들은 44%를 예상하고 있었습니다. Kress는 고객 전망이 “내년에 우리 성장률이 두 배가 될 것”이라고 말했지만, 그녀는 가이던스가 공급 제약을 반영한다고 말했습니다.
 
 CFO Colette Kress said on a call with analysts that Nvidia expects fiscal 2028 revenue growth of 70%, while analysts were expecting 44%. Kress said that customer forecasts “point to our growth doubling next year,” but she said guidance reflects supply constraints.
+
+[2026-08-27 11:48] **[엔비디아 FY2Q27 실적 내 로봇 관련 Comment]**
+
+Edge Computing (엣지 컴퓨팅)
+
+: NVIDIA DRIVE Hyperion 로보택시 지원 플랫폼 생태계 확장 - Foxconn, VinFast, Uber, HUMAIN과 전략적 협력 포함
+
+: NVIDIA Alpamayo 2 Super 공개 - 안전한 로보택시 및 자율주행차 개발을 위한 프런티어 오픈 추론 모델(상업적 이용 가능)
+
+: NVIDIA Cosmos3 출시 - 피지컬 AI를 위한 세계 최초의 완전 개방형 프런티어 옴니모델
+
+: NVIDIA Isaac GR00T 레퍼런스 휴머노이드 로봇 발표 - NVIDIA Jetson Thor와 NVIDIA Isaac GR00T 오픈 개발 플랫폼 기반의 최초 오픈 휴머노이드 로봇 레퍼런스 디자인
+
+: NVIDIA Halos for Robotics 발표 - 업계 최초의 피지컬 AI용 풀스택 안전 시스템으로, AI 컴퓨팅과 안전을 단일 통합 플랫폼으로 결합
+
+: 피지컬 AI용 오픈소스 에이전트 도구·스킬 대규모 컬렉션 공개 - 복잡한 로보틱스·자율주행·비전 AI 워크플로우를 에이전트 실행 가능 작업으로 전환
+
+============================
+
+https://nvidianews.nvidia.com/_gallery/download_pdf/6a8f4ad73d6332b41f76ab70/
+
+[2026-08-27 12:29] #에스피지 #스터디
+
+https://m.blog.naver.com/houself/224304282566

@@ -2,7 +2,9 @@ name: 모닝 스몰캡, 바이오 뉴스
 
 on:
   schedule:
-    - cron: "00 21 * * *"
+    # 매일 KST 06:13 (UTC 21:13). 정각(0분)은 전 세계 워크플로가 몰려
+    # GitHub 큐 지연이 커지므로(8/27 3시간 이상 지연), 정각에서 비켜둠.
+    - cron: "13 21 * * *"
   workflow_dispatch:
 
 jobs:

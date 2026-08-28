@@ -331,9 +331,16 @@ def pick_best_article(sent_titles):
 
     unique.sort(key=lambda x: x[2], reverse=True)
 
+    today = datetime.now(KST).date()
     for title, url, score in unique:
-        if normalize_title(title) not in sent_titles:
-            return title, url
+        if normalize_title(title) in sent_titles:
+            continue
+        # 섹션 목록 페이지엔 전날 기사가 계속 걸려있는 경우가 있어,
+        # 실제 발행일을 확인해 오늘 기사가 아니면 건너뛴다.
+        pub_date = get_article_date(url)
+        if pub_date is not None and pub_date != today:
+            continue
+        return title, url
 
     return None
 

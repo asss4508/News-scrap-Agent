@@ -1,3 +1,40 @@
 [2026-08-30 08:00] 영상재질이너무좋아요
 
 https://youtu.be/OQQYpy4l2js
+
+[2026-08-30 10:05] 🚀 **SpaceX 브리핑** (최근 7일 · 2026-08-30 09:56 KST)
+
+**1. 스페이스엑스의 터빈 블레이드 문제: 수년간의 연구, 이제는 전용 공장까지**
+- 스페이스엑스는 터빈 블레이드 관련 문제를 해결하기 위해 수년간 연구를 진행해 왔다.
+- 스페이스엑스는 터빈 블레이드 생산을 위한 전용 공장을 구축하기에 이르렀다.
+- 이 기사는 터빈 블레이드 문제가 스페이스엑스에게 장기간에 걸친 주요 기술적 과제였음을 다루고 있다.
+📰 출처: Tesla Accessories | 📅 2026-08-30 | 🔗 [원문 링크](https://www.basenor.com/blogs/news/spacexs-turbine-blade-problem-years-of-work-now-a-dedicated-factory)
+---
+
+**2. 스페이스엑스와 경쟁사들, 위성·잔해물로 혼잡해진 저궤도에서 충돌 회피 기동**
+- 저궤도 공간이 위성과 우주 잔해물로 점점 혼잡해지면서 스페이스엑스와 경쟁사들이 충돌 회피 기동을 늘리고 있다.
+- 스페이스엑스를 비롯한 여러 위성 운영 업체들이 저궤도에서 교통량 증가로 인한 충돌 위험에 직면하고 있다.
+- 저궤도 혼잡 문제는 위성 산업 전반에 걸쳐 운영 부담과 안전 우려를 높이는 주요 과제로 부상하고 있다.
+📰 출처: WSJ | 📅 2026-08-30 | 🔗 [원문 링크](https://www.wsj.com/science/space-astronomy/spacex-and-rivals-dodge-traffic-as-satellites-debris-crowd-low-earth-orbit-2a870efe)
+---
+
+**3. 모건 스탠리, 스페이스엑스의 1000억 달러 베팅에서 더 큰 이야기를 발견하다**
+- 모건 스탠리는 스페이스엑스의 기업 가치 1000억 달러 평가와 관련해 분석을 내놓았다.
+- 해당 분석은 단순한 기업 가치 평가를 넘어 스페이스엑스의 사업 전략에서 더 큰 의미를 찾고 있다.
+- 기사는 모건 스탠리가 스페이스엑스의 장기적 사업 방향에 주목하고 있음을 전하고 있다.
+📰 출처: thestreet.com | 📅 2026-08-30 | 🔗 [원문 링크](https://www.thestreet.com/investing/spacex-stock-morgan-stanley-louisiana-starbase)
+---
+
+**4. 스페이스엑스, 공모가 135달러 근처에서 거래 중 — 월스트리트 애널리스트들의 전망은?**
+- 스페이스엑스의 주가는 현재 공모가인 주당 135달러 근처에서 거래되고 있다.
+- 월스트리트 애널리스트들은 스페이스엑스 주가의 향후 움직임에 대한 전망을 제시했다.
+- 해당 기사는 스페이스엑스의 주가 흐름과 관련한 시장 분석을 다루고 있다.
+📰 출처: The Globe and Mail | 📅 2026-08-30 | 🔗 [원문 링크](https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/4340830/spacex-is-trading-near-its-135-offering-price-wall-street-analysts-say-this-is-what-happens-next/)
+---
+
+**5. 스페이스엑스 인수 이후 오픈에이아이, 커서의 모델 접근 차단**
+- 오픈에이아이는 스페이스엑스가 커서를 인수한 이후 커서의 자사 모델 접근을 차단했다.
+- 이번 조치는 스페이스엑스 인수와 직접적인 연관이 있는 것으로 보도되었다.
+- 커서는 오픈에이아이의 모델을 활용하던 인공지능 코딩 도구이다.
+📰 출처: Gagadget.com | 📅 2026-08-30 | 🔗 [원문 링크](https://gagadget.com/en/723767-openai-cuts-off-cursors-access-to-its-models-after-spacex-acquisition/)
+---

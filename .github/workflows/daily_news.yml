@@ -1,10 +1,11 @@
 name: 모닝 스몰캡, 바이오 뉴스
 
 on:
-  schedule:
-    # 매일 KST 06:13 (UTC 21:13). 정각(0분)은 전 세계 워크플로가 몰려
-    # GitHub 큐 지연이 커지므로(8/27 3시간 이상 지연), 정각에서 비켜둠.
-    - cron: "13 21 * * *"
+  # GitHub Actions의 schedule 트리거는 큐 지연이 2시간 이상 나는 경우가
+  # 잦아(정각을 비켜도 마찬가지) 매일 06:13 KST를 못 맞췄다. 대신 이 PC의
+  # Windows 작업 스케줄러가 정확한 시각에 `gh workflow run`으로
+  # workflow_dispatch를 호출해 트리거한다. schedule을 같이 두면 뒤늦게
+  # 또 돌아 중복 발송되므로 여기서는 workflow_dispatch만 남긴다.
   workflow_dispatch:
 
 jobs:

@@ -36,3 +36,141 @@
 #의교창님
 
 [2026-08-31 08:02] https://www.hankyung.com/article/2026083123557
+
+[2026-08-31 09:42] 한국에서 미국 이란 싸우나요
+
+[2026-08-31 11:58] **👋****[D-1]일 남았습니다!**
+
+💎** 재야의고수들 프리미엄 쟁곳간 3Q26 중간모집**
+
+✏️ [**쟁곳간 구독신청하기(클릭)**](https://forms.gle/7rytSeiyuRkYVy5s5)
+① 한달체험 8만원 (구독기간 : 1개월, 09/01~09/30)
+② 얼리버드 30만원 (구독기간 : 4개월, 09/01~12/31)
+(*모집기간 : ~08/31까지)
+
+#쟁곳간 #프리미엄채널
+
+[2026-08-31 13:31] https://www.busan.com/view/busan/view.php?code=2026083113165941834
+
+K9 자주포의 서유럽 첫 진출 사례
+
+[2026-08-31 14:04] 이말올 가즈아
+
+[2026-08-31 14:06] 이번달 🐑 봉?!
+
+[2026-08-31 14:15] 다같이 기도하겠습니다.
+
+[2026-08-31 14:17] 이번달만 버티면 배당도 준다 꺄악
+
+[2026-08-31 14:24] **이렇게 다시 올라설 거였으면…**
+**오전에는 왜 떨어진 거예요?**
+
+추석 현금화, 연준 금리 인상…
+9월아 계절성은 알겠는데 반도체 실적은 보고 빼자.
+
+[2026-08-31 14:27] 이제 시작했는데요? 
+
+메리츠도 한번에 오르지 않았습니다!
+
+[2026-08-31 16:59] **🌎 Nvidia 2Q27 실적발표 핵심요약 Part 1**
+
+**1️⃣ 실적 요약**
+
+**1. 전체 실적** 
+① 매출 962.21억 달러 (YoY +106%) 
+② 매출총이익 721.42억 달러 (YoY +113%) 
+③ 4개 분기 연속 YoY 성장률 가속, 15개 분기 연속 QoQ 성장 지속 
+
+**2. 수익성** 
+① 영업이익 637.34억 달러 (YoY +124%) 
+② 순이익 596.88억 달러 (YoY +126%) 
+③ 희석 EPS 2.46달러 (YoY +128%) 
+④ 매출총이익률 75.0%, 영업이익률 66.2%, 순이익률 62.0%
+
+**3. 사업부별 매출 (Market Platform 기준)** 
+① Data Center 매출 890.23억 달러 (YoY +117%) 
+— Hyperscale 매출 487.10억 달러 (YoY +102%) 
+— AI Clouds, Industrial & Enterprise 매출 403.13억 달러 (YoY +138%) 
+② Edge Computing 매출 71.98억 달러 (YoY +27%)
+
+**2️⃣ CFO 콜레트 크레스**
+
+**1. FY2Q27 사상 최대 실적, FY28에도 약 70% 성장 전망**
+① FY2Q27 매출은 960억 달러로 전년 대비 2배 이상 증가하며 매출·영업이익·EPS 모두 사상 최고치를 기록한 수준
+② 고객 수요는 내년 Nvidia 성장을 사실상 2배 수준까지 요구하고 있지만 공급 부족으로 인해 FY2028 매출 성장률을 약 70%로 전망하는 상황
+
+**2. Data Center 890억 달러, Hyperscaler CapEx 급증 지속**
+① Data Center 매출은 890억 달러(+18% QoQ)를 기록했으며 Hyperscaler 490억 달러, NeoCloud·기업 등을 포함한 ACIE 400억 달러 수준
+② 상위 5개 Hyperscaler의 CapEx는 2026년 약 8,000억 달러에서 2027년 1.3조 달러까지 증가할 전망이며 AWS도 Nvidia GPU 200만 개 추가 배치를 결정한 모습
+
+**3. Vera Rubin 생산 시작, 역대 가장 빠른 신제품 Ramp-up 기대⭐️**
+① Vera Rubin은 생산 출하를 시작했으며 모든 주요 Hyperscaler·AI Cloud·System OEM으로부터 이미 구매주문을 확보한 상황
+② Q3부터 Vera Rubin이 Data Center 매출의 약 20%를 차지할 전망으로 Nvidia 역사상 가장 빠른 신제품 Ramp-up을 예상
+
+**4. GPU에서 CPU·네트워크까지 확대하며 AI Factory당 매출 증가**
+① Nvidia의 AI Factory 매출 기회는 Hopper의 GW당 180억 달러에서 Blackwell 250억 달러, Vera Rubin 400억 달러까지 확대되는 구조
+② Vera CPU·Spectrum-X·Groq LPU까지 제품군을 넓히면서 GPU 단품 판매에서 Full-stack AI Factory 플랫폼으로 Data Center TAM을 확대하는 모습
+
+**5. Non-Hyperscaler가 새로운 대형 성장축으로 부상**⭐️
+① ACIE 매출은 400억 달러(+25% QoQ, +138% YoY)로 Hyperscaler보다 빠르게 성장했으며 NeoCloud 설치 Capacity도 2026년 말 8GW까지 확대될 전망
+② 장기적으로 Sovereign·NeoCloud·Enterprise·Edge 등을 포함한 **N**on-Hyperscaler가 Data Center 사업의 약 절반을 차지할 것으로 전망
+
+**6. AI Labs 금융지원 확대, 내년 매출의 약 25% 기여 전망**
+① Nvidia는 Frontier AI Labs에 약 500억 달러를 투자했으며 글로벌 자산운용사들과 5,000억 달러 이상의 제3자 인프라 자본 조달체계를 구축하는 중
+② Nvidia가 Balance Sheet를 활용해 지원하는 AI Labs 수요만으로도 내년 전체 사업의 약 25%를 차지할 전망
+
+**7. OpenAI, 약 12GW 규모 Nvidia Compute 확보**
+① OpenAI의 기존 및 향후 계약은 약 12GW의 Nvidia Compute에 해당하며 4.25GW 규모 PORTS-Pike 부지 한 세대에 약 150만 개 GPU를 배치할 수 있는 수준
+② Nvidia는 순환금융 우려에 대해 GPU가 다른 고객에게 재배치 가능한 자산이며 OpenAI의 수요와 성장성을 감안하면 투자 위험이 제한적이라는 입장
+
+**8. 메모리 가격 급등으로 단기 Gross Margin 하락 예상**
+① Gross Margin은 Q2 75%에서 Q3 74%, Q4 71~72%까지 하락할 전망이며 메모리 가격 급등이 주요 원인
+② 가격 인상 효과가 반영되면서 FY2028에는 72~73% 수준으로** **회복·안정화될 것으로 예상
+
+**9. Q3 매출 1,080억 달러, FY28 말까지 공급부족 지속 전망**
+① FY3Q27 매출 가이던스는 1,080억 달러±2%이며 중국 Data Center Compute 매출은 전혀 포함하지 않은 전망
+② 공급능력을 계속 확대하더라도 수요를 충족하기 어려워 최소 FY2028 말까지 Supply Constraint가 이어질 것으로 예상
+
+#실적발표 #미국주식 #엔비디아 #NVDA
+
+[2026-08-31 17:02] **🌎 Nvidia 2Q27 실적발표 핵심요약 Part 2**
+
+**3️⃣ Q&A 하이라이트**
+
+**1. FY28 +70% 성장 가이던스는 수요가 아니라 공급능력 기준**
+① Nvidia는 FY2028 수요 증가율이 100%에 가까운 수준이지만 현재 확보한 공급능력을 기준으로 약 70%의 매출 성장을 자신 있게 제시한 상황
+② Land·Power·Shell부터 반도체·메모리·냉각까지 전체 공급망이 제약요인이며 추가 Capacity 확보 시 성장률이 더 높아질 수 있음을 보여줌
+
+**2. Agentic AI 확산으로 기존 AI보다 Compute 사용량 급증**⭐️
+① AI Agent는 추론·계획·도구 사용을 반복하기 때문에 사람이 직접 AI를 사용하는 방식보다 약 15~100배 많은 Compute가 필요하다는 설명
+② 향후 기업마다 수십만~수백만 개의 AI Agent가 24시간 작동하게 되면서 Agentic AI가 Nvidia Compute 수요를 구조적으로 확대하는 핵심 동력이라는 전망
+
+**3. Hyperscaler 밖 시장이 Nvidia 성장의 절반을 담당⭐️**
+① 투자자들이 주로 보는 Hyperscaler는 Nvidia 기회의 절반에 불과하며 Enterprise·NeoCloud·Sovereign AI 등을 포함한 ACIE가 나머지 절반을 차지하는 구조
+② 이들 고객은 자체칩보다 완성된 AI Factory를 필요로 해 Nvidia의 Full-stack 플랫폼 경쟁력이 더욱 크게 작용하며 해당 시장이 연간 약 100% 성장하는 모습
+
+**4. Vera Rubin부터 GW당 Nvidia 매출 기회 400억 달러로 확대**
+① Nvidia가 확보하는 매출 기회는 Hopper의 GW당 180억 달러 → Grace Blackwell 250억 달러 → Vera Rubin 400억 달러로 지속 확대되는 구조
+② GPU뿐 아니라 CPU·NVLink·Networking·Groq 등을 함께 공급하면서 고객의 AI Data Center 투자에서 Nvidia가 가져가는 Wallet Share가 세대마다 확대되는 모습
+
+**5. 자체 AI칩 확대에도 OpenAI·Anthropic의 Nvidia 의존은 지속 전망**
+① OpenAI·Anthropic 등이 자체 XPU를 개발하고 있지만 대부분 특정 추론 서비스에 최적화된 칩인 반면 Nvidia는 Training부터 Agentic Inference까지 지원하는 범용 AI Factory 플랫폼이라는 차별점
+② Jensen Huang은 Frontier AI Labs가 글로벌 서비스를 확대할수록 Nvidia 인프라를 계속 활용할 것으로 전망하며 장기간 고객이자 파트너로 남을 것이라는 강한 자신감을 보여줌
+
+**6. Open Source와 Closed Model 모두 Nvidia에 긍정적**
+① 거의 모든 주요 Open Model이 CUDA·Nvidia 기반에서 작동하는 동시에 OpenAI·Anthropic 등 Closed Model의 사용량도 빠르게 증가하는 상황
+② Open Model 확산은 기업·국가·Startup의 자체 AI 구축을 촉진해 Frontier Lab을 잠식하기보다 Nvidia Compute의 새로운 수요층을 추가하는 효과
+
+**7. AI Labs 금융지원은 Compute 수요 선점 전략**
+① Nvidia는 AI Labs의 기술이나 고객수요보다 Balance Sheet와 인프라 금융능력이 성장의 병목이라고 판단해 직접 투자와 금융지원에 참여하는 전략
+② 자체칩을 개발하는 고객에게도 자금을 지원하지만 장기간 Nvidia Compute 구매와 생태계 확대를 동시에 확보할 수 있어 투자수익과 GPU 매출을 함께 얻는 구조라는 판단
+
+**8. 공급부족은 특정 부품이 아니라 전체 AI 인프라에 걸친 문제**
+① Foundry·Memory·Power·Land·Cooling 등 어느 하나가 아니라 전체 Supply Chain이 사실상 Full Capacity로 가동 중인 상황
+② Nvidia는 현재 약 70% 성장에 필요한 공급량을 확보했지만 실제 수요는 이를 크게 웃돌고 있어 FY28까지 공급능력을 얼마나 추가 확보하는지가 실적 Upside를 결정하는 핵심 변수
+
+**9. 차세대 제품에서도 GW당 매출과 Compute 밀도 지속 상승 전망**
+① Nvidia는 제한된 Land·Power 안에 최대한 많은 Compute를 넣는 것이 목표이며 Vera Rubin의 GW당 400억 달러보다 차세대 플랫폼에서는 더 높은 매출 기회를 기대하는 상황
+② 고객의 Nvidia Data Center 투자 회수기간이 1년 미만까지 내려올 정도로 경제성이 높아지고 있어 생산성과 수익성이 유지되는 한 고객의 AI 인프라 투자 확대가 지속될 것이라는 전망
+
+#실적발표 #미국주식 #엔비디아 #NVDA?

@@ -29,3 +29,14 @@ https://www.reuters.com/technology/anthropic-signs-35-billion-cloud-deal-with-nv
 - 보험사와 연기금 등 주요 기관 투자자들조차 듀레이션 확대를 꺼리면서 국채 수급 불균형에 대한 시장의 경계심이 이어지고 있다.
 - 전문가들은 장기물 금리가 고점에 근접했을 가능성을 제기하면서도 거시경제 불확실성으로 인해 당분간 높은 수준을 유지할 것으로 전망했다.
 https://www.bloomberg.com/news/articles/2026-09-01/us-30-year-bond-enters-september-on-its-worst-stretch-since-2006
+
+[2026-09-01 14:55] 2026년 미국 배터리 설치량 사상 최고치 경신 전망 - 블룸버그
+(by https://t.me/TNBfolio)
+- 미국이 지난 2분기에 사상 최대 규모의 에너지 저장 장치를 설치하며 연간 기준 역대 최고 기록을 달성할 전망이다.
+- 미국 태양광산업협회(SEIA)와 Benchmark Mineral Intelligence의 보고서에 따르면 6월 말까지 3개월 동안 20.2GWh 규모의 배터리가 설치되었다.
+- 2026년 연간 미국 내 총 배터리 설치 용량은 71GWh에 달할 것으로 집계되었다.
+- 1GW의 전력 용량은 약 75만 가구의 미국 가정에 전력을 공급할 수 있는 규모에 해당한다.
+- 전력망 안정화와 재생에너지 연계 수요가 급증하면서 미국의 에너지 저장 인프라 확충 속도가 가속화되고 있다.
+https://www.bloomberg.com/news/articles/2026-09-01/us-battery-installs-to-hit-record-in-2026-industry-report-says
+
+[2026-09-01 15:58] 8월 현대차 & 기아 판매량

@@ -142,3 +142,89 @@ https://pharm.edaily.co.kr/News/Read?newsId=02128726645575856&mediaCodeNo=257
 <이기는 투자, 지지않는 투자> 가타야마 아키라, 고마쓰바라 아마네
 
 [2026-09-01 11:17] 매크로의 영향력이 유독 크게 느껴지는 시기일수록 되새겨볼 만한 문구입니다. 예측하기 어려운 변수에 지나치게 흔들리기보다, 내가 이해할 수 있는 기업과 펀더멘털에 집중하는 것. 좋은 투자는 전망을 맞히는 능력보다, 흔들리지 않고 중심을 지키는 힘.
+
+[2026-09-01 13:14] 약속의 2시 이말올 오나요
+
+[2026-09-01 14:50] https://x.com/markminervini/status/2094407591006724563?s=20
+
+#마크미너비니
+
+[2026-09-01 14:57] 이란 페제스키안, 미국이 6월 양해각서 약속을 이행하면 테헤란도 보답할 준비가 되어 있다고 밝힘
+
+[2026-09-01 15:50] https://news.einfomax.co.kr/news/articleView.html?idxno=4432742
+
+[2026-09-01 16:59] **🛞 BitMine, ETH 590만 개 확보…5% 보유 목표 임박·스테이킹 수익 확대
+
+1. ETH 590만 개 돌파, 전체 공급량의 4.9%까지 확보**
+① BitMine의 8월 30일 기준 ETH 보유량이 5,901,112 ETH로 증가하며 전체 Ethereum 공급량 1억2,070만 개의 약 4.9%를 보유한 수준
+② 전체 공급량의 5%인 약 603.5만 ETH까지 필요한 물량은 약 13.4만 ETH에 불과해 회사가 제시한 ‘Alchemy of 5%’ 목표의 약 98%까지 도달한 상황
+③ 8월 23일 약 585만 ETH에서 일주일 만에 약 5.1만 ETH를 추가 확보하며 지난해 ETH Treasury 전략을 시작한 이후 지속적인 매입 기조를 유지하는 모습 ([PRN](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-90-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-6-billion-302864579.html))
+
+**2. 총자산 156억 달러로 증가, ETH 중심의 대형 Crypto Treasury 구축**
+① ETH 590만 개를 당시 가격 $2,511 기준 약 148억 달러 보유하고 있으며 이외에도 211 BTC와 현금·시장성 증권 5.41억 달러를 확보한 상태
+② 여기에 Beast Industries 지분 1.8억 달러, Eightco 지분 8,100만 달러 등을 포함해 Crypto·현금·시장성 증권·Moonshot 투자를 합산한 총 보유자산이 156억 달러에 도달한 수준
+③ 단순히 ETH 가격 상승에 베팅하는 기업을 넘어 압도적인 ETH 보유량을 기반으로 기관투자자가 주식을 통해 Ethereum에 간접적으로 투자할 수 있는 상장 Treasury Vehicle의 지위를 강화하는 모습 
+
+**3. 보유 ETH의 86% 스테이킹, 연간 3억 달러대 반복수익 창출**
+① 전체 보유량 가운데 5,067,309 ETH를 스테이킹해 약 86%가 이자수익을 발생시키는 자산으로 전환됐으며 당시 평가금액으로 약 127억 달러 규모
+② 최근 7일 기준 스테이킹 수익률은 연환산 2.63%로 현재 스테이킹 물량에서 약 3.35억 달러의 연간 수익이 발생할 것으로 회사가 추산한 수준
+③ 향후 보유 ETH 전체를 MAVAN 및 파트너를 통해 스테이킹할 경우 연간 보상액이 약 3.9억 달러까지 확대될 전망으로, ETH 가격 상승뿐 아니라 보유자산에서 반복적인 현금흐름을 창출하는 사업구조로 발전하는 모습
+
+#트래킹 #미국주식 #비트마인 #BMNR
+
+[2026-09-01 17:02] **🛞 비트코인, 중동 충돌·금리 부담에도 8월 20%대 상승…ETF 수급 회복이 가격 방어**
+**
+1. 중동 군사충돌에도 $77,000대 지지, 위험자산 대비 강한 방어력**
+① 미국의 이란 공격과 이란의 보복으로 Brent 유가가 $90 이상으로 상승하고 글로벌 주식시장이 약세를 보였지만 Bitcoin은 약 $77,000~$79,000 수준을 유지하며 충격을 상대적으로 잘 흡수한 모습
+② 8월 31일에도 BTC는 약 $77,580 부근에서 거래되며 당일 주식·금보다 안정적인 흐름을 보였고, 8월 전체로 약 23~25% 상승해 주요 자산 가운데 가장 강한 성과를 기록한 수준
+③ 지정학적 위험과 유가 상승이 동시에 발생했음에도 가격이 크게 무너지지 않았다는 점에서 최근 Bitcoin의 현물 수요와 투자자 위험선호가 이전보다 강해졌음을 보여줌 ([CoinDesk](https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion))
+
+**2. Bitcoin 현물 ETF, 8거래일 연속 28억 달러 순유입**
+① 미국 현물 Bitcoin ETF는 8거래일 연속 순유입을 기록하며 해당 기간에 약 28억 달러가 유입됐고, 8월 누적 순유입액도 30억 달러를 돌파한 상황
+② BlackRock의 IBIT가 최근 유입을 주도했으며, 8월 중순 약 770억 달러였던 현물 ETF 전체 순자산이 8월 말 약 990억 달러 수준까지 확대된 모습
+③ 2026년 연간 누적으로는 아직 약 25억 달러 순유출 상태지만 5~7월 유출의 절반 이상을 8월 한 달 만에 회복하며 기관 수급이 뚜렷하게 개선되는 흐름 
+
+**3. ETH ETF도 8거래일 연속 순유입, 기관 매수세가 Ethereum까지 확산**
+① 미국 현물 Ether ETF도 Bitcoin ETF와 동일하게 8거래일 연속 순유입을 기록했으며, 해당 기간 누적 유입액이 10억 달러를 돌파한 수준
+② 8번째 거래일에도 약 1.92억 달러가 추가 유입되면서 ETH 가격도 주간 기준 약 11% 상승하는 등 Bitcoin 중심이던 기관 자금이 Ethereum으로 확산되는 모습
+③ 다만 Fed의 매파적 발언 이후 9월 금리인상 가능성이 50% 이상으로 높아지고 장기금리까지 상승하고 있어, 향후 Crypto 가격은 강한 ETF 현물수요와 긴축 우려가 맞서는 구간
+
+#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
+
+[2026-09-01 17:06] **🛞 Nvidia, MediaTek에 35억 달러 투자…NVLink Fusion으로 자체 ASIC까지 Nvidia 생태계에 편입**
+
+**1. MediaTek 전환사채에 35억 달러 투자, 전략적 협력 강화**
+① Nvidia가 MediaTek이 발행한 해외 전환사채에 35억 달러를 투자하며 기존 협력관계를 단순 공급·공동개발에서 자본관계까지 확대하는 모습
+② 이번 투자는 MediaTek의 총 39억 달러 규모 전환사채 발행 가운데 대부분을 Nvidia가 인수한 구조로, 양사가 AI 인프라·PC·자동차 영역에서 장기 협력을 강화하려는 의지를 보여줌
+③ Nvidia가 최근 Marvell 등 AI 생태계 핵심 기업에 직접 투자하는 흐름을 이어가며 GPU 판매를 넘어 주변 반도체 생태계까지 영향력을 확대하는 전략 ([Nvidia](https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms))
+
+**2. NVLink Fusion 도입으로 빅테크 자체 ASIC도 Nvidia 시스템과 연결**
+① MediaTek이 NVLink Fusion을 도입해 Hyperscaler·Cloud·Frontier AI 업체들이 자체 개발한 XPU를 Nvidia의 NVLink 기반 Rack-scale AI Factory에 연결할 수 있도록 지원하는 구조
+② 고객 입장에서는 자체 ASIC을 개발하면서도 Nvidia의 CPU·Networking·Software·Rack architecture를 그대로 활용할 수 있어 개발기간과 시스템 통합 부담을 낮출 수 있는 장점
+③ Google·Amazon·Microsoft·Meta 등의 자체 ASIC 확대가 Nvidia GPU의 위협이 될 수 있지만, Nvidia는 오히려 경쟁 칩까지 NVLink에 연결해 Custom Silicon 확대에서도 플랫폼 매출을 확보하려는 전략을 보여줌
+
+**3. AI Data Center에서 PC·자동차까지 협력 범위 확대**
+① 양사는 AI 인프라뿐 아니라 RTX Spark·DGX Spark 기반 PC 칩을 여러 세대에 걸쳐 공동 개발하며 Nvidia GPU와 MediaTek SoC를 결합하는 Local AI Computing 시장을 확대할 계획
+② 자동차 분야에서도 AI 기반 Software-defined Vehicle 플랫폼 공동개발을 지속하면서 Nvidia의 Physical AI 기술과 MediaTek의 저전력 SoC·Connectivity 역량을 결합하는 구조
+③ Nvidia가 Data Center GPU 기업에서 벗어나 Cloud AI → PC AI → Automotive AI를 하나의 플랫폼 생태계로 연결하면서 Nvidia 기술이 적용되는 TAM을 지속 확대하는 모습
+
+#트래킹 #미국주식 #엔비디아 #NVDA
+
+[2026-09-01 17:09] **🛞 Amazon, FTC·22개 주로부터 광고 경매가격 조작 혐의로 피소**
+
+**1. FTC·22개 주, Amazon 광고 경매에 숨겨진 추가요금이 있었다고 주장**
+① FTC와 미국 22개 주가 Amazon이 2019년부터 광고 경매에 ‘Soft Reserve Price’라는 비공개 최소가격을 추가해 광고비를 인위적으로 높였다고 주장한 상황
+② Amazon은 광고주에게 일반적인 GSP(Generalized Second-Price) 경매처럼 설명했지만 실제로는 내부적으로 계산한 가상의 두 번째 입찰가격을 적용했다는 것이 FTC의 핵심 주장
+③ FTC는 이러한 방식이 광고주 간 실제 경쟁만으로 형성되는 가격보다 높은 금액을 지불하게 만든 숨겨진 광고비 할증 구조였다고 판단한 모습 ([FTC](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme))
+
+**2. 100만 개 이상 광고주에 영향, 피해 규모 200억 달러 이상 주장**
+① FTC는 7년 이상 이어진 해당 방식으로 100만 개 이상의 브랜드·판매자가 영향을 받았으며, 이 가운데 50만 곳 이상이 중소기업이라는 설명
+② FTC는 숨겨진 가격조정으로 광고주가 부담한 추가 비용이 200억 달러를 넘어 수백억 달러 수준에 달할 수 있으며 일부 비용은 소비자 가격으로 전가됐다고 주장
+③ 이번 소송에서는 금지명령과 금전적 배상 등을 요구하고 있어 패소 시 Amazon의 광고사업에 수백억 달러 규모의 재무·규제 부담이 발생할 가능성 ([Reuters](https://www.reuters.com/legal/litigation/ftc-file-lawsuit-alleging-amazon-deceived-advertisers-wsj-reports-2026-08-31))
+
+**3. Amazon은 혐의 전면 부인, 광고사업 수익성에는 잠재적 부담**
+① Amazon은 평균 클릭당 광고비가 2019~2024년 거의 오르지 않았고 검색광고의 평균 낙찰가격은 오히려 하락했다며 광고가격을 인위적으로 부풀렸다는 FTC 주장을 부인
+② 회사는 2021~2025년 광고 효율 개선을 통해 광고주에게 약 80억 달러의 비용을 절감시켰다고 반박하며 이번 소송에 적극 대응하겠다는 입장
+③ Amazon 광고사업은 2025년 매출 686억 달러에 달하는 핵심 고마진 사업인 만큼 최종적으로 경매가격 결정방식이 제한될 경우 광고 매출 성장률과 수익성에 영향을 줄 수 있는 규제 리스크
+
+#트래킹 #미국주식 #아마존 #AMZN

@@ -1597,3 +1597,264 @@ Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전�
 
 ※우라가 오지 않으면 그것은 인사이트가 아니다.
 ※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 18:11] [단기예보] 기상청 통보문
+2026년 09월 02일 (수)요일 17:00 발표□ (종합) 내일까지 남부지방 중심 소나기, 돌풍과 천둥.번개, 내일 새벽~아침 중부내륙 중심 짙은 안개 유의
+ 
+○ (오늘, 2일) 중부지방 대체로 흐리고, 남부지방과 제주도 구름많음, 
+   저녁(18~21시)까지 충남권, 남부지방, 제주도 곳에 따라 소나기,
+   내일 새벽(00~06시)까지 강원북부동해안.산지 곳에 따라 0.1mm 미만 빗방울
+ 
+○ (내일, 3일) 전국 구름많겠으나, 동해안과 제주도 대체로 흐림,
+   오전(06~12시)부터 밤(18~24시) 사이 강원동해안.산지, 경북동해안.북동산지, 제주도 곳에 따라 비,
+   오전(09~12시)부터 낮(12~15시) 사이 부산.울산.경남동부내륙 곳에 따라 비, 
+   오후(12~18시)부터 저녁(18~21시) 사이 충북남부와 전라권, 경상권내륙 곳에 따라 소나기, 
+   밤(18~24시)부터 모레 새벽(00~06시) 사이 부산.울산 곳에 따라 0.1mm 미만 빗방울
+ 
+○ (모레, 4일) 전국 대체로 맑겠으나, 강원동해안.산지와 제주도 대체로 흐림,
+   강원동해안.산지 비, 아침(06~09시)까지 제주도 곳에 따라 비, 곳에 따라 소강상태
+ 
+○ (글피, 5일) 전국 대체로 맑겠으나, 강원동해안.산지 흐림,
+   강원동해안.산지와 제주도산지 곳에 따라 비, 곳에 따라 소강상태
+ 
+○ (그글피, 6일) 전국 대체로 맑으나, 강원동해안.산지와 경상권, 제주도 대체로 흐림,
+   강원동해안.산지와 경북북부동해안.북동산지, 제주도 곳에 따라 비
+
+* 소나기에 의한 예상 강수량(2일)
+- (충청권) 대전.세종.충남남부: 5~10mm
+- (전라권) 광주.전남: 5~40mm/ 전북동부: 5~20mm
+- (경상권) 대구.경북: 5~60mm/ 울산.경남내륙: 5~50mm
+- (제주도) 제주도: 5~20mm
+
+* 예상 강수량(3일)
+- (강원도) 강원동해안.산지: 5~10mm
+- (경상권) (2~3일)울릉도.독도: 10~40mm/ 부산.울산.경남동부내륙, 경북동해안.북동산지: 5~20mm
+- (제주도) 제주도: 5~20mm
+
+* 소나기에 의한 예상 강수량(3일)
+- (충청권) 충북남부: 5~20mm
+- (전라권) 광주.전남: 5~40mm/ 전북동부: 5~30mm
+- (경상권) 경남내륙: 5~40mm/ 대구.경북내륙: 5~30mm 
+
+* 예상 강수량(4일)
+- (강원도) 강원동해안.산지: 5~10mm
+- (제주도) 제주도: 5~20mm
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-09-02 18:20] 생각들(시장)
+
+📝 핵심적 본문 요약
+양시장은 박스권 조정을 받았으나 후공정 장비 및 소모품 관련주가 강세를 보였다. 삼성전자 베트남 후공정 장비 투입 소식과 대신증권 보고서 영향으로 디아이, 엑시콘 등 테스트 장비주가 급등했고, 소켓·프로브카드 등 소모품 기업도 동반 상승했다. 인스플로는 신고가를 경신했으며, 저스템과 드림텍도 강세를 나타냈다.  (#너쟁이 #chcmg2022)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/chcmg2022/224398768385)
+✨(In)sight
+최근 반도체 후공정 장비 및 소모품 섹터는 삼성전자의 베트남 투자 모멘텀과 국내 증권사 보고서 발간으로 강한 주가 연속성을 보여주고 있다. 이는 단순 테마성 움직임이 아니라, 첨단 패키징 수요 증가에 따른 실적 성장 기대가 반영된 결과로 판단된다. 특히 삼성전자향 매출 비중이 높은 기업일수록 수혜가 두드러지며, 장비 업체들의 주가 상승에 이어 소모품 업체들도 키맞추기식 상승을 보이는 점은 섹터 전체의 순환매 가능성을 시사한다. 따라서 이 섹터는 단기 조정 시 매수 기회로 활용할 만하며, 특히 후공정 장비와 소모품 밸류체인의 동반 강세가 지속될 경우 ICT·화장품 섹터에 이어 다음 신고가 갱신 섹터가 될 가능성이 높다.
+
+#후공정 #반도체장비 #삼성전자 #소부장 #테스트장비
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 19:01] 세제개편안 29일만에 수정… 보유세 부담 상한 200%→150%로
+https://www.donga.com/news/Economy/article/all/20260902/134587290/2
+
+에휴..
+
+[2026-09-02 19:38] [대신TV] 회사빚 9조 6천억 원...?ㅣ미국의 40년 홈쇼핑 제국, QVC가 파산 보호 신청을 한 이유ㅣ수요시장
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=YYaGKLOCSbk)
+
+[2026-09-02 19:57] 알테 셀온??
+
+이유는 많음. 투자자의 시계열에 따라 오히려 좋은 매수 기회가 될수도..?  (#인상주의 #gmyhhj)
+
+[📜📜📜**본문보기**📜📜📜](https://blog.naver.com/gmyhhj/224398856830)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 20:00] 📈 **요즘 많이 보는 리포트 TOP 10**
+2026-09-02 20:00 기준
+**🏆. 삼성전자, 공포가 클수록 중심을 잡자**
+미래에셋증권(2026. 08. 26.) [ [링크]](https://stock.naver.com/research/company/95868)
+조회수: 64,305 
+
+**🥈. SK하이닉스, 짙은 안개속 선명한 성장**
+미래에셋증권(2026. 08. 26.) [ [링크]](https://stock.naver.com/research/company/95869)
+조회수: 42,146 
+
+**🥉. 현대차, 2026 CID - 권역별 현지화와 사업 효율화에 집중된 목표 제시**
+한화투자증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95906)
+조회수: 19,514 
+
+**🎖️. 현대차, CID 2026: It’s a great time to be at Hyundai**
+현대차증권(2026. 08. 28.) [ [링크]](https://stock.naver.com/research/company/95922)
+조회수: 17,232 
+
+**✋. 현대차, 2026년 CEO Investor Day 핵심내용**
+하나증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95899)
+조회수: 16,319 
+
+**6️⃣. 현대차, 26년 CID, 25년 대비 주요 변화 내용**
+미래에셋증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95898)
+조회수: 15,244 
+
+**7️⃣. 현대차, CID 2026 Review: 자동차라는 본질에 집중**
+iM증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95896)
+조회수: 14,724 
+
+**8️⃣. 현대차, 2026년 CID 리뷰 & QnA 요약**
+대신증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95895)
+조회수: 13,848 
+
+**9️⃣. SK이노베이션, SKIET 흡수합병에 따른 기존 주주 보호정책 필요**
+하나증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95901)
+조회수: 13,227 
+
+**🔟. 현대차, 2026 CEO Investor Day Takeaways**
+키움증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95889)
+조회수: 12,779 
+
+──────────────
+출처: [ 📍네이버증권 리서치](https://stock.naver.com/research)
+
+Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전송됨. 따라서 나는 종목 추천 없음. 나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.
+
+[2026-09-02 20:31] [한국 시황] 26.09.02 (수) 미국-이란 공방 심화에 유가와 금리 급등하며 양시장 급락
+
+📝 핵심적 본문 요약
+미국과 이란의 무력 충돌 재개로 코스피가 3.99% 급락한 6,562.72에 마감했다. 외국인과 기관이 각각 1.9조원, 2조원 넘게 순매도했다. 국제유가가 90달러를 돌파하고 미 국채 금리가 4.8%를 넘어서며 시장에 이중 압박으로 작용했다. 반면 테스트소켓과 후공정장비 종목은 선별적 강세를 보였다. 코스닥은 2.10% 하락한 803.98을 기록했다.  (#범송공자 #jsblfwj)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/jsblfwj/224398878204)
+✨(In)sight
+美·이란 충돌 재개로 지정학적 리스크가 부각되며 국내 증시가 급락했다. 유가와 금리 동반 급등은 인플레이션 압력을 높여 성장주에 부정적이다. 이런 국면에서는 실적이 뒷받침되는 알파 종목이 부각된다. 삼성전자의 HBM4 테스트 설비 투자와 후공정 장비 발주는 검증된 수주 실적이 있는 디아이, 엑시콘 등에 우호적 환경을 조성한다. 반면 알테오젠은 대형 기술수출 계약을 체결하고도 하락 마감, 시장의 위험 회피 성향을 보여준다.
+
+#미국이란충돌 #코스피급락 #유가금리 #후공정장비 #HBM4
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 21:06] [박홍기 작가 TV 삶 테크] 금리 3.5% 되면 집값 정말 박살납니다… 자산시장 대붕괴 경고
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=pfy0HohwBTg)
+
+[2026-09-02 21:10] [Statista] 민주당, 중간선거 투표 의향에서 공화당에 앞서
+Democrats Ahead of Republicans in Midterms Voting Intentions
+
+[📜📜📜**본문보기**📜📜📜](https://www.statista.com/chart/35886/voting-intentions-us-midterm-elections/?utm_souce=Blog&utm_medium=RSS)
+중간선거를 두 달 앞둔 시점에서, 미국은 여전히 깊이 분열된 국가입니다. 대통령과 의회(모두 공화당이 장악)의 지지율은 높은 인플레이션과 현 행정부의 인기 없는 무역 정책 및 실제 전쟁들 속에서 모두 역대 최저 수준에 가깝습니다. 도널드 트럼프 대통령은 최근 인터뷰들에서 예상되는 중간선거 부진의 책임을 반복적으로 의회 공화당에게 돌리며, 그들이 자신보다 더 인기가 없다고 말했습니다.실버 불레틴이 집계하고 가중치를 적용한 데이터에 따르면, 민주당은 현재 중간선거 투표 의향에서 거의 7퍼센트포인트 앞서고 있으며, 조사 대상자의 48퍼센트가 오늘 선거가 치러진다면 민주당 후보에게 투표하겠다고 밝혔습니다. 민주당은 또한 1년 전 3퍼센트포인트 미만이었던 격차를 최근 6.6퍼센트포인트까지 확대할 수 있었습니다.민주당이 전체 득표에서 앞서고 있음에도 불구하고, 하원 의석 분포 예측은 여전히 어느 정당도 우위를 점하지 못한 접전 상태입니다. 이는 하원 의석을 전체 득표에 맞춰 조정하지 않는 미국의 투표 제도에서 예상 가능한 결과이지만, 과거와 현재의 게리맨더링 시도로 인해 그 정도가 더욱 심각해졌습니다. 이러한 시도는 양당 모두가 행했지만 일반적으로 공화당이 더 성공적으로 적용해 왔습니다. 2024년과 2026년 선거 사이, 투표권법과 관련된 소송 및 전례 없는 자발적 선거구 재획정이 미국의 선거 지도를 다시 한 번 바꾸었고, 민주당이 자발적 노력으로 맞섰음에도 불구하고 더 높은 수준으로 공화당에게 유리하게 작용했습니다.그러나 또 다른 요인은 공화당에게 불리하게 작용합니다. 정당을 오가는 부동층 유권자들은 역사적으로 중간선거에서 집권당을 버리고 현재 집권하지 않은 정당을 선호해 왔습니다. 11월을 앞둔 중간선거 여론조사도 이를 보여줍니다. 전형적인 패턴에 따라, 전체 투표 의향의 우위는 2025년 1월 도널드 트럼프의 두 번째 취임식 몇 달 만에 공화당에서 민주당으로 뒤집혔습니다.이 인포그래픽은 2026년 중간선거에서 정당 투표 의향별 미국 응답자 비율을 보여줍니다.
+With two months left to go until the midterm elections, the U.S. remains a deeply divided country. Approval ratings of the presidency and of Congress (all in the hands of Republicans) are both near all-time lows amid high inflation and the unpopular trade and actual wars of the current administration. President Donald Trump in recent interviews has repeatedly blamed Congressional Republicans for the expected midterm lull, saying they were more unpopular than him.According to data aggregated and weighted by Silver Bulletin, Democrats currently lead voting intentions for the midterms by almost 7 percentage points, with 48 percent of those surveyed saying they would vote for a Democratic candidate if the election took place today. Democrats have also been able to widen their lead – from fewer than 3 percentage points one year ago to 6.6 percentage points most recently.Despite Democrats' lead in the general vote, the projected distribution of House seats is still a toss-up with no party in the lead. While this is a likely outcome in the U.S. voting system that does not adjust House seats for the general vote, it is made more severe by past and present gerrymandering efforts – carried out by both parties but generally applied more successfully by Republicans. Between the 2024 and 2026 elections, litigation tied to the Voting Rights Act as well as unprecedented voluntary redistricting changed the U.S. electoral map once again, favoring Republicans to a higher degree even though Democrats pushed back with voluntary efforts also.Another factor disadvantages Republicans, however. Swing voters, which switch between parties, have historically abandoned the ruling party in the midterms, favoring the party not currently in power. Midterm polling in the lead up to November shows as much. In line with typical patterns, the general voting intentions lead flipped from Republicans to Democrats just a few months after Donald Trump's second inauguration in January of 2025.This infographic shows the share of U.S. respondents by party voting intention in the 2026 midterm elections.
+
+[2026-09-02 21:18] 안녕하세요. 금일 체결한 노바티스 라이선스 계약에 대해 해외 배포한 영문기사 공유드립니다.
+
+https://finance.yahoo.com/healthcare/articles/alteogen-enters-option-license-agreement-110000294.html
+
+[2026-09-02 21:46] 9.2(수) 베센트의 BOJ금리인상 강요.. 다시 한번 확인된 미국의 장기채금리 억제 의지
+
+ 베센트가 금리인상을 일본에 요구했고 일본은 네 알겠습니다.. 분부대로 합죠.. 하고 있네요 이에 따라 오늘 아시아시장은 일단 BOJ의 스탠스 변화에 따라 매크로 변수가 생겼으니 기계적으로 일단 쳐패는 모습입니다.. 하지만 그 목적이 결국 미국채권금리 사수가 목적이라면.. 다시금 정상화된다고 봐야할 것 같네요 (#버터대디 #butterdaddy)
+
+[📜📜📜**본문보기**📜📜📜](https://blog.naver.com/butterdaddy/224398947430)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 21:49] Messy.. 팀 하포드... 무질서를 두려워 하지 말고. 빠르게 기회를
+
+📝 핵심적 본문 요약
+성공은 혼란과 무질서 위에 세워진다. 자동화는 일상적 혼란을 줄이지만 예기치 못한 문제를 일으킬 수 있다. 알고리즘 의존은 판단력을 떨어뜨리고 악순환을 만든다. 인간은 질서를 선호하지만 세상은 본질적으로 복잡하고 무질서하다. 즉흥성과 다양성이 중요한 해결책이 된다.  (#솔로몬 #tama2020)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/tama2020/224398931180)
+✨(In)sight
+시장은 질서를 선호하지만, 실제 수익은 무질서한 환경에서 창출된다. 주식투자클럽 사례처럼 불편한 토론과 다양한 관점이 높은 수익률로 이어졌다. 알고리즘 의존도가 높아질수록 판단력이 저하되며, 이는 예측 불가능한 시장에서 특히 위험하다. 투자에 성공하려면 복잡한 목표보다 단순한 경험 법칙과 다양한 인적 구성을 활용해야 한다.
+
+#무질서 #다양성 #투자전략 #의사결정 #주식시장
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 21:50] 한진칼 지분 경쟁 완전 정리 : 호반 vs 조원태, 승자는 대한항공을 갖는다
+
+📝 핵심적 본문 요약
+한진칼이 지분경쟁 기대감에 7%대 강세를 보였다. 조원태 회장 측과 호반그룹의 지분율 격차는 0.42% 포인트로 좁혀졌다. 산업은행의 지분 10.58%가 향방의 최대 변수이며, 2분기 실적은 환율 급등으로 적자 전환했다.  (#pokara61 #pokara61)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/pokara61/224398940264)
+✨(In)sight
+한진칼은 항공업 실적보다 지배구조 이슈가 주가를 좌우하는 대표적인 종목이다. 호반그룹이 4년간 8,782억 원을 투입하며 조원태 회장과의 지분율 격차를 0.42% 포인트까지 좁힌 가운데, 양측의 자금력과 우호 지분 확보가 승부를 가를 것이다. 최대 변수는 10.58%를 보유한 산업은행의 처분 여부인데, 아시아나 통합이 마무리되는 2026년 말 이후 매각 가능성이 높아 시장의 관심이 집중된다. 호반그룹은 유동성 약 7조 원을 동원하며 압박을 이어갈 수 있는 반면, 조 회장 측은 델타항공 등 우호 지분으로 맞서며 지분율 우위를 지키고 있다. 지분율 격차가 0.42% 포인트로 촘촘해진 상황에서 산업은행의 결정은 경영권 향방을 뒤바꿀 중대 변곡점이 될 것이다.
+
+#한진칼 #지분경쟁 #대한항공 #조원태 #호반그룹
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 22:00] 📈 **요즘 많이 보는 리포트 TOP 10**
+2026-09-02 22:00 기준
+**🏆. 삼성전자, 공포가 클수록 중심을 잡자**
+미래에셋증권(2026. 08. 26.) [ [링크]](https://stock.naver.com/research/company/95868)
+조회수: 64,786 
+
+**🥈. SK하이닉스, 짙은 안개속 선명한 성장**
+미래에셋증권(2026. 08. 26.) [ [링크]](https://stock.naver.com/research/company/95869)
+조회수: 42,486 
+
+**🥉. 현대차, 2026 CID - 권역별 현지화와 사업 효율화에 집중된 목표 제시**
+한화투자증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95906)
+조회수: 19,616 
+
+**🎖️. 현대차, CID 2026: It’s a great time to be at Hyundai**
+현대차증권(2026. 08. 28.) [ [링크]](https://stock.naver.com/research/company/95922)
+조회수: 17,375 
+
+**✋. 현대차, 2026년 CEO Investor Day 핵심내용**
+하나증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95899)
+조회수: 16,410 
+
+**6️⃣. 현대차, 26년 CID, 25년 대비 주요 변화 내용**
+미래에셋증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95898)
+조회수: 15,326 
+
+**7️⃣. 현대차, CID 2026 Review: 자동차라는 본질에 집중**
+iM증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95896)
+조회수: 14,802 
+
+**8️⃣. 현대차, 2026년 CID 리뷰 & QnA 요약**
+대신증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95895)
+조회수: 13,920 
+
+**9️⃣. SK이노베이션, SKIET 흡수합병에 따른 기존 주주 보호정책 필요**
+하나증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95901)
+조회수: 13,264 
+
+**🔟. 현대차, 2026 CEO Investor Day Takeaways**
+키움증권(2026. 08. 27.) [ [링크]](https://stock.naver.com/research/company/95889)
+조회수: 12,849 
+
+──────────────
+출처: [ 📍네이버증권 리서치](https://stock.naver.com/research)
+
+Disclaimer: 데이터, 내용 등 전부 확인 안 하고 봇으로 자동 전송됨. 따라서 나는 종목 추천 없음. 나도 메세지 뜨면 링크 들어가서 가끔 확인. 그래서 뭔지 아는 바 없음. 투자 책임 없음.
+
+[2026-09-02 22:06] 진짜 좋으면 주가는 안 올라도 되는데
+
+📝 핵심적 본문 요약
+동료들과의 자리에서 투자 종목의 기업 관계자로부터 블로그에 추정한 내용이 사실로 확인됐다. 주가 하락에도 불구하고 펀더멘탈은 개선되고 있어 추가 매수 의사를 밝혔다. 실체와 기술력, 내년 수익 전망에 확신을 가지며, 주가가 더 빠지면 레버리지나 배당 활용도 고려할 뜻을 내비쳤다. 손실 중인 계좌에도 마음은 편안하다고 전했다.  (#리스크 #limsk1212)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/limsk1212/224398954059)
+✨(In)sight
+투자 종목의 주가 하락은 펀더멘탈 악화가 아닌 일시적 조정으로 판단된다. 실제로 회사 관계자의 발언을 통해 성장 동력과 내년 실적 개선 기대가 확인되었으며, 이는 기술력과 수익 모델의 본질에 기반한다. 주가 하락은 시장의 과도한 우려(센티멘트)에서 비롯된 반면, 기업 가치는 오히려 상승하는 구간으로 보인다. 따라서 현재의 하락은 장기 투자 관점에서 추가 매수 기회로 활용하는 것이 합리적이다. 손실 폭이 확대되더라도 기본적 가치의 개선을 고려할 때 인내심을 갖고 보유 전략을 유지할 필요가 있다.
+
+#가치투자 #장기보유 #추가매수 #펀더멘탈 #주가하락
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-02 22:12] [Visualcapitalist] 국가별 아이폰 17 프로를 사는 데 필요한 근무일수
+Workdays Needed to Buy an iPhone 17 Pro, by Country
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/workdays-needed-to-buy-an-iphone-17-pro-by-country/)
+iPhone 17 Pro의 구매 가능성이 전 세계에서 어떻게 다른지 확인해 보세요. 룩셈부르크에서는 단 3일의 근무일이면 되지만, 인도에서는 160일이 필요합니다.
+See how iPhone 17 Pro affordability varies worldwide, from just 3 workdays in Luxembourg to 160 workdays in India.
+
+[2026-09-02 22:22] [작업중이양] [펩트론] 알테오젠 쇼크에 대한 생각, 펩트론은 어떨까
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=4T1H4mzlEsQ)

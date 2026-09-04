@@ -24,3 +24,21 @@ https://www.bloomberg.com/news/articles/2026-09-03/morgan-stanley-takes-aim-at-x
 - 반도체 장비 제조사인 Axcelis는 이온 주입 장비의 국내 생산 능력을 확대하며, Corning은 디스플레이와 반도체용 첨단 유리 및 특수 소재 분야에 추가 투자한다.
 - 신재생에너지 개발사 Pacifico Energy는 향후 신규 반도체 클러스터 전력 공급을 뒷받침할 서남해안 3.2GW 규모 해상풍력 발전 프로젝트를 본격 추진한다.
 https://www.reuters.com/business/energy/south-korea-says-us-companies-invest-2-billion-chip-energy-sectors-2026-09-03/
+
+[2026-09-04 13:51] 노르웨이 국부펀드, 미국 국채 보유 비중 800억 달러 축소 제안 - 파이낸셜타임스
+(by https://t.me/TNBfolio)
+- 2조 3천억 달러 규모를 운용하는 노르웨이 국부펀드가 채권 포트폴리오의 국채 비중을 기존 70%에서 50%로 축소하는 개편안을 재무부에 제출했다.
+- 이번 제안이 승인되면 펀드의 전체 국채 투자액 중 약 1,060억 달러가 줄어들며, 이 가운데 미국 국채 매각 규모만 약 800억 달러에 달할 전망이다.
+- 이번 조치는 미국 정부 부채 급증 우려와 지정학적 리스크로 인한 채권 매도세 속에서 수익률을 제고하기 위해 추진한다.
+- 펀드 측은 미국 국채 축소분을 Fannie Mae와 Freddie Mac 등이 보증해 신용도가 높고 상대적으로 금리가 높은 모기지저당증권(MBS) 등으로 대체할 방침이다.
+- 전체 채권 지수 내 미국 달러화 자산 노출도는 유지하면서도 초과 수익을 추구하기 위한 리스크 프리미엄 확보와 분산 투자 목적이라고 설명했다.
+https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1
+
+[2026-09-04 14:21] Anthropic, 기업공개(IPO) 앞두고 150억 달러 규모 신용공여 한도 확보 임박 - 블룸버그
+(by https://t.me/TNBfolio)
+- 인공지능(AI) 스타트업 Anthropic이 대규모 기업공개(IPO) 신청을 앞두고 150억 달러 규모의 회전신용공여(마이너스 통장 방식 대출 한도) 계약 체결을 눈앞에 두고 있다.
+- 이번 신용공여 규모는 당초 목표치였던 100억 달러와 지난해 확보한 25억 달러를 대폭 상회하는 수준이다.
+- 이번 대출 주선은 Morgan Stanley가 주도하며, IPO 대표 주관을 맡은 Goldman Sachs, JPMorgan Chase, Citigroup을 비롯해 Barclays와 Wells Fargo 등 주요 월가 은행들이 대거 참여한다.
+- Anthropic은 최근 연환산 매출이 650억 달러를 넘어설 정도로 빠른 성장세를 보이며, 이번 상장을 통해 SpaceX에 버금가거나 이를 뛰어넘는 자금을 조달할 계획이다.
+- 대형 투자은행들의 대규모 유동성 지원은 Anthropic의 성공적인 증시 입성 가능성에 대한 금융 시장의 강한 신뢰를 보여준다.
+https://www.bloomberg.com/news/articles/2026-09-03/anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility

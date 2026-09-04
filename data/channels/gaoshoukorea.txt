@@ -149,3 +149,86 @@ https://www.kiwoom.com/h/invest/research/VMarketSDDetailView?sqno=7182
 *금욜밤 고용지표 잘 넘기고 주말 맞이하면 좋겠네여
 
 [2026-09-04 10:58] https://news.einfomax.co.kr/news/articleView.html?idxno=4433445
+
+[2026-09-04 12:18] https://n.news.naver.com/mnews/article/374/0000531189?rc=N&ntype=RANKING&sid=101
+
+[2026-09-04 14:44] #인사이트 #찰리멍거
+
+인간이 깨끗한 눈을 가지기란 언제나 어려웠는 듯. 투자도 마찬가지. 
+
+핑커와 제가 옳다면, 촘스키 같은 천재가 어떻게 명백한 오판을 하는 걸까요? 
+
+제가 보기에 그 답은 명확합니다. 촘스키는 열성적으로 이데올로기를 따릅니다. 
+
+그는 극단적인 좌파 평등주의자입니다. 너무나 똑똑해서 이 특정한 다윈주의식 요점을 수긍하면 그 함의가 자신의 좌파 이데올로기를 위협한다고 생각하죠. 
+
+그래서 자연히 자신의 결론이 이데올로기적 편향에 영향을 받도록 놔둔 겁니다. 
+
+이는 세속적인 지혜에 대한 또 다른 교훈으로 이어집니다. 이데올로기가 촘스키 같은 사람의 머리를 어지럽힌다면, 여러분과 저 같은 사람에게는 어떻게 작용할지 상상해보세요.
+
+이데올로기는 우리의 인식을 끔찍하게 왜곡시킵니다. 젊을 때 극단적인 이데올로기를 과도하게 받아들이고 그걸 표현하기 시작하면 두뇌를 아주 불행한 패턴에 가두게 됩니다. 
+
+그뿐 아니라 인식이 전반적으로 왜곡됩니다.
+
+"가난한 찰리의 연감"중에서
+
+[2026-09-04 16:22] 코넥스로 보내는 것도 나름 괜찮은 생각 같습니다.
+
+https://naver.me/xWI7PCd4
+
+[2026-09-04 16:59] **🛞 Anthropic, Lambda·Nscale에 800억 달러 규모 컴퓨트 계약…Claude 성장에 맞춰 GPU Capacity 선점**
+
+**1. Lambda와 350억 달러 계약, Texas에서 350MW Nvidia 컴퓨트 확보**
+① Anthropic이 Nvidia가 지원하는 Lambda와 약 350억 달러 규모의 장기 Cloud 계약을 체결해 Texas Nueces County 데이터센터에서 약 350MW의 AI 컴퓨팅 Capacity를 확보하는 구조
+② 해당 시설은 Hut 8이 개발하며 Claude와 Claude Code의 Training·Inference 수요를 지원하는 데 활용될 예정으로, Anthropic이 서비스 성장에 맞춰 대규모 GPU 인프라를 선제적으로 확보하는 모습
+③ Lambda가 Nvidia GPU 중심의 AI Factory 사업자라는 점에서 이번 계약은 Anthropic의 성장과 함께 Nvidia·데이터센터·전력·냉각 수요가 동시에 확대되는 사례로 볼 수 있는 수준 ([Reuters](https://www.reuters.com/technology/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda-source-says-2026-08-31))
+
+**2. Nscale에도 450억 달러 지출, West Virginia에서 460MW 추가 확보**
+① Anthropic은 직전에 Nscale의 West Virginia 데이터센터를 이용하기 위해 향후 6년간 약 450억 달러를 지출하는 계약도 체결한 상황
+② 해당 계약으로 약 460MW의 AI 컴퓨팅 Capacity를 확보하며 Nscale은 Nvidia의 차세대 Vera Rubin 시스템을 중심으로 Anthropic의 수요를 지원할 계획
+③ Lambda와 Nscale 두 계약만 합쳐도 약 810MW, 800억 달러 규모로 Claude의 성장을 뒷받침하기 위해 Anthropic이 수년치 컴퓨트 자원을 공격적으로 선점하는 모습
+
+**3. AWS·SpaceX까지 합치면 Anthropic의 컴퓨트 조달이 멀티클라우드·멀티칩 구조로 확대**
+① Anthropic은 이미 AWS와 10년간 1,000억 달러 이상을 투입해 최대 5GW의 추가 Capacity를 확보하기로 했으며, SpaceX와도 Claude 사용량 확대를 위한 별도 컴퓨트 계약을 체결한 상태
+② Nvidia GPU뿐 아니라 AWS Trainium과 AMD 시스템까지 병행하고 있어 특정 공급업체 하나에 의존하기보다 여러 칩과 여러 데이터센터 사업자를 동시에 활용하는 멀티소싱 전략을 강화하는 모습
+③ Anthropic의 컴퓨트 계약이 수십억 달러에서 수백억 달러 단위로 커지는 것은 Claude·Claude Code의 실제 사용량 증가와 향후 IPO를 앞둔 Capacity 선점이 동시에 진행되고 있음을 보여주는 강한 데이터포인트
+
+#트래킹 #미국주식 #아마존 #AMZN #알파벳 #GOOG #GOOGL #앤쓰로픽 #Anthropic
+
+[2026-09-04 17:02] **🛞 OpenAI, AI 인프라 투자를 ‘GW 단위 산업’으로 확대…SB Energy와 초대형 데이터센터 구축**
+
+**1. SB Energy, OpenAI 중심으로 8.8GW 규모 데이터센터 Capacity 확보**
+① SB Energy는 현재 총 8.8GW 규모의 데이터센터 계약 Capacity를 확보했으며, 이 물량은 사실상 OpenAI와 SoftBank 두 고객에 집중된 구조
+② 이 가운데 Ohio PORTS-Pike 캠퍼스는 최대 8GW 규모로 개발될 예정이며, OpenAI가 장기 임차인으로 Nvidia AI 인프라를 사용하는 계획
+③ OpenAI의 컴퓨트 조달이 개별 데이터센터 수준을 넘어 수 GW 단위 장기 계약으로 확대되면서 AI 인프라 투자의 규모 자체가 새로운 단계로 진입한 모습 ([Reuters](https://www.reuters.com/business/energy/softbank-backed-sb-energy-moves-closer-public-markets-with-us-ipo-filing-2026-09-01))
+
+2. **SB Energy 프로젝트 Backlog 4,390억 달러, Nvidia까지 대규모 금융지원 참여**
+① SB Energy가 IPO 서류에서 공개한 데이터센터 프로젝트 Backlog는 약 4,390억 달러로, 아직 실제 운영 중인 데이터센터가 없는 기업임에도 장기 계약 규모가 매우 큰 수준
+② Nvidia는 PORTS-Pike의 초기 4.25GW Capacity에 최대 1,050억 달러의 보증을 제공하고 SB Energy에도 15억 달러를 투자해 OpenAI의 인프라 확장을 지원하는 구조
+③ AI 모델 기업·반도체 기업·데이터센터 개발사가 서로 투자와 보증으로 연결되면서 OpenAI의 성장에 필요한 Compute를 선점하는 동시에 AI 인프라 금융 구조가 더욱 복잡해지는 모습
+
+**3. OpenAI의 핵심 경쟁력이 모델 성능에서 Compute·전력 확보 능력까지 확대**
+① OpenAI는 올해 초 SB Energy와 1.2GW 규모의 초기 데이터센터 임대계약을 체결한 데 이어 Ohio에서 최대 8GW까지 확대하면서 장기간 필요한 Compute를 선제적으로 확보하는 전략
+② PORTS-Pike에는 초기 4.25GW만으로도 한 세대당 약 150만 개의 Nvidia GPU가 배치될 수 있는 규모이며 이후 추가 3.8GW까지 확대 가능한 구조
+③ OpenAI·Anthropic·Gemini 경쟁이 모델 성능뿐 아니라 GPU·전력·토지·냉각·자금조달을 얼마나 빠르게 확보하는지의 경쟁으로 이동하면서 Frontier AI 기업들의 인프라 집약도가 기존 Cloud 산업보다 훨씬 커지는 흐름 ([OpenAI](https://openai.com/index/stargate-sb-energy-partnership))
+
+#트래킹 #미국주식 #오픈AI #OpenAI
+
+[2026-09-04 17:05] **🛞 Google, Gemini Enterprise를 산업별 AI 플랫폼으로 확대…법률·항공 업무까지 침투**
+
+**1. Gemini Enterprise for Legal 출시, 법률시장 특화 AI Agent 제공**
+① Google이 Gemini Enterprise for Legal을 출시해 계약 검토·법률 리서치·문서 분석 등 법률 업무에 특화된 AI Agent를 제공하기 시작한 상황
+② Weil·Cleary Gottlieb·Freshfields·Williams & Connolly 등 대형 로펌이 개발에 참여하고 Thomson Reuters·Harvey·Legora 등 기존 Legal Tech와도 연결되는 구조
+③ 단순 범용 Chatbot이 아니라 각 로펌의 내부 데이터·권한·업무방식을 반영하는 산업 특화 Enterprise AI 플랫폼으로 진화하는 모습 ([Reuters](https://www.reuters.com/business/google-expands-gemini-ai-platform-law-firms-lawyers-2026-08-25))
+
+**2. Ryanair와 5년 계약, Gemini를 실제 항공 운영에 적용**
+① Google Cloud가 Ryanair와 5년간 Data·AI 파트너십을 체결하고 Gemini Enterprise와 Google Workspace를 약 3.5만 명의 임직원에게 제공할 계획
+② Gemini Enterprise를 활용해 의사결정 자동화·승무원 일정 최적화·기업 생산성 향상 등을 추진하며 Ryanair의 연간 승객 3억 명 확대 계획을 지원하는 구조
+③ Gemini가 단순 사무 보조를 넘어 항공사의 핵심 Workflow에 들어가면서 Google Cloud가 AI를 실제 기업 운영비 절감과 생산성 개선으로 연결하기 시작한 사례 ([Ryanair](https://corporate.ryanair.com/news/ryanair-google-cloud-announce-five-year-data-and-ai-partnership/))
+
+**3. Gemini의 핵심 투자 포인트가 소비자 점유율에서 Enterprise 수익화로 이동**
+① 법률·항공처럼 전문성과 보안이 중요한 산업에서는 모델 성능뿐 아니라 기업 데이터 연결·권한 관리·Agent 자동화·기존 Software 통합이 중요해 Google Cloud의 기존 기업 인프라가 경쟁우위로 작용할 가능성
+② Gemini Enterprise가 고객사의 업무 시스템 안에 깊게 들어갈수록 AI 사용량과 Cloud Compute 소비가 동시에 늘어날 수 있어 Google Cloud의 고객당 매출과 장기 계약가치를 높이는 구조
+③ 따라서 Gemini의 성과를 ChatGPT와의 사용자 수 경쟁만으로 판단하기보다 산업별 Enterprise 고객 확보와 Google Cloud 매출 증가로 연결되는지 확인하는 것이 더 중요한 단계
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL

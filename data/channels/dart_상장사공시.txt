@@ -1,4 +1,4 @@
-# 코스피/코스닥 전체 상장사 DART 공시 (2026-09-05 기준 최근 7일)
+# 코스피/코스닥 전체 상장사 DART 공시 (2026-09-06 기준 최근 7일)
 
 [3S]
   20260903: 3S 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -2590,71 +2590,6 @@ Markdown Content:
 [삼진엘앤디]
   20260901: 삼진엘앤디 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20260831: 삼진엘앤디 [기재정정]반기보고서 (2026.06) → 반기 실적보고서 (상반기 실적·재무제표)
-  [전문 요약]
-Title: 삼진엘앤디/반기보고서/2026.08.31
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342
-
-Markdown Content:
-코 삼진엘앤디
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [정 정 신 고 (보고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-    *   [반 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [4. 재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [4-1. 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [4-2. 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [4-3. 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-            *   [4-4. 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-        *   [5. 재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [6. 배당에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [7. 증권의 발행을 통한 자금조달에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [8. 기타 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-    *   [IV. 이사의 경영진단 및 분석의견](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [1. 예측정보에 대한 주의사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [2. 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [3. 재무상태 및 영업실적](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [4. 유동성 및 자금조달과 지출](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [5. 부외거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-        *   [6. 그 밖에 투자의사결정에 필요한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260831001342#)
-
-    *   [V. 회계감사인의 감사의견 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=202
-
 
 [삼진제약]
   20260902: 삼진제약 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)

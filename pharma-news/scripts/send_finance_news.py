@@ -193,7 +193,7 @@ def fetch_naver_finance(limit=15):
 def build_message(news):
     now = datetime.now(KST)
     weekday = WEEKDAYS[now.weekday()]
-    header = "<b>시장·기업 모닝 브리핑</b>\n" + now.strftime("%Y.%m.%d") + " (" + weekday + ")"
+    header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") Daily News"
     msg = header + "\n\n"
     if not news:
         msg += "이번 회차에 수집된 시장·기업 기사가 없습니다."
@@ -202,9 +202,9 @@ def build_message(news):
     for title, url in news:
         safe_title = html.escape(title)
         safe_url = html.escape(url, quote=True)
-        items.append('· <a href="' + safe_url + '">' + safe_title + '</a>')
+        items.append('<a href="' + safe_url + '"><b>' + safe_title + '</b></a>')
     msg += "\n\n".join(items)
-    msg += '\n\n기사 제목을 누르면 원문으로 연결됩니다.\n참고 채널: <a href="https://t.me/hanyangresearch">한양증권 스몰캡</a>'
+    msg += "\n\n* 위 내용은 국내외 언론사 뉴스 등을 인용한 자료로 별도의 승인절차 없이 제공합니다.\n\nhttps://t.me/hanyangresearch\n한양증권 스몰캡"
     return msg
 
 def send_telegram(message):

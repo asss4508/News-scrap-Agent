@@ -6,6 +6,7 @@ import json
 from html import escape
 from urllib.parse import urlparse, urljoin
 from datetime import datetime, timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor
 
 # 매시간 실행되므로 최근에 이미 보낸 기사는 다시 보내지 않도록 이력을 저장한다.
 SENT_LOG_PATH = os.path.join(
@@ -21,6 +22,34 @@ KST = timezone(timedelta(hours=9))
 RANKING_URL = "https://news.naver.com/main/ranking/popularDay.naver"
 # 경제·산업 전문 매체의 현재 많이 본 뉴스에서 기업 이벤트를 선별한다.
 BUSINESS_PRESS = {"009", "015", "011", "014", "018", "277", "016", "008", "366", "030", "092"}
+MAJOR_COMPANIES = [
+    "삼성전자", "sk하이닉스", "하이닉스", "현대차", "현대자동차", "기아", "현대모비스",
+    "lg전자", "lg화학", "lg에너지솔루션", "삼성sdi", "삼성바이오", "셀트리온",
+    "한화", "hd현대", "포스코", "두산", "네이버", "카카오", "sk텔레콤", "sk이노베이션",
+    "엔비디아", "nvidia", "애플", "apple", "마이크로소프트", "microsoft",
+    "구글", "알파벳", "아마존", "메타", "테슬라", "tsmc", "amd", "인텔",
+    "브로드컴", "오픈ai", "오픈에이아이", "앤트로픽", "오라클", "퀄컴", "마이크론",
+]
+GROWTH_EVENTS = [
+    "수주", "공급계약", "공급 계약", "신제품", "신약", "기술이전", "기술수출",
+    "양산", "상용화", "출시", "공개", "개발", "투자", "증설", "협력", "협업",
+    "파트너십", "진출", "흑자전환", "흑자 전환", "최대 실적", "실적 개선",
+    "매출 증가", "성장", "승인", "채택", "공급사 선정", "자사주 소각",
+]
+NEGATIVE_EVENTS = ["철회", "취소", "실패", "적자", "급감", "리콜", "소송", "횡령", "배임"]
+SOURCES = [
+    ("https://stock.mk.co.kr/news/company", "https://stock.mk.co.kr", "/news/view/"),
+    ("https://www.bloter.net/news/articleList.html?view_type=sm", "https://www.bloter.net", "articleView"),
+    ("https://news.bizwatch.co.kr/search", "https://news.bizwatch.co.kr", "/article/"),
+    ("https://news.bizwatch.co.kr", "https://news.bizwatch.co.kr", "/article/"),
+    ("https://www.businesspost.co.kr/BP?command=sub&sub=2", "https://www.businesspost.co.kr", "command=article_view"),
+    ("https://news.naver.com/breakingnews/section/101/258", "https://news.naver.com", "article"),
+    ("https://news.naver.com/breakingnews/section/101/261", "https://news.naver.com", "article"),
+    ("https://news.naver.com/breakingnews/section/105/226", "https://news.naver.com", "article"),
+    ("https://www.fnnews.com/section/002001000", "https://www.fnnews.com", None),
+    ("https://www.sedaily.com/market", "https://www.sedaily.com", None),
+    ("https://www.sedaily.com/economy", "https://www.sedaily.com", None),
+]
 
 
 def in_send_window(now):
@@ -44,7 +73,8 @@ COMPANY_EVENTS = [
 
 
 def has_company_event(title):
-    return any(keyword in title.casefold() for keyword in COMPANY_EVENTS)
+    lowered = title.casefold()
+    return any(keyword in lowered for keyword in COMPANY_EVENTS + GROWTH_EVENTS + MAJOR_COMPANIES)
 
 BROKER_KEYWORDS = [
     "미래에셋", "삼성증권", "키움", "한국투자", "NH투자", "KB증권", "신한투자",
@@ -114,7 +144,12 @@ def is_invalid(title):
 
 def get_priority(title):
     # 실제 기업 이벤트를 섹터 키워드보다 우선한다.
-    score = 20 * sum(keyword in title.casefold() for keyword in COMPANY_EVENTS)
+    lowered = title.casefold()
+    score = 20 * sum(keyword in lowered for keyword in COMPANY_EVENTS)
+    if any(keyword in lowered for keyword in MAJOR_COMPANIES):
+        score += 60
+    if any(keyword in lowered for keyword in GROWTH_EVENTS) and not any(keyword in lowered for keyword in NEGATIVE_EVENTS):
+        score += 80
     for keyword in HIGH_PRIORITY:
         if keyword in title:
             score += 1
@@ -139,6 +174,12 @@ def get_article_date(url):
                     return datetime.strptime(raw, "%Y-%m-%d").date()
                 except Exception:
                     pass
+        # 매일경제 마켓 등 메타 발행일이 없는 사이트의 기사 날짜 영역.
+        for tag in soup.select('.time_info, .article_info, .article-info, time[datetime]'):
+            raw = tag.get('datetime') or tag.get_text(' ', strip=True)
+            match = re.search(r'(\d{4})[.\-/]\s*(\d{2})[.\-/]\s*(\d{2})', raw)
+            if match:
+                return datetime(*map(int, match.groups())).date()
         # 날짜 패턴 직접 탐색
         text = res.text
         m = re.search(r'(\d{4})[.\-/](\d{2})[.\-/](\d{2})', text[:3000])
@@ -204,7 +245,7 @@ def get_article_summary(url, title=None):
 
         content = None
         selectors = [
-            "#dic_area", "#articleBody", "#article-view-content-div",
+            "#dic_area", "#news_body", "#article-body-content", ".article_body", "#articleBody", "#article-view-content-div",
             ".article_body", ".news_body", "#newsct_article",
             "#articeBody", ".article-body", "#article_content",
             ".article_txt", "#news_body_area", ".news-article-body",
@@ -292,12 +333,14 @@ def fetch_articles(url, domain, href_filter=None):
     articles = []
     try:
         res = requests.get(url, headers=HEADERS, timeout=10)
+        res.raise_for_status()
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
         seen = set()
         for a in soup.select("a"):
             href = a.get("href", "")
-            title = clean_title(a.get_text(separator=" ", strip=True))
+            title_el = a.select_one('.news_ttl, h3, .title, .subject')
+            title = clean_title((title_el or a).get_text(separator=" ", strip=True))
             if len(title) < 10:
                 continue
             if is_invalid(title):
@@ -322,8 +365,9 @@ def fetch_articles(url, domain, href_filter=None):
                 continue
             seen.add(full_url)
             articles.append((title, full_url, get_priority(title)))
-    except:
-        pass
+    except requests.RequestException as exc:
+        print(f"수집 실패: {domain} ({type(exc).__name__})")
+    print(f"수집 후보: {domain} {len(articles)}건")
     return articles
 
 def normalize_title(title):
@@ -370,7 +414,7 @@ def fetch_popular_articles():
                 continue
             rank = int(rank_match[0])
             articles.append((title, 'https://n.news.naver.com' + parsed.path,
-                             10000 + (6 - rank) * 1000 + get_priority(title)))
+                             (6 - rank) * 10 + get_priority(title)))
     except (requests.RequestException, ValueError) as exc:
         print(f"인기 기사 수집 실패: {type(exc).__name__}; 일반 기업 뉴스로 대체합니다.")
     return articles
@@ -379,12 +423,9 @@ def fetch_popular_articles():
 def pick_best_article(sent_titles):
     # 매 실행마다 갱신된 인기 목록을 먼저 넣어 같은 제목의 일반 기사보다 우선한다.
     all_articles = fetch_popular_articles()
-    all_articles += fetch_articles("https://news.naver.com/breakingnews/section/101/258", "https://news.naver.com", "article")
-    all_articles += fetch_articles("https://news.naver.com/breakingnews/section/101/261", "https://news.naver.com", "article")
-    all_articles += fetch_articles("https://www.fnnews.com/section/002001000", "https://www.fnnews.com")
-    all_articles += fetch_articles("https://www.sedaily.com/market", "https://www.sedaily.com")
-    all_articles += fetch_articles("https://www.sedaily.com/economy", "https://www.sedaily.com")
-    all_articles += fetch_articles("https://www.businesspost.co.kr/BP?command=sub&sub=2", "https://www.businesspost.co.kr")
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        for articles in pool.map(lambda source: fetch_articles(*source), SOURCES):
+            all_articles.extend(articles)
 
     seen_titles = set()
     unique = []

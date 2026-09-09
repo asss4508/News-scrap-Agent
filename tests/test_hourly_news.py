@@ -94,7 +94,21 @@ class HourlyNewsTests(unittest.TestCase):
             result = news.fetch_popular_articles()
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0][1], 'https://n.news.naver.com/article/015/123')
-        self.assertGreater(result[0][2], 10000)
+        self.assertEqual(result[0][2], news.get_priority(result[0][0]) + 40)
+
+    def test_major_companies_and_growth_news_are_eligible(self):
+        for title in ['애플 차세대 아이폰 공개 행사 예고', '삼성전자 글로벌 전략 새판 짠다', '한화에어로스페이스 유럽 생산시설 투자 확대']:
+            self.assertTrue(news.has_company_event(title))
+            self.assertFalse(news.is_invalid(title))
+        self.assertGreater(news.get_priority('삼성전자 차세대 반도체 양산'), news.get_priority('기업 소송 관련 새 소식'))
+        self.assertGreater(news.get_priority('삼성전자 신제품 출시'), news.get_priority('삼성전자 신제품 출시 취소'))
+
+    def test_mk_title_excludes_long_preview(self):
+        from unittest.mock import Mock
+        html = '<a href="/news/view/123"><h3 class="news_ttl">삼성전자 신제품 공개 예고</h3><p>' + '미리보기 ' * 100 + '</p></a>'
+        with patch.object(news.requests, 'get', return_value=Mock(text=html)):
+            result = news.fetch_articles('https://stock.mk.co.kr/news/company', 'https://stock.mk.co.kr', '/news/view/')
+        self.assertEqual(result[0][0], '삼성전자 신제품 공개 예고')
 
     def test_popular_article_beats_keyword_score_and_stale_is_skipped(self):
         today = news.datetime.now(news.KST).date()

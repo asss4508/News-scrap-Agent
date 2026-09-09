@@ -202,7 +202,7 @@ def build_message(news):
     for title, url in news:
         safe_title = html.escape(title)
         safe_url = html.escape(url, quote=True)
-        items.append('<a href="' + safe_url + '"><b>' + safe_title + '</b></a>')
+        items.append('<a href="' + safe_url + '"><b><u>' + safe_title + '</u></b></a>')
     msg += "\n\n".join(items)
     msg += "\n\n* 위 내용은 국내외 언론사 뉴스 등을 인용한 자료로 별도의 승인절차 없이 제공합니다.\n\nhttps://t.me/hanyangresearch\n한양증권 스몰캡"
     return msg

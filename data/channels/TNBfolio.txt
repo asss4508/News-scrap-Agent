@@ -22,3 +22,12 @@
 - 예측 가능한 부채 관리 원칙을 깬 단기적 시장 개입은 근본적인 재정 적자 우려를 완화하기 어렵다는 인식이 확산되고 있다.
  
 https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html
+
+[2026-09-10 06:36] 미국 디젤 재고 2003년 이후 최저치 전망, 수급 불안 심화 - Bloomberg
+(by https://t.me/TNBfolio)
+- Energy Information Administration(EIA)의 단기 에너지 전망 보고서에 따르면, 미국 디젤 재고는 2003년 이후 처음으로 1억 배럴 밑으로 떨어지며 20여 년 만에 최저치를 기록할 것으로 집계되었다.
+- EIA는 공급 차질 여파를 반영해 2026년 4분기 디젤 소매 가격 전망치를 갤런당 5.55달러로 14% 상향 조정했으며, 도매 가격 전망치 역시 전월 대비 33% 대폭 인상했다.
+- 최근 지정학적 충돌로 에너지 시장 불안이 심화되면서 디젤 소매 가격은 역대 최고치를 경신한 뒤 갤런당 6달러 선에 근접하고 있다.
+- 정제 마진 지표인 디젤 크랙 스프레드는 지난달 사상 처음으로 배럴당 100달러를 돌파했으며, EIA는 오는 11월까지 배럴당 84달러(갤런당 2달러) 이상의 높은 수준을 유지할 것으로 예상했다.
+- 북반구 난방철과 수확기 등 글로벌 디젤 수요 성수기를 앞두고 재고 고갈이 심화되자, 미국 Federal Reserve 등 주요국 중앙은행의 인플레이션 우려 및 금리 인상 압박이 가중되고 있다.
+https://www.bloomberg.com/news/articles/2026-09-09/us-sees-diesel-stocks-falling-to-2003-low-ahead-of-peak-demand

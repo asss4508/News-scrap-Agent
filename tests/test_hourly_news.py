@@ -67,13 +67,15 @@ class HourlyNewsTests(unittest.TestCase):
                 news.save_sent_titles(news.load_sent_titles(), 'latest')
                 self.assertEqual(news.load_sent_titles(), ['middle', 'new', 'latest'])
 
-    def test_workflow_runs_hourly_from_8_to_16(self):
-        import re
+    def test_workflow_uses_persistent_runner_and_current_ledger(self):
+        import yaml
         workflow = (ROOT / '.github/workflows/hourly_news.yml').read_text(encoding='utf-8')
-        times = []
-        for minute, hours in re.findall(r'cron: "(\d+) ([\d,]+) \* \* \*"', workflow):
-            times.extend(((int(hour) + 9) % 24) * 60 + int(minute) for hour in hours.split(','))
-        self.assertEqual(sorted(times), list(range(8 * 60, 16 * 60 + 1, 60)))
+        config = yaml.load(workflow, Loader=yaml.BaseLoader)
+        self.assertEqual(config['concurrency']['cancel-in-progress'], 'false')
+        job = config['jobs']['send-news']
+        self.assertEqual(job['steps'][0]['with']['ref'], 'main')
+        self.assertIn('hourly_news_runner.py run', workflow)
+        self.assertLessEqual(int(job['timeout-minutes']), 360)
 
     def test_send_window_uses_korea_time_and_allows_delayed_final_run(self):
         from datetime import datetime, timezone

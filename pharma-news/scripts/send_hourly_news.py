@@ -473,18 +473,23 @@ def send_telegram(message):
     res.raise_for_status()
     print("전송 완료")
 
-if __name__ == "__main__":
+def run_once():
     # 늦어진 예약 실행은 야간에 보내지 않는다. 수동 실행은 즉시 전송한다.
     if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not in_send_window(datetime.now(KST)):
         print("발송 시간대가 지나 이번 회차는 건너뜁니다.")
-        raise SystemExit(0)
+        return "outside_window"
     print("뉴스 수집 중...")
     sent_titles = load_sent_titles()
     article = pick_best_article(sent_titles)
     if article is None:
         print("새로 보낼 핫뉴스가 없어 이번 회차는 건너뜁니다.")
-        raise SystemExit(0)
+        return "no_article"
     msg = build_message(article)
     print(msg)
     send_telegram(msg)
     save_sent_titles(sent_titles, normalize_title(article[0]))
+    return "sent"
+
+
+if __name__ == "__main__":
+    print("HOURLY_RESULT=" + run_once(), flush=True)

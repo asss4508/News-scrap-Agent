@@ -1,38 +1,14 @@
-[2026-09-10 00:07] *미국 재무부, 장기 국채 최대 60억 달러 매입 예정
+[2026-09-11 05:31] 노란봉투법 덕분에 공공기관 지방이전도 못하네요
 
-[2026-09-10 01:39] 이때를 놓치지 않는 미국 좌파 버니샌더스: AI 금지하겠음!
+https://n.news.naver.com/mnews/article/001/0016303336
 
-[2026-09-10 09:25] 노조에서 최태원 비자금 알고있는거 아니면 설명이 안되는데
+[2026-09-11 05:58] 앤트로픽 주장
 
-https://biz.sbs.co.kr/article_hub/20000333813
+알리바바는 증류, Kimi & Deepseek는 claude로 라우팅
 
-[2026-09-10 11:13] 용혜인 출근 안함 선언
+-Alibaba extracted 151M+ Claude exchanges to help train Qwen
+-Kimi secretly routed some users to Claude without them knowing
+-DeepSeek apparently did the same
+-A weapons group used multiple Claude instances as an engineering team, test-fired a guided rocket, FAILED, then went back to Claude to figure out what went wrong
 
-https://naver.me/IgMaLhgs
-
-[2026-09-10 12:25] 영업이익 80% 요구하는 매운맛 노조
-[원문](https://n.news.naver.com/article/021/0002817519)
-
-[2026-09-10 14:02] AI 위험하다는 똥글 쓴 사람은 ‘4개월’ 근무했다고 함
-
-미국 민주당 쁘락치일듯
-
-Make AI Great Again
-
-[2026-09-10 16:25] 용혜인 자진사퇴 안할것 같아 기분좋은 오후네요
-
-반드시 청문회까지 가야죠
-
-요즘 하닉 안올라서 기분 안좋았는데 너 마침 잘걸렸다
-
-https://www.sidae.com/article/2026091013543151640
-
-[2026-09-10 16:34] 무라타제작소, 차량용 MLCC 등 9개 라인 단종
-
--> MLCC 공급 부족으로 마진 많이 남는 데이터센터로 옮기는듯
-
-[2026-09-10 20:47] Elon Musk: AI와 로봇은 10년 이내에 세계 경제를 2배 이상 키울 것입니다.
-
-[2026-09-10 23:06] 9-10월의 계절성과 나스닥의 힘빠진 모습이 상당히 안좋아 보입니다
-
-빠른 타코가 없다면 꽤 밀릴수도 있을것같네요
+https://www.anthropic.com/threat-intelligence-report-september-2026

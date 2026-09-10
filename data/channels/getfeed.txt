@@ -68,3 +68,36 @@ Visualized: The 5,000 Year History of Salt
 [📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/sp/ats01-visualized-the-5000-year-history-of-salt/)
 고대 염정과 식품 보존부터 도로, 기반 시설, 현대의 도로 제설에 이르기까지 소금의 5,000년 역사를 탐구합니다.
 Explore the 5,000 year history of salt, from ancient brine wells and food preservation to highways, infrastructure, and modern road de-icing.
+
+[2026-09-11 05:00] [단기예보] 기상청 통보문
+2026년 09월 11일 (금)요일 05:00 발표□ (종합) 당분간 낮과 밤 기온차 큼
+ 
+○ (오늘~내일, 11~12일) 전국 가끔 구름많음
+ 
+○ (모레, 13일) 수도권과 강원도 흐리다가 오후에 구름많겠으나 그 밖의 지역 가끔 구름많겠고, 제주도 대체로 흐림,
+   오후(12~18시)부터 밤(18~24시) 사이 제주도산지 곳에 따라 비
+ 
+○ (글피, 14일) 전국 가끔 구름많음
+
+* 예상 강수량(13일)
+- (제주도) 제주도산지: 5~10mm
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-09-11 05:04] [Visualcapitalist] 식물성 고기는 진짜 고기보다 건강한가?
+Is Plant-Based Meat Healthier Than Real Meat?
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/cp/is-plant-based-meat-healthier-than-real-meat/)
+식물성 고기 대 진짜 고기: 단백질, 지방, 섬유질, 탄수화물 및 기타 영양학적 차이를 비교한다.
+Plant-based meat vs. real meat: compare protein, fat, fiber, carbs, and other nutritional differences.
+
+[2026-09-11 05:04] [Visualcapitalist] 차트로 보는: 글로벌 무역은 어떻게 변화했는가 (2000-2025)
+Charted: How Global Trade Has Changed (2000-2025)
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/global-trade-flows-chart-2000-2025/)
+전 세계 상품 수입과 수출의 거의 4달러 중 1달러가 전자제품이다. 세계 최대 무역 범주가 어떻게 비교되는지 보라.
+Nearly $1 in every $4 of global goods imports and exports is electronics. See how the world’s biggest trade categories compare.

@@ -3,10 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import re
+import time
 from datetime import datetime, timezone, timedelta
 
-TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -120,6 +121,9 @@ def match_topic_slot(title):
     return None
 
 def normalize_url(href):
+    direct = re.match(r"https://n\.news\.naver\.com/(?:mnews/)?article/(\d+)/(\d+)", href)
+    if direct:
+        return f"https://n.news.naver.com/mnews/article/{direct[1]}/{direct[2]}"
     article_id = re.search(r'article_id=(\d+)', href)
     office_id = re.search(r'office_id=(\d+)', href)
     if article_id and office_id:
@@ -141,30 +145,26 @@ def fetch_naver_finance(limit=15):
     articles = []
     seen = set()
     used_topic_slots = set()
-    page = 1
-
-    while len(articles) < limit and page <= 8:
-        url = f"https://finance.naver.com/news/news_list.naver?mode=LSS2D&section_id=101&section_id2=258&date=&page={page}"
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        res.encoding = "euc-kr"
+    # The legacy finance URL now redirects to a JS-rendered stock page.
+    # These server-rendered sections expose full headlines and canonical links.
+    for section in ("101/258", "101/261", "101/259"):
+        url = f"https://news.naver.com/breakingnews/section/{section}"
+        try:
+            res = requests.get(url, headers=HEADERS, timeout=10)
+            res.raise_for_status()
+        except requests.RequestException as exc:
+            print(f"News request failed: {section} ({type(exc).__name__})")
+            continue
+        res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
-
-        found_ids = False
-        for a in soup.find_all("a", href=True):
-            href = a.get("href", "")
-
-            if "article_id" not in href:
-                continue
-            found_ids = True
-
-            clean_url = normalize_url(href)
+        links = soup.select("a.sa_text_title[href]")
+        print(f"News section {section}: {len(links)} headline links")
+        for a in links:
+            clean_url = normalize_url(a["href"])
             if not clean_url or clean_url in seen:
                 continue
-
-            title = get_full_title(clean_url)
-            if not title:
-                title = re.sub(r'^\d+', '', a.get_text(strip=True)).strip()
-
+            seen.add(clean_url)
+            title = a.get_text(" ", strip=True)
             if len(title) < 10 or len(title) > 150:
                 continue
             if is_broker_article(title):
@@ -184,9 +184,8 @@ def fetch_naver_finance(limit=15):
             if len(articles) >= limit:
                 break
 
-        if not found_ids:
+        if len(articles) >= limit:
             break
-        page += 1
 
     return articles
 
@@ -196,8 +195,7 @@ def build_message(news):
     header = now.strftime("%Y년 %m월 %d일") + "(" + weekday + ") Daily News"
     msg = header + "\n\n"
     if not news:
-        msg += "이번 회차에 수집된 시장·기업 기사가 없습니다."
-        return msg
+        raise RuntimeError("No finance articles collected; refusing empty delivery")
     items = []
     for title, url in news:
         safe_title = html.escape(title)
@@ -219,10 +217,25 @@ def send_telegram(message):
     res.raise_for_status()
     print("전송 완료")
 
-if __name__ == "__main__":
+def collect_with_retry(attempts=3):
+    for attempt in range(attempts):
+        news = fetch_naver_finance(limit=15)
+        if news:
+            return news
+        print(f"No finance articles: attempt {attempt + 1}/{attempts}")
+        if attempt + 1 < attempts:
+            time.sleep(30)
+    raise RuntimeError("Finance collection failed; refusing empty delivery")
+
+
+def main():
     print("뉴스 수집 중...")
-    news = fetch_naver_finance(limit=15)
+    news = collect_with_retry()
     print(str(len(news)) + "건")
     msg = build_message(news)
     print(msg)
     send_telegram(msg)
+
+
+if __name__ == "__main__":
+    main()

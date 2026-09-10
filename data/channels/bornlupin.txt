@@ -507,3 +507,11 @@ mom +10.1%,  yoy +53.3%**
 **핵심 성장 동력:** **인공지능(AI) 애플리케이션 및 AI 서버 프로세서용 칩에 대한 매우 강력한(extremely robust) 수요가 지속**됨에 따라 **5nm, 4nm, 3nm 등 첨단 공정 생산 능력이 완전히 포화된 상태를 유지함.**
 
 https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html
+
+[2026-09-10 21:32] **미국 8월 PPI**
+
+PPI 5.4% YoY, (Est. 5.3%)
+PPI 0.4% MoM, (Est. 0.4%)
+
+Core PPI 4.6% YoY, (Est. 4.6%)
+Core PPI 0.2% MoM, (Est. 0.3%)

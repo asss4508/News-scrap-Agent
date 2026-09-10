@@ -90,3 +90,16 @@ https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-hig
 - 발전소 원자로에는 Westinghouse Electric 및 한국전력(KEPCO)의 설계 기술이 적용될 방침이다.
 - 한국 정부는 이르면 다음 주 협정을 공식 발표하고 9월 말 이전에 20억 달러 규모의 초기 자금을 집행할 것으로 알려졌다.
 https://breakingthenews.net/Article/S.-Korea-could-sign-dollar100B-AI-investment-deal-with-US/67079423
+
+[2026-09-10 18:30] 코스피 신용잔고
+
+[2026-09-10 18:30] 코스닥 신용잔고
+
+[2026-09-10 23:03] SpaceX, 안정성 강화 위해 데이터센터 확장 속도 조절 - The Information
+(by https://t.me/TNBfolio)
+- SpaceX의 데이터센터 관리를 맡은 신임 경영진이 시설 신뢰성 확보를 위해 데이터센터 확장 속도를 늦추는 방식을 채택했다.
+- 신임 팀은 임시 전력 및 냉각 시스템 비중을 줄이고, 정식 가동 전 백업 전력과 냉각 설비를 확충하여 사전 테스트를 강화할 계획이다.
+- 이번 조치는 Tennessee와 Mississippi에 위치한 시설의 신뢰성을 개선하기 위한 광범위한 조치의 일환으로 기존 센터 일부의 재설계도 포함한다.
+- 이번 달 초 SpaceX는 해당 데이터센터의 토목 공학적 우려와 지속적인 신뢰성 문제를 이유로 기존 센터 책임자들을 로켓 및 위성 인터넷 부문 임원들로 교체했다.
+- 신뢰성 강화와 인프라 재정비 작업이 진행됨에 따라 단기적인 데이터센터 인프라 확장 속도는 둔화될 것으로 확인되었다.
+https://breakingthenews.net/Article/SpaceX-said-to-slow-down-data-center-expansion/67082889

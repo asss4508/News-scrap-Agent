@@ -32,10 +32,6 @@ AI 전용 컴퓨팅은 현재 약 2GW에서 2032년까지 전체 용량의 약 3
 
 우리가 원하는건 🌮
 
-[2026-09-11 08:16] https://n.news.naver.com/article/023/0003997689?sid=105
-
-판은 깔아졋고
-
 [2026-09-11 08:42] 받) 주식인의 책상에는 머그잔
 
 [2026-09-11 08:43] 받) 침대 머리맡에 숟가락
@@ -63,3 +59,74 @@ AI 전용 컴퓨팅은 현재 약 2GW에서 2032년까지 전체 용량의 약 3
 도널드 트럼프 대통령은 이란이 "심각한 곤경에 처해 있다"며, 이란과의 전쟁이 중간선거 "직후"에 종료될 것으로 예상한다고 재차 밝힘.
 
 또한 트럼프 대통령은 이란의 미사일 비축분이 대부분 파괴되었다고 주장하면서도, 이란이 일부 미사일 능력은 유지할 것이라는 점은 인정함.
+
+[2026-09-11 13:17] https://naver.me/xtNieCNO
+
+[2026-09-11 14:13] **이란 & 걸프 국가, 월요일에 호르무즈 해협 합의 도출 추진 회의 예정**
+
+>> 미국 패싱
+
+伊朗和海湾国家周一将开会，推动达成霍尔木兹海峡协议。（英国金融时报）
+
+https://wallstreetcn.com/livenews/3163650?ivk=1#from=android
+
+[2026-09-11 16:04] 베끼다 걸렸군요.
+
+https://naver.me/GKIS95aJ
+
+[2026-09-11 17:03] **🛞 d-Matrix, NVLink Fusion 채택…경쟁 AI 추론칩까지 Nvidia AI Factory에 편입**
+
+**1. d-Matrix, 차세대 Raptor XPU를 Nvidia NVLink Fusion에 연결**
+① AI 추론칩 스타트업 d-Matrix가 차세대 Raptor XPU를 Nvidia NVLink Fusion 기반 인프라에 연결하기로 결정해 2027년 상용 시스템 출시를 목표로 하는 상황
+② Raptor는 챗봇·코딩 어시스턴트·Voice Agent처럼 빠른 응답속도와 낮은 지연시간이 중요한 AI Inference에 특화된 칩으로, 범용 GPU와 다른 영역을 공략하는 구조
+③ d-Matrix는 Nvidia의 NVLink·Spectrum-X·MGX Rack Architecture를 활용해 자체 칩만 개발하고, 나머지 대규모 시스템 구축 부담은 줄이는 전략을 선택한 모습 ([Reuters](https://www.reuters.com/business/media-telecom/chip-startup-d-matrix-use-nvidia-chip-linking-tech-ai-servers-2026-09-10))
+
+**2. NVLink Fusion, 경쟁 ASIC도 Nvidia 데이터센터 안에서 작동하게 만드는 구조**
+① NVLink Fusion은 제3자 XPU·CPU를 Nvidia의 고속 칩간 연결망·MGX Rack·Spectrum-X Networking·전력·냉각 인프라와 연결할 수 있게 해주는 플랫폼
+② d-Matrix는 자체 칩을 위해 별도의 Rack·Networking·Cooling 시스템을 처음부터 만들 필요가 없어 개발기간과 비용을 줄이고, Nvidia는 GPU가 아닌 칩이 쓰여도 네트워크·CPU·DPU·Rack 등 주변 플랫폼 매출을 확보할 수 있는 구조
+③ Nvidia에 따르면 NVLink Fusion은 일반 Ethernet 대비 XPU 간 지연시간을 최대 3분의 1 수준으로 낮추고, 6세대 NVLink 기준 XPU당 최대 3TB/s의 All-to-All 대역폭을 제공하는 수준 ([Nvidia](https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion))
+
+**3. MediaTek·Marvell에 이어 채택 확대, Nvidia의 플랫폼 방어전략 구체화**
+① NVLink Fusion 생태계에는 d-Matrix뿐 아니라 MediaTek·Marvell·AWS·Arm·Intel·Fujitsu·Samsung 등이 참여하면서 Custom Silicon을 Nvidia 인프라에 연결하는 사례가 빠르게 확대되는 흐름
+② 특히 MediaTek은 Hyperscaler와 Frontier AI 업체가 자체 XPU를 만들더라도 Nvidia의 Rack-scale AI Factory에 연결할 수 있도록 지원하며, Marvell 역시 Custom XPU와 NVLink 기반 Networking을 제공하는 구조
+③ 자체 ASIC 확대가 Nvidia GPU 점유율에는 장기 부담이 될 수 있지만, 경쟁 칩까지 Nvidia 연결규격과 시스템을 사용하게 만들면 GPU 점유율 하락을 플랫폼 지배력 확대로 일부 상쇄할 수 있는 전략이 실제 채택으로 이어지는 모습
+
+#트래킹 #미국주식 #엔비디아 #NVDA
+
+[2026-09-11 17:06] **🛞 BTC·ETH, 유가·금리 충격 속 단기 조정…SGX의 미국 기관 개방으로 제도권 접근성은 확대**
+
+**1. 유가 $100 돌파·금리 상승으로 Crypto 전반 위험선호 약화**
+① 중동 긴장 심화로 Brent유가가 배럴당 $100을 넘어 $108 수준까지 상승하고 미국 장기금리도 급등하면서 Bitcoin은 $78,000 부근, Ether도 약세를 보이는 흐름
+② CoinDesk 100 구성종목 대부분이 하락하며 Crypto 전반의 위험선호가 약해졌고, 최근 가격 움직임이 코인 자체 악재보다 에너지 가격 → 인플레이션 우려 → 금리 상승 경로에 더 크게 반응하는 모습
+③ 다음 Fed 회의를 앞두고 금리인상 가능성이 약 70% 수준까지 상승해, 당분간 ETF 수급보다 Macro 변수가 BTC·ETH 단기 가격을 더 강하게 흔들 가능성 ([Reuters](https://www.reuters.com/world/asia-pacific/dollar-holds-gains-yen-slips-mideast-energy-shock-deepens-2026-09-11))
+
+**2. BTC는 $78K 부근 방어, 주식보다 상대적으로 견조한 흐름**
+① Bitcoin은 유가 급등과 글로벌 증시 약세에도 한때 $79,700까지 상승하며 금과 비슷한 방향으로 움직였고, 이후 다시 $78,000 부근에서 지지력을 시험하는 상황
+② 50일 이동평균선이 200일 이동평균선을 상향 돌파하는 Golden Cross가 형성돼 기술적으로는 중기 상승 신호가 나타났지만, 현재 Macro 부담이 강해 단기 방향성은 불확실한 수준
+③ 따라서 현재 흐름은 Crypto 구조적 약세 전환보다 강한 반등 이후 금리·유가 충격을 소화하는 단기 조정 국면으로 해석 가능한 모습 ([CoinDesk](https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level))
+
+**3. SGX, 미국 기관에 BTC·ETH 무기한 선물 개방…기관 접근성 확대**
+① Singapore Exchange가 미국 기관투자자에게 Bitcoin·Ether Perpetual Futures 거래를 공식 허용하면서 아시아 Crypto 유동성과 미국 기관 자금을 연결하는 새로운 채널이 열린 상황
+② 무기한 선물은 만기가 없어 장기 포지션 관리와 헤지에 유리하며, 규제된 대형 거래소에서 제공된다는 점에서 기존 역외 Crypto 거래소보다 기관의 Compliance·리스크 관리 부담을 낮출 수 있는 구조
+③ ETF에 이어 규제된 거래소의 파생상품 접근성까지 확대되면서 BTC·ETH가 개인 중심 자산에서 글로벌 기관 포트폴리오에 편입되는 흐름이 계속 강화되는 모습
+
+#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
+
+[2026-09-11 17:06] **🛞 Microsoft, 2032년 데이터센터 Capacity 38GW 목표…Azure·AI 수요 대응 위한 초대형 증설**
+
+**1. 현재 약 12GW에서 2032년 38GW 이상으로 3배 확대 계획**
+① Microsoft가 현재 약 12GW 수준인 글로벌 데이터센터 Capacity를 2032년 38GW 이상으로 확대하는 계획을 추진 중인 상황
+② 약 6년 동안 26GW 이상을 추가해야 하는 규모로, Azure·Copilot·OpenAI 관련 수요를 단기 사이클이 아니라 장기간 이어질 구조적 성장으로 보고 있음을 보여줌
+③ Microsoft는 FY2026 4분기에만 1GW의 Capacity를 추가했고 향후 2년 동안 전체 데이터센터 규모를 약 2배로 늘리겠다고 밝힌 만큼 이미 증설 속도를 크게 높인 수준 ([Reuters](https://www.reuters.com/business/microsoft-plans-38-gigawatts-data-center-capacity-by-2032-bloomberg-news-reports-2026-09-10))
+
+**2. AI 서버 부족이 Azure 성장까지 제한, Capacity 확보가 직접적인 매출 변수**
+① Microsoft는 최근 AI 서버 부족으로 일부 고객의 GPU 서버 수요를 충분히 받지 못했고, Azure Cloud 확장과 Copilot용 Compute 배분 사이에서 선택해야 했던 것으로 알려진 상황
+② OpenAI는 Microsoft와 추가 2,500억 달러 규모 Azure 서비스 계약을 체결했고, Microsoft도 올해 AI Capacity를 80% 이상 늘리겠다고 밝히며 확보된 수요 자체가 매우 큰 수준
+③ 따라서 38GW 증설은 단순 설비투자가 아니라 공급부족 때문에 놓치고 있는 Azure·AI 매출을 실제 매출로 전환하기 위한 성장 Capacity 확보 전략이라는 의미가 큼 ([MSFT](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q1))
+
+**3. 38GW 달성의 핵심 병목은 GPU보다 전력·토지·냉각 인프라**
+① Microsoft는 AI 데이터센터에서 GPU Rack의 전력밀도가 기존 수십 kW에서 수백 kW로 높아지면서 전력과 냉각을 서버 설계 단계부터 함께 고려해야 하는 구조로 변화했다고 설명
+② 특히 38GW 확대 여부는 Nvidia·AMD GPU뿐 아니라 충분한 전력망 연결, 토지, 변전시설, 액체냉각 등 물리적 인프라를 얼마나 빨리 확보하는지에 달린 상황
+③ 미국에서도 데이터센터 전력수요가 전기요금과 송전망 부담을 키우며 정치적 규제까지 확대되고 있어 Microsoft의 장기 Capacity 계획에서 전력 확보가 가장 중요한 실행 리스크 중 하나로 부상한 수준
+
+#트래킹 #미국주식 #마이크로소프트 #MSFT

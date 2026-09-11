@@ -96,3 +96,32 @@ https://www.digitimes.com/news/a20260901PD243/panasonic-ccl-pcb-ic-substrate-mat
 *OPENAI IS OPEN TO SLOWING CUTTING-EDGE AI, ALTMAN TELLS STAFF
 
 [뉴스 링크](https://x.com/diegobloomberg/status/2098210645262868830)
+
+[2026-09-11 12:52] 부럽다...
+
+Micron, 대만 파업 위기 속 역대 최대 보상안 발표…최대 68개월 급여 지급 - TrendForce
+(by https://t.me/TNBfolio)
+- Micron이 메모리 호황 속 대만 노조와의 임금 갈등을 해결하기 위해 전 세계 6만 명 이상의 직원을 대상으로 역대 최대 규모의 FY26 보상 패키지를 발표했다.
+- 대만 근무 직원의 경우 재직 기간에 따라 1인당 100만 대만달러의 격려금과 기준치 대비 최대 500% 성과급 및 주식 보상이 지급되어 총 35~68개월 치 급여에 달하는 보상이 책정되었다.
+- 대만 노사는 9월 4일 1차 노동 중재에 실패한 뒤 9월 21일 2차 중재를 앞두고 있으며, 10월 1일 연례 보상 개편을 앞두고 파업 방지를 위한 중대 분수령을 맞았다.
+- 대만 노조는 Micron의 성과급 제도가 삼성전자나 SK하이닉스의 이익 배분 시스템보다 불투명하고 보상 수준이 낮다고 지적하며 수익 공유 확대를 요구해 왔다.
+- 한편 Micron은 타오위안과 타이중 외에 신규 거점을 확대하고 있으며, 12단 HBM4 공급 대응을 위해 연말까지 월 HBM 웨이퍼 생산능력을 최대 6만 장 추가 확충할 계획이다.
+https://www.trendforce.com/news/2026/09/11/news-micron-unveils-record-rewards-taiwan-staff-reportedly-get-nt1-million-bonus-up-to-68-months-of-compensation/
+
+[2026-09-11 13:09] 중국 당국, 과잉 설비 우려에 신규 배터리 공장 건설 잠정 중단 조치 - Bloomberg
+(by https://t.me/TNBfolio)
+- 중국 당국이 업계 전반의 생산능력 검토를 이유로 전기차 및 에너지저장장치(ESS)용 신규 배터리 제조 프로젝트 건설을 잠정 중단했다.
+- 올해 1~7월 체결된 신규 배터리 증설 프로젝트 규모는 연간 약 2,608.5GWh로 2025년 총 생산량(1,755.6GWh)을 이미 크게 상회했다.
+- 당국은 급격한 설비 증설이 수요 초과, 출혈 가격 경쟁, 대규모 손실로 이어진 중국 태양광 산업의 전철을 밟지 않기 위해 이번 규제를 단행했다.
+- 발표 직후 선전 증시에서 CATL 주가가 2% 이상 하락하고 리튬 선물 가격이 7% 이상 급락하는 등 배터리 및 원자재 섹터 전반이 약세를 보였다.
+- Morgan Stanley는 이번 조치가 가동률 95% 수준의 CATL 등 고가동률 상위 기업에 유리하게 작용해 산업 통폐합을 가속화할 것으로 평가했다.
+https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-factories-on-capacity-concerns-caixin
+
+[2026-09-11 13:40] DeepSeek 신규 AI 모델의 HBM 사용량 축소 언급, 국내 메모리 반도체주 경계감 확산 - Bloomberg
+(by https://t.me/TNBfolio)
+- DeepSeek이 최신 AI 모델에서 고대역폭 메모리(HBM) 요구량을 줄였다고 밝히면서 글로벌 메모리 수요 둔화 우려가 다시 점화되었다.
+- 해당 소식에 미국의 금리 인상 공포까지 겹치며 삼성전자와 SK하이닉스 주가는 각각 3% 이상 동반 하락했다.
+- 국내 개인 투자자들은 AI 회의론 속에 레버리지 ETF 청산에 나섰으며 이번 달에만 양사 주식을 100억 달러 이상 순매도했다.
+- 양사 주가는 12개월 선행 P/E 약 4배 수준으로 Philadelphia Semiconductor Index(19배) 대비 밸류에이션 매력이 부각되며 일부 외국인 펀드의 복귀를 유인하고 있다.
+- 시장 전문가들은 단기적 투자심리 위축에 따른 변동성 확대를 경고하면서도 저비용 AI 확산이 장기적으로 반도체 사용량을 늘려 펀더멘털을 지지할 것으로 진단했다.
+https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution

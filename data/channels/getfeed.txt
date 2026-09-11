@@ -1049,3 +1049,630 @@ Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 
 
 출처: [📍네이버증권 리서치](https://stock.naver.com/research)
 Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 13:04] **OpenAI의 수학 증명에 미공개 연구 대화 학습 의혹 제기**
+
+- 수학자 Andreas Thom이 OpenAI의 비소픽 군 증명에 자신이 ChatGPT와 나눈 미공개 연구 대화가 학습 데이터로 쓰였을 가능성을 제기함  
+- Thom은 드레스덴의 동료와 수개월간 관련 문제를 논의했으며, 모델이 주류 접근법이 아니었던 자신의 연구 기법을 능숙하게 활용한 점에 의문을 품었다고 밝힘  
+- OpenAI에 학습에 사용됐는지와 문제를 푸는 도중 직접 접근했는지를 따로 물었지만, 구분 없는 부정 답변만 받았다고 주장함  
+- 이후 다른 수학 연구 논란에서 비식별 사용 데이터의 모델 개선 기여 가능성을 배제하지 못한다는…
+
+https://news.hada.io/topic?id=33478
+
+[2026-09-11 13:18] GA-ASI, 와일드파이어(Wildfire) 무인기(UAS) 최초 렌더링 공개
+
+📝 핵심적 본문 요약
+제너럴 아토믹스 에어로노티컬 시스템스가 와일드파이어 무인기 체계의 첫 렌더링 이미지를 공개했다. 이 기체는 기존 리퍼 계열과 달리 위성통신 레돔을 배제한 형상이며, LRASM 2발 또는 JSM 4발을 탑재할 수 있는 무장 능력을 갖췄다. 미 공군의 저비용 대량 모듈형 항공기 요구에 대응하기 위한 제안이다.  (#ruffino #orangeshirts)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224407072552)
+✨(In)sight
+미 공군의 대량 모듈형 항공기 프로그램에서 제너럴 아토믹스의 와일드파이어는 기존 리퍼의 고비용 구조를 저비용 스웜 체계로 전환하려는 시도이다. 스웜 에어로 등 신생 기업과 비교할 때, 와일드파이어는 1,000만 달러 목표 단가와 10,000해리 항속거리, 100기 군집 비행 능력을 내세우지만, 실전 배치 전까지는 기대감에 기반한 평가가 우세하다. 방산 예산이 경제성과 대량 생산으로 이동하는 흐름에서 이 기체의 성공 여부는 실증 데이터에 달려 있다.
+
+#제너럴아토믹스 #와일드파이어 #무인기 #대량모듈형항공기 #방산
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 13:19] 왜 크록스 신발은 발 모양에 안 맞게 생겼어 (크록스 클로그/샌들 말고)?
+https://www.reddit.com/r/crocs/comments/1ecxnny/why_are_crocs_shoes_not_anatomically_footshaped/?tl=ko&rdt=49824
+
+크록스처럼 생긴 모양의 일반화 많아지길.
+
+이런 거 모르고 타원 모양의 신발 신다가
+발 고장난 사람 많잖아.
+
+엄지발가락 잘 봐바라. 무지외반증 걸린 사람 많을거다. 그 정도의 차이만 있을뿐.
+
+[2026-09-11 13:24] 유럽 이슈브리핑Issue Briefing
+ECB 9월 통화정책회의 결과 및 평가
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/economy/economyView?rpt_no=37501&mn=003004)
+
+[2026-09-11 13:35] **📝. 한국, 대미 전략투자 협상서 상호 이익·상업적 수익 강조**
+SOUTH KOREA’S HAN CALLS FOR MUTUAL BENEFITS AND COMMERCIAL RETURNS FROM STRATEGIC INVESTMENT TALKS WITH THE U.S.
+
+코멘트:
+미국이 대중국 견제와 공급망 재편을 위해 동맹국 투자를 요구하는 가운데, 한국은 단순 협력이 아닌 상업적 수익성과 호혜성을 협상 카드로 내세우고 있다. 이는 경제안보 이슈가 통상·투자 협상과 결합하는 최근 흐름을 반영한다.
+
+#한미협상 #전략투자 #상업적수익 #경제안보 #방산원전
+
+[Gemini 기반 추가 조사🔍](https://www.google.com/search?q=%20%22%ED%95%9C%EA%B5%AD%2C%20%EB%8C%80%EB%AF%B8%20%EC%A0%84%EB%9E%B5%ED%88%AC%EC%9E%90%20%ED%98%91%EC%83%81%EC%84%9C%20%EC%83%81%ED%98%B8%20%EC%9D%B4%EC%9D%B5%C2%B7%EC%83%81%EC%97%85%EC%A0%81%20%EC%88%98%EC%9D%B5%20%EA%B0%95%EC%A1%B0%22%20%0A%0A%0ASearch%20and%20retrieve%20the%20latest%20news%20about%20within%20the%20last%203%20days%20from%20today%20%282026-09-11%2C%20GMT%2B9%29.%F0%9F%9A%A8%20Data%20Filtering%20Criteria%3A-%20Source%3A%20ONLY%20use%20mainstream%20global%20financial%20media%20%28e.g.%2C%20Bloomberg%2C%20Reuters%2C%20WSJ%2C%20CNBC%2C%20FT%29%20or%20official%20government%20press%20releases%20and%20websites.-%20Exclusion%3A%20Completely%20exclude%20AI-generated%20spam%20sites%2C%20automated%20crawlers%2C%20personal%20finance%20blogs%2C%20and%20low-credibility%20scrapers.%20Do%20not%20use%20them%20as%20sources.%F0%9F%9A%A8%20Output%20Format%20%26%20Language%20Requirements%3A%201.%20References%20First%3A%20You%20MUST%20list%20all%20the%20found%20articles%20%28including%20Title%2C%20Source%2C%20and%20Date%29%20at%20the%20VERY%20TOP%20of%20your%20response%20before%20presenting%20the%20rest%20of%20the%20search%20results.%202.%20Language%3A%20ALL%20of%20your%20response%2C%20including%20the%20article%20list%20and%20details%2C%20MUST%20be%20written%20entirely%20in%20Korean%20%28%ED%95%9C%EA%B5%AD%EC%96%B4%29.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&udm=50)
+
+(Insight: @hyperspect | Source: [@marketfeed](https://t.me/marketfeed/1035869))
+__Disclaimer: 면책고지, 모든 메세지는 벡터 기반 분산 표상형으로 작성 등의 사유로 착오가 발생할 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.__
+
+[2026-09-11 13:35] **📝. 한성숙, 대미 전략투자 프로젝트 논의 진전**
+SOUTH KOREA’S HAN SAYS DISCUSSIONS WITH WASHINGTON ON STRATEGIC INVESTMENT PROJECTS ARE ADVANCING.
+
+코멘트:
+한국이 대미 전략투자 논의를 진전시키며 경제·안보 동맹을 강화하려는 움직임으로, 미·중 전략 경쟁 속에서 한국의 대미 투자 확대가 반도체·배터리 등 첨단산업 공급망 재편과 맞물려 있다.
+
+#대미투자 #전략투자 #공급망 #반도체 #한미동맹
+
+[Gemini 기반 추가 조사🔍](https://www.google.com/search?q=%20%22%ED%95%9C%EC%84%B1%EC%88%99%2C%20%EB%8C%80%EB%AF%B8%20%EC%A0%84%EB%9E%B5%ED%88%AC%EC%9E%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%85%BC%EC%9D%98%20%EC%A7%84%EC%A0%84%22%20%0A%0A%0ASearch%20and%20retrieve%20the%20latest%20news%20about%20within%20the%20last%203%20days%20from%20today%20%282026-09-11%2C%20GMT%2B9%29.%F0%9F%9A%A8%20Data%20Filtering%20Criteria%3A-%20Source%3A%20ONLY%20use%20mainstream%20global%20financial%20media%20%28e.g.%2C%20Bloomberg%2C%20Reuters%2C%20WSJ%2C%20CNBC%2C%20FT%29%20or%20official%20government%20press%20releases%20and%20websites.-%20Exclusion%3A%20Completely%20exclude%20AI-generated%20spam%20sites%2C%20automated%20crawlers%2C%20personal%20finance%20blogs%2C%20and%20low-credibility%20scrapers.%20Do%20not%20use%20them%20as%20sources.%F0%9F%9A%A8%20Output%20Format%20%26%20Language%20Requirements%3A%201.%20References%20First%3A%20You%20MUST%20list%20all%20the%20found%20articles%20%28including%20Title%2C%20Source%2C%20and%20Date%29%20at%20the%20VERY%20TOP%20of%20your%20response%20before%20presenting%20the%20rest%20of%20the%20search%20results.%202.%20Language%3A%20ALL%20of%20your%20response%2C%20including%20the%20article%20list%20and%20details%2C%20MUST%20be%20written%20entirely%20in%20Korean%20%28%ED%95%9C%EA%B5%AD%EC%96%B4%29.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&udm=50)
+
+(Insight: @hyperspect | Source: [@marketfeed](https://t.me/marketfeed/1035870))
+__Disclaimer: 면책고지, 모든 메세지는 벡터 기반 분산 표상형으로 작성 등의 사유로 착오가 발생할 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.__
+
+[2026-09-11 13:40] **WordPress는 누구의 것인가**
+
+2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리했습니다.  
+CFO였던 Mark Davies가 임시 CEO를 맡았고, Matt는 이사회에는 남지만 일상적인 경영에서는 물러납니다. 구체적인 이유는 공개되지 않았습니다.
+
+그런데 Matt가 물러난 것은 Automattic에서뿐입니다.  
+WordPress 프로젝트의 리더 자리에는 그대로 남아 있습니다.
+
+이사회의 결정으로 회사의 경영자는 바뀌었지만, 프로젝트 리더는 그대로인건데요.
+같은 사람을 두고 회사와 오픈소스 프로젝트의 리더십이 갈라진 셈입니…
+
+https://news.hada.io/article/who-owns-wordpress
+
+[2026-09-11 13:51] 화장품 조정국면 : 원화 강세, C 뷰티 위협, 3분기 실적 전망에 대해서
+
+📝 핵심적 본문 요약
+화장품주들이 9월 들어 조정 국면에 진입했다. 원화 강세, 중국 화장품 위협, 3분기 계절성 우려가 겹친 결과다. 하지만 원화 강세는 밸류체인별로 영향이 달라 대기업 브랜드사에는 오히려 우호적이다. 중국 화장품 위협은 색조에 국한되며 기초에서는 한국의 우위가 확대되고 있다. 3분기 온라인 비중 감소는 수익성에 긍정적으로 작용할 가능성이 높다.  (#pokara61 #pokara61)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/pokara61/224408231356)
+✨(In)sight
+화장품 섹터 조정은 원화 강세와 중국 화장품 부상 우려에 기인하나, 밸류체인별로 충격이 차별화된다. 수출 비중 80%를 넘는 인디 브랜드는 환율 하락에 노출되지만, 현지 외화 비용이 상쇄해 영업이익률 하락은 1%p 내외에 그칠 전망이다. 반면 국내 매출 비중이 높은 아모레퍼시픽과 LG생활건강은 환 영향에서 자유롭고 원가 측면에서 우호적이다. 중국 화장품 위협은 색조에 국한되며, 미국 아마존 Top100 내 중국계 스킨케어 SKU는 전무하다. 3분기에는 주요 온라인 할인 행사 부재로 온라인 매출 비중이 줄어 광고선전비와 판매수수료 부담이 완화된다. 브랜드사는 아모레퍼시픽에 주목할 필요가 있다. 온라인 D2C 비중 감소에 따른 해외 법인 수익성 개선과 환 영향에서 자유로운 국내 실적이 동시에 기대된다. ODM 업체는 중국 색조 브랜드의 해외 확장이 중국 법인 수주 증가로 이어질 수 있어 수혜가 예상된다.
+
+#화장품 #원화강세 #중국화장품 #3분기실적 #아모레퍼시픽
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 13:59] (하나Knowledge+) 핀플루언서, 자유와 책임의 균형
+2026-09-11
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37060&menuId=MN1000&tabMenuId=N&srchNm=ALL)
+
+[2026-09-11 14:00] **1.📚 Top 리포트**(09-11 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. DB하이텍, 심상치 않은 분위기 (positive)
+DS투자증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96055)]
+조회수: 7,862
+
+🥈. SK텔레콤, 데이터센터 확장이 주주에게 호재인 이유
+하나증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96054)]
+조회수: 6,212
+
+🥉. HDC, 나의 계절이 왔다
+한화투자증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96056)]
+조회수: 5,673
+
+🎖️. 테스, 도움닫기 끝, 적용처 3단 점프 시작
+IBK투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96069)]
+조회수: 3,364
+
+✋. 한국전력, 낮아진 기대치, 시작된 구조 변화
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96075)]
+조회수: 3,186
+
+6️⃣. RF머트리얼즈, 콥데이 후기: 루멘텀 솔벤더의 위엄
+신한투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96073)]
+조회수: 3,165
+
+7️⃣. 미래에셋증권, 11월 신규 기업가치 제고 계획 발표
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96079)]
+조회수: 3,050
+
+8️⃣. 태웅, 오디세이, 20년 만의 귀환
+IBK투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96067)]
+조회수: 2,996
+
+9️⃣. 삼성증권, 코스피 장세 수혜주
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96078)]
+조회수: 2,920
+
+🔟. NH투자증권, 하반기 배당 매력도 부각
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96080)]
+조회수: 2,788
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 14:00] **2.📚 종목분석 리포트**(09-11 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. HD현대중공업, 발전엔진 4GW, 조선 다음의 성장축
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96098)]
+조회수: 2,429
+
+🥈. HD현대중공업, 드디어 엔진 증설, 저평가된 주가
+iM증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96094)]
+조회수: 2,003
+
+🥉. 아모텍, 고객들 줄서기가 시작되었다
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96091)]
+조회수: 1,024
+
+🎖️. 씨에스윈드, 무관심에서 관심의 영역으로
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96103)]
+조회수: 1,016
+
+✋. 피에스케이홀딩스, 거침없는 실적
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96101)]
+조회수: 634
+
+6️⃣. LS, 보수적으로 봐도 주가 상승여력 충분
+SK증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96095)]
+조회수: 612
+
+7️⃣. 나노신소재, 2026년도 좋고, 2027년은 더 좋다
+iM증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96096)]
+조회수: 571
+
+8️⃣. 엠케이전자, 새로운 수요처가 열리는 본딩와이어
+한국IR협의회(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96090)]
+조회수: 488
+
+9️⃣. 신세계, 실적보다 앞서간 우려
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96093)]
+조회수: 482
+
+🔟. 세미티에스, 반도체 생산성 개선의 숨은 조력자
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96102)]
+조회수: 457
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 14:00] **3.📚 산업분석 리포트**(09-11 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 건설) (26-09) 늘어나는 모멘텀
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46030)]
+조회수: 374
+
+🥈. 조선) 엔진의 시대 - HD현대중공업의 대규모 투자 결정
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46042)]
+조회수: 353
+
+🥉. 통신) 통신 장비주 상승에 유의하세요
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46037)]
+조회수: 285
+
+🎖️. 조선) HD현대중공업 엔진 CAPA 증설. 그룹사 수혜 정도는?
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46040)]
+조회수: 256
+
+✋. 철강금속) 동: 새로운 슈퍼싸이클!
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46034)]
+조회수: 213
+
+6️⃣. 기타) 안녕하세요 데일리에요(로봇/방산/조선)
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46041)]
+조회수: 212
+
+7️⃣. 유틸리티) 18일 대미투자 MOU와 전기본 토론회
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46038)]
+조회수: 202
+
+8️⃣. 기타) 주가는 조정, 수요 외연은 확대중
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46033)]
+조회수: 175
+
+9️⃣. 자동차) 일본과 한국의 공작기계 수주 호조
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46036)]
+조회수: 162
+
+🔟. 기타) 플래닛랩스, 위성 소버린 수요에 분기 최대 실적
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46032)]
+조회수: 161
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 14:00] **4.📚 경제분석 리포트**(09-11 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [IBKS Economy Monitor] Focus on Week: 9월 연준은 어떤 선택을 할까?
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13799)]
+조회수: 200
+
+🥈. [매크로 Comment] 미국 8 월 PPI: 복합 리스크가 확대한 금리 영향력
+SK증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13801)]
+조회수: 189
+
+🥉. ECB, 인상 사이클 연장
+한화투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13803)]
+조회수: 166
+
+🎖️. [Global Markets Monitor] 9월 미국 증시, 경계의 시간
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13800)]
+조회수: 153
+
+✋. 09/11, Kiwoom Morning Letter
+키움증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13802)]
+조회수: 131
+
+6️⃣. Market Weekly Check ME up!
+다올투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13804)]
+조회수: 124
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 14:00] **5.📚 채권분석 리포트**(09-11 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [일본] 엔화와 국채, 악순환에서 선순환으로
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11250)]
+조회수: 130
+
+🥈. 채권 Daily (2026.09.11)
+유안타증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11249)]
+조회수: 60
+
+🥉. ECB: 매파적 색채 강화. 높아진 통화정책 불확실성
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11246)]
+조회수: 56
+
+🎖️. Eugenes FICC Update
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11247)]
+조회수: 48
+
+✋. Daily Bond Morning Brief(2026.09.11)
+다올투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11248)]
+조회수: 42
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 14:18] **📝. 한국·이란, 호르무즈 해협 관련 회담 개최**
+SOUTH KOREA AND IRAN HOLD TALKS FOCUSED ON THE STRAIT OF HORMUZ, FOREIGN MINISTRY SAYS.
+
+코멘트:
+호르무즈 해협은 전 세계 원유 해상 운송의 약 20%가 통과하는 핵심 길목으로, 미·이란 긴장 속에서 한국이 외교적 채널을 가동한 것은 에너지 안보와 해상 물류 리스크 관리 의지를 보여준다.
+
+#호르무즈해협 #한국이란회담 #원유공급망 #해운운임 #에너지안보
+
+[Gemini 기반 추가 조사🔍](https://www.google.com/search?q=%20%22%ED%95%9C%EA%B5%AD%C2%B7%EC%9D%B4%EB%9E%80%2C%20%ED%98%B8%EB%A5%B4%EB%AC%B4%EC%A6%88%20%ED%95%B4%ED%98%91%20%EA%B4%80%EB%A0%A8%20%ED%9A%8C%EB%8B%B4%20%EA%B0%9C%EC%B5%9C%22%20%0A%0A%0ASearch%20and%20retrieve%20the%20latest%20news%20about%20within%20the%20last%203%20days%20from%20today%20%282026-09-11%2C%20GMT%2B9%29.%F0%9F%9A%A8%20Data%20Filtering%20Criteria%3A-%20Source%3A%20ONLY%20use%20mainstream%20global%20financial%20media%20%28e.g.%2C%20Bloomberg%2C%20Reuters%2C%20WSJ%2C%20CNBC%2C%20FT%29%20or%20official%20government%20press%20releases%20and%20websites.-%20Exclusion%3A%20Completely%20exclude%20AI-generated%20spam%20sites%2C%20automated%20crawlers%2C%20personal%20finance%20blogs%2C%20and%20low-credibility%20scrapers.%20Do%20not%20use%20them%20as%20sources.%F0%9F%9A%A8%20Output%20Format%20%26%20Language%20Requirements%3A%201.%20References%20First%3A%20You%20MUST%20list%20all%20the%20found%20articles%20%28including%20Title%2C%20Source%2C%20and%20Date%29%20at%20the%20VERY%20TOP%20of%20your%20response%20before%20presenting%20the%20rest%20of%20the%20search%20results.%202.%20Language%3A%20ALL%20of%20your%20response%2C%20including%20the%20article%20list%20and%20details%2C%20MUST%20be%20written%20entirely%20in%20Korean%20%28%ED%95%9C%EA%B5%AD%EC%96%B4%29.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&udm=50)
+
+(Insight: @hyperspect | Source: [@marketfeed](https://t.me/marketfeed/1035886))
+__Disclaimer: 면책고지, 모든 메세지는 벡터 기반 분산 표상형으로 작성 등의 사유로 착오가 발생할 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.__
+
+[2026-09-11 14:19] 주식할 때 '휴식'이 진짜 중요한 이유?
+
+📝 핵심적 본문 요약
+주식 투자는 인지적 자극과 스트레스를 동시에 유발한다. 뇌 활성화에 긍정적이지만 만성 스트레스는 해마 위축과 전전두엽 기능 저하를 초래한다. 스트레스 관리와 휴식이 필수적이다.  (#고잉투더문 #going_tothe_moon)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/going_tothe_moon/224408279827)
+✨(In)sight
+주식 투자 활동이 뇌에 미치는 영향을 두고 인지적 자극과 스트레스의 상대적 크기를 비교하는 가설을 세워볼 수 있다. 시장 데이터와 신경과학 연구를 대조하면, 변동성 높은 장세에서 만성 스트레스가 인지 기능을 저하시킨다는 근거가 우세하다. 실적 시즌마다 반복되는 불확실성은 코르티솔 수치를 높여 해마 위축을 촉진한다. 반면, 체계적인 공부와 피드백은 전전두엽을 활성화해 노화를 늦춘다. 따라서 투자자는 휴식과 전환을 통해 스트레스를 관리해야 지속 가능한 수익을 추구할 수 있다.
+
+#주식스트레스 #뇌건강 #인지자극 #휴식관리 #투자심리
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 15:03] 지향성에너지 체계 검증 완료, 규모 확장 준비 갖춰... 미 전쟁부(국방부) 당국자 발언
+
+📝 핵심적 본문 요약
+미군의 지향성 에너지(레이저) 무기가 실전 배치 단계에 진입했다. 미 육군은 합동 레이저 무기 체계(JLWS)를 정식 획득 프로그램으로 전환하고 에어로바이런먼트와 30kW급 지속 고에너지 레이저(E-HEL) 계약을 체결했다. 전쟁부는 각 군의 참여로 대량 조달이 이루어지면 규모의 경제를 통해 비용이 절감될 것으로 전망한다. 해군은 더 높은 출력의 레이저 체계에 관심을 보이고 있다.  (#ruffino #orangeshirts)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224407111377)
+✨(In)sight
+2026년 9월 현재 미군의 레이저 무기 전력화는 시제품 단계에서 양산 단계로 전환되는 변곡점에 있다. 육군의 JLWS 정식 획득 프로그램 전환과 E-HEL 계약은 30kW급 대드론 체계의 실전 배치를 앞당기는 신호다. 해군이 요구하는 수백kW에서 메가와트급 출력은 순항미사일 방어와 골든 돔 구상까지 확장될 수 있다. 비용 측면에서 초기 체계당 가격은 높으나, 각 군의 대량 조달이 시작되면 규모의 경제가 실현되어 단가가 하락할 것으로 예상된다. 이는 방산 업체들의 수주 잔고 증가로 이어질 수 있다.
+
+#지향성에너지 #레이저무기 #미군전력화 #방산주 #규모의경제
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 15:45] [Visualcapitalist] 런던 부동산 가격은 세계와 어떻게 비교되는가
+How London Property Prices Compare to the World
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/cp/london-property-prices-compare-to-the-world/)
+런던의 1m² 가치로 세계 주요 도시에서 얼마나 많은 공간을 살 수 있는지 보여준다. 방갈로르와 치앙마이부터 홍콩까지.
+See how much space the value of 1m² in London can buy in major cities worldwide, from Bangalore and Chiang Mai to Hong Kong.
+
+[2026-09-11 15:51] [TrendForce] 트렌드포스에 따르면, 2026년 2분기 글로벌 상위 10대 팹리스 IC 설계 기업의 매출이 전년 동기 대비 73% 증가했으며, AMD가 상위 3위에 진입했다.
+Top 10 Global Fabless IC Design Houses Post 73% YoY Revenue Growth in 2Q26; AMD Breaks into Top Three, Says TrendForce
+
+[📜📜📜**본문보기**📜📜📜](https://www.trendforce.com/presscenter/news/20260911-13231.html)
+트렌드포스의 최신 IC 설계 산업 조사에 따르면, AI 애플리케이션의 확장이 GPU, CPU, ASIC 및 인터커넥트 제품에 대한 수요를 계속 견인했다. 그 결과, 세계 상위 10대 팹리스 IC 설계 기업의 합산 매출은 2026년 2분기에 전년 동기 대비 73% 급증하여 1,414억 5천만 달러를 넘어섰다.
+According to TrendForce’s latest IC design industry research, expanding AI applications continued to drive demand for GPUs, CPUs, ASICs, and interconnect products. Consequently, combined revenue of the world’s top 10 fabless IC design companies surged 73% YoY to more than US$141.45 billion in 2Q26.
+
+[2026-09-11 16:00] **1.📚 Top 리포트**(09-11 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. DB하이텍, 심상치 않은 분위기 (positive)
+DS투자증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96055)]
+조회수: 7,933
+
+🥈. SK텔레콤, 데이터센터 확장이 주주에게 호재인 이유
+하나증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96054)]
+조회수: 6,247
+
+🥉. HDC, 나의 계절이 왔다
+한화투자증권(2026-09-09) [[링크](https://m.stock.naver.com/research/company/96056)]
+조회수: 5,691
+
+🎖️. 테스, 도움닫기 끝, 적용처 3단 점프 시작
+IBK투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96069)]
+조회수: 3,403
+
+✋. 한국전력, 낮아진 기대치, 시작된 구조 변화
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96075)]
+조회수: 3,242
+
+6️⃣. RF머트리얼즈, 콥데이 후기: 루멘텀 솔벤더의 위엄
+신한투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96073)]
+조회수: 3,203
+
+7️⃣. 미래에셋증권, 11월 신규 기업가치 제고 계획 발표
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96079)]
+조회수: 3,118
+
+8️⃣. 태웅, 오디세이, 20년 만의 귀환
+IBK투자증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96067)]
+조회수: 3,027
+
+9️⃣. HD현대중공업, 발전엔진 4GW, 조선 다음의 성장축
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96098)]
+조회수: 3,003
+
+🔟. 삼성증권, 코스피 장세 수혜주
+유안타증권(2026-09-10) [[링크](https://m.stock.naver.com/research/company/96078)]
+조회수: 2,965
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 16:00] **2.📚 종목분석 리포트**(09-11 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. HD현대중공업, 발전엔진 4GW, 조선 다음의 성장축
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96098)]
+조회수: 3,003
+
+🥈. HD현대중공업, 드디어 엔진 증설, 저평가된 주가
+iM증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96094)]
+조회수: 2,520
+
+🥉. 씨에스윈드, 무관심에서 관심의 영역으로
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96103)]
+조회수: 1,272
+
+🎖️. 아모텍, 고객들 줄서기가 시작되었다
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96091)]
+조회수: 1,224
+
+✋. 피에스케이홀딩스, 거침없는 실적
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96101)]
+조회수: 784
+
+6️⃣. LS, 보수적으로 봐도 주가 상승여력 충분
+SK증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96095)]
+조회수: 762
+
+7️⃣. 나노신소재, 2026년도 좋고, 2027년은 더 좋다
+iM증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96096)]
+조회수: 720
+
+8️⃣. 세미티에스, 반도체 생산성 개선의 숨은 조력자
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96102)]
+조회수: 594
+
+9️⃣. 엠케이전자, 새로운 수요처가 열리는 본딩와이어
+한국IR협의회(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96090)]
+조회수: 592
+
+🔟. 신세계, 실적보다 앞서간 우려
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/company/96093)]
+조회수: 589
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 16:00] **3.📚 산업분석 리포트**(09-11 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 조선) 엔진의 시대 - HD현대중공업의 대규모 투자 결정
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46042)]
+조회수: 466
+
+🥈. 건설) (26-09) 늘어나는 모멘텀
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46030)]
+조회수: 449
+
+🥉. 통신) 통신 장비주 상승에 유의하세요
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46037)]
+조회수: 364
+
+🎖️. 조선) HD현대중공업 엔진 CAPA 증설. 그룹사 수혜 정도는?
+DS투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46040)]
+조회수: 332
+
+✋. 기타) 안녕하세요 데일리에요(로봇/방산/조선)
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46041)]
+조회수: 276
+
+6️⃣. 철강금속) 동: 새로운 슈퍼싸이클!
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46034)]
+조회수: 272
+
+7️⃣. 유틸리티) 18일 대미투자 MOU와 전기본 토론회
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46038)]
+조회수: 249
+
+8️⃣. 기타) 주가는 조정, 수요 외연은 확대중
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46033)]
+조회수: 224
+
+9️⃣. 자동차) 일본과 한국의 공작기계 수주 호조
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46036)]
+조회수: 212
+
+🔟. 기타) 플래닛랩스, 위성 소버린 수요에 분기 최대 실적
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/industry/46032)]
+조회수: 194
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 16:00] **4.📚 경제분석 리포트**(09-11 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [매크로 Comment] 미국 8 월 PPI: 복합 리스크가 확대한 금리 영향력
+SK증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13801)]
+조회수: 246
+
+🥈. [IBKS Economy Monitor] Focus on Week: 9월 연준은 어떤 선택을 할까?
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13799)]
+조회수: 242
+
+🥉. ECB, 인상 사이클 연장
+한화투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13803)]
+조회수: 220
+
+🎖️. [Global Markets Monitor] 9월 미국 증시, 경계의 시간
+IBK투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13800)]
+조회수: 191
+
+✋. Market Weekly Check ME up!
+다올투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13804)]
+조회수: 185
+
+6️⃣. 09/11, Kiwoom Morning Letter
+키움증권(2026-09-11) [[링크](https://m.stock.naver.com/research/economy/13802)]
+조회수: 164
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 16:00] **5.📚 채권분석 리포트**(09-11 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [일본] 엔화와 국채, 악순환에서 선순환으로
+하나증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11250)]
+조회수: 161
+
+🥈. 채권 Daily (2026.09.11)
+유안타증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11249)]
+조회수: 79
+
+🥉. ECB: 매파적 색채 강화. 높아진 통화정책 불확실성
+신한투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11246)]
+조회수: 72
+
+🎖️. Eugenes FICC Update
+유진투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11247)]
+조회수: 59
+
+✋. Daily Bond Morning Brief(2026.09.11)
+다올투자증권(2026-09-11) [[링크](https://m.stock.naver.com/research/debenture/11248)]
+조회수: 52
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-09-11 16:18] [삼정KPMG] People First Concert 하이라이트
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=MxZSovN5P18)
+
+[2026-09-11 16:30] [Dramexchange] 트렌드포스에 따르면, 2026년 2분기 글로벌 상위 10대 팹리스 IC 설계 기업의 매출이 전년 동기 대비 73% 증가했으며, AMD가 상위 3위에 진입했다.
+Top 10 Global Fabless IC Design Houses Post 73% YoY Revenue Growth in 2Q26; AMD Breaks into Top Three, Says TrendForce
+
+[📜📜📜**본문보기**📜📜📜](https://www.dramexchange.com/WeeklyResearch/Post/2/12833.html)
+트렌드포스의 최신 IC 설계 산업 연구에 따르면, AI 애플리케이션의 확장은 GPU, CPU, ASIC 및 인터커넥트 제품에 대한 수요를 계속 견인했습니다...
+According to TrendForce’s latest IC design industry research, expanding AI applications continued to drive demand for GPUs, CPUs, ASICs, and interconnect products...
+
+[2026-09-11 16:51] Global Fund Flow
+[Fund Flow] 신흥국 유입 전환에 힘입어 주식펀드 유입 확대
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/annual/reportView?rpt_no=37503&mn=001003&pe=003003)
+
+[2026-09-11 17:00] [단기예보] 기상청 통보문
+2026년 09월 11일 (금)요일 17:00 발표□ (종합) 당분간 내륙 중심 낮과 밤 기온차 큼
+ 
+○ (오늘~내일, 11~12일) 전국 가끔 구름많음
+ 
+○ (모레, 13일) 수도권과 강원도 흐리다가 오후에 구름많겠으나 그 밖의 지역 가끔 구름많음,
+   오후(12~18시)부터 밤(18~24시) 사이 제주도산지 곳에 따라 비,
+   늦은 새벽(03~06시)부터 아침(06~09시) 사이 서울.인천.경기북부와 강원중.북부 곳에 따라 0.1mm 미만 빗방울   
+ 
+○ (글피, 14일) 전국 가끔 구름많음
+ 
+○ (그글피, 15일) 전국 대체로 맑겠으나 동해안과 제주도 구름많음
+
+* 예상 강수량(13일)
+- (제주도) 제주도산지: 5~10mm
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-09-11 17:00] [YARI 데이터스냅샷] 동북아 8개 도시 관광상품 평균 평점 비교
+
+서구권 관광객에게 가장 높은 평가를 받은 도시는? 서구권 관광객이 가장 만족한 동북아 도시는 어디일까요?  관광상품 평균 평점 1위는 베이징(4.91점), 그 뒤를 부산(4.90점)과 상하이(4.89점)가 이었습니다. 특히 부산은 비교적 적은 상품 수에도 불구하고 높은 만족도를 기록하며, ‘부산다움’을 담은 지역 특화 콘텐츠의 경쟁력을 보여줬습니다. 서울은 4.78점으로 높은 평가를 받았지만, 경쟁 도시와 비교하면 상품의 일관된 품질과 차별화된 체험 설계가 앞으로의 과제로 나타났습니다. 그렇다면 높은 평점을 만든 관광상품에는 어떤 공통점이 있었을까요? 도시별 관광상품의 구성부터 근교투어, 프리미엄 상품의 경쟁력까지 더 자세.......  (#야놀자리서치 #yanoljaresearch)
+
+[📜📜📜**본문보기**📜📜📜](https://blog.naver.com/yanoljaresearch/224408452617)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 17:08] 미·이란 충격 속 유가 급등 막은 중국의 5가지 에너지 완충 전략
+
+📝 핵심적 본문 요약
+브렌트유가 배럴당 100달러를 재돌파했다. 중국은 원유 수입을 40% 줄이고 비축유를 방출하며 가격 상승을 억제했다. 골드만삭스는 중국의 수입 감축이 없었다면 유가가 10~15달러 더 높았을 것으로 추정했다. 전문가들은 중국이 수요 측면의 OPEC 역할을 하고 있다고 평가한다. 중국은 전기차 보급과 석탄 기반 대체 연료로 원유 수요를 줄이고 있다.  (#피우스 #jeunkim)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/jeunkim/224408452158)
+✨(In)sight
+중국이 수요 측면의 OPEC으로 부상하며 유가 안정에 기여하고 있다. 전기차 보급과 석탄 기반 석유화학 전환으로 원유 수요를 줄이는 구조적 변화가 진행 중이다. 이는 중국의 에너지 안보를 강화하고 글로벌 원유 시장의 변동성을 완화하는 요인이다. 그러나 중국의 구매 패턴 변화는 유가에 양방향 영향을 미칠 수 있다.
+
+#중국 #원유 #수요측OPEC #전기차 #에너지안보
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-09-11 17:22] 일본 항공자위대 치토세 기지 공개행사 - 치토세 항공제(千歳の町の航空祭)에 다녀오다(6편) : 블루임펄스(ブルーインパルス) 시범 비행 및 T-4
+
+📝 핵심적 본문 요약
+일본 항공자위대 항공제에서 블루임펄스 시범비행을 관람했다. 기체와 도장이 단조롭고 흰색 스모크만 사용해 시각적 효과가 제한적이었다. 오후 하늘 상태가 흐려 촬영 환경이 악화됐다. 조리개우선모드로 인해 셔터스피드가 낮아져 초점이 맞지 않은 사진이 다수 발생했다. 결과적으로 만족스러운 촬영 성과를 얻지 못했다.  (#ruffino #orangeshirts)
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224407132588)
+✨(In)sight
+블루임펄스의 기동은 블랙이글스 대비 역동성이 부족했다. T-4 기체의 단조로운 도장과 흰색 스모크 제한은 시각적 임팩트를 낮추는 요인이다. 오후 하늘의 흐린 조건은 촬영 성공률을 크게 떨어뜨렸으며, 조리개우선모드 고수는 셔터스피드 저하로 초점 불량을 초래했다. 이는 장비와 설정의 한계가 결과물에 직접적 영향을 미친 사례다. 향후 항공 촬영 시 환경 변화에 따른 유연한 설정 조정이 필요하다.
+
+#블루임펄스 #블랙이글스 #항공촬영 #셔터스피드 #치토세항공제
+
+※우라가 오지 않으면 그것은 인사이트가 아니다.
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※

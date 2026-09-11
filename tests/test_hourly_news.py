@@ -12,6 +12,21 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_summary_removes_dateline_with_optional_reporter(self):
+        body = '오픈AI가 금융회사의 주식 리서치를 지원하는 서비스를 출시했다.'
+        for prefix in ['(서울=연합뉴스) ', '(샌프란시스코 = 연합뉴스) 김철수 특파원 = ', '[서울=뉴시스] ']:
+            self.assertEqual(news.compact_summary(prefix + body), body)
+        ordinary = '(잠정 실적) 회사는 올해 매출이 지난해보다 크게 증가했다고 밝혔다.'
+        self.assertEqual(news.compact_summary(ordinary), ordinary)
+
+    def test_appliance_launches_excluded_but_material_company_news_kept(self):
+        for title in ['LG전자, 차세대 OLED TV 출시', '삼성전자 AI 냉장고 신제품 공개',
+                      'LG전자, 프리미엄 가전 선보인다', '새로운 로봇청소기 사전예약 시작']:
+            self.assertTrue(news.is_invalid(title), title)
+        for title in ['오픈AI, 주식리서치 특화 챗GPT 출시',
+                      'LG전자, 가전 사업 영업이익 사상 최대', 'LG전자 TV 사업부 매각 추진']:
+            self.assertFalse(news.is_invalid(title), title)
+
     def test_summary_preserves_decimal_and_limits_sentences(self):
         first = 'SOL AI반도체소부장 ETF의 최근 1개월 수익률은 23.14%를 기록했다.'
         second = 'AI 인프라 투자 확대와 반도체 업황 회복이 영향을 줬다.'

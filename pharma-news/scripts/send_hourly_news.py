@@ -130,7 +130,18 @@ def clean_title(title):
     title = re.sub(r'·\[.*?\]', '', title)
     return title.strip()
 
+def is_appliance_launch(title):
+    appliance = re.search(
+        r'(?i)(?<![a-z])TV(?![a-z])|텔레비전|가전|냉장고|세탁기|건조기|청소기|'
+        r'에어컨|공기청정기|식기세척기|인덕션|전자레인지|정수기|스타일러', title)
+    launch = any(word in title for word in (
+        '출시', '신제품', '신모델', '신형', '공개', '선보', '론칭', '런칭', '사전예약', '사전 예약'))
+    return bool(appliance and launch)
+
+
 def is_invalid(title):
+    if is_appliance_launch(title):
+        return True
     if any(keyword in title.casefold() for keyword in PRODUCT_KEYWORDS):
         return True
     for keyword in EXCLUDE_KEYWORDS + BROKER_KEYWORDS:
@@ -312,6 +323,10 @@ def get_article_summary(url, title=None):
 
 def compact_summary(text):
     """원문 앞부분의 완결된 문장 최대 3개를 두 문단으로 발췌한다."""
+    # 지역·통신사 표기와 뒤따르는 기자 서명만 제거한다.
+    text = re.sub(
+        r'^\s*[\(\[][^()\[\]\n=]{1,40}\s*=\s*[^()\[\]\n]{1,60}[\)\]]'
+        r'\s*(?:[가-힣·,\s]{2,30}\s+(?:기자|특파원)\s*)?=?\s*', '', text)
     sentences = re.split(r'(?<=[.!?])\s+', re.sub(r'\s+', ' ', text).strip())
     result = []
     for sentence in sentences:

@@ -125,3 +125,7 @@ https://www.bloomberg.com/news/articles/2026-09-11/china-halts-new-battery-facto
 - 양사 주가는 12개월 선행 P/E 약 4배 수준으로 Philadelphia Semiconductor Index(19배) 대비 밸류에이션 매력이 부각되며 일부 외국인 펀드의 복귀를 유인하고 있다.
 - 시장 전문가들은 단기적 투자심리 위축에 따른 변동성 확대를 경고하면서도 저비용 AI 확산이 장기적으로 반도체 사용량을 늘려 펀더멘털을 지지할 것으로 진단했다.
 https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution
+
+[2026-09-11 20:43] 코스피 신용잔고
+
+[2026-09-11 20:43] 코스닥 신용잔고

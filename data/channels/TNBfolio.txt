@@ -22,3 +22,21 @@
 - 68%를 상회하는 주당순이익 서프라이즈와 145% 급증한 수주 잔고에 힘입어 회사의 장기 성장 가시성이 크게 개선되었다.
 
 https://www.investing.com/news/stock-market-news/why-is-vicor-stock-surging-today-93CH-4898226
+
+[2026-09-12 15:06] Donald Trump, 미국 내 고용 조건으로 중국 자동차 공장 설립 허용 시사 - Bloomberg
+(by https://t.me/TNBfolio)
+- Donald Trump 미국 대통령은 Fox News 인터뷰에서 미국인 고용을 전제로 중국 자동차 기업의 미국 내 전기차 공장 설립 및 제조를 허용할 수 있다고 밝혔다.
+- Donald Trump는 완제품 수입에 대해서는 미국 자동차 시장 잠식을 이유로 전면 차단 입장을 재확인하며 멕시코 생산 우회 수출 역시 절대 허용하지 않겠다고 강조했다.
+- 현재 미국 시장은 고율 관세와 미국 상무부의 국가안보 기반 커넥티드 차량 규제로 인해 중국산 차량 진입을 사실상 원천 차단하고 있다.
+- Ford CEO Jim Farley와 행정부 관계자들은 중국 업체의 미국 내 생산 허용과 자국 기업 보호를 병행하는 잠정 프레임워크를 비공식적으로 논의했던 것으로 전해졌다.
+- 한편 미 의회에서는 중국 지분이 15%를 초과하는 기업의 커넥티드 차량 판매를 금지하는 법안이 발의되었으나, 중국 지분이 높은 해외 타 완성차 업체로 불똥이 튈 수 있다는 우려도 제기되었다.
+https://www.bloomberg.com/news/articles/2026-09-12/trump-says-open-to-china-building-cars-in-us-as-xi-visit-looms
+
+[2026-09-12 15:44] Saudi Arabia 핵심 송유관, 이라크발 드론 피격 후 화재로 전격 폐쇄 - CNN
+(by https://t.me/TNBfolio)
+- Saudi Arabia 동서 송유관(East-West Pipeline) 펌프장이 이라크발 드론 피격으로 화재가 발생해 예방 차원에서 가동이 전면 중단되었다.
+- 해당 송유관은 Strait of Hormuz 봉쇄 이후 하루 약 500만 배럴의 원유를 홍해 Yanbu 항으로 우회 수송하던 핵심 수출 인프라다.
+- 이번 공습과 홍해 인근 지정학적 위기 고조로 공급 불안이 증폭되며 국제유가는 배럴당 100달러를 돌파했다.
+- Saudi Arabia는 이라크 정부의 자체 조사 및 재발 방지 요청을 수용해 현 단계에서는 군사적 대응을 유보하기로 결정했다.
+- 한편 지난달 Saudi Arabia의 원유 생산량은 1990년 이후 최저치로 급감했다고 OPEC에 보고된 바 있어 공급 차질 우려가 더욱 커지고 있다.
+https://sg.news.yahoo.com/saudi-arabian-oil-pipeline-system-162845099.html

@@ -26,3 +26,19 @@ https://www.kyeonggi.com/article/20260914580116
 왜 이렇게 빨리 내리나요
 
 https://naver.me/GArF1AQP
+
+[2026-09-14 14:29] 샘 올트먼: AI 개발 멈추는것 아니다. 개발중 일어나는 일들을 모니터링 하고 페이싱 하겠다는것
+
+When we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.
+
+https://x.com/sama/status/2099348812305473766
+
+[2026-09-14 15:47] 흥미로운 점은 **컴퓨트가 추론이 아닌 Post Training으로 가고 있다는 것**
+
+전체 컴퓨트가 늘었기에 다 늘었겠지만 가장 공격적으로 늘리는 곳은 사후 학습
+
+[2026-09-14 16:51] There's a small window in life when your parents are healthy, your children are little, and everyone is happy and together. It feels like it will last forever, it won’t. Cherish every moment of it.
+
+[2026-09-14 17:45] 미국 2위 로펌이 엔비디아 서버 구매
+
+https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1

@@ -12,6 +12,39 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_same_battery_order_issue_across_companies_is_skipped_today(self):
+        records = [{'title': 'LG에너지솔루션, 하반기 대규모 수주 예상…매수 기회',
+                    'date': news.datetime.now(news.KST).date().isoformat()}]
+        self.assertTrue(news.already_covered('ESS 성장에 수주 경쟁력 강화…삼성SDI 목표가 상향', 'https://example.com/new', records))
+        self.assertFalse(news.already_covered('삼성SDI, 신형 배터리 공개', 'https://example.com/new', records))
+        records[0]['date'] = '2020-01-01'
+        self.assertFalse(news.already_covered('삼성SDI ESS 공급계약 체결', 'https://example.com/new', records))
+
+    def test_same_url_and_republished_content_are_duplicates(self):
+        body = '기업은 해외 생산 공장의 신규 공급계약을 체결했다. 이번 계약은 현지 공장의 생산 규모 확대를 위한 것이다.'
+        records = [{'title': '첫 번째 기사 제목', 'url': 'https://n.news.naver.com/mnews/article/018/123?sid=101', 'summary': body}]
+        self.assertTrue(news.already_covered('완전히 바뀐 기사 제목', 'https://n.news.naver.com/article/018/123', records))
+        self.assertTrue(news.already_covered('다른 언론사의 기사 제목', 'https://example.com/2', records, body))
+        self.assertTrue(news.similar_text('HD현대그룹 주가 불기둥…기대치 웃돈 성장사업 베팅 [줍줍리포트]',
+                                          'HD현대그룹 주가 불기둥…기대치 웃돈 성장사업 베팅'))
+
+    def test_duplicate_summary_advances_to_next_candidate(self):
+        first = ('새빛테크, 해외 공급계약 체결', 'https://example.com/first', 100)
+        second = ('다른기업, 신약 임상 성공 발표', 'https://example.com/second', 90)
+        body = '기업은 해외 생산 공장의 신규 공급계약을 체결했다. 이번 계약은 현지 공장의 생산 규모 확대를 위한 것이다.'
+        records = [{'title': '이전 발송 기사', 'summary': body}]
+        summaries = {}
+        with patch.object(news, 'fetch_popular_articles', return_value=[first, second]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST).date()), patch.object(news, 'get_article_summary', side_effect=[body, '새로운 임상 결과를 발표했다.']):
+            self.assertEqual(news.pick_best_article([], records, summaries), second[:2])
+
+    def test_article_history_persists_summary_url_and_date(self):
+        with tempfile.TemporaryDirectory() as directory:
+            with patch.object(news, 'ARTICLE_LOG_PATH', str(Path(directory) / 'articles.json')):
+                news.save_sent_article([], ('새 기업 공급계약', 'https://example.com/1'), '기사 내용')
+                records = news.load_sent_articles()
+                self.assertEqual(records[0]['summary'], '기사 내용')
+                self.assertEqual(records[0]['date'], news.datetime.now(news.KST).date().isoformat())
+
     def test_summary_removes_dateline_with_optional_reporter(self):
         body = '오픈AI가 금융회사의 주식 리서치를 지원하는 서비스를 출시했다.'
         for prefix in ['(서울=연합뉴스) ', '(샌프란시스코 = 연합뉴스) 김철수 특파원 = ', '[서울=뉴시스] ']:

@@ -59,7 +59,8 @@ def record_slot(state, slot, result):
 def persist_history():
     def git(*args, **kwargs):
         return subprocess.run(["git", *args], cwd=ROOT, check=True, **kwargs)
-    paths = [p for p in ("data/hourly_sent_log.json", "data/hourly_delivery_state.json")
+    paths = [p for p in ("data/hourly_sent_log.json", "data/hourly_delivery_state.json",
+                        "data/hourly_sent_articles.json")
              if (ROOT / p).exists()]
     if not paths:
         return

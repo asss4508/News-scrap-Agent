@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import re
 import json
+from difflib import SequenceMatcher
 from html import escape
 from urllib.parse import urlparse, urljoin
 from datetime import datetime, timezone, timedelta
@@ -13,6 +14,7 @@ SENT_LOG_PATH = os.path.join(
     os.path.dirname(__file__), "..", "..", "data", "hourly_sent_log.json"
 )
 SENT_LOG_KEEP = 90  # 하루 9건 기준 약 10일치 보관
+ARTICLE_LOG_PATH = os.path.join(os.path.dirname(SENT_LOG_PATH), "hourly_sent_articles.json")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -386,13 +388,87 @@ def fetch_articles(url, domain, href_filter=None):
     return articles
 
 def normalize_title(title):
-    return re.sub(r'[^\w]', '', title)
+    return re.sub(r'[^\w]', '', title).casefold()
+
+
+def canonical_url(url):
+    parsed = urlparse(url)
+    match = re.fullmatch(r'/(?:mnews/)?article/(\d+)/(\d+)', parsed.path)
+    if parsed.hostname == 'n.news.naver.com' and match:
+        return f"https://n.news.naver.com/article/{match[1]}/{match[2]}"
+    # Other publishers can use query parameters as their article identifier.
+    return parsed._replace(fragment='').geturl()
+
+
+def similar_text(left, right):
+    left, right = normalize_title(left), normalize_title(right)
+    if not left or not right:
+        return False
+    if min(len(left), len(right)) >= 20 and (left in right or right in left):
+        return True
+    return SequenceMatcher(None, left, right, autojunk=False).ratio() >= 0.78
+
+
+def issue_keys(title):
+    """Daily diversity: the same sector/event is one issue across publishers."""
+    text = normalize_title(title)
+    sectors = {
+        'battery': ('배터리', 'ess', 'lg엔솔', 'lg에너지솔루션', '삼성sdi'),
+        'autonomous': ('자율주행', '자율차', '아트리아'),
+        'memory': ('hbm', '메모리', 'sk하이닉스', '마이크론'),
+    }
+    events = {
+        'orders': ('수주', '공급계약', '공급물량'),
+        'launch': ('출시', '공개', '양산', '상용화'),
+        'earnings': ('실적', '영업이익', '흑자', '적자'),
+    }
+    return {f'{sector}/{event}' for sector, words in sectors.items()
+            if any(word in text for word in words)
+            for event, words in events.items() if any(word in text for word in words)}
+
+
+def load_sent_articles():
+    try:
+        with open(ARTICLE_LOG_PATH, encoding='utf-8') as stream:
+            records = json.load(stream)
+    except FileNotFoundError:
+        return []
+    if not isinstance(records, list) or not all(isinstance(row, dict) and 'title' in row for row in records):
+        raise ValueError('Invalid article history; refusing duplicate-prone delivery')
+    return records
+
+
+def save_sent_article(records, article, summary):
+    title, url = article
+    updated = records[-(SENT_LOG_KEEP - 1):] + [{
+        'title': title, 'url': canonical_url(url), 'summary': summary,
+        'date': datetime.now(KST).date().isoformat(),
+    }]
+    os.makedirs(os.path.dirname(ARTICLE_LOG_PATH), exist_ok=True)
+    temporary = ARTICLE_LOG_PATH + '.tmp'
+    with open(temporary, 'w', encoding='utf-8') as stream:
+        json.dump(updated, stream, ensure_ascii=False, indent=2)
+    os.replace(temporary, ARTICLE_LOG_PATH)
+
+
+def already_covered(title, url, records, summary=''):
+    today = datetime.now(KST).date().isoformat()
+    for previous in records:
+        if previous.get('url') and canonical_url(url) == canonical_url(previous['url']):
+            return True
+        if similar_text(title, previous['title']):
+            return True
+        if summary and len(summary) >= 40 and similar_text(summary, previous.get('summary', '')):
+            return True
+        if previous.get('date') == today and issue_keys(title) & issue_keys(previous['title']):
+            return True
+    return False
 
 def load_sent_titles():
     try:
         with open(SENT_LOG_PATH, encoding="utf-8") as f:
             return list(dict.fromkeys(json.load(f)))
-    except Exception:
+    except FileNotFoundError:
         return []
 
 def save_sent_titles(sent_titles, newly_sent_title):
@@ -435,7 +511,8 @@ def fetch_popular_articles():
     return articles
 
 
-def pick_best_article(sent_titles):
+def pick_best_article(sent_titles, sent_articles=None, summaries=None):
+    sent_articles = sent_articles or []
     # 매 실행마다 갱신된 인기 목록을 먼저 넣어 같은 제목의 일반 기사보다 우선한다.
     all_articles = fetch_popular_articles()
     with ThreadPoolExecutor(max_workers=4) as pool:
@@ -456,20 +533,28 @@ def pick_best_article(sent_titles):
 
     today = datetime.now(KST).date()
     for title, url, score in unique:
-        if normalize_title(title) in sent_titles:
+        if any(similar_text(title, previous) for previous in sent_titles):
+            continue
+        if already_covered(title, url, sent_articles):
             continue
         # 섹션 목록 페이지엔 전날 기사가 계속 걸려있는 경우가 있어,
         # 실제 발행일을 확인해 오늘 기사가 아니면 건너뛴다.
         pub_date = get_article_date(url)
         if pub_date != today:
             continue
+        if summaries is not None:
+            summary = get_article_summary(url, title)
+            if already_covered(title, url, sent_articles, summary):
+                continue
+            summaries[url] = summary
         return title, url
 
     return None
 
-def build_message(article):
+def build_message(article, summary=None):
     title, url = article
-    summary = get_article_summary(url, title)
+    if summary is None:
+        summary = get_article_summary(url, title)
     msg = "🔜 <b>" + escape(title) + "</b>\n\n"
     if summary:
         msg += escape(summary) + "\n\n"
@@ -495,13 +580,17 @@ def run_once():
         return "outside_window"
     print("뉴스 수집 중...")
     sent_titles = load_sent_titles()
-    article = pick_best_article(sent_titles)
+    sent_articles = load_sent_articles()
+    summaries = {}
+    article = pick_best_article(sent_titles, sent_articles, summaries)
     if article is None:
         print("새로 보낼 핫뉴스가 없어 이번 회차는 건너뜁니다.")
         return "no_article"
-    msg = build_message(article)
+    summary = summaries.get(article[1], '')
+    msg = build_message(article, summary)
     print(msg)
     send_telegram(msg)
+    save_sent_article(sent_articles, article, summary)
     save_sent_titles(sent_titles, normalize_title(article[0]))
     return "sent"
 

@@ -1,5 +1,41 @@
-[2026-09-14 16:29] 샘 올트먼: AI 개발 멈추는것 아니다. 개발중 일어나는 일들을 모니터링 하고 페이싱 하겠다는것
+[2026-09-15 21:37] 금리와 주식 비중 관점: (골드만 포트폴리오 전략 팀 보고서 발췌) 
 
-When we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.
+금리 인상은 주가 밸류에이션에 악재(역풍)로 작용하지만, 주가를 움직이는 가장 중요한 동인은 결국 실적입니다.
 
-https://x.com/sama/status/2099348812305473766
+연준의 통화 긴축은 지난 1세기 동안 주요 강세장의 종식을 설명해 온 주요 요인 중 하나입니다. 하지만 긴축 주기 동안에도 주식 시장은 좋은 성과를 거둔 경우가 많았습니다.
+
+S&P 500 지수는 첫 금리 인하 후 12개월 동안 평균 +9%의 수익률을 기록했습니다.
+
+현재 시장은 향후 1년 이내에 3회 이상의 금리 인상을 이미 가격에 반영하고 있으며, 기업들의 실적과 재무제표는 모두 견고한 상태입니다.
+
+기업은 리스크 프리미엄이 낮아지거나 성장률이 높아지면 금리 인상 국면에서도 기존 밸류에이션을 유지할 수 있습니다.
+
+현재 수준에서 자기자본비용(cost of equity)이 1%p 상승할 때 그 영향을 완전히 상쇄하려면, 기업의 기대 장기 성장률이 2%p 상승해야 합니다.
+
+성장 동력을 끌어올리는 한 가지 방법은 설비투자(capex) 및 연구개발(R&D)에 투자하는 것입니다. 인수합병(M&A)과 기업분할(spinoff) 역시 기업이 성장 궤도를 개선할 수 있는 또 다른 경로입니다.
+
+
+차트 1: 연준 첫** **금리** **인상** **후** 3**개월간** **섹터별** **성과
+
+차트 2: 금리** **및** **경기** **성장** **민감도별** **섹터** **지도** (2021**년** **이후**)**
+
+**----**
+
+한줄요약: 금리가 높으면 단기적으로 투자 심리를 위축시킬 수 있지만 결국 주가를 결정짓는 본질은 '기업의 실적과 성장'
+
+[2026-09-15 21:39] ●AI 속도조절론이 반도체 수요와 CAPEX를 줄이지 않을까?
+
+
+프론티어 모델의 훈련 속도가 느려지면 초대형 GPU 훈련 수요에는 단기 부담이 될 수 있지만, 이미 만들어진 AI를 사용하는 추론 수요까지 줄어드는 것은 아닙니다.
+
+현재 실제 빅테크 CAPEX 삭감이 확인된 것은 아니기 때문에, 저는 이를 AI 인프라 붕괴보다 CAPEX의 속도와 투자처가 달라지는 과정으로 봅니다.
+
+[2026-09-15 21:44] 세일즈포스, 구글/아마존/엔비디아와의 협력 발표
+
+========================
+
+~ Salesforce announced it will expand AI integration with Amazon Web Services (AWS) to provide AI support for enterprise workflows, and will align infrastructure and AI agents with Google Cloud to build an interconnected AI technology stack
+
+~ Salesforce and NVIDIA will integrate NeMoTron-based models and NVIDIA accelerated compute technology into Missionforce
+
+https://x.com/AIStockSavvy/status/2099831787006419426

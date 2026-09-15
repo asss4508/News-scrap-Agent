@@ -1,44 +1,17 @@
-[2026-09-14 00:38] 근데 모델의 개발과 컴퓨팅파워의 확보도 연관성이 있겠지만 안정적 서비스에도 컴퓨팅 파워가 연관성이 있을 것이기 때문에
+[2026-09-15 08:01] 트럼프: AI 개발 지연은 중국의 손에서 놀아나는것. 절대 그렇게 두지 않겠다. 이건 사기다
 
-서비스 자체를 축소시킨다 가 아니면 HW쪽은 그리 큰 리스크가 아닌 것 같습니다.
+젠슨황: 맞습니다 맞고요. 절대 그렇게 두지 않겠습니다
 
-[2026-09-14 01:17] 2조 달러, 10월
+Trump said slowing down would be playing right into the hands of China.
 
-ANTHROPIC PICKS NASDAQ FOR POTENTIAL $2 TRILLION IPO
+President Trump: We're not going to let that happen. It's a hoax!
 
-Anthropic has selected Nasdaq for its potential IPO, according to a person familiar with the company’s plans, as it targets an October listing.
+Jensen Huang: That's right, we're not going to let that happen sir.
 
-Some estimates have valued Anthropic at as much as $2 trillion, though the figure has not been finalized. The potential blockbuster listing would give Nasdaq another major win after securing SpaceX’s $1.75 trillion listing earlier this year.
+https://x.com/benitoz/status/2099572926865715548
 
-[2026-09-14 08:07] 삼성전자·SK하이닉스, '25조 전기료 선납' 한전 제안 거절 | 연합뉴스
-https://www.yna.co.kr/view/AKR20260914012700003?input=1195m
+[2026-09-15 08:06] 게빈베이커: 앤트로픽과 OpenAI가 프론티어 모델을 ‘Pacing’하는 것은 더 많은 컴퓨트를 투자해야할것
 
-[2026-09-14 10:13] AI 속도조절 해야합니다! (컴퓨팅을 늘리며)
+The way that Anthropic and OpenAI are going to “pace” the frontier is by spending more time and more __compute__ on alignment, monitoring and evals.
 
-*앤스로픽은 RUM 그룹과 6년간 137억 달러 규모의 컴퓨팅 계약을 체결했습니다.
-
-[2026-09-14 12:11] ㅋㅋㅋㅋㅋ 개트롤짓 시전하는 미세스용 ㅋㅋㅋㅋㅋ
-
-https://www.kyeonggi.com/article/20260914580116
-
-[2026-09-14 12:18] 앞자리가 또 바뀌겠네요
-
-왜 이렇게 빨리 내리나요
-
-https://naver.me/GArF1AQP
-
-[2026-09-14 14:29] 샘 올트먼: AI 개발 멈추는것 아니다. 개발중 일어나는 일들을 모니터링 하고 페이싱 하겠다는것
-
-When we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.
-
-https://x.com/sama/status/2099348812305473766
-
-[2026-09-14 15:47] 흥미로운 점은 **컴퓨트가 추론이 아닌 Post Training으로 가고 있다는 것**
-
-전체 컴퓨트가 늘었기에 다 늘었겠지만 가장 공격적으로 늘리는 곳은 사후 학습
-
-[2026-09-14 16:51] There's a small window in life when your parents are healthy, your children are little, and everyone is happy and together. It feels like it will last forever, it won’t. Cherish every moment of it.
-
-[2026-09-14 17:45] 미국 2위 로펌이 엔비디아 서버 구매
-
-https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1
+The frontier labs that choose to “pace” likely spend slightly more money on compute at the cost of lower margins.

@@ -50,3 +50,21 @@ https://breakingthenews.net/Article/Crypto-Clarity-Act-blocked-in-Senate-vote/67
 - 사우디의 선적 중단 조치와 Libya의 3개 유전 가동 중단이 겹치면서 원유 선물 시장에서도 Brent 선물 가격이 배럴당 110달러선에 다가섰다.
 - 몇 주 내 즉시 인도되어야 하는 실물 원유 수요가 급증함에 따라 실물 화물 가격이 11월물 Brent 선물 가격을 크게 웃도는 프리미엄을 형성했다.
 https://www.reuters.com/business/energy/some-physical-oil-cargoes-top-130-barrel-nearing-aprils-record-saudi-disruptions-2026-09-15/
+
+[2026-09-16 07:03] 미국 전략비축유(SPR), 1982년 이후 44년 만에 최저치로 급감 - 야후파이낸스
+(by https://t.me/TNBfolio)
+- 미국 전략비축유(SPR) 잔여 재고가 2억 8,540만 배럴로 집계되어 1982년 11월 이후 가장 낮은 수준으로 떨어졌다.
+- 전략비축유 재고는 전년 동기의 4억 520만 배럴 대비 지난 1년 사이에 약 30%인 1억 2,000만 배럴이 감소했다.
+- 중동 분쟁과 사우디 핵심 송유관 피격 여파로 WTI 원유 선물 가격은 배럴당 103달러를 돌파했다.
+- 미국 정유사들의 가동률은 97.8%에 도달하며 하루 평균 1,760만 배럴의 원유를 처리해 한계 수준에 도달했다.
+- 이란과의 60일 휴전 협정이 합의 없이 종료되면서 국제 원유 시장의 상방 압력이 지속적으로 커지고 있다.
+https://finance.yahoo.com/energy/articles/u-strategic-petroleum-hits-lowest-124132562.html
+
+[2026-09-16 07:15] 미국 해군, 중국 견제 위해 한국·일본산 군함 조달 검토 - Nikkei
+(by https://t.me/TNBfolio)
+- U.S. Navy가 중국의 급격한 해군력 증강에 대응하고 함정 인도 일정을 단축하기 위해 동맹국인 한국과 일본에서 건조된 군함 조달을 적극 검토하고 있다.
+- 백악관은 미국 내 조선소를 신설하거나 인수하는 외국 기업에 대해 초기 2척의 건조를 자국에서 진행해 미국으로 인도할 수 있도록 허용하는 지침을 발표했다.
+- 미국 해군 조달 후보군으로는 Mitsubishi Heavy Industries의 모가미급 호위함 개량형을 비롯해 한국과 튀르키예의 호위함 건조 옵션이 거론되고 있다.
+- 한국 조선사들은 미국 내 직접 투자와 정상 간 협력 의지를 바탕으로 유력 후보로 평가받고 있으며, 호주 해군 사업을 수주한 일본 역시 유력한 경쟁 상대로 꼽힌다.
+- 미국 조선업의 경쟁력 약화로 단기 건조 역량이 제한된 가운데 2001년 이후 현대식 함정을 7배 가까이 늘린 중국과의 아시아·태평양 전력 격차 축소가 시급한 과제로 부상했다.
+https://asia.nikkei.com/politics/defense/us-weighs-buying-warships-from-japan-south-korea-to-counter-china

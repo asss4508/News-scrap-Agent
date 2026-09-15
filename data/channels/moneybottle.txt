@@ -11,3 +11,8 @@
 • SanDisk $SNDK [콜]
 • Intel $INTC [콜]
 • Roundhill Memory ETF $DRAM [콜]
+
+[2026-09-16 08:07] 올해 처음으로 OpenAI가 Anthropic보다 더 높은 매출을 올리고 있음
+
+*6월까지도 20%대였는데 최근 급상승
+*openrouter 기준

@@ -12,6 +12,23 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_actual_celltrion_buyback_cancellation_republication(self):
+        records = json.loads((ROOT / 'tests/fixtures/celltrion_duplicate.json').read_text(encoding='utf-8'))
+        first, second = [row for row in records if row['title'].startswith('셀트리온,')][-2:]
+        first = dict(first, date=news.datetime.now(news.KST).date().isoformat())
+        self.assertTrue(news.already_covered(second['title'], second['url'], [first], second['summary']))
+
+    def test_company_event_dedup_is_not_limited_to_company_allowlist(self):
+        today = news.datetime.now(news.KST).date().isoformat()
+        previous = [{'title': '새빛테크, 1000억원 자사주 소각 결정', 'date': today}]
+        self.assertTrue(news.already_covered('새빛테크, 주주가치 높인다', 'https://example.com/new', previous,
+                                            '자기주식 962억원을 소각하기로 했다.'))
+        self.assertFalse(news.already_covered('다른기업, 1000억원 자사주 소각', 'https://example.com/new', previous))
+        self.assertFalse(news.already_covered('새빛테크, 신약 임상 성공', 'https://example.com/new', previous))
+        previous[0]['date'] = '2020-01-01'
+        self.assertFalse(news.already_covered('새빛테크, 주주가치 높인다', 'https://example.com/new', previous,
+                                             '자기주식 962억원을 소각하기로 했다.'))
+
     def test_same_battery_order_issue_across_companies_is_skipped_today(self):
         records = [{'title': 'LG에너지솔루션, 하반기 대규모 수주 예상…매수 기회',
                     'date': news.datetime.now(news.KST).date().isoformat()}]

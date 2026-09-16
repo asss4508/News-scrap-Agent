@@ -451,6 +451,32 @@ def save_sent_article(records, article, summary):
     os.replace(temporary, ARTICLE_LOG_PATH)
 
 
+def company_event_keys(title, summary=''):
+    """Match company events even when publishers round amounts or rewrite leads."""
+    cleaned = re.sub(r'^\s*\[[^\]]+\]\s*', '', title).strip(' “"‘\'')
+    # Korean business headlines usually name their subject before a comma.
+    # Known names also cover titles with no comma or a leading quote.
+    companies = {normalize_title(company) for company in MAJOR_COMPANIES
+                 if company.casefold() in cleaned.casefold()}
+    subject = re.match(r'^([가-힣A-Za-z0-9·& .]{2,30})\s*[,，]', cleaned)
+    if subject:
+        companies.add(normalize_title(subject[1]))
+    text = normalize_title(title + ' ' + summary)
+    patterns = {
+        'share_cancellation': r'(?:자사주|자기주식).{0,30}소각|소각.{0,15}(?:자사주|자기주식)',
+        'share_purchase': r'(?:자사주|자기주식).{0,20}(?:매입|취득결정|취득계약)',
+        'dividend': r'(?:현금|분기|중간|결산|특별)배당',
+        'supply_contract': r'수주|공급계약|납품계약',
+        'acquisition': r'인수|합병',
+        'drug_approval': r'(?:신약|치료제|의약품|바이오시밀러).{0,30}(?:허가|승인)',
+        'clinical_trial': r'임상.{0,15}(?:성공|결과|돌입|개시)',
+        'technology_transfer': r'기술이전|기술수출',
+        'capital_raise': r'유상증자|무상증자',
+    }
+    return {f'{company}/{event}' for company in companies
+            for event, pattern in patterns.items() if re.search(pattern, text)}
+
+
 def already_covered(title, url, records, summary=''):
     today = datetime.now(KST).date().isoformat()
     for previous in records:
@@ -461,6 +487,8 @@ def already_covered(title, url, records, summary=''):
         if summary and len(summary) >= 40 and similar_text(summary, previous.get('summary', '')):
             return True
         if previous.get('date') == today and issue_keys(title) & issue_keys(previous['title']):
+            return True
+        if previous.get('date') == today and company_event_keys(title, summary) & company_event_keys(previous['title'], previous.get('summary', '')):
             return True
     return False
 

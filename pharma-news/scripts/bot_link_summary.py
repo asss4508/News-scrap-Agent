@@ -1,5 +1,7 @@
 import os
 import re
+from html import escape
+from urllib.parse import urlparse, parse_qs
 import requests
 from bs4 import BeautifulSoup
 import anthropic
@@ -14,16 +16,48 @@ HEADERS = {
 }
 
 ARTICLE_SELECTORS = [
+    "#article-body-content", ".detail_editor", ".conPost",
     "#dic_area", "#articleBodyContents", "#articeBody", "#articleBody",
     ".article_body", ".news_body", "#newsct_article", "article",
     ".article-body", "#article_content", ".article-content",
     "#article-view-content-div", ".article_txt", ".view_text"
 ]
 
+class ArticleUnavailable(ValueError):
+    pass
+
+
+def article_candidates(url):
+    candidates = [url]
+    parsed = urlparse(url)
+    if parsed.hostname in ('www.businesspost.co.kr', 'businesspost.co.kr', 'm.businesspost.co.kr'):
+        number = parse_qs(parsed.query).get('num', [''])[0]
+        if number.isdigit():
+            candidates += [f'https://www.businesspost.co.kr/BP?command=article_view&num={number}',
+                           f'https://m.businesspost.co.kr/BP?command=mobile_view&num={number}']
+    return list(dict.fromkeys(candidates))
+
+
 def fetch_article(url):
+    for candidate in article_candidates(url):
+        try:
+            return fetch_article_page(candidate)
+        except (requests.RequestException, ArticleUnavailable) as exc:
+            print(f"Article fetch failed: {urlparse(candidate).hostname} ({type(exc).__name__})")
+    raise ArticleUnavailable('No readable article body')
+
+
+def fetch_article_page(url):
     res = requests.get(url, headers=HEADERS, timeout=10)
+    res.raise_for_status()
     res.encoding = "utf-8"
     soup = BeautifulSoup(res.text, "html.parser")
+    page_title = soup.title.get_text(' ', strip=True).casefold() if soup.title else ''
+    page_text = soup.get_text(' ', strip=True).casefold()
+    if any(marker in page_title for marker in ('403', 'access denied', 'request blocked', 'just a moment')) or (
+        'the request could not be satisfied' in page_text and 'cloudfront' in page_text
+    ):
+        raise ArticleUnavailable('Access error page')
 
     og_title = soup.find("meta", property="og:title")
     title = og_title["content"].strip() if og_title and og_title.get("content") else ""
@@ -37,7 +71,9 @@ def fetch_article(url):
         if content_el:
             break
 
-    text = content_el.get_text(separator=" ", strip=True) if content_el else soup.get_text(separator=" ", strip=True)
+    if content_el is None:
+        raise ArticleUnavailable('Article body not found')
+    text = content_el.get_text(separator=" ", strip=True)
     text = re.sub(r'\S+@\S+\.\S+', '', text)
     text = re.sub(r'\[.*?기자.*?\]', '', text)
     text = re.sub(r'[가-힣]+ 기자', '', text)
@@ -46,6 +82,8 @@ def fetch_article(url):
     text = re.sub(r'무단\s*전재.*?(?=\s)', '', text)
     text = re.sub(r'\s+', ' ', text).strip()
 
+    if len(text) < 100:
+        raise ArticleUnavailable('Article body too short')
     return title, text[:3000]
 
 def summarize(title, body, url):
@@ -104,6 +142,10 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return
         result = summarize(title, body, urls[0])
         await status.edit_text(result, parse_mode="HTML", disable_web_page_preview=True)
+    except ArticleUnavailable:
+        await status.edit_text(
+            '이 기사는 현재 자동 요약이 어려워 원문 링크로 안내드립니다.\n\n' + escape(urls[0]),
+            parse_mode="HTML", disable_web_page_preview=True)
     except Exception as e:
         print(f"링크 요약 실패: {type(e).__name__}")
         await status.edit_text("기사 요약을 완료하지 못했습니다. 잠시 후 링크를 다시 보내 주세요.")

@@ -1,200 +1,58 @@
-[2026-09-17 00:06] 후티 반군, 2025년 휴전에 계속 전념할 것이라고 미국에 전달했다고 소식통이 밝힘
+[2026-09-18 00:00] ✅ **LESSERAFIM 컴백 정리** (Renova)
+① 초동판매 폭락 (56만 → 24만)
+② 총판매 폭락 (68만 → 37만*E)
+③ 국내음원/해외음원 동시 역성장
 
-[2026-09-17 03:15] https://www.newdaily.co.kr/site/data/html/2026/09/17/2026091700005.html
+**💋핵심요약** (코어 팬덤 이상 신호)
+- 음반 **Bad**, 음원 **Bad**
 
-연내 한 번 더 올리고 끝으로 잠정 결론
+**참고. 월드투어 일정**
+(북미투어 예매율 기대에 못 미침)
+https://t.me/gaoshoukorea/60680
 
-[2026-09-17 03:33] Higher for Longer
+**💋상황 해설** (OST 앨범 발매라서
+사실 쓸데없는 호들갑일 수 있긴 함)
 
-[2026-09-17 03:44] 케빈 워시 : 포워드 가이던스 부재 (기본 컨센 부합)
+하이브 그룹간 팀컬러가 명확하게
+구분되는 것이 매력 포인트였는데,
+3팀이 유사 장르로 나온  적이 있고
+이것은 **3팀 콜라보 빌드업**이었음.
 
-[2026-09-17 08:07] [9/17, 장 시작 전 생각: 9월 FOMC와 증시 추세, 키움 한지영]
+(04-10) KATSEYE - PINKY UP
+(04-30) ILLIT - It's Me
+(05-22) LESSERAFIM - BOOMPALA
+👉 **3팀 콜라보 음원 기습발매**
+(06-12) ICONIC BY MISTAKE
 
-- 다우 -1.21%, S&P500 -0.45%, 나스닥 -0.01%
-- 엔비디아 +0.8%, 마이크론 -0.1%, 샌디스크 -0.7%
-- 미 10년물 금리 5.02%, 미 30년물 금리 5.36%, WTI 101.9달러
+하이브 전략은 3팀 사이 트래픽의
+교환을 통해 상호간 성장하는 그림
+그런데 트래픽 손해를 본 팀이 있음.
 
-1. 
+이 활동으로 단기 성적을 얻었지만,
+음악적으로 손해 본 LESSERAFIM임.
 
-미국 증시는 매파적이었던 9월 FOMC 결과로 상승분을 반납하면서 약세로 마감했네요.
+수록곡까지 앨범 단위로 들었을 때
+유기적 구성과 퀄리티 체감되는 팀
+(**3 ~ 4개 단위 앨범 맥락** 이어지는)
 
-이번 인상 이외에도 연내 추가 1회 인상(12월 FOMC 유력) 가능성을 대비해야 할듯 합니다.
+헤이터에게 일침을 가하는 서사를
+맥락으로 진행하다가 정규2집에서
+해탈하는 모습으로 마무리 됐는데,
 
-그러나 9월 FOMC 이후 2년물 등 단기물 금리가 상승했지만, 10년물 등 장기물 금리의 상승폭이 제한됐다는 점도 생각해볼 부분입니다.
+ICONIC BY MISTAKE 에서 다시금
+헤이터를 저격하는 모습을 보이며
+음악적 맥락이 훼손되어 버린 부분
 
-장기물 금리에는 연준의 긴축 및 인플레이션 우려가 선반영됐음을 보여주는 대목이기에, 
+이는 몰입감을 떨어뜨는 부분으로
+앨범단위 서사와 맥락을 좋아하던
+팬덤에게는 배신과 같은 일이었음.
 
-주식시장 입장에서는 향후 매크로 변수에서 추가 25bp 인상 자체보다 10년물 금리 향방, 국제 유가 향방에 더 많은 가중치를 두고 가는 것이 적절함을 시사합니다.
+이번 음반판매 영향을 준 것인지는
+아직까지는 불분명하지만, 걱정됨.
 
-2.
-.
-일단 금일 국내 증시는 매파적이었던 9월 FOMC 여진을 소화하면서 변동성 확대 장세를 보일 것으로 전망합니다. 
+#엔터 #하이브 #SM #YG #JYP 
+#음반판매
 
-지금도 그렇고 올해 금리인상 우려가 부각될 때마다 변동성이 확대된 데에는 2022년 긴축 충격에 대한 부정적인 경험이 트라우마로 작용하고 있는 측면이 있습니다
+[2026-09-18 00:44] OpenAI, 또 다른 밀레니엄 난제 수학 문제 해결에 근접 - The Information
 
-당시 17개월에 걸쳐 525bp 인상을 할 때 S&P500은 고점 대비 최대 -25%, 코스피는 고점대비 최대 -35%를 겪었기 때문입니다.
-
-그러나 역사적으로 연준의 정책 사이클과 주식시장을 살펴보면, 금리인상 자체가 증시의 추세 하락으로 이어진 경우가 많지 않았다는 점에 주목할 필요가 있습니다.
-
-1994년 이후 연준 금리인상기는 총 6번 진행이 됐으며, 금리인상기 동안 S&P500의 평균 수익률은 +7.5%, 코스피의 평균 수익률은 +9.1%를 기록했네요. 
-
-이는 금리인상이 주식시장에 호재라는 의미가 아니라, 통화정책의 방향보다 당시 경기와 이익 사이클이 주가에 더 큰 영향을 미쳤던 것으로 해석이 가능합니다.
-
-3.
-
-연준의 첫 금리인상 이후의 흐름만 따로 분석을 해봐도 비슷하네요. 
-
-1994년부터 현재까지 코스피 기준으로, 연준의 첫 금리인상 이후 코스피의 평균 수익률이 1개월 +1.4%, 3개월 +2.2%, 6개월 +3.9%를 기록했다는 점이 이를 뒷받침합니다.
-
-첫 인상 자체보다는 이후 긴축의 강도와 이익 향방이 더 중요했음을 시사하기에(+현재 국면에서는 국제 유가 향방도 추가), 
-
-이번 9월 FOMC 결과가 국내 증시의 추세를 훼손시킬 것이라고 해석하는 건 지양할 필요가 있습니다.
-
-당분간 시장금리도 상방 압력을 받겠지만, 이제 중요한 것은 미국 10년물 금리 절대 레벨보다 상승 속도입니다. 
-
-10년물 금리가 5.0% 위에 있더라도 어느 정도의 속도로 상승을 하는지, 그 과정에서 이익 모멘텀이 유지되는지가 관건이겠네요.
-
-금리가 빠르게 상승하는 과정에서 그 충격으로 실적이 둔화된다면, 증시 조정으로 연결될 소지가 있기 때문입니다.
-
-4.
-
-이런 측면에서 현재 코스피의 26년 영업이익 컨센서스가 990조원대 내외로 견조한 흐름을 보이고 있다는 점은 안도 요인입니다.
-
-물론 달러/원 환율 급락(2분기 평균 환율 1,502원대 -> 3분기 평균환율 1,420원대, -5.0%)이 반도체, 자동차, 디스플레이 등 수출주들의 이익 전망에 부담으로 작용할 수 있기는 합니다.
-
-실제로 3분기 프리뷰 시즌에 진입하는 과정에서 일부 하우스들의 수출주 추정치 하향이 나타나는 움직임들이 포착되고 있으며, 이는 시간이 지날수록 3분기 컨센서스에 반영될 것으로 보이네요.
-
-다만, 최근 환율 하락이 이미 주가와 실적 추정치에 일부 반영되기 시작한 만큼, 달러/원 환율이 현 수준에서 추가 급락하지 않는 한 환율의 실적 충격은 완화되지 않을까 싶습니다.
-
-5.
-
-결론적으로, 이번 9월 FOMC는 예상보다 매파적이었던 만큼, 이번 주 남은 기간동안 변동성 확대 압력에 직면될 수 있습니다.
-
-그러나 향후 장기금리 상승 속도 진정 및 3분기 실적시즌을 앞둔 코스피 이익 모멘텀이 유지된다는 전제 하에, 
-
-FOMC 직후 시장의 해석이 충돌하는 과정에서 발생할 수 있는 변동성은 비중 축소보다 매수 기회로 활용할 필요가 있습니다. 
-
-업종 측면에서는 1) 금리 상승에 따른 멀티플 부담을 EPS 증가로 상쇄할 수 있는 반도체, IT 하드웨어 등 AI 인프라와 같은 이익 모멘텀 우위 업종, 
-
-2) 금리의 부정적인 주가 민감도가 낮으면서 수익률 방어력이 있는 금융(은행, 지주, 보험) 등 주주환원 업종으로 대응해 나가는 것이 적절하지 않을까 싶네요.
-
-———————
-
-오늘도 날씨가 무척이나 좋다고 합니다.
-
-공기도 맑고 낮에도 그리 덥지 않다고 하니,
-
-바쁘고 분주한 하루를 보내시겠지만, 중간중간 바깥 공기 쐬시면서 리프레쉬도 잘하셨으면 좋겠습니다.
-
-늘 건강도 잘 챙기시고요.
-
-오늘 하루도 화이팅 하시길 바랍니다.
-
-키움 한지영
-
-https://www.kiwoom.com/h/invest/research/VMarketSDDetailView?sqno=7198
-
-[2026-09-17 08:43] https://blog.naver.com/ranto28/224414401619
-
-#메르님
-
-[2026-09-17 10:02] 트럼프 대통령, 이란 관련 발언: 전쟁이 "매우 곧 끝날 것"이라고 예측하며, 자신의 행정부가 미국을 "암흑기"에서 "황금기"로 변화시켰다고 밝힘
-
-[2026-09-17 15:40] 출처 안남겼다고 모라 하시는데
-카톡 방에서 받은거라 그냥 받은건데 한거고요
-그거 출처 누군지 찾아보지 않은건 죄송합니다만, 제가 모든 텔레 채널에 다 들어가 있는게 아니잖아요?
-여태 저희 채널에 출처 있게 전달한게 많은지, 안그런게 많은지 보면...
-출처 있는게 훨 더 많습니다.
-
-출처 표기 없었던거는 위와 같은 사정이 있는 것이므로 너무 뭐라 하지 마시고
-삼가 거듭 정말 죄송합니다~!
-
-[2026-09-17 15:56] 원문 출처는 theinformation 여기고
-
-https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use
-
-
-로이터가 이걸 받아 썼네요.
-
-https://www.reuters.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/
-
-[2026-09-17 16:42] 사비로 AI 결제
-
-https://naver.me/G0pnvlKQ
-
-[2026-09-17 16:47] (^0^)
-
-[2026-09-17 17:00] HBM 디스펙 12단 → 8단
-이거는 물론 메모리 공급이 부족한게 가장 큰 원인이겠죠.
-
-예를 들어 GPU 3개 출하해야 되는데
-HBM 캐파가 12단 x2개 밖에 안되므로
-이래서야 GPU 출하를 2개밖에 할 수 없으니
-8단 x 3개 만들어라 하는거죠.
-
-이렇게되면
-메모리는 12단 쌓는거 보다 8단이 쉬울테니 수율 걱정이 줄어들고,
-베이스다이는 2개 쓸거 3개(+50%) 써야 하니 파운드리 가동률은 올라갈 것입니다.
-
-근데 TSMC 측도 베이스다이 2개 만들거 3개 만들어야 하니 캐파가 모자랄수 있어서 이때문에 하이닉스는 인텔 파운드리 접촉중인거 같네요.
-
-[2026-09-17 17:03] **🛞 GOOGL — Blackstone과 AI Cloud 합작사 ‘Crux AI’ 확대…Google TPU에 $22B 금융조달**
-
-**1. Crux AI, Google TPU 기반 독립 AI Cloud 사업 본격화**
-① Blackstone과 Google이 2026년 5월 설립한 합작사 Crux AI는 Google TPU를 활용해 AI Lab·기업·정부 등에 전용 Compute를 제공하는 새로운 AI Cloud 사업자라는 구조
-② Google Cloud를 통하지 않고도 고객이 TPU를 사용할 수 있도록 TPU·Networking·Software·Data Center 운영을 묶어 Compute-as-a-Service로 제공하는 방식
-③ Blackstone이 초기 Equity $5B를 투자하고 Google이 TPU·Software·Service를 공급해 2027년까지 첫 500MW Data Center Capacity를 확보할 계획 ([BlackStone](https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud))
-
-**2. $22B 대출 조달, TPU 자체가 담보 가능한 AI Infrastructure Asset으로 발전**
-① Bloomberg 보도에 따르면 Goldman Sachs·SMBC·Barclays·BNP Paribas 등 10개 은행이 Crux AI에 약 $22B 규모의 대출을 제공할 계획
-② 대출금은 주로 Google의 자체 AI Chip인 TPU 구입에 사용되며, 담보에는 TPU 자체 가치와 Crux AI의 고객계약이 포함되는 구조
-③ 이는 Google TPU가 단순히 Gemini와 Google 내부서비스를 돌리는 Chip을 넘어 외부 금융기관이 자산가치를 인정하고 대규모 대출까지 제공하는 독립적인 AI Infrastructure Asset으로 발전하고 있음을 보여줌 ([Reuters](https://chatgpt.com/c/6a8e2dfe-0c2c-83ee-9b6c-b6ed6067e715))
-
-**3. Google TPU, Nvidia GPU 대안에서 외부 AI Cloud 생태계로 확장**
-① Google은 TPU를 10년 이상 자체 서비스에 활용해왔으며 현재 Gemini뿐 아니라 AI Lab·금융회사·기업의 Training과 Inference Workload에도 제공하는 수준
-② Crux AI는 TPU 접근경로를 Google Cloud 밖으로 확대함으로써 고객에게 Nvidia GPU 중심 AI Cloud와는 다른 별도의 AI Compute 선택지를 제공하는 구조
-③ Google 입장에서는 TPU를 내부 비용절감용 Custom Chip에서 외부 판매·Cloud 사용료·Software·Service까지 연결되는 독립적인 수익화 Platform으로 확장할 수 있어 AI Infrastructure 경쟁에서 Nvidia와의 경쟁영역이 더욱 넓어지는 모습
-
-#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
-
-[2026-09-17 17:04] **🛞 AAPL·NVDA — Apple, 자체 M8 Ultra 기반 AI Server 개발…NVLink Fusion 적용 검토**
-
-**1. Apple, M8 Ultra 2~4개 연결한 자체 AI Inference Server 개발**
-① Apple이 자체 M8 Ultra Chip을 사용하는 Enterprise AI Server를 개발 중이며, 소형 모델에는 2개·대형 모델에는 4개의 M8 Ultra를 묶는 구성을 검토 중인 상황
-② 해당 Server는 AI Model을 새로 학습하는 Training보다 이미 학습된 Model을 실제 서비스에서 실행하는 Inference Workload를 주요 대상으로 하는 구조
-③ Apple 내부용에 그치지 않고 AI 개발기업·기업고객·정부기관 등에 판매하는 Enterprise Server 시장 재진입을 목표로 하며 출시 목표는 2029년이나 아직 변경·취소 가능성이 남아 있는 초기 단계 ([TheInfo](https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech))
-
-**2. 자체 Chip을 쓰면서도 Nvidia NVLink Fusion 채택 검토**
-① Apple은 여러 M8 Ultra Chip을 빠르게 연결하기 위해 Nvidia의 NVLink Fusion을 사용하는 방안을 검토 중이며, 일부 개발진은 Nvidia 기술을 가장 경쟁력 있는 연결방식으로 평가하는 상황
-② NVLink Fusion은 Nvidia GPU만 연결하는 기술에서 확장돼 Apple M-series·Amazon Trainium·d-Matrix Raptor 같은 외부 Custom Chip도 Nvidia의 고속 Interconnect와 연결할 수 있게 하는 구조
-③ 따라서 Custom ASIC이 Nvidia GPU 일부를 대체하더라도 Nvidia가 Switch·Interconnect·Networking Infrastructure에서 계속 매출을 확보할 수 있는 Platform 전략을 보여주는 사례
-
-**3. Apple의 AI 전략, Device 내부 처리에서 자체 Cloud·Enterprise Infrastructure까지 확대**
-① Apple은 iPhone·Mac 등 Device 자체에서 AI를 처리하는 On-device AI를 강조해왔지만, 생성형 AI 사용량이 커질수록 모든 연산을 Device 안에서 처리하기 어려워 Server-side Inference Infrastructure의 중요성도 확대되는 구조
-② Apple은 이미 별도의 AI Server Chip인 Baltra를 Broadcom과 개발해온 것으로 보도된 바 있어 AI Compute를 외부 GPU에만 의존하지 않고 자체 Silicon으로 확대하려는 방향이 보다 뚜렷해지는 모습
-③ Apple이 자체 AI Chip과 Nvidia Networking을 결합할 경우 Compute는 Apple이 내재화하고 Interconnect는 Nvidia 생태계를 활용하는 Hybrid 구조가 가능해져, Apple에는 AI Infrastructure 확장·Nvidia에는 경쟁 Chip까지 포괄하는 생태계 확대라는 의미가 큼
-
-#트래킹 #미국주식 #애플 #AAPL #엔비디아 #NVDA
-
-[2026-09-17 17:06] **🛞 BTC·ETH·CRCL — Fed 첫 금리인상과 CLARITY Act 좌초 겹치며 Crypto 단기 부담 확대**
-
-**1. Fed 25bp 인상, 3년 만에 통화정책 다시 긴축 방향으로 전환**
-① Fed가 9월 16일 기준금리를 **25bp 인상해 3.75~4.00%**로 조정했으며 2023년 이후 3년여 만의 첫 금리인상이라는 점에서 시장의 긴축 우려가 다시 커진 상황
-② Fed 위원 18명 중 16명이 연내 최소 한 차례 추가 25bp 인상을 예상해 이번 조치가 일회성보다 추가 긴축 가능성을 열어둔 결정이라는 점이 중요함
-③ 2년물 국채금리는 약 4.74%, 10년물은 5% 부근까지 상승하며 Crypto를 포함한 장기 Duration·위험자산의 Valuation 부담이 다시 커진 수준 ([Reuters](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-16/))
-
-**2. BTC·ETH, 예상된 금리인상에도 높은 금리 장기화 우려 반영**
-① 금리결정 직후 Bitcoin은 약 $75,000~$76,500, Ethereum은 약 $2,370~$2,430 범위에서 등락하며 즉각적인 폭락보다 높은 변동성을 보여준 상황
-② 이번 25bp 인상 자체는 결정 전 시장에서 약 92% 확률로 이미 반영돼 있었지만, 추가 인상 가능성이 제시되면서 Crypto에 중요한 달러 유동성과 금융여건 개선 시점이 늦춰질 가능성이 커짐
-③ 최근 Crypto 가격 약세는 Bitcoin·Ethereum Network 자체의 구조적 문제보다 고유가→인플레이션 우려→금리상승→위험자산 할인율 상승이라는 Macro 경로의 영향이 큰 모습 ([TheBlock](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307))
-
-**3. CLARITY Act 절차표결 실패, CRCL·Crypto 관련주에 규제 불확실성까지 가중**
-① 9월 15일 미 상원의 CLARITY Act 절차표결은 찬성 50표·반대 49표였지만 심의를 진행하는 데 필요한 60표에 10표 부족해 법안 진행이 중단된 상황
-② 법안은 Crypto 자산의 법적 분류와 SEC·CFTC의 감독범위를 명확히하려는 시장구조 법안이었기 때문에 표결 실패로 의회를 통한 장기적 규제 명확화 시점이 다시 뒤로 밀린 모습
-③ 표결 과정에서 Bitcoin은 한때 5% 이상 하락했고 Coinbase와 Circle은 최대 약 10% 하락했으며, 특히 CRCL은 Stablecoin 규제와 제도권 금융 편입의 직접적인 수혜 기대가 큰 기업인 만큼 규제 지연에 대한 주가 민감도가 더 큰 수준
-
-#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
-
-[2026-09-17 21:16] 시티, 2031년까지 메모리 시장 공급 부족 심화 전망
-
-https://kr.investing.com/news/stock-market-news/article-93CH-2093031
+[2026-09-18 02:45] https://n.news.naver.com/article/008/0005415520?sid=104

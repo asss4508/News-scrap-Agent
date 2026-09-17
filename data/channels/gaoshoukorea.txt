@@ -117,3 +117,84 @@ https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palan
 로이터가 이걸 받아 썼네요.
 
 https://www.reuters.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/
+
+[2026-09-17 16:42] 사비로 AI 결제
+
+https://naver.me/G0pnvlKQ
+
+[2026-09-17 16:47] (^0^)
+
+[2026-09-17 17:00] HBM 디스펙 12단 → 8단
+이거는 물론 메모리 공급이 부족한게 가장 큰 원인이겠죠.
+
+예를 들어 GPU 3개 출하해야 되는데
+HBM 캐파가 12단 x2개 밖에 안되므로
+이래서야 GPU 출하를 2개밖에 할 수 없으니
+8단 x 3개 만들어라 하는거죠.
+
+이렇게되면
+메모리는 12단 쌓는거 보다 8단이 쉬울테니 수율 걱정이 줄어들고,
+베이스다이는 2개 쓸거 3개(+50%) 써야 하니 파운드리 가동률은 올라갈 것입니다.
+
+근데 TSMC 측도 베이스다이 2개 만들거 3개 만들어야 하니 캐파가 모자랄수 있어서 이때문에 하이닉스는 인텔 파운드리 접촉중인거 같네요.
+
+[2026-09-17 17:03] **🛞 GOOGL — Blackstone과 AI Cloud 합작사 ‘Crux AI’ 확대…Google TPU에 $22B 금융조달**
+
+**1. Crux AI, Google TPU 기반 독립 AI Cloud 사업 본격화**
+① Blackstone과 Google이 2026년 5월 설립한 합작사 Crux AI는 Google TPU를 활용해 AI Lab·기업·정부 등에 전용 Compute를 제공하는 새로운 AI Cloud 사업자라는 구조
+② Google Cloud를 통하지 않고도 고객이 TPU를 사용할 수 있도록 TPU·Networking·Software·Data Center 운영을 묶어 Compute-as-a-Service로 제공하는 방식
+③ Blackstone이 초기 Equity $5B를 투자하고 Google이 TPU·Software·Service를 공급해 2027년까지 첫 500MW Data Center Capacity를 확보할 계획 ([BlackStone](https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud))
+
+**2. $22B 대출 조달, TPU 자체가 담보 가능한 AI Infrastructure Asset으로 발전**
+① Bloomberg 보도에 따르면 Goldman Sachs·SMBC·Barclays·BNP Paribas 등 10개 은행이 Crux AI에 약 $22B 규모의 대출을 제공할 계획
+② 대출금은 주로 Google의 자체 AI Chip인 TPU 구입에 사용되며, 담보에는 TPU 자체 가치와 Crux AI의 고객계약이 포함되는 구조
+③ 이는 Google TPU가 단순히 Gemini와 Google 내부서비스를 돌리는 Chip을 넘어 외부 금융기관이 자산가치를 인정하고 대규모 대출까지 제공하는 독립적인 AI Infrastructure Asset으로 발전하고 있음을 보여줌 ([Reuters](https://chatgpt.com/c/6a8e2dfe-0c2c-83ee-9b6c-b6ed6067e715))
+
+**3. Google TPU, Nvidia GPU 대안에서 외부 AI Cloud 생태계로 확장**
+① Google은 TPU를 10년 이상 자체 서비스에 활용해왔으며 현재 Gemini뿐 아니라 AI Lab·금융회사·기업의 Training과 Inference Workload에도 제공하는 수준
+② Crux AI는 TPU 접근경로를 Google Cloud 밖으로 확대함으로써 고객에게 Nvidia GPU 중심 AI Cloud와는 다른 별도의 AI Compute 선택지를 제공하는 구조
+③ Google 입장에서는 TPU를 내부 비용절감용 Custom Chip에서 외부 판매·Cloud 사용료·Software·Service까지 연결되는 독립적인 수익화 Platform으로 확장할 수 있어 AI Infrastructure 경쟁에서 Nvidia와의 경쟁영역이 더욱 넓어지는 모습
+
+#트래킹 #미국주식 #알파벳 #GOOG #GOOGL
+
+[2026-09-17 17:04] **🛞 AAPL·NVDA — Apple, 자체 M8 Ultra 기반 AI Server 개발…NVLink Fusion 적용 검토**
+
+**1. Apple, M8 Ultra 2~4개 연결한 자체 AI Inference Server 개발**
+① Apple이 자체 M8 Ultra Chip을 사용하는 Enterprise AI Server를 개발 중이며, 소형 모델에는 2개·대형 모델에는 4개의 M8 Ultra를 묶는 구성을 검토 중인 상황
+② 해당 Server는 AI Model을 새로 학습하는 Training보다 이미 학습된 Model을 실제 서비스에서 실행하는 Inference Workload를 주요 대상으로 하는 구조
+③ Apple 내부용에 그치지 않고 AI 개발기업·기업고객·정부기관 등에 판매하는 Enterprise Server 시장 재진입을 목표로 하며 출시 목표는 2029년이나 아직 변경·취소 가능성이 남아 있는 초기 단계 ([TheInfo](https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech))
+
+**2. 자체 Chip을 쓰면서도 Nvidia NVLink Fusion 채택 검토**
+① Apple은 여러 M8 Ultra Chip을 빠르게 연결하기 위해 Nvidia의 NVLink Fusion을 사용하는 방안을 검토 중이며, 일부 개발진은 Nvidia 기술을 가장 경쟁력 있는 연결방식으로 평가하는 상황
+② NVLink Fusion은 Nvidia GPU만 연결하는 기술에서 확장돼 Apple M-series·Amazon Trainium·d-Matrix Raptor 같은 외부 Custom Chip도 Nvidia의 고속 Interconnect와 연결할 수 있게 하는 구조
+③ 따라서 Custom ASIC이 Nvidia GPU 일부를 대체하더라도 Nvidia가 Switch·Interconnect·Networking Infrastructure에서 계속 매출을 확보할 수 있는 Platform 전략을 보여주는 사례
+
+**3. Apple의 AI 전략, Device 내부 처리에서 자체 Cloud·Enterprise Infrastructure까지 확대**
+① Apple은 iPhone·Mac 등 Device 자체에서 AI를 처리하는 On-device AI를 강조해왔지만, 생성형 AI 사용량이 커질수록 모든 연산을 Device 안에서 처리하기 어려워 Server-side Inference Infrastructure의 중요성도 확대되는 구조
+② Apple은 이미 별도의 AI Server Chip인 Baltra를 Broadcom과 개발해온 것으로 보도된 바 있어 AI Compute를 외부 GPU에만 의존하지 않고 자체 Silicon으로 확대하려는 방향이 보다 뚜렷해지는 모습
+③ Apple이 자체 AI Chip과 Nvidia Networking을 결합할 경우 Compute는 Apple이 내재화하고 Interconnect는 Nvidia 생태계를 활용하는 Hybrid 구조가 가능해져, Apple에는 AI Infrastructure 확장·Nvidia에는 경쟁 Chip까지 포괄하는 생태계 확대라는 의미가 큼
+
+#트래킹 #미국주식 #애플 #AAPL #엔비디아 #NVDA
+
+[2026-09-17 17:06] **🛞 BTC·ETH·CRCL — Fed 첫 금리인상과 CLARITY Act 좌초 겹치며 Crypto 단기 부담 확대**
+
+**1. Fed 25bp 인상, 3년 만에 통화정책 다시 긴축 방향으로 전환**
+① Fed가 9월 16일 기준금리를 **25bp 인상해 3.75~4.00%**로 조정했으며 2023년 이후 3년여 만의 첫 금리인상이라는 점에서 시장의 긴축 우려가 다시 커진 상황
+② Fed 위원 18명 중 16명이 연내 최소 한 차례 추가 25bp 인상을 예상해 이번 조치가 일회성보다 추가 긴축 가능성을 열어둔 결정이라는 점이 중요함
+③ 2년물 국채금리는 약 4.74%, 10년물은 5% 부근까지 상승하며 Crypto를 포함한 장기 Duration·위험자산의 Valuation 부담이 다시 커진 수준 ([Reuters](https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-16/))
+
+**2. BTC·ETH, 예상된 금리인상에도 높은 금리 장기화 우려 반영**
+① 금리결정 직후 Bitcoin은 약 $75,000~$76,500, Ethereum은 약 $2,370~$2,430 범위에서 등락하며 즉각적인 폭락보다 높은 변동성을 보여준 상황
+② 이번 25bp 인상 자체는 결정 전 시장에서 약 92% 확률로 이미 반영돼 있었지만, 추가 인상 가능성이 제시되면서 Crypto에 중요한 달러 유동성과 금융여건 개선 시점이 늦춰질 가능성이 커짐
+③ 최근 Crypto 가격 약세는 Bitcoin·Ethereum Network 자체의 구조적 문제보다 고유가→인플레이션 우려→금리상승→위험자산 할인율 상승이라는 Macro 경로의 영향이 큰 모습 ([TheBlock](https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307))
+
+**3. CLARITY Act 절차표결 실패, CRCL·Crypto 관련주에 규제 불확실성까지 가중**
+① 9월 15일 미 상원의 CLARITY Act 절차표결은 찬성 50표·반대 49표였지만 심의를 진행하는 데 필요한 60표에 10표 부족해 법안 진행이 중단된 상황
+② 법안은 Crypto 자산의 법적 분류와 SEC·CFTC의 감독범위를 명확히하려는 시장구조 법안이었기 때문에 표결 실패로 의회를 통한 장기적 규제 명확화 시점이 다시 뒤로 밀린 모습
+③ 표결 과정에서 Bitcoin은 한때 5% 이상 하락했고 Coinbase와 Circle은 최대 약 10% 하락했으며, 특히 CRCL은 Stablecoin 규제와 제도권 금융 편입의 직접적인 수혜 기대가 큰 기업인 만큼 규제 지연에 대한 주가 민감도가 더 큰 수준
+
+#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
+
+[2026-09-17 21:16] 시티, 2031년까지 메모리 시장 공급 부족 심화 전망
+
+https://kr.investing.com/news/stock-market-news/article-93CH-2093031

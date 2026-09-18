@@ -72,3 +72,16 @@ https://www.digitimes.com/news/a20260918PD210/market-lges-samsung-sdi-capacity-p
 https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts
 
 [2026-09-18 15:12] 데이터센터 배터리 매출 > 전기차 넘어서며 매출 5500억엔 전망
+
+[2026-09-18 18:57] 코스피 신용잔고
+
+[2026-09-18 18:57] 코스닥 신용잔고
+
+[2026-09-18 21:14] Saudi Aramco, 홍해 파이프라인 피격으로 유럽 정유사에 다음 달 원유 공급 전면 중단 - Bloomberg
+(by https://t.me/TNBfolio)
+- Saudi Aramco가 드론 공격을 받은 홍해 연결 주요 송유관 피격 여파로 유럽 정유 고객사들에 다음 달 원유 공급을 전면 중단한다고 통보했다.
+- 통상 정기 계약(Term Contracts)을 통해 매월 안정적으로 원유를 공급받던 유럽 전역의 매수자 전원에게 공급 중단 조치가 적용된다.
+- 피격된 사우디의 East-West 송유관은 며칠 내 부분 재개될 예정이나, 완전 정상 가동까지는 최대 6주가 소요될 전망이다.
+- 송유관 중단 직후 유럽 정유업계에는 패닉 바잉이 촉발되었으며, 폴란드 Orlen SA는 대체 공급선 확보를 위해 금요일 이후 10건 이상의 입찰을 실시했다.
+- IEA에 따르면 지난 6월 기준 OECD 유럽 국가들의 사우디산 원유 수입량은 하루 57만 7,000배럴에 달했다.
+https://www.bloomberg.com/news/articles/2026-09-18/saudis-tell-european-refiners-they-ll-get-no-crude-next-month

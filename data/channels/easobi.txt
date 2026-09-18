@@ -214,3 +214,130 @@ CMT1A 치료제 EN001 제조기술 美 특허 등록, 상한가 및 +23% 급등 
 
 🖌 액시즈의대시보드
 ✉️ https://dashboard.camelresearch.com
+
+[2026-09-18 13:10] UBS 
+
+▪︎ Much of the tightening is already priced.  
+▪︎ Economic strength makes tightening more manageable.  
+▪︎ Strong earnings can counter higher yields.
+
+The Federal Reserve unanimously raised the federal funds target range by 25 basis points to 3.75-4.00%, with projections from top officials pointing to further tightening to come. Chair Kevin Warsh said policymakers had “removed a dose of accommodation,” adding that broad financial conditions were difficult to describe as restrictive. He emphasized that economic activity was “expanding at a solid pace,” and said recent inflation readings had not shown a meaningful improvement in underlying trends. The Fed said the increase would support a “timelier return” of inflation to its 2% goal, while its updated projections pointed to further tightening.
+
+But we do not expect a measured Fed tightening cycle to derail the equity rally.
+
+Much of the tightening is already priced. There was a hawkish tone to the meeting—both at the press conference and the economic projections. Sixteen of the 18 participants expect at least one more increase this year, compared with only half in June. Warsh pointed to the breadth of inflation, with too many categories rising at annualized rates of 3% or more over both six- and 12-month periods. But markets entered the meeting bracing for nearly four increases over the cycle, compared with our forecast for two. Treasury yields rose, with the 2-year yield rising 13bps in the immediate aftermath of the decision, while equities moved lower as investors absorbed the announcement and press conference. However, both moves were relatively contained by Wednesday's close, with the S&P 500 down 0.4% and the 2-year yield up just 1bp on the day. With the first hike now delivered, we continue to expect one further 25-basis-point increase this year.
+
+Economic strength makes tightening more manageable. The Fed raised its median growth forecasts for 2026 and 2027 to 2.3% and 2.4%, from 2.2% and 2.3% in June, while lowering the projected unemployment rate for both years to 4.1% from 4.3%. This was reinforced earlier in the day by the August retail sales figures, which painted a picture of resilient demand, rising 1.2% from the prior month, above expectations for 0.8%, with gains in 12 of the 13 categories. This suggests the economy has room to absorb measured tightening. Core PCE inflation is projected at 3.4% in 2026 and is expected to return to the Fed’s 2% target only in 2029. Continued AI investment provides additional support, and we forecast AI industry capital spending to rise by around one-third, from USD 900bn in 2026 to USD 1.2tr in 2027.
+
+Strong earnings can counter higher yields. Warsh pointed to economic strength, competition for capital as AI hyperscalers raise funding, and geopolitical tensions as factors affecting long-term yields. This suggests the rise in yields reflects more than expectations for Fed policy alone. Higher discount rates can weigh on equity valuations, but stronger growth and investment can also support profits. We forecast S&P 500 earnings growth of 25% in 2026 and 14% in 2027. A more difficult environment for equities would require not only higher yields, but also weaker earnings expectations and wider credit spreads.
+
+So, we remain positioned for further equity gains while preparing for near-term volatility. If tightening remains measured, credit spreads remain stable, and profits continue to grow, the rally should have scope to broaden across sectors and regions. We recommend diversified equity exposure while avoiding excessive concentration in areas that are particularly sensitive to interest rates or rely on a single return driver.
+
+[2026-09-18 13:45] 반도체 핵심 특수가스 육불화텅스텐 가격·수요 급등 - DoNews
+(by https://t.me/TNBfolio)
+- 글로벌 공급망 차질 속에서 SK Specialty, Foosung 등 주요 공급업체는 삼성전자와 SK하이닉스 등 주요 고객사에 2026년 육불화텅스텐(WF6) 공급 가격을 70%에서 최대 90%까지 인상하겠다고 통보했다.
+- 일본 Kanto Denka와 Central Glass는 중국의 텅스텐 수출 규제 여파로 재고가 5~6월 수준에 불과하며 하반기 정상 공급이 불가능해 대체 공급망 확보를 권고했다고 전했다.
+- 중국 해관총서에 따르면 올해 1~4월 중국의 육불화텅스텐 수출 단가는 kg당 68.75달러에서 149.79달러로 2배 이상 급등했으며, 수출량 역시 전년 동기 대비 7.10% 증가한 156.03톤을 기록했다.
+- 3D NAND의 300단 이상 고단화와 HBM 및 선단 공정 확대에 따라 웨이퍼당 소모량이 늘어났으며, 신규 메모리 라인 1기당 연간 150~300톤의 추가 수요가 발생하는 것으로 나타났다.
+- 연산 2000톤 생산능력을 갖춘 선두 기업 CSIC Special Gases를 비롯해 Haohua Chemical, Sinopromis 등 현지 기업들이 가격 인상 및 비용 전가에 힘입어 실적 턴어라운드와 마진 개선을 이어가고 있다.
+http://www.donews.com/news/detail/4/6585898.html
+
+[2026-09-18 13:51] $삼성SDS $NAVER
+롱과 숏이니
+
+[2026-09-18 15:07] 📝 텔레그램 심층 분석 Report (15시 07분) 기준
+
+🌡️ 센티먼트 상승 (+50)
+💡 요약 AI, 반도체, 전력인프라 등 특정 섹터의 긍정적 소식과 투자 확대로 시장 분위기가 전반적으로 긍정적입니다.
+
+🗣️ Top 키워드: AI(1826), 반도체(1756), 금리 인상(1475), 데이터센터(671), 로봇(605)
+
+🔥 주목받는 종목
+📈 구글 (+100)
+차세대 AI 모델 유출 및 성능 우위
+📈 SK하이닉스 (+90)
+애널리스트 긍정적 전망, 생산 거점 구축 추진
+📈 마이크론 (+70)
+목표주가 상향, 가격 상승 모멘텀
+📈 에스티팜 (+70)
+계약/수주 확대
+📈 키옥시아 (+70)
+가격 상승
+📈 후성 (+70)
+긍정적 실적/전망
+📈 시큐리타이즈 (+70)
+주가 폭등
+📈 삼현 (+65)
+기술 개발/사업 확장
+📈 티씨머티리얼즈 (+65)
+계약/수주 확대, 가격 상승
+📈 HD현대 (+60)
+긍정적 실적/전망
+
+
+🎉 성공! 140개 채널에서 오늘 게시글 795개 수집 완료!
+
+🔥 현시점 인기 게시글 TOP 10
+
+[1위] 25,884 👁️ | 896 📤
+📺 하나 중국/신흥국 전략 김경환
+📝 >>방금, Gemini 4 Pro가 유출되어 공개 테스트에 등장! Ast...
+🔗 https://t.me/HANAchina/69073
+
+[2위] 11,176 👁️ | 169 📤
+📺 루팡
+📝 **BOJ **  **단기 정책금리 목표를 기존 1.00%에서 1.25%...
+🔗 https://t.me/bornlupin/20202
+
+[3위] 6,757 👁️ | 205 📤
+📺 KK Kontemporaries
+📝 SOX 반도체 지수의 50일선 저항선까지 남은 상방 여력은 약 2%.  ...
+🔗 https://t.me/kkkontemp/2689
+
+[4위] 10,798 👁️ | 133 📤
+📺 KK Kontemporaries
+📝 MS:  일본은행(BOJ)이 예상대로 기준금리를 25bps(0.25%p)...
+🔗 https://t.me/kkkontemp/2688
+
+[5위] 9,060 👁️ | 44 📤
+📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
+📝 ✅ 성호전자·삼화콘덴서 주가 폭풍랠리… 전원공급장치 및 적층세라믹콘덴서 ...
+
+[6위] 2,230 👁️ | 109 📤
+📺 호그니엘
+📝 1. 지지율 떨어진건 이해가 안간다 (실제로 한말 발췌) 2. 지금 국정...
+🔗 https://t.me/hogniel/69585
+
+[7위] 8,100 👁️ | 43 📤
+📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
+📝 ✅ AI 데이터센터에 광통신주 '들썩'…국내 업체 수주 확대 기회 광증폭...
+
+[8위] 9,843 👁️ | 21 📤
+📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
+📝 ✅ 휴머노이드 관절 움직인다… NVDA알모션, 차세대 감속기 상용화 박차...
+
+[9위] 8,644 👁️ | 31 📤
+📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
+📝 ✅ “데이터센터 1조달러 시장 열린다”…KIC, 뉴욕서 투자전략 논의  ...
+
+[10위] 9,491 👁️ | 21 📤
+📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
+📝 ✅ [소식] 한국에너지공과대학교(KENTECH)과의 공동 특허 등록 완료...
+
+
+ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.
+
+🖌 서화백의그림놀이
+✉️ https://t.me/easobi
+
+🖌 서화백의AI놀이
+✉️ https://t.me/easobi_ai
+
+🖌 액시즈의대시보드
+✉️ https://dashboard.camelresearch.com
+
+[2026-09-18 15:08] 유가 추정 GG
+
+[2026-09-18 15:29] 행복도 하락은 연령·학력·혼인·정당·인종·성별 등 모든 사회경제 집단에서 광범위하게 나타남
+
+ㅠ_ㅠ

@@ -1,521 +1,84 @@
-[2026-09-18 07:07] 📝 텔레그램 심층 분석 Report (07시 07분) 기준
+[2026-09-19 07:04] 📝 텔레그램 심층 분석 Report (07시 04분) 기준
 
-🌡️ 센티먼트 낙관 (+50)
-💡 요약 미 증시 반등 및 AI 반도체 강세, 금리 및 유가 하락, 가상화폐 시장 규제 완화 기대
+🌡️ 센티먼트 환호 (+65)
+💡 요약 AI, 반도체, 암호화폐 시장의 강력한 상승 모멘텀과 대규모 IPO 기대감으로 시장 전반의 투자심리가 개선되었으나, 국채금리 상승과 일부 지정학적 리스크는 관망세를 유발하고 있습니다.
 
-🗣️ Top 키워드: AI(1398), AMD(105), AAPL(105), AMZN(105), ARM(1)
+🗣️ Top 키워드: 트럼프(28), 그린란드(22), AI(19), 앤트로픽(11), 반도체(11)
 
 🔥 주목받는 종목
-📈 NVIDIA (+100)
-내년 칩 판매량 2배 전망, AI 반도체 섹터의 전반적인 강세
-📈 마이크론 (+100)
-인텔 CEO의 메모리 부족 발언에 따른 강세, 주가 5.5% 상승
-📈 비트코인 (+95)
-SEC의 토큰화 증권 거래 허용 발표로 시장 기대감 상승, 연준 악재 소화 후 7.6만달러 반등
-📈 TSLA (+90)
-포럼모빌리티와 협력하여 캘리포니아 전기트럭 충전 인프라 확대, 금리 하락 및 개별 호재에 따른 상승
-📈 삼성전자 (+75)
-가속기 위에 메모리 쌓는 zHBM 기술로 속도 10배 향상, 반도체 공장용 로봇 개발을 위한 전담 조직 신설
-📈 SK하이닉스 (+75)
-HBM 관련 긍정적 시장 분위기 형성 (AI 메모리), 코스피 및 삼성전자와의 동조화로 시장 관심 증가
-📈 AMD (+70)
-금리 하락 및 AI 반도체 강세에 따른 상승, 미국 반도체주 급등세 동참
-📈 OpenAI (+45)
-ChatGPT in Word를 무료 플랜 포함 모든 플랜에서 제공 (사용자 확대), 저작권 침해 의혹에도 개발 강행 (법적 위험)
-📈 AMZN (+40)
-금리 하락 및 개별 호재에 따른 상승, 데이터센터 전력 확보를 위한 발전기 구매 및 관련 주식 투자
-📈 두산에너빌리티 (+40)
-DS투자증권 목표주가 275만원으로 상향 (광속 성장 및 증설 기대), 나스닥 원전 섹터 강세 흐름에 포함
+📈 비트COIN (+85)
+8만 달러 돌파, CFTC 규제안 및 ETF 유입 기대, 관련 투자 기업(스트래티지, 코인베이스) 동반 급등
+📈 앤트로픽 (+75)
+2조 달러 기업 가치 평가, 11월 IPO 계획 및 1000억 달러 조달 목표, AI 시장 선두 주자로서의 기대감
+📈 Transocean (+70)
+해양 시추 시장 긍정적 전망 유지, 드릴십 및 HSHE 세미서브 수요 증가
+📈 솔라나 (+60)
+BSOL 거래량 8500만 달러 돌파, 112달러 상회하며 가격 상승
+📈 마이크론 (+50)
+3.92% 상승, 반도체 랠리에 동참
+📈 OCI (+50)
+미국 태양광 공장에 싱가포르 '엘리트솔라' 입주 가능성
+📈 램리서치 (+40)
+반도체 랠리에 힘입어 상승
+📈 LG이노텍 (+40)
+AI 및 반도체 분야 투자심리 개선으로 부품주 동반 상승
+📉 뉴코어 (-60)
+예상보다 부진한 실적 발표, 철강 업종 전반의 실적 불안
 
 
-🎉 성공! 63개 채널에서 오늘 게시글 349개 수집 완료!
+🎉 성공! 28개 채널에서 오늘 게시글 197개 수집 완료!
 
 🔥 현시점 인기 게시글 TOP 10
 
-[1위] 2,682 👁️ | 57 📤
+[1위] 1,131 👁️ | 30 📤
 📺 사제콩이_서상영
-📝 *특징 종목: 마이크론, NVDA디아, AMD, TSLA, 오라클, IO...
-🔗 https://t.me/ehdwl/11114
+📝 *특징 종목: 마이크론, 샌디스크, 램리서치 상승 Vs. META, 넷플...
+🔗 https://t.me/ehdwl/11118
 
-[2위] 2,514 👁️ | 47 📤
+[2위] 1,097 👁️ | 22 📤
 📺 사제콩이_서상영
-📝 09/17 미 증시, 금리 하락과 개별 호재가 더해지며 AI 반도체 중심...
-🔗 https://t.me/ehdwl/11113
+📝 09/18 미 증시, 10년물 국채 금리 5.0% 상회에도 반도체, 만기...
+🔗 https://t.me/ehdwl/11117
 
-[3위] 3,749 👁️ | 34 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 코스피 야간선물은 3% 상승 마감
-🔗 https://t.me/insidertracking/64036
+[3위] 549 👁️ | 27 📤
+📺 루팡
+📝 **일론 머스크**  "제 생각에는 내년에 AI가 미국 GDP 성장률을 ...
+🔗 https://t.me/bornlupin/20212
 
-[4위] 1,857 👁️ | 35 📤
+[4위] 675 👁️ | 25 📤
 📺 사제콩이_서상영
-📝 *한국 증시 관련 수치:  반도체 강세 기대 Vs. BOJ 통화정책회의 ...
-🔗 https://t.me/ehdwl/11116
+📝 09/21~09/25 주간 변화요인: 국채금리, 미-중 정상회담, AI ...
+🔗 https://t.me/ehdwl/11121
 
-[5위] 2,436 👁️ | 21 📤
+[5위] 1,328 👁️ | 13 📤
 📺 시황맨의 주식이야기
-📝 9월 18일 시황. 금리 하락 + 반도체 급등에 상승   ◎ 해외 증시 ...
-🔗 https://t.me/shmstory/8997
+📝 9월 19일 시황. 금리 불안, 반도체 랠리 엇갈리며 혼조  유가 하락,...
+🔗 https://t.me/shmstory/9001
 
-[6위] 1,594 👁️ | 29 📤
+[6위] 654 👁️ | 18 📤
 📺 사제콩이_서상영
-📝 비트COIN: SEC의 토큰화 증권 거래 발표로 상승 비트COIN은 최근...
-🔗 https://t.me/ehdwl/11115
-
-[7위] 1,002 👁️ | 29 📤
-📺 루팡
-📝 **[Figure AI, Helix 2.5 공개]**  : Helix 2...
-🔗 https://t.me/bornlupin/20195
-
-[8위] 1,282 👁️ | 20 📤
-📺 Yeouido Lab_여의도 톺아보기
-📝 코스피 야간선물은 3% 상승 마감
-🔗 https://t.me/Yeouido_Lab/37777
-
-[9위] 2,298 👁️ | 4 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 외환 투기 및 매수, 매도 추천이 아니며, 해당 게시물의 내용은 법적 증...
-🔗 https://t.me/insidertracking/64034
-
-[10위] 1,390 👁️ | 13 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 ⚡️⚡️⚡️⚡️⚡️⚡️ AAPL의 폴더블 아이폰 ‘아이폰 듀오’ 공개 이...
-🔗 https://t.me/insidertracking/64020
-
-
-ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.
-
-🖌 서화백의그림놀이
-✉️ https://t.me/easobi
-
-🖌 서화백의AI놀이
-✉️ https://t.me/easobi_ai
-
-🖌 액시즈의대시보드
-✉️ https://dashboard.camelresearch.com
-
-[2026-09-18 07:08] 2026년 9월 17일 글로벌 마감 시황 브리핑 📈📉
-
-미국 주요 3대 지수는 3거래일 연속 하락세를 마감하고 일제히 상승했습니다. 다우존스 산업평균지수는 0.61% 상승한 51778.04, 나스닥 종합지수는 1.69% 상승한 26439.34, S&P 500 지수는 1.14% 상승한 7637.76을 기록했습니다. 인공지능(AI) 관련주와 초대형 기술주가 시장을 견인했으며, 국채 수익률 하락과 유가 진정세가 전일 연방공개시장위원회(FOMC) 회의 이후 매도세에 대한 안도감을 제공했습니다. S&P 500 지수는 7,600선과 50일 이동평균선을 회복했습니다. 나스닥 종합지수가 가장 큰 상승폭을 보였으며, NYSE에서는 상승 종목이 하락 종목의 약 2배, 나스닥에서는 2배 이상을 기록하는 등 폭넓은 매수세가 확산되었습니다. 러셀 2000 지수와 S&P 미드캡 400 지수도 각각 0.6% 상승했으나 나스닥 상승률에는 미치지 못했습니다.
-
-📊 섹터별 동향:
-정보 기술(+2.2%), 임의 소비재(+1.4%), 소재, 유틸리티(+0.9%) 섹터가 강세를 보였습니다. 특히 정보 기술 섹터는 PHLX 반도체 지수가 3.1% 급등하며 강세를 이끌었습니다. 임의 소비재는 국채 수익률 하락으로 주택 건설업종이 지지받으며 상승했습니다. 유틸리티 섹터 역시 국채 수익률 하락에 힘입어 상대적 강세를 나타냈습니다. 반면 금융 섹터는 0.1% 하락하며 유일하게 약세를 보였습니다. 통신 서비스 섹터는 초대형 기술주 강세로 인해 상승(+0.6%)했으나, 일부 구성 종목에서는 두드러진 약세가 관찰되었습니다. 에너지 섹터는 유가 하락에도 불구하고 0.6% 상승했습니다. 필수 소비재 섹터는 보합세를 기록했습니다.
-
-📌 특징주:
-인텔(INTC)은 SK하이닉스와의 미국 내 반도체 생산 협의 소식에 7.67% 상승했습니다. 어드밴스드 마이크로 디바이시스(AMD)는 6.36%, 암 홀딩스(ARM)는 CEO의 공급 확신 발언에 8.57% 급등했습니다. 엔비디아(NVDA)는 CEO가 영국 행사에서 칩 판매량 두 배 증대 계획을 언급하며 2.54% 상승했습니다. 오라클(ORCL)은 5.18%, 워크데이(WDAY)는 6.14% 올랐습니다. 제너락(GNRC)은 아마존(AMZN)과의 데이터센터용 백업 발전기 장기 공급 계약 체결 소식과 아마존의 워런트 취득 권리 발표로 18.33% 크게 상승했습니다. 슈퍼 마이크로 컴퓨터(SMCI)는 9.50%, 휴렛 팩커드 엔터프라이즈(HPE)는 7.73% 상승하며 AI 인프라 및 서버 관련주의 강세를 나타냈습니다. 모더나(MRNA)는 암 백신 관련 긍정적인 데이터와 잠재적 추가 촉매제로 인해 8.58% 상승했습니다. 반면 티모바일 US(TMUS), 레딧(RDDT), 파라마운트 스카이댄스(PSKY), 컴캐스트(CMCSA) 등 통신 서비스 섹터 내 일부 종목은 약세를 면치 못했습니다.
-
-💰 주요 경제 지표:
-10년 만기 국채 수익률은 6bp 하락한 4.95%, 2년 만기 국채 수익률은 4bp 하락한 4.69%를 기록했습니다. 서부 텍사스산 원유(WTI)는 이란과의 갈등 해소를 위한 트럼프 대통령의 중동 지도자 회동 예정 소식에 장중 하락했으나 낙폭을 일부 회복하여 0.4% 하락한 배럴당 102.03달러에 마감했습니다. 금 선물은 유가 하락, 국채 수익률 하락, 달러 약세 등의 요인으로 온스당 0.3% 상승한 4,399.70달러에 마감하며 연준의 매파적 스탠스를 상쇄했습니다. 미국 달러 지수는 0.1% 미만 하락한 100.25를 기록했습니다.
-경제 지표 발표에서는 8월 주택 착공이 전월 대비 2.6% 감소한 127만 5천 건을 기록했으나 단독 주택 착공은 7.6% 증가했습니다. 8월 건축 허가는 전월 대비 2.7% 감소한 139만 4천 건을 기록했습니다. 9월 12일 기준 주간 신규 실업수당 청구 건수는 1만 건 감소한 19만 6천 건으로 매우 낮은 수준을 유지했습니다. 9월 필라델피아 연은 지수는 37.8을 기록하며 예상치를 상회했습니다.
-
-🔎 시장 분석:
-어제의 FOMC 회의 이후 하락세를 뒤집는 위험 선호 심리가 부활했습니다. 국채 수익률과 유가 하락이 시장 전반의 상승을 지지하는 가운데, 반도체 및 초대형 기술주가 견고하게 상승했습니다. 연방준비제도(Fed) 의장의 지속적인 목표치 상회 인플레이션 강조로 인한 추가 긴축 기대감과 국채 수익률 상승 압력이 일부 완화되며 시장에 안도감을 제공했습니다. 반도체, AI 인프라, 초대형 성장주에 대한 새로운 기대감이 형성되며 S&P 500 지수는 50일 이동평균선을 되찾고 3거래일 연속 하락세를 마감했습니다. 그러나 S&P 500 구성 종목 중 절반이 200일 이동평균선 아래에서 거래되고 있어, 초대형주의 강세가 전반적인 시장의 숨겨진 약세를 가리고 있다는 분석도 있습니다.
-
-⚠️ 투자 유의 사항:
-전일 FOMC의 25bp 금리 인상과 케빈 워시 연준 의장의 매파적 발언은 여전히 시장에 추가 긴축 가능성에 대한 기대감을 남기고 있습니다. 오늘의 시장 반등은 주로 초대형 기술주와 AI 관련주에 집중되었으며, S&P 500 구성 종목 절반 이상이 200일 이동평균선 아래에서 거래되는 현상은 시장의 양극화 가능성을 시사하므로 광범위한 종목 확산 여부를 주시할 필요가 있습니다. 또한, 주택 착공 및 건축 허가 지표는 전반적인 주택 시장의 약세를 보여주고 있어 경제 전반에 미칠 영향을 관찰해야 합니다. 이란과의 갈등을 둘러싼 지정학적 리스크 또한 잠재적 불확실성 요인으로 남아있습니다.
-
-한 줄 결론: 국채 수익률 및 유가 하락과 AI 및 초대형 기술주 강세에 힘입어 시장이 반등했으나, 통화 긴축 가능성과 시장 내 양극화 심화는 지속적인 모니터링이 필요합니다.
-
-🖌 서화백의그림놀이
-✉️ https://t.me/easobi
-
-🖌 서화백의AI놀이
-✉️ https://t.me/easobi_ai
-
-🖌 액시즈의대시보드
-✉️ https://dashboard.camelresearch.com
-
-[2026-09-18 11:08] 📝 텔레그램 심층 분석 Report (11시 08분) 기준
-
-🌡️ 센티먼트 환호 (+75)
-💡 요약 반도체, AI, 데이터센터, 로봇 관련 기술 혁신 및 투자 확대 소식에 시장 전반의 위험 선호 심리가 강화되고 있습니다. 전선주의 미국 전력망 수주 기대감과 조선업계의 호황 지속 전망도 긍정적입니다. 다만, 고금리 지속과 부동산 시장 어려움은 잠재적 위험 요인입니다.
-
-🗣️ Top 키워드: AI(102), 데이터센터(62), 반도체(47), 로봇(43), 삼성전자(41)
-
-🔥 주목받는 종목
-📈 LS마린솔루션 (+90)
-신안 해상풍력 프로젝트 1569억 규모 해저케이블 시공 계약 수주, 단일판매ㆍ공급계약체결 공시, FWD 66회로 높은 시장 관심
-📈 삼성전자 (+85)
-미 반도체 훈풍 속 2% 급등, 삼성전자전기 MLCC 직납 가격 인상 및 ABF 타이트로 3분기 실적 경신 전망, 제이피모건 목표가 240만원 제시 (Overweight), 2세대 3단 폴더블폰 출시 앞당길 가능성 보도
-📈 두산에너빌리티 (+80)
-CCL(동박적층판) 생산능력 확대에 9,684억 원 투자 발표, 목표주가 상향 리포트, 3%대 상승세
-📈 가온전선 (+75)
-급등(+17.27% 이상) 감지, 미국 전력망 수주 기대감에 따른 전선주 동반 상승, 전선 테마 강세
-📈 성호전자 (+55)
-매수 시그널 (Top 10 Long), 거래량 급증 (Vol Boom 292%), 갭 상승 (Gap &...)
-📈 대한광통신 (+55)
-매수 시그널 (Top 10 Long), 거래량 급증 (Vol Boom 106%), 갭 상승 (Gap &...)
-📈 TSLA (+50)
-옵티머스 로봇 기가팩토리 텍사스 초고속 공사 진행 중, 로봇 연구개발, 생산 담당 임원들 중국 공급망 실사 착수, 로봇 관련 긍정적 소식 확산
-📈 이엔셀 (+50)
-CMT1A 치료제 EN001 제조기술 美 특허 등록, 상한가 및 +23% 급등 중, 올해 하반기 일본 재생의료 시장 진출 예정
-📈 SK하이닉스 (+40)
-미 반도체 훈풍 속 회복세, 코스피 반도체주 강세 영향
-📈 샘씨엔에스 (+25)
-신고가 기록 (+3.28%)
-
-
-🎉 성공! 172개 채널에서 오늘 게시글 1019개 수집 완료!
-
-🔥 현시점 인기 게시글 TOP 10
-
-[1위] 12,710 👁️ | 307 📤
-📺 루팡
-📝 **Citi, 월별 AI 토큰 사용량 추이 (Monthly AI Toke...
-🔗 https://t.me/bornlupin/20197
-
-[2위] 9,003 👁️ | 130 📤
-📺 딘스티커 Dean's Ticker
-📝 **중간선거 전망 **  - 상원에선 35석(공화당 22 / 민주당 13...
-🔗 https://t.me/d_ticker/3863
-
-[3위] 14,452 👁️ | 44 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 북미 회담 성사되려나…北 고위급 방미에 美 비건 "트럼프, 평양 회담...
-
-[4위] 12,340 👁️ | 53 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 데이터 센터 수요가 성장을 견인하며 이튼, 앞으로 최고의 전성기를 맞...
-
-[5위] 4,703 👁️ | 128 📤
-📺 카이에 de market
-📝 *** Figure AI, Helios 2.5 공개**   - 사전학습을...
-🔗 https://t.me/cahier_de_market/10785
-
-[6위] 10,474 👁️ | 54 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 지엔씨에너지, AI 데이터센터 ‘비상발전기 품귀’ 터졌다…AMZN 최...
-
-[7위] 11,605 👁️ | 33 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 루닛 상승 이유로 보입니다.  https://www.pinpointn...
-
-[8위] 10,373 👁️ | 44 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ LS전선 자회사 가온전선, 700억원 추가투자로 美 케이블 생산능력 ...
-
-[9위] 10,097 👁️ | 43 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 가온칩스 상승 이유로 보입니다. 한국과학기술연구원(KIST)이 삼성전...
-
-[10위] 7,972 👁️ | 62 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 https://www.pressian.com/pages/articles/...
-🔗 https://t.me/insidertracking/64040
-
-
-ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.
-
-🖌 서화백의그림놀이
-✉️ https://t.me/easobi
-
-🖌 서화백의AI놀이
-✉️ https://t.me/easobi_ai
-
-🖌 액시즈의대시보드
-✉️ https://dashboard.camelresearch.com
-
-[2026-09-18 13:10] UBS 
-
-▪︎ Much of the tightening is already priced.  
-▪︎ Economic strength makes tightening more manageable.  
-▪︎ Strong earnings can counter higher yields.
-
-The Federal Reserve unanimously raised the federal funds target range by 25 basis points to 3.75-4.00%, with projections from top officials pointing to further tightening to come. Chair Kevin Warsh said policymakers had “removed a dose of accommodation,” adding that broad financial conditions were difficult to describe as restrictive. He emphasized that economic activity was “expanding at a solid pace,” and said recent inflation readings had not shown a meaningful improvement in underlying trends. The Fed said the increase would support a “timelier return” of inflation to its 2% goal, while its updated projections pointed to further tightening.
-
-But we do not expect a measured Fed tightening cycle to derail the equity rally.
-
-Much of the tightening is already priced. There was a hawkish tone to the meeting—both at the press conference and the economic projections. Sixteen of the 18 participants expect at least one more increase this year, compared with only half in June. Warsh pointed to the breadth of inflation, with too many categories rising at annualized rates of 3% or more over both six- and 12-month periods. But markets entered the meeting bracing for nearly four increases over the cycle, compared with our forecast for two. Treasury yields rose, with the 2-year yield rising 13bps in the immediate aftermath of the decision, while equities moved lower as investors absorbed the announcement and press conference. However, both moves were relatively contained by Wednesday's close, with the S&P 500 down 0.4% and the 2-year yield up just 1bp on the day. With the first hike now delivered, we continue to expect one further 25-basis-point increase this year.
-
-Economic strength makes tightening more manageable. The Fed raised its median growth forecasts for 2026 and 2027 to 2.3% and 2.4%, from 2.2% and 2.3% in June, while lowering the projected unemployment rate for both years to 4.1% from 4.3%. This was reinforced earlier in the day by the August retail sales figures, which painted a picture of resilient demand, rising 1.2% from the prior month, above expectations for 0.8%, with gains in 12 of the 13 categories. This suggests the economy has room to absorb measured tightening. Core PCE inflation is projected at 3.4% in 2026 and is expected to return to the Fed’s 2% target only in 2029. Continued AI investment provides additional support, and we forecast AI industry capital spending to rise by around one-third, from USD 900bn in 2026 to USD 1.2tr in 2027.
-
-Strong earnings can counter higher yields. Warsh pointed to economic strength, competition for capital as AI hyperscalers raise funding, and geopolitical tensions as factors affecting long-term yields. This suggests the rise in yields reflects more than expectations for Fed policy alone. Higher discount rates can weigh on equity valuations, but stronger growth and investment can also support profits. We forecast S&P 500 earnings growth of 25% in 2026 and 14% in 2027. A more difficult environment for equities would require not only higher yields, but also weaker earnings expectations and wider credit spreads.
-
-So, we remain positioned for further equity gains while preparing for near-term volatility. If tightening remains measured, credit spreads remain stable, and profits continue to grow, the rally should have scope to broaden across sectors and regions. We recommend diversified equity exposure while avoiding excessive concentration in areas that are particularly sensitive to interest rates or rely on a single return driver.
-
-[2026-09-18 13:45] 반도체 핵심 특수가스 육불화텅스텐 가격·수요 급등 - DoNews
-(by https://t.me/TNBfolio)
-- 글로벌 공급망 차질 속에서 SK Specialty, Foosung 등 주요 공급업체는 삼성전자와 SK하이닉스 등 주요 고객사에 2026년 육불화텅스텐(WF6) 공급 가격을 70%에서 최대 90%까지 인상하겠다고 통보했다.
-- 일본 Kanto Denka와 Central Glass는 중국의 텅스텐 수출 규제 여파로 재고가 5~6월 수준에 불과하며 하반기 정상 공급이 불가능해 대체 공급망 확보를 권고했다고 전했다.
-- 중국 해관총서에 따르면 올해 1~4월 중국의 육불화텅스텐 수출 단가는 kg당 68.75달러에서 149.79달러로 2배 이상 급등했으며, 수출량 역시 전년 동기 대비 7.10% 증가한 156.03톤을 기록했다.
-- 3D NAND의 300단 이상 고단화와 HBM 및 선단 공정 확대에 따라 웨이퍼당 소모량이 늘어났으며, 신규 메모리 라인 1기당 연간 150~300톤의 추가 수요가 발생하는 것으로 나타났다.
-- 연산 2000톤 생산능력을 갖춘 선두 기업 CSIC Special Gases를 비롯해 Haohua Chemical, Sinopromis 등 현지 기업들이 가격 인상 및 비용 전가에 힘입어 실적 턴어라운드와 마진 개선을 이어가고 있다.
-http://www.donews.com/news/detail/4/6585898.html
-
-[2026-09-18 13:51] $삼성SDS $NAVER
-롱과 숏이니
-
-[2026-09-18 15:07] 📝 텔레그램 심층 분석 Report (15시 07분) 기준
-
-🌡️ 센티먼트 상승 (+50)
-💡 요약 AI, 반도체, 전력인프라 등 특정 섹터의 긍정적 소식과 투자 확대로 시장 분위기가 전반적으로 긍정적입니다.
-
-🗣️ Top 키워드: AI(1826), 반도체(1756), 금리 인상(1475), 데이터센터(671), 로봇(605)
-
-🔥 주목받는 종목
-📈 구글 (+100)
-차세대 AI 모델 유출 및 성능 우위
-📈 SK하이닉스 (+90)
-애널리스트 긍정적 전망, 생산 거점 구축 추진
-📈 마이크론 (+70)
-목표주가 상향, 가격 상승 모멘텀
-📈 에스티팜 (+70)
-계약/수주 확대
-📈 키옥시아 (+70)
-가격 상승
-📈 후성 (+70)
-긍정적 실적/전망
-📈 시큐리타이즈 (+70)
-주가 폭등
-📈 삼현 (+65)
-기술 개발/사업 확장
-📈 티씨머티리얼즈 (+65)
-계약/수주 확대, 가격 상승
-📈 HD현대 (+60)
-긍정적 실적/전망
-
-
-🎉 성공! 140개 채널에서 오늘 게시글 795개 수집 완료!
-
-🔥 현시점 인기 게시글 TOP 10
-
-[1위] 25,884 👁️ | 896 📤
-📺 하나 중국/신흥국 전략 김경환
-📝 >>방금, Gemini 4 Pro가 유출되어 공개 테스트에 등장! Ast...
-🔗 https://t.me/HANAchina/69073
-
-[2위] 11,176 👁️ | 169 📤
-📺 루팡
-📝 **BOJ **  **단기 정책금리 목표를 기존 1.00%에서 1.25%...
-🔗 https://t.me/bornlupin/20202
-
-[3위] 6,757 👁️ | 205 📤
-📺 KK Kontemporaries
-📝 SOX 반도체 지수의 50일선 저항선까지 남은 상방 여력은 약 2%.  ...
-🔗 https://t.me/kkkontemp/2689
-
-[4위] 10,798 👁️ | 133 📤
-📺 KK Kontemporaries
-📝 MS:  일본은행(BOJ)이 예상대로 기준금리를 25bps(0.25%p)...
-🔗 https://t.me/kkkontemp/2688
-
-[5위] 9,060 👁️ | 44 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 성호전자·삼화콘덴서 주가 폭풍랠리… 전원공급장치 및 적층세라믹콘덴서 ...
-
-[6위] 2,230 👁️ | 109 📤
-📺 호그니엘
-📝 1. 지지율 떨어진건 이해가 안간다 (실제로 한말 발췌) 2. 지금 국정...
-🔗 https://t.me/hogniel/69585
-
-[7위] 8,100 👁️ | 43 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ AI 데이터센터에 광통신주 '들썩'…국내 업체 수주 확대 기회 광증폭...
-
-[8위] 9,843 👁️ | 21 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 휴머노이드 관절 움직인다… NVDA알모션, 차세대 감속기 상용화 박차...
-
-[9위] 8,644 👁️ | 31 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ “데이터센터 1조달러 시장 열린다”…KIC, 뉴욕서 투자전략 논의  ...
-
-[10위] 9,491 👁️ | 21 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ [소식] 한국에너지공과대학교(KENTECH)과의 공동 특허 등록 완료...
-
-
-ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.
-
-🖌 서화백의그림놀이
-✉️ https://t.me/easobi
-
-🖌 서화백의AI놀이
-✉️ https://t.me/easobi_ai
-
-🖌 액시즈의대시보드
-✉️ https://dashboard.camelresearch.com
-
-[2026-09-18 15:08] 유가 추정 GG
-
-[2026-09-18 15:29] 행복도 하락은 연령·학력·혼인·정당·인종·성별 등 모든 사회경제 집단에서 광범위하게 나타남
-
-ㅠ_ㅠ
-
-[2026-09-18 19:07] 📝 텔레그램 심층 분석 Report (19시 07분) 기준
-
-🌡️ 센티먼트 낙관 (+30)
-💡 요약 AI 및 반도체 산업 성장 기대와 주요 기업들의 투자 확대, 암호화폐 시장의 긍정적 흐름.
-
-🗣️ Top 키워드: AI(182), 반도체(169), 삼성전자(141), SK하이닉스(133), 금리(105)
-
-🔥 주목받는 종목
-📈 에코프로비엠 (+30)
-K-양극재 최초 中 CATL 뚫는다…2조원대 계약
-📈 삼성전자 (+25)
-엑시노스 글로벌 점유율 9% '역대 최고', 삼성월렛 결제 제휴에 '스테이블코인' 명시...美서 사업개발 인력 채용
-📈 SK하이닉스 (+20)
-미 하이퍼스케일러 수요 열쇠 쥔 하이닉스…2028년까진 투자 여력 충분, 美 첫 낸드 공장 구축 추진 (솔리다임)
-📈 Anthropic (+20)
-OpenAI와 함께 20~30MW 규모의 컴퓨팅 용량 확보 추진 - CNBC, OpenAI와 함께 소규모 데이터센터 딜 모색 (AI 용량 증대 경쟁)
-📈 OpenAI (+20)
-Anthropic과 함께 20~30MW 규모의 컴퓨팅 용량 확보 추진 - CNBC, GPT6 Astra 기반 '법률 AI' 공개
-📈 현대차 (+20)
-웨이모에 로보택시 수만대 공급 계약 추진, ‘자동차 파운드리’ 사업 본격화 (조지아주 메타플랜트 아틀라스 양산)
-📈 지노믹트리 (+15)
-대장암 조기진단 키트 중국 판매 허가 획득
-📈 해성디에스 (+10)
-반도체 Substrate 제조용 기계장치 등 신규 시설 투자 (Panel 공법 도입)
-📈 유라클 (+10)
-피지컬 AI 기반 트랙터 변속기 자율제조 국책과제 선정…13억5000만원 정부지원 연구비 배정
-📈 두산에너빌리티 (+10)
-가스터빈·SMR 생산 확충에 2조 투입 (글로벌 에너지 선도기업)
-
-
-🎉 성공! 127개 채널에서 오늘 게시글 710개 수집 완료!
-
-🔥 현시점 인기 게시글 TOP 10
-
-[1위] 9,132 👁️ | 320 📤
-📺 에테르의 일본&미국 리서치
-📝 진짜네 ㅋㅋㅋㅋ  이란 분쟁이 시작된 이후 처음으로, 당사는 기본 시나리...
-🔗 https://t.me/aetherjapanresearch/25336
-
-[2위] 9,287 👁️ | 124 📤
-📺 딘스티커 Dean's Ticker
-📝 [단독] CXMT, 낸드 시장도 진출한다  - 사안에 정통한 3명에 따르...
-🔗 https://t.me/d_ticker/3865
-
-[3위] 4,875 👁️ | 157 📤
-📺 AWAKE - 실시간 주식 공시 정리채널
-📝 2026.09.18 16:40:23 기업명: 해성디에스(시가총액: 9,8...
-🔗 https://t.me/darthacking/153489
-
-[4위] 5,874 👁️ | 90 📤
-📺 딘스티커 Dean's Ticker
-📝 반도체 테스트 소켓도 증설 추세  -야마이찌전기(6941)가 반도체 테스...
-🔗 https://t.me/d_ticker/3866
-
-[5위] 4,055 👁️ | 80 📤
-📺 변창호 코인사관학교 BCH
-📝 밈코어 GV90 10대 경품 진짜임?
-🔗 https://t.me/BChoSN/30558
-
-[6위] 9,400 👁️ | 20 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 오픈AI, 경쟁사 AI에 뚫렸다…직원 계정 타고 내부 코드 저장소까지...
-
-[7위] 6,609 👁️ | 41 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 에코프로프로비엠, K-양극재 최초 中 CATL 뚫는다…2조원대 계약 ...
-
-[8위] 7,330 👁️ | 30 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ [단독] 삼성전자전자, 삼성전자월렛 결제 제휴에 '스테이블COIN' ...
-
-[9위] 8,663 👁️ | 16 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 알파칩스 "광통신·광센서 IC 신제품 개발 추진…연내 출하"  htt...
-
-[10위] 7,833 👁️ | 24 📤
-📺 주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks
-📝 ✅ 신세계I&C, 자사주 84만주 소각·순익 20% 배당  https:/...
-
-
-ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.
-
-🖌 서화백의그림놀이
-✉️ https://t.me/easobi
-
-🖌 서화백의AI놀이
-✉️ https://t.me/easobi_ai
-
-🖌 액시즈의대시보드
-✉️ https://dashboard.camelresearch.com
-
-[2026-09-18 23:07] 📝 텔레그램 심층 분석 Report (23시 07분) 기준
-
-🌡️ 센티먼트 낙관 (+30)
-💡 요약 AI 컴퓨팅 인프라 확장 및 신규 기술 개발 기대감 암호화폐 시장 강세 및 규제 환경 개선 기대 반도체 산업의 S&P 500 지수 기여 확대 및 개별 종목 호재
-
-🗣️ Top 키워드: AI(40), Anthropic(20), 비트코인(12), OpenAI(11), 암호화폐(8)
-
-🔥 주목받는 종목
-📈 Anthropic (+100)
-ANTHROPIC, 연말까지 가용 컴퓨팅을 약 5GW로 확대하고 2027년에는 약 10GW까지 확장 계획 - 뉴욕타임스(NYT), Anthropic, OpenAI 대규모 메가와트(MW) 및 기가와트(GW) 단위의 대형 계약에 이어, 영국, 북유럽, 미..., 앤스로픽, 2027년 말 AI 컴퓨트 10GW 목표 보도
-📈 비트코인 (+100)
-비트COIN 7만8000달러 회복…일본 금리 인상에도 매수세, 비트COIN, 비트겟 기준 8만 USDT선 돌파, JUST IN: BITCOIN SURGES 5% TO $80,000 AS $180 MILLION IN CRYPTO SHORTS ARE LIQUIDATED IN THE PAST 60...
-📈 하이퍼리퀴드 (+100)
-HYPE 90달러 ‘신고가’… SEC 규제 완화·대출 기능 호재, 하이퍼리퀴드, HYPE·BTC 담보 대출 출시…첫날 3715억원
-📈 NHN (+100)
-AI DC 사업 성과 본격화
-📈 두산에너빌리티 (+100)
-광(光)속 성장과 증설
-📈 한솔케미칼 (+100)
-고객사 Q 증가에 동행하는 성장
-📈 리브스메드 (+100)
-좋은 기업 주가가 바닥에 왔다
-📈 DSP (+100)
-주가 반등
-📈 네비우스 (+100)
-네비우스가 주가가 잘가는 이유가 있는, 네비우스 ($NBIS), 네비우스 $NBIS - UAE
-📈 Zcash (+75)
-Zcash, 11월 업그레이드를 통해 개인 결제 속도를 최대 3배까지 향상시킬 예정, 그레이스케일 ZEC ETF, 3대 1 주식 분할 추진
-
-
-🎉 성공! 70개 채널에서 오늘 게시글 378개 수집 완료!
-
-🔥 현시점 인기 게시글 TOP 10
-
-[1위] 3,222 👁️ | 78 📤
-📺 루팡
-📝 **ANTHROPIC, 연말까지 가용 컴퓨팅을 약 5GW로 확대하고 20...
-🔗 https://t.me/bornlupin/20211
-
-[2위] 6,868 👁️ | 35 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 ⚡️⚡️⚡️⚡️⚡️⚡️ 외신에 따르면 사우디 아람코가 최소 2곳의 유럽 ...
-🔗 https://t.me/insidertracking/64075
-
-[3위] 3,653 👁️ | 56 📤
-📺 루팡
-📝 **앤스로픽과 오픈AI, 소규모 AI 데이터센터 계약 추진**  ​앤스로...
-🔗 https://t.me/bornlupin/20209
-
-[4위] 5,486 👁️ | 35 📤
-📺 루팡
-📝 **네비우스 ****$NBIS**** - UAE**  공동창업자 로만 체...
-🔗 https://t.me/bornlupin/20208
-
-[5위] 6,097 👁️ | 24 📤
-📺 급등일보 미국주식🇺🇸 속보·매크로·리서치
-📝 🇺🇸📊 **S&P 500 지수는 반도체 산업에 대한 의존도가 점점 높아지...
-🔗 https://t.me/FastStockNewsUSA/23238
-
-[6위] 5,728 👁️ | 12 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 SK하이SKSK하이닉스의 자회사 솔리다임이 미국 내 낸드플래시 생산공장 ...
-🔗 https://t.me/insidertracking/64076
-
-[7위] 2,496 👁️ | 40 📤
-📺 하나 중국/신흥국 전략 김경환
-📝 >**>88시간에 한 사람이 4,000년 동안 사고한 것과 동일, Ope...
-🔗 https://t.me/HANAchina/69091
-
-[8위] 5,927 👁️ | 5 📤
-📺 미국 주식 인사이더 🇺🇸 (US Stocks Insider)
-📝 코스피 야간선물 20:30
-🔗 https://t.me/insidertracking/64077
-
-[9위] 2,107 👁️ | 41 📤
-📺 루팡
-📝 **네비우스 (Nebius,  ****$NBIS**)  **Anthrop...
-🔗 https://t.me/bornlupin/20210
-
-[10위] 2,468 👁️ | 37 📤
-📺 하나 중국/신흥국 전략 김경환
-📝 **•보도: 사우디가 유럽 정유업체에 다음 달 원유 공급을 받지 못할 것...
-🔗 https://t.me/HANAchina/69092
+📝 *한국증시 관련 수치: 채권시장 불안 Vs. 반도체 업종 기대   MSC...
+🔗 https://t.me/ehdwl/11120
+
+[7위] 589 👁️ | 17 📤
+📺 사제콩이_서상영
+📝 철강, 에너지 등 상품 기업: 실적 불안 등에 대부분 하락 스틸다이나믹(...
+🔗 https://t.me/ehdwl/11119
+
+[8위] 918 👁️ | 6 📤
+📺 시황맨의 주식이야기
+📝 주식 시황. 미 증시 이 종목들만 올랐다. 반도체주 급등 이유. 갑자기 ...
+🔗 https://t.me/shmstory/9002
+
+[9위] 338 👁️ | 7 📤
+📺 Market News Feed
+📝 *ANTHROPIC SHIFTS PLANNED IPO TO NOVEMBE...
+🔗 https://t.me/marketfeed/1041316
+
+[10위] 436 👁️ | 6 📤
+📺 트릴리온
+📝 속보: 헤그세스: "유럽은 우리보다 호르무즈 해협이 더 필요하다. 배를 ...
+🔗 https://t.me/Trillion_labs/9131
 
 
 ℹ️ 스코어링 최근 게시글의 감정(-100~100)과 공유 횟수를 종합 분석합니다.

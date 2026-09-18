@@ -1,63 +1,8 @@
-[2026-09-17 06:28] 터키 증시, 대형 펀드의 환매 중단 사태와 10억 달러 규모 자금 유출로 급락 - FINANCIAL TIMES 
+[2026-09-18 09:04] 반도체 핵심 특수가스 육불화텅스텐 가격·수요 급등 - DoNews
 (by https://t.me/TNBfolio)
-- 터키 대형 자산운용사 Pusula Portföy가 머니마켓 및 투자 펀드의 환매 요청을 충족하지 못하면서 벤치마크인 BIST 100 지수가 5% 이상 급락했다.
-- 이번 급락세 속에서 개인 투자자들은 하루 만에 투자 펀드에서 최대 10억 달러를 인출하며 이른바 펀드런 사태가 발생했다.
-- 현지 펀드들은 자회사 관련 상장 주식을 집중 매수해 인위적으로 기준가를 부풀려 신규 자금을 유치하는 방식으로 시장을 교란해 온 것으로 나타났다.
-- MSCI는 펀드 매니저들의 조직적 거래 행태를 지적하며 오는 11월까지 가시적인 개선이 없을 경우 신흥시장에서 프런티어 시장으로의 강등을 검토하겠다고 경고했다.
-- 터키 정부의 긴축 규제 도입으로 펀드들의 집중 포지션 청산 및 환매 요구가 가속화되면서 경제 안정화 정책을 이끄는 Mehmet Simsek 재무장관의 최대 시험대가 되었다.
-https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1
-
-[2026-09-17 07:43] 일본, 원유 수입 비용 급증으로 8월 무역수지 적자 1조 1,000억 엔 기록 - CNBC
-(by https://t.me/TNBfolio)
-- 일본의 8월 무역수지 적자가 중동 분쟁 여파에 따른 고유가 부담으로 1조 1,000억 엔을 기록하며 지난 1월 이후 처음으로 1조 엔을 넘어섰다.
-- 일본의 전체 석유 수입액은 전년 동기 대비 58.7% 증가했으며, 특히 미국산 석유 수입액은 1,026% 폭증했다.
-- 분석에 따르면 일본은 중동 물량을 대체하기 위해 배럴당 110달러에 달하는 고가의 미국산 원유를 프리미엄을 주고 사들였다.
-- 반도체 제조 장비 수출이 52.3% 급증했음에도 불구하고, 전체 수출 증가율은 19.3%로 6개월 만에 처음으로 성장세가 둔화됐다.
-- 수입액은 28% 증가해 시장 예상치를 웃돌았으며, 수입 물가 상승에 따른 인플레이션 압력으로 일본은행의 금리 인상 가능성이 유력하게 점쳐지고 있다.
-https://www.cnbc.com/2026/09/16/japan-exports-semiconductor-oil-imports.html
-
-[2026-09-17 09:35] 과기정통부 후원 속 '휴머노이드 서밋 서울', 글로벌 피지컬 AI 프로그램 확정 - BUSINESS WIRE
-(by https://t.me/TNBfolio)
-- 글로벌 휴머노이드 로봇 및 피지컬 AI 행사인 'Humanoids Summit'의 첫 서울 행사가 오는 9월 22일부터 23일까지 코엑스에서 개최된다.
-- 대한민국 과학기술정보통신부(MSIT)가 공식 참여해 류제명 제2차관의 개막 축사 및 디바이스 AX 혁신팀의 국가 피지컬 AI 정책 발표를 진행한다.
-- 미국 산업용 로봇 기업 Persona AI의 Nic Radford CEO의 기조연설을 시작으로 휴머노이드 하드웨어, 조작성, 상용화, 인프라 등 핵심 실증 의제를 다룬다.
-- NVIDIA와 로보티즈가 공동 기술 워크숍을 개최하며, FieldAI, Unitree Robotics, RLWRLD 등 주요 AI·로봇 리더들이 발표자로 나선다.
-- 삼성전자, LG전자, 두산로보틱스, Qualcomm, AWS, Scale AI 등 글로벌 빅테크 및 국내 주요 대기업 관계자들의 대거 참석이 확정되었다.
-https://finance.yahoo.com/technology/ai/articles/humanoids-summit-seoul-sets-global-225500023.html
-
-[2026-09-17 11:15] [단독] 중국 CAS, EUV 없이 DUV 기반 3nm 이하 GAA 공정 경로 확보 - DIGITIMES
-(by https://t.me/TNBfolio)
-- 중국 과학원(CAS) 마이크로일렉트로닉스 연구소가 EUV 노광 장비 없이 기존 DUV 장비만을 활용해 3nm 이하 공정용 GAA 소자 초기 개발 경로를 구축했다.
-- 연구진은 DUV 기반의 적층형 나노시트 GAA CMOS 공정 통합을 완료하고, 트랜지스터 On/Off 전류 비율을 5×10⁵ 이상으로 끌어올리는 기술 검증에 성공했다.
-- 이번 성과는 미국의 장비 규제로 EUV 도입이 차단된 상황에서 중국 독자 기술로 차세대 소자 구조 개발 가능성을 입증한 첫 사례로 평가받는다.
-- 주최 측 수석 엔지니어는 이번 성과가 기초 기술 검증 단계에 불과하며 박막 증착, 식각, 계측, 수율 확보 등 대규모 양산까지는 여전히 기술적 장벽이 크다고 강조했다.
-- 중국 반도체 업계는 7nm 이하 해외 장비와 EDA 툴에 대한 의존도를 낮추기 위해 기존 성숙 공정 가치 극대화 및 독자적 대안 경로 확보에 집중하고 있다.
-https://www.digitimes.com/news/a20260917PD204/china-3nm-duv-euv-gaa-development.html
-
-[2026-09-17 14:49] 금일 오전 FOMC Kevin Warsh 연준의장 기자 회견 발언 중
-(by https://t.me/TNBfolio)
- 
-* 금리 상승의 원인은 지정학적 요인 중 Crack Spread(정제마진)간의 격차 문제.
- 
-But why did yields rise let's say since the last FOMC meeting till this?
-그렇다면 지난 FOMC 회의 이후 이번 회의까지 금리가 상승한 이유는 무엇일까?
- 
-<중략>
- 
-I think part of the reason why we've seen over the course of 2026 long-term yields go up is the economy is strengthened.
-- 2026년 내내 장기 금리가 상승한 이유 중 하나는 경제가 강해졌기 때문이라고 생각한다.
- 
-<중략>
- 
-The third is geopolitics.
-- 세 번째는 지정학적 요인이다.
- 
-Um the situation hotspots around the world are driving long-term yields.
-- 전 세계 분쟁 지역의 상황이 장기 금리를 밀어올리고 있다
- 
-Um, it's not simply spot prices of energy or spot prices for corn or soybeans or wheat, but it's the difference between those spot prices and so-called crack spreads.
-- 단순히 에너지 현물 가격이나 옥수수, 대두, 밀의 현물 가격 문제만이 아니라, 그러한 원자재 현물 가격과 이른바 크랙 스프레드(정제마진) 간의 격차 문제이기도 하다.
-
-[2026-09-17 18:13] 코스피 신용잔고
-
-[2026-09-17 18:13] 코스닥 신용잔고
+- 글로벌 공급망 차질 속에서 SK Specialty, Foosung 등 주요 공급업체는 삼성전자와 SK하이닉스 등 주요 고객사에 2026년 육불화텅스텐(WF6) 공급 가격을 70%에서 최대 90%까지 인상하겠다고 통보했다.
+- 일본 Kanto Denka와 Central Glass는 중국의 텅스텐 수출 규제 여파로 재고가 5~6월 수준에 불과하며 하반기 정상 공급이 불가능해 대체 공급망 확보를 권고했다고 전했다.
+- 중국 해관총서에 따르면 올해 1~4월 중국의 육불화텅스텐 수출 단가는 kg당 68.75달러에서 149.79달러로 2배 이상 급등했으며, 수출량 역시 전년 동기 대비 7.10% 증가한 156.03톤을 기록했다.
+- 3D NAND의 300단 이상 고단화와 HBM 및 선단 공정 확대에 따라 웨이퍼당 소모량이 늘어났으며, 신규 메모리 라인 1기당 연간 150~300톤의 추가 수요가 발생하는 것으로 나타났다.
+- 연산 2000톤 생산능력을 갖춘 선두 기업 CSIC Special Gases를 비롯해 Haohua Chemical, Sinopromis 등 현지 기업들이 가격 인상 및 비용 전가에 힘입어 실적 턴어라운드와 마진 개선을 이어가고 있다.
+http://www.donews.com/news/detail/4/6585898.html

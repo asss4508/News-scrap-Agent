@@ -5,3 +5,39 @@
  - 지난 5/21 업로드했던 자료에서의 금액과 비교하면 지난 4개월여간 여기서 무슨 일이 있었는지 체감해볼 수 있을 것 같음
 
 [2026-09-20 08:37] https://www.joongangenews.com/news/articleView.html?idxno=549405
+
+[2026-09-20 14:44] https://n.news.naver.com/mnews/article/030/0003468368
+
+[2026-09-20 15:29] https://youtu.be/t06CBn8zgaw?si=FJ4otB3Yj2J4an_u
+
+[2026-09-20 15:30] 보결 채용 없나영
+
+[2026-09-20 15:52] 삼전닉스 자사주 매입 끝?…추석 후 '수급 절벽' 어쩌나 
+출처 : 한국경제TV | 네이버 
+
+https://naver.me/5LQZAJsh
+
+[2026-09-20 18:05] **💻 HSBC, 베라루빈부터 CPU당 DRAM +170% 폭증할 것**
+
+**📌 NVIDIA 서버별 CPU당 DRAM 탑재량**
+NVIDIA 차세대 Vera Rubin 서버부터 CPU당 DRAM 탑재량이 **큰 폭으로 증가**
+
+GB200 NVL72: 0.5TB
+
+GB300 NVL72: 0.6TB
+
+Rubin NVL72 (Vera Rubin): 1.5TB
+
+Rubin Ultra NVL576: 1.5TB
+
+**📌 GB300 → Vera Rubin, DRAM Content 급증**
+GB300의 0.6TB → Vera Rubin 1.5TB
+
+절대 용량 기준으로는** 2.5배** 수준으로 확대
+
+차트에서는 세대 전환에 따른 DRAM Content 증가를 +170%로 강조
+
+Rubin Ultra에서도 1.5TB 수준이 유지될 것으로 추정
+
+**💻반도체 소부장💻[그로쓰리서치]**
+https://telegram.me/growth_semi

@@ -251,6 +251,14 @@ def get_article_summary(url, title=None):
         res.encoding = "utf-8"
         soup = BeautifulSoup(res.text, "html.parser")
 
+        # Some publishers put the photograph and its caption in separate table
+        # cells. Remove the complete photo table before deleting the image.
+        for table in list(soup.select('table')):
+            if table.parent is not None and table.find('img') and re.search(r'사진|촬영|제공|출처', table.get_text()):
+                table.decompose()
+        for tag in soup.select('.media_end_summary, .article_subtitle, .article-subtitle'):
+            tag.decompose()
+
         # 불필요한 태그 제거
         for tag in soup(["script", "style", "header", "footer", "nav",
                          "aside", "iframe", "figure", "figcaption",
@@ -337,6 +345,8 @@ def get_article_summary(url, title=None):
 
 def compact_summary(text):
     """원문 앞부분의 완결된 문장 최대 3개를 두 문단으로 발췌한다."""
+    text = re.sub(r'[\[(](?:사진|자료사진|사진출처|사진 출처|영상|출처)\s*(?:[=:：][^\]\)\n]{0,100})?[\])]', '', text)
+    text = re.sub(r'\[(?:파이낸셜뉴스|이데일리|연합뉴스|뉴시스|뉴스1|비즈니스포스트|서울경제|매일경제|한국경제|머니투데이|아시아경제)(?:\s+[^\]\n]{0,30})?\]', '', text)
     # 지역·통신사 표기와 뒤따르는 기자 서명만 제거한다.
     text = re.sub(
         r'^\s*[\(\[][^()\[\]\n=]{1,40}\s*=\s*[^()\[\]\n]{1,60}[\)\]]'

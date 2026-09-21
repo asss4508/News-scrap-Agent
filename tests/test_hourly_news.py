@@ -12,6 +12,21 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_naver_subheading_photo_table_and_publisher_are_removed(self):
+        from unittest.mock import Mock
+        body = '현대자동차는 수소 사업 확대를 위한 일관된 정책 지원이 필요하다고 밝혔다.'
+        html = ('<article id="dic_area"><strong class="media_end_summary">부사장 토론회 참석<br>장기 투자 요구</strong>'
+                '<table><tr><td><table><tr><td><img src="photo.jpg"></td></tr>'
+                '<tr><td>부사장은 현장에서 인터뷰를 하고 있다. (사진=공동취재단)</td></tr></table></td></tr></table>'
+                '[파이낸셜뉴스]' + body + '</article>')
+        with patch.object(news.requests, 'get', return_value=Mock(text=html)):
+            self.assertEqual(news.get_article_summary('https://example.com'), body)
+
+    def test_press_labels_removed_without_losing_business_content(self):
+        body = '회사는 [ESS] 사업의 공급계약을 체결하고 해외 공장 생산을 확대한다고 밝혔다.'
+        self.assertEqual(news.compact_summary('(사진=공동취재단) [파이낸셜뉴스]' + body), body)
+        self.assertEqual(news.compact_summary('[사진] [이데일리]' + body), body)
+
     def test_research_report_hidden_behind_neutral_headline(self):
         title = 'LG에너지솔루션, 실적 개선세 지속'
         body = 'iM증권은 LG에너지솔루션의 목표주가 55만원, 투자의견 매수를 유지했다.'

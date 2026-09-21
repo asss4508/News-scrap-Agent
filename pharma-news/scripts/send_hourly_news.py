@@ -141,7 +141,19 @@ def is_appliance_launch(title):
     return bool(appliance and launch)
 
 
+def is_research_report(title, summary=''):
+    """Exclude analyst recommendation coverage, including neutral headlines."""
+    text = re.sub(r'\s+', '', title + ' ' + summary).casefold()
+    if any(word in text for word in ('목표주가', '목표가', '투자의견', '매수의견', '매도의견', '리포트에따르면')):
+        return True
+    attribution = any(word in text for word in ('증권', '연구원', '애널리스트', '리서치센터'))
+    opinion = any(word in text for word in ('전망', '예상', '분석', '평가', '매수', '저평가', '실적개선', '기대'))
+    return attribution and opinion
+
+
 def is_invalid(title):
+    if is_research_report(title):
+        return True
     if is_appliance_launch(title):
         return True
     if any(keyword in title.casefold() for keyword in PRODUCT_KEYWORDS):
@@ -572,6 +584,8 @@ def pick_best_article(sent_titles, sent_articles=None, summaries=None):
             continue
         if summaries is not None:
             summary = get_article_summary(url, title)
+            if is_research_report(title, summary):
+                continue
             if already_covered(title, url, sent_articles, summary):
                 continue
             summaries[url] = summary

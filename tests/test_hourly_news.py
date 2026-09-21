@@ -12,6 +12,20 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_research_report_hidden_behind_neutral_headline(self):
+        title = 'LG에너지솔루션, 실적 개선세 지속'
+        body = 'iM증권은 LG에너지솔루션의 목표주가 55만원, 투자의견 매수를 유지했다.'
+        self.assertTrue(news.is_research_report(title, body))
+        self.assertTrue(news.is_invalid('셀트리온 목표가 상향…성장 기대'))
+        self.assertTrue(news.is_research_report('실적 개선 기대', '박정하 연구원은 신규 수주가 확대될 것으로 전망했다.'))
+        self.assertFalse(news.is_research_report('LG에너지솔루션, ESS 공급계약 체결', '회사는 해외 고객과 공급계약을 체결했다고 밝혔다.'))
+
+    def test_research_report_is_skipped_in_favor_of_company_event(self):
+        research = ('LG에너지솔루션, 실적 개선세 지속', 'https://example.com/report', 200)
+        event = ('새빛테크, 해외 공급계약 체결', 'https://example.com/event', 100)
+        with patch.object(news, 'fetch_popular_articles', return_value=[research, event]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST).date()), patch.object(news, 'get_article_summary', side_effect=['iM증권은 목표주가 55만원을 유지했다.', '해외 고객과 공급계약을 체결했다.']):
+            self.assertEqual(news.pick_best_article([], [], {}), event[:2])
+
     def test_actual_celltrion_buyback_cancellation_republication(self):
         records = json.loads((ROOT / 'tests/fixtures/celltrion_duplicate.json').read_text(encoding='utf-8'))
         first, second = [row for row in records if row['title'].startswith('셀트리온,')][-2:]

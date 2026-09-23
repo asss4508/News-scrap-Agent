@@ -1,31 +1,8 @@
-[2026-09-22 09:02] 🚀 Hanwha Defense USA selects U.S. Army’s Pine Bluff Arsenal for $2.2 billion 155mm munitions campus expected to create nearly 400 jobs
-🚀 한화디펜스 USA, 미 육군 파인 블러프 조병창에 22억 달러 규모 155mm 탄약 제조 캠퍼스 선정… 약 400개 일자리 창출 전망
-출처: Defence Industry Europe
-링크: [https://defence-industry.eu/hanwha-defense-usa-selects-u-s-armys-pine-bluff-arsenal-for-2-2-billion-155mm-munitions-campus-expected-to-create-nearly-400-jobs](https://defence-industry.eu/hanwha-defense-usa-selects-u-s-armys-pine-bluff-arsenal-for-2-2-billion-155mm-munitions-campus-expected-to-create-nearly-400-jobs/?utm_source=gemini)/
+[2026-09-23 16:18] **#전력기기**** 260923**
 
-• 한화에어로스페이스의 미국 법인 한화디펜스 USA, 아칸소주 미 육군 파인 블러프 조병창(Pine Bluff Arsenal)에 약 22억 달러(한화 약 3조 원) 투자 계획 발표
+PPI와 관련해 시장에서 오인하고 있는 부분이 있는 듯하여 간단히 코멘트.
 
-• 155mm 포탄용 추진 장약(propellant charges) 및 항력감소제(base bleed units) 생산 시설을 구축해 탄약 생산 핵심 공정의 미국 내 현지 제조 역량 확보 목적
+**PPI는 당월 신규 수주물량의 단가가 아니라, 당월에 고객사에게 인도되는 물량의 단가를 기준으로 산정**됨.
+그렇기 때문에 상대적으로 리드타임이 짧은 배전변압기의 경우 래깅이 작을 수 있겠으나 리드타임이 긴 초고압변압기의 경우 PPI와 실제 수주단가에 오차가 클 수 있음.
 
-• 향후 7년에 걸쳐 현지에서 약 400개의 신규 일자리 창출 전망
-
-• 한화디펜스 USA는 2026년 1월 해당 부지에 대한 임대 입찰을 수주했으며, 현지 운영을 총괄할 조병창 내 행정 본부 사무소를 개소
-
-• 미 육군은 유휴 부지 임대를 통해 재정 수익을 확보하고 자체 산업 기반(organic industrial base)을 강화할 것으로 기대
-───────
-
-📈 텔레그램 공개 채널 [https://t.me/HI_GS](https://t.me/HI_GS?utm_source=gemini)
-🎴 매출이 얼마나 되는지… 제보 바랍니다
-
-[2026-09-22 09:13] **#방산**** ****#한화에어로스페이스**** 260922**
-
-작년 12월 뉴스의 연장선상으로 보입니다. 기대하는 연 매출 규모는 밝혀지지 않았지만 신규 일자리 기준으로는 규모가 2배로 커졌네요.
-
-추진장약(MCS) 는 스웨덴 등에 수주계약을 맻고, 27년까지 국내에도 대규모 증설을 진행하고 있는 아이템입니다.
-올해는 미사일 / 드론 등 다른 소모품이 눈길을 끌고 있지만, 155mm 포탄과 관련 소모품은 러우전쟁 이후 잊을만하면 재고부족 이야기가 나왔던 아이템이기도 하고요.
-
-국내 증설과 별개로 미국에 대규모 증설을 진행하는 이유는 미국의 방산 밸류체인 현지화 니즈와 강한 소모품 수요 대비 부족한 공급이 겹쳐서이지 않을까 합니다.
-
-[2026-09-22 13:32] **익명의 매니저 시리즈**
-
-- 입이 문제
+결론적으로,** PPI는 수주단가 변화를 추정하기보다는 분기 실적 내 단가 변화를 추정하는 데에 더욱 적합한 지표라고 생각**하고, 수주단가 변화는  업체별 단가 / 볼티지 믹스를 꾸준히 업데이트하는 게 제일 현실적이던 것 같음.

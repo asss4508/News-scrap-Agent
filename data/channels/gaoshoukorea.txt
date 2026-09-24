@@ -1,74 +1,46 @@
-[2026-09-24 05:59] **🛞 CRCL — Binance, Circle에 $100M 전략적 투자…USDC 글로벌 유통망 확대**
+[2026-09-25 07:12] 단기 금리 상승보다 그 이후를 본다.
 
-**1. Binance, Circle에 $100M 지분투자…단순 제휴에서 장기 이해관계로 확대**
-① Binance가 Circle의 Class A 주식 1,237,011주를 주당 $80.84에 매입해 총 $100M을 투자했으며, 이는 거래 종가 이전 시장가격 대비 약 5% 할인된 Private Placement 구조
-② 이번 투자로 Binance는 단순 USDC 유통 Partner를 넘어 Circle의 주주이자 USDC 성장에 직접 이해관계를 갖는 전략적 투자자가 된 모습
-③ Binance는 원칙적으로 최대 2년간 해당 지분을 처분하지 않기로 해 단기 Trading보다 장기 Partnership 강화 성격이 강한 투자임을 보여줌 ([SEC](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000276/crcl-20260917.htm))
+금리 부담이 정점을 지나 둔화되는 동시에 AI 도입에 따른 생산성 개선이 기업 이익으로 확인되기 시작한다면, 두 흐름이 교차하는 순간 자산가격의 상승 기울기는 예상보다 훨씬 가팔라질 수 있다. 
 
-**2. USDC 협력계약 5년으로 확대, Binance가 직접 유통과 사용 확대 지원**
-① Circle과 Binance는 기존 2024년·2025년 계약을 대체하는 새로운 5년 상업계약을 체결해 USDC의 홍보·통합·사용 확대를 장기간 추진하는 구조
-② Binance는 자사 Platform에서 USDC의 인지도와 사용처를 확대하고, 특히 Emerging Market에서 달러 접근·저축·투자 수단으로 USDC 확산을 강화할 계획
-③ Circle은 Binance의 Modular Smart Contract Wallet에 보관되는 USDC 잔액에 연동해 월별 Incentive Fee를 지급하고, Binance는 그만큼 USDC 유통 확대에 경제적 유인을 갖는 구조 ([Circle](https://www.circle.com/es/pressroom/binance-invests-100-million-in-circle-expands-strategic-partnership-and-renews-commercial-agreement-for-five-years))
+버블은 단순한 금리 인하보다 금리 안정과 AI 생산성에 대한 확신이 겹치는 지점에서 시작된다. 
 
-**3. Arc·Tazapay·Binance 연결, Circle의 USDC 생태계 수직·수평 확장**
-① Circle은 9월 Arc Mainnet을 출시해 USDC 발행뿐 아니라 자체 Blockchain Settlement Layer까지 확보했으며 출시 첫날 100개 이상의 Application과 100개 이상의 기관·생태계 참여자를 확보한 수준
-② 여기에 Tazapay 인수가 완료되면 60개 이상의 Banking·Fintech Partner와 100개 이상의 Payout Market을 확보해 Cross-border Payment와 현지 Fiat 정산망까지 확대되는 구조
-③ Binance Partnership까지 더해지면서 Circle은 USDC 발행 → Arc에서 결제·정산 → Tazapay를 통한 현지 지급 → Binance를 통한 대규모 거래·유통까지 연결되는 글로벌 금융 Network를 구축하는 모습 
+그 시기는 최소한 중간선거 전후의 변동성을 소화한 이후가 될 수 있다.
 
-#트래킹 #미국주식 #서클 #CRCL
+#미리보는
 
-[2026-09-24 06:02] **🛞 META — Muse 출시 12일 만에 280만 다운로드…AI CapEx의 소비자 수익화 가능성 부각**
+[2026-09-25 07:20] 사람의 노동이 부가가치의 중심이던 시대에서, 이제는 AI가 만들어내는 생산성을 어떻게 활용하고 어디에 자본을 배분하느냐가 더 중요해지는 시대로 넘어가고 있다.
 
-**1. 출시 12일 만에 280만 다운로드, ChatGPT 초기보다 빠른 확산**
-① Meta의 개인용 AI Agent Muse가 9월 8일 출시된 뒤 12일 만에 약 280만 다운로드를 기록하며 빠른 초기 확산을 보여준 상황
-② Muse는 이메일 발송·여행 예약·쇼핑·거래 등 여러 앱과 서비스를 연결해 사용자를 대신해 실제 업무를 수행하는 Personal AI Agent라는 점이 핵심
-③ Reuters에 따르면 초기 다운로드 속도는 ChatGPT의 출시 초반보다 빠른 수준으로, Meta가 수십억 명의 기존 사용자 기반을 AI 제품 유통에 활용할 수 있음을 보여줌 ([Reuters](https://www.reuters.com/business/wall-street-expects-metas-ai-agent-shape-into-new-revenue-engine-2026-09-22))
+앞으로의 경쟁력은 더 오래 일하는 데서보다 AI가 만들어낸 생산성을 선점하고, 그 생산성이 향하는 곳에 자본을 배분하는 능력에서 결정될 가능성이 크다.
 
-**2. 무료에서 월 $20·$100까지, AI를 광고 외 구독매출로 연결**
-① Muse는 기본 기능은 무료로 제공하면서 더 많은 작업량과 기능을 원하는 사용자를 대상으로 월 $20와 $100의 유료 구독요금제를 운영하는 구조
-② Jefferies는 Muse가 향후 10억 명의 사용자와 3%의 유료 전환율을 확보할 경우 2027년 연매출 약 $10.8B가 가능하다는 시나리오를 제시한 수준
-③ 이는 어디까지나 Analyst Scenario이지만, Meta의 대규모 AI CapEx가 광고 효율 개선뿐 아니라 직접적인 Subscription Revenue로 연결될 가능성을 처음 구체적으로 계산하기 시작했다는 의미가 큼 ([Reuters](https://www.reuters.com/business/wall-street-expects-metas-ai-agent-shape-into-new-revenue-engine-2026-09-22))
+결국 시간이 지날수록 자본 배분이 중요해지는 투자의 시대가 온다.
 
-**3. 주가 20% 이상 상승, 핵심은 다운로드보다 지속 이용률·유료 전환율
-**① Muse 출시 이후 Meta 주가는 20% 이상 상승하고 시가총액은 약 $200B 증가하며 시장이 AI 수익화 가능성을 빠르게 반영한 모습
-② Meta는 Facebook·Instagram·WhatsApp을 합쳐 36억 명의 일간활성이용자 기반을 보유해 신규 AI 업체보다 고객획득 비용과 Distribution 측면에서 구조적 우위가 큰 수준
-③ 다만 초기 다운로드만으로 장기 성공을 판단하기는 이르며, 앞으로 DAU 유지율·작업 성공률·보안 신뢰도·유료 전환율이 실제 AI 매출과 CapEx 회수 가능성을 결정할 핵심 지표로 부각되는 단계
+#팬
 
-#트래킹 #미국주식 #메타 #META
+[2026-09-25 07:24] 굴곡을 없애려 하기보다, 그 굴곡 속에서 버티는 것.
 
-[2026-09-24 06:05] **🛞 AAPL — 신형 Mac Studio로 Local AI 본격 공략…Cloud AI 비용 대안 제시**
+상승과 하락, 과열과 조정은 자본주의의 예외가 아니라 자연스러운 흐름이다.
 
-**1. Mac Studio, 기업용 Local AI Computing Platform으로 확장**
-① Apple이 M5 Max·M5 Ultra 기반 신형 Mac Studio를 On-device AI와 기업용 AI 개발에 최적화된 고성능 Desktop으로 포지셔닝하며, 단순 Creator용 Mac에서 AI Infrastructure 역할까지 확대하는 모습
-② M5 Ultra는 최대 512GB Unified Memory와 1.2TB/s Memory Bandwidth를 제공해 대형 Open-weight Model을 Cloud로 보내지 않고 Mac 내부에서 직접 실행할 수 있는 수준
-③ Apple은 Core AI·MLX·Xcode까지 묶어 Model 실행·Fine-tuning·배포를 지원하면서 Hardware뿐 아니라 Local AI Software Stack까지 함께 제공하는 구조를 보여줌 ([Apple](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra))
+결국 중요한 것은 흔들리지 않는 것이 아니라, 흔들림 속에서도 살아남아 다음 기회를 맞이하는 것이다.
 
-**2. Mac Studio 4대로 1조 Parameter Model 실행, Cloud 없이 대형 AI 추론 시연**
-① Apple은 Mac Studio 4대를 Thunderbolt 5와 RDMA로 연결해 1조 Parameter 규모 Kimi K2.6 Model을 Local에서 실행하는 시연을 공개한 상황
-② 여러 Mac의 Memory를 하나의 큰 Pool처럼 활용함으로써 단일 Mac에 들어가지 않는 Frontier급 Model도 분산 실행할 수 있으며, 4대 Cluster의 AI 추론 성능은 단일 시스템 대비 최대 3배 수준
-③ 이를 통해 기업이 OpenAI·Anthropic 등 Cloud API에 Token당 비용을 반복적으로 지불하는 대신 Hardware를 직접 보유하고 장기간 AI 추론비용을 통제할 수 있는 선택지를 제시하는 모습 ([Apple Developer](https://developer-rno.apple.com/videos/play/wwdc2026/382))
+#미리보는
 
-**3. Cloud AI 비용경쟁 본격화, Apple이 Nvidia·Microsoft와 기업 AI 영역에서 경쟁 확대**
-① Apple의 전략은 모든 AI 연산을 Cloud에서 처리하는 대신 보안·개인정보·반복비용에 민감한 Workload를 Local 또는 On-premise로 돌리는 Hybrid AI 구조를 확대하려는 방향
-② Apple은 기업 Desktop 시장 점유율이 약 **4.6%**로 Windows의 약 91.3%보다 크게 낮아 침투 여력은 크지만, 동시에 Microsoft 중심 기업시장에 진입해야 하는 높은 장벽도 존재하는 수준
-③ 장기적으로 기업들이 AI 비용절감을 위해 Cloud·Local·On-premise를 혼합할수록 Apple Silicon은 Nvidia GPU Cloud와 Windows AI PC 사이에서 전력효율·Unified Memory·Privacy를 앞세운 새로운 기업 AI Computing 선택지로 자리 잡을 가능성을 보여줌 ([Reuters](https://www.reuters.com/business/retail-consumer/with-new-macs-apple-aims-take-microsoft-nvidia-rush-lower-ai-costs-2026-09-22))
+[2026-09-25 07:24] 투자의 시대
+시작합니다 🎉
 
-#트래킹 #미국주식 #애플 #AAPL
+[2026-09-25 07:35] 큰 수익을 서두르기보다 치명적인 손실을 피하고, 시장의 굴곡을 견디며 복리가 작동할 시간을 확보하는 것.
 
-[2026-09-24 07:45] https://news.mtn.co.kr/news-detail/2026092407160889447
+결국 투자에서의 성공은 얼마나 빨리 벌었느냐보다, 얼마나 오래 살아남아 자본을 계속 굴릴 수 있었느냐에 달려 있는지도 모른다.
 
-[2026-09-24 08:12] https://www.newsfreezone.co.kr/news/articleView.html?idxno=711039
+살아남는 자가 강하답니다 😎
 
-[2026-09-24 08:26] https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307520
+[2026-09-25 07:54] https://www.e-science.co.kr/news/articleView.html?idxno=136090
 
-[2026-09-24 10:03] https://www.news1.kr/world/usa-canada/6301073
+메타의 안경은 결국 뮤즈와 연결될 것입니다. 안경이 눈과 귀가 되고, AI가 사용자를 대신해 판단하고 행동하는 개인 에이전트의 시대가 다가오고 있는 것이죠.
 
-내년 1월 10일까지 연장
+그 과정에서 토큰 사용 비용이 급격히 낮아지거나 사실상 무료에 가까워진다면, 수요는 얼마나 빠르게 늘어날까요. 메모리부터 데이터센터, 전력까지 AI 인프라의 병목은 한동안 이어질 수도 있고, 대규모 투자로 예상보다 빨리 해소될 수도 있습니다.
 
-[2026-09-24 10:35] 드러켄밀러의 소로스에 대한 말:
+병목이 풀린 뒤에는 AI가 일상과 산업 전반에 깊숙이 스며들며 진정한 생산성 혁신이 시작될 것입니다. 다만 그 과정에서 기대가 현실보다 앞서 달린다면, 언젠가는 물극필반의 급격한 조정이 찾아올 가능성도 있습니다.
 
-“그는 내가 본 최고의 손실 수용자다. 그는 거래에서 이기든 지든 상관하지 않는다. 거래가 제대로 풀리지 않으면, 그는 다른 거래에서 이길 수 있는 자신의 능력에 충분히 자신 있어서 손실을 쉽게 털어버릴 수 있다.”
-
-[2026-09-24 11:19] **장기 휴장 마치고 돌아온 일본은 상승 출발**
-
-[2026-09-24 15:40] https://x.com/StockSavvyShay/status/2102948506608779354?s=20
+모두가 처음 가보는 길입니다. 그럼에도 현재로서는 중간중간 굴곡이 있더라도, 시장이 거대한 기대와 투자 확대의 국면으로 향하는 흐름을 쉽게 막기는 어려워 보입니다.
+[
+ 메타, 100g 안경형 VR 기기 공개…헤드스트랩 없이 쓴다](https://www.digitaltoday.co.kr/news/articleView.html?idxno=702946)

@@ -24,3 +24,21 @@
 https://naver.me/GNJExdqE
 
 (전문은 링크 참조)
+
+[2026-09-24 12:14] 미국 정유업계, 디젤 가격 급등과 97% 가동률 속 경제 위기 뇌관 우려 직면 - Reuters
+(by https://t.me/TNBfolio)
+- 미국 내 디젤 가격은 이란 분쟁 발발 이후 휘발유보다 2배 빠르게 치솟으며 트럭 운송망을 압박하고 있다.
+- 정유 마진이 사상 최고치를 기록했으나 미국 정유 설비 가동률은 이미 97% 한계에 도달해 증산이 불가능하다.
+- 미국 내 마지막 정유소가 약 50년 전에 건설된 탓에 추가 생산 여력이 없어 정비 지연에 따른 셧다운 위험이 크다.
+- 디젤 갤런당 평균 가격이 6.51달러로 1년 전보다 76% 폭등하며 마일당 운송 비용을 47센트 끌어올렸다.
+- 얇은 영업이익률을 가진 물류 기업들의 운임 인상이 최종 소비재와 유통, 제조업 전반의 물가 충격으로 전가되고 있다.
+https://www.reuters.com/commentary/breakingviews/diesel-could-be-tipping-point-us-economy-2026-09-21/
+
+[2026-09-24 12:16] Nvidia, 대규모 회사채 발행 및 AI 인프라 부채 헷지 수요로 CDS 거래량 폭증 - bloomberg
+(by https://t.me/TNBfolio)
+- Nvidia 연계 신용부도스왑(CDS) 거래량이 급증하며 미국 회사채 부도 헷지 시장에서 가장 활발히 거래되는 종목으로 올라섰다.
+- 지난 6개월간 거래된 Nvidia 부채 헷지 명목 규모는 69억 달러로 직전 반기 6억 4,000만 달러 대비 10배 이상 폭증했다.
+- 이에 따라 Nvidia는 SpaceX와 함께 S&P Dow Jones의 CDX 투자적격지수 시리즈 47 편입 대상에 선정되었다.
+- 6월 250억 달러 채권 발행과 인프라 확장 계약이 이어지면서 Nvidia 부도 위험을 헤지하는 비용은 올해 2배로 상승했다.
+- 월가 은행들과 기관 투자자들은 빅테크의 AI 설비투자 차입 확대에 따른 신용 리스크 노출을 줄이기 위해 CDS 매수에 집중하고 있다.
+https://www.bloomberg.com/news/articles/2026-09-23/nvidia-among-top-traded-us-credit-swaps-as-hedging-demand-soars?srnd=phx-ai

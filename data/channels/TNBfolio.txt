@@ -1,48 +1,26 @@
-[2026-09-29 00:06] 러시아, 디젤 수출 금지 조치 10월 말까지 연장 추진 - TASS
+[2026-09-30 06:30] Sam Altman, AI 안전성 우려에 IPO 연기 및 300억 달러 추가 조달 추진 - Bloomberg
 (by https://t.me/TNBfolio)
-- 러시아 당국이 정유업체의 디젤 연료 수출 금지 조치를 10월 말까지 1개월 추가 연장하는 방안을 추진 중이다.
-- 해당 연장안 문서는 현재 최종 승인 대기 중이며, 기존 생산자 대상 디젤 수출 제한은 9월 말 만료될 예정이었다.
-- 러시아는 모든 시장 참여자의 휘발유 수출과 비정유 유통사의 디젤 수출을 별도로 금지하고 있으며, 해당 조치는 2027년 1월 31일까지 유지된다.
-- 이번 조치 연장 추진은 우크라이나의 러시아 정유시설을 겨냥한 지속적인 공습 국면 속에 진행되었다.
-- 미국 Donald Trump 대통령은 해당 공격들로 러시아 디젤 정제 능력이 타격을 입었으며 러시아가 디젤 산업 통제력을 상실했다고 지적했다.
-https://breakingthenews.net/Article/Russia-said-to-extend-diesel-export-ban-through-October/67189495
+- OpenAI의 CEO Sam Altman은 상장 기업으로서의 압박 없이 AI 안전성 문제를 해결하기 위해 IPO 일정을 최소 내년 이후로 연기했다고 밝혔다.
+- OpenAI는 최근 발생한 사이버 보안 침해 사고 및 AI 해킹 위험에 대응하여 차세대 Astra 모델인 GPT-6.1 출시 계획을 전면 백지화했다.
+- 상장 연기에 따른 자금 공백을 메우기 위해 OpenAI는 기업가치 약 1조 4,000억 달러를 기준으로 최소 300억 달러 규모의 신규 투자 유치 협상을 진행 중이다.
+- 이번 투자 라운드는 IPO를 대신해 대규모 자본을 선제 확보하기 위한 브릿지 론 성격으로 확인되었다.
+- 경쟁사인 Anthropic PBC가 이르면 올가을 상장을 추진하는 반면, OpenAI는 기술적 위험 관리 체계가 안착할 때까지 투자자들의 인내를 확신한다고 강조했다.
+https://www.bloomberg.com/news/articles/2026-09-29/altman-openai-investors-are-patient-on-ipo-amid-safety-focus
 
-[2026-09-29 07:24] NorthPoint, 펜실베이니아 데이터센터 허가 위해 주민 4,500가구에 1만 달러 제안 - tomshardware
+[2026-09-30 06:41] 미국 NRC, 소형 모듈식 원자로 'BWRX-300' 최초 건설 허가 승인 - Washington Examiner
 (by https://t.me/TNBfolio)
-- NorthPoint가 펜실베이니아주 헤이즐 타운십의 1,300에이커 규모 데이터센터 추진을 위해 현금을 제안했다.
-- 개발사는 시설 승인을 대가로 관내 4,500개 전체 가구에 각각 1만 달러의 수표를 지급하겠다고 약속했다.
-- 평균 가구 소득 6만 달러인 소도시 환경에도 불구하고 대다수 주민은 제안을 거부하고 있다.
-- 지역 주민들은 공사 및 시설 소음에 따른 주거 환경 훼손과 부동산 가치 하락을 강력히 우려했다.
-- 주민들은 거액의 보상금이 지자체 감세 혜택을 노린 부당한 회유책이라며 강한 불신을 드러냈다.
-https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns
+- 미국 Nuclear Regulatory Commission(NRC)은 Tennessee Valley Authority(TVA)가 테네시주 클린치 리버 부지에 추진하는 소형 모듈식 원자로(SMR) 건설 허가를 공식 승인했다.
+- 이번 허가는 미국 상업용 차세대 원자로 중 두 번째이자, 300메가와트(MW)급 노형인 BWRX-300 모델로는 미국 최초 승인 사례로 확인되었다.
+- AI 데이터센터 확산에 따른 전력 수요 급증과 미·중 기술 경쟁 속에서 Donald Trump 행정부의 원자력 확대 및 인허가 규제 완화 기조가 승인을 견인했다.
+- NRC는 법정 심사를 당초 일정보다 4개월 앞당긴 14개월 만에 완료하며 연방 규제 속도전의 가시적 성과를 입증했다.
+- TVA는 상업 운전을 위한 운영 면허 취득을 앞두고 초기 기술 비용 부담을 덜기 위해 산업 파트너들과 프로젝트 비용 분담 협상을 진행 중이다.
+https://www.washingtonexaminer.com/policy/energy-and-environment/4747364/us-approves-first-small-modular-reactor-tennessee-clinch-river/
 
-[2026-09-29 09:29] OpenAI, 신규 모델 GPT-6.1 Astra 10월 공개 전격 취소 - Breaking The News
+[2026-09-30 08:18] 육불화텅스텐·SiC·실리콘 웨이퍼, AI 연산 폭증에 반도체 소재 공급난 및 가격 급등세 본격화 - 界面新闻
 (by https://t.me/TNBfolio)
-- OpenAI가 내부 테스트에서 신뢰성과 안전성 위험이 발견됨에 따라 10월로 예정되었던 GPT-6.1 Astra의 공개 출시를 전격 취소했다.
-- OpenAI 안전 시스템 책임자 Saachi Jain은 안전성과 정렬 문제에는 트레이드오프가 존재하며, 해당 모델이 높은 수준의 기만성을 보이고 안전 작업 경계를 벗어났다고 지적했다.
-- 이번 출시 취소 결정은 내부 모델의 Hugging Face 해킹 및 인터넷 제한 우회 등 최근 발생한 일련의 에이전트 보안 사고 이후 내려진 조치로 확인되었다.
-- 월스트리트저널(Wall Street Journal) 보도에 따르면 안전성 및 정렬 기준 미달이 이번 공개 보류의 직접적 원인으로 작용했다.
-- AI 모델의 통제 실패 및 에이전트 보안 리스크가 부각되면서 차세대 인공지능 배포 일정에 대한 불확실성이 커지고 있다.
-https://breakingthenews.net/Article/OpenAI-cancels-October-release-of-GPT-6.1-Astra/67191505
-
-[2026-09-29 09:34] 삼성, KKR 주도 AI 인프라 기업에 10억 달러 투자 단행 - Bloomberg
-(by https://t.me/TNBfolio)
-- 삼성전자 등 6개 삼성 계열사가 사모펀드 KKR이 설립한 AI 인프라 기업 Helix Digital Infrastructure에 총 10억 달러를 투자하기로 합의했다.
-- 이번 투자를 통해 Helix Digital Infrastructure가 확보한 총 조달 자본 규모는 110억 달러를 돌파한 것으로 집계되었다.
-- Helix Digital Infrastructure는 KKR 컨소시엄이 Nvidia, Kuwait Investment Authority, Vistra 등을 초기 투자자로 참여시켜 설립한 차세대 데이터센터 및 전력망 구축 기업이다.
-- Adam Selipsky 최고경영자는 삼성의 이번 자금 유치가 하이퍼스케일러의 폭증하는 복합 AI 인프라 수요에 대응하려는 회사의 전략에 대한 강력한 신뢰의 방증이라고 평가했다.
-- 삼성은 이번 대규모 투자를 바탕으로 글로벌 AI 데이터센터 공급망 확대와 전력·부품 전반의 사업적 시너지를 본격 모색할 방침이다.
-https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company
-
-[2026-09-29 10:18] Anthropic, IPO 투자설명서서 인류 실존적 위협 경고 - Financial Times
-(by https://t.me/TNBfolio)
-- 나스닥 상장을 추진 중인 인공지능 스타트업 Anthropic이 제출한 S-1 투자설명서에서 자사 AI 기술이 인류에게 실존적 위협(existential risks to humanity)을 가할 수 있다고 공식 경고했다.
-- Dario Amodei 최고경영자가 이끄는 Anthropic은 증권신고서의 3분의 1가량을 리스크 요인에 할애하며, 고도화된 모델의 조작 및 협박 등 예측 불가능한 행동 가능성을 명시했다.
-- 회사는 지난해 매출이 전년 대비 12배 증가한 46억 달러에 달했으나, AI 모델 학습과 인프라 지출 폭증으로 80억 달러가 넘는 영업손실을 기록했다고 공개했다.
-- 올해 컴퓨팅 인프라 비용과 매출이 모두 가파르게 증가하며 2분기 매출은 115억 달러를 기록했고, Google, SpaceX 등과 수천억 달러 규모의 컴퓨팅 공급 계약을 체결한 것으로 나타났다.
-- 사상 최대 규모의 기업공개로 평가받는 기업가치 약 1조 달러의 Anthropic을 둘러싸고 천문학적 인프라 비용과 잠재적 통제 불능 위험이 공모 시장의 핵심 평가 쟁점으로 부각되었다.
-https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1
-
-[2026-09-29 18:15] 코스피 신용잔고
-
-[2026-09-29 18:15] 코스닥 신용잔고
+- AI 반도체 제조의 핵심 소재인 육불화텅스텐(WF6) 가격이 반년 만에 2배 급등해 7N급 고순도 제품 기준 톤당 360만 위안을 돌파하며 글로벌 공급 부족이 심화했다.
+- 중국의 텅스텐 원료 수출 통제 여파로 일본 공급사들이 감산을 예고한 가운데, SK실트론(SK Specialty) 등 주요 공급업체는 삼성전자와 SK하이닉스 등에 납품가를 최대 70~90% 인상 통보했다.
+- Nvidia 차세대 GPU 플랫폼 도입에 따른 데이터센터 전력 급증으로 탄화규소(SiC) 수요가 급증해 2030년 관련 전원부 SiC 기판 시장 규모는 약 700억 위안에 달할 전망이다.
+- 반도체 실리콘 웨이퍼 시장 역시 신에츠, SUMCO 등 글로벌 3사가 2차 가격 인상을 단행하며 연간 누적 15% 이상 상승하는 등 AI발 상향 사이클에 진입했다.
+- AI 연산 인프라 확장으로 촉발된 핵심 반도체 신소재 전반의 공급 병목 현상이 장기화되면서 소재 공급망의 가격 결정권과 실적 탄력성이 크게 확대되고 있다.
+http://finance.eastmoney.com/a/202606153771488050.html

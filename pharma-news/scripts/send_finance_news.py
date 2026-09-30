@@ -206,16 +206,8 @@ def build_message(news):
     return msg
 
 def send_telegram(message):
-    api_url = "https://api.telegram.org/bot" + TELEGRAM_TOKEN + "/sendMessage"
-    payload = {
-        "chat_id": CHAT_ID,
-        "text": message,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-    }
-    res = requests.post(api_url, json=payload, timeout=10)
-    res.raise_for_status()
-    print("전송 완료")
+    from daily_telegram import send_daily
+    send_daily("finance", TELEGRAM_TOKEN, CHAT_ID, message)
 
 def collect_with_retry(attempts=3):
     for attempt in range(attempts):

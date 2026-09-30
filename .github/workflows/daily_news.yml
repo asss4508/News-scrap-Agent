@@ -25,6 +25,7 @@ permissions:
 
 env:
   PYTHONUNBUFFERED: "1"
+  FORCE_SEND: ${{ inputs.force_send }}
 
 jobs:
   send-news:
@@ -62,6 +63,8 @@ jobs:
         run: python pharma-news/scripts/daily_news_schedule.py wait --target "$SEND_TARGET"
 
       - name: 제약 뉴스 전송
+        id: pharma
+        continue-on-error: true
         if: steps.gate.outputs.proceed == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -69,6 +72,8 @@ jobs:
         run: python pharma-news/scripts/send_news.py
 
       - name: 금융 뉴스 전송
+        id: finance
+        continue-on-error: true
         if: steps.gate.outputs.proceed == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -76,14 +81,19 @@ jobs:
         run: python pharma-news/scripts/send_finance_news.py
 
       - name: 발송 이력 커밋
-        if: steps.gate.outputs.proceed == 'true'
+        if: ${{ always() && steps.gate.outputs.proceed == 'true' }}
         env:
           SEND_DATE: ${{ steps.gate.outputs.send_date }}
+          PHARMA_RESULT: ${{ steps.pharma.outcome }}
+          FINANCE_RESULT: ${{ steps.finance.outcome }}
         run: |
-          printf '%s\n' "$SEND_DATE" > data/daily_news_last_sent.txt
+          if [ "$PHARMA_RESULT" = success ] && [ "$FINANCE_RESULT" = success ]; then
+            printf '%s\n' "$SEND_DATE" > data/daily_news_last_sent.txt
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/daily_news_last_sent.txt
+          if [ -f data/daily_delivery.json ]; then git add data/daily_delivery.json; fi
           git diff --cached --quiet && exit 0
           git commit -m "chore: 모닝 뉴스 발송 이력 업데이트"
           # 다른 수집 작업이 main에 동시에 커밋해도 발송 이력을 보존한다.
@@ -96,3 +106,7 @@ jobs:
           done
           echo "::error::발송은 완료됐지만 발송 이력 저장에 실패했습니다. 재실행 전 확인하세요."
           exit 1
+
+      - name: 발송 실패 확인
+        if: ${{ always() && steps.gate.outputs.proceed == 'true' && (steps.pharma.outcome == 'failure' || steps.finance.outcome == 'failure') }}
+        run: exit 1

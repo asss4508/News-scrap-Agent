@@ -116,3 +116,202 @@ https://naver.me/xiLu3uJn
 10. 심텍 - Module PCB·패키징 기판
 
 • 마이크론 Assembly & Test 소재 공급 레퍼런스. 다만 CAPEX보다 가동률·출하량 증가 수혜 성격이 강함.
+
+[2026-10-01 08:44] ⚡️⚡️⚡️⚡️⚡️⚡️
+**마이크론(MU) Q4 FY2026 어닝콜 요약**
+
+🟢 긍정 요인:
+
+• FY2026 사상 최대 실적 달성. 연간 매출은 1,332억달러로 전년 대비 256% 증가, 연간 매출총이익률은 81.1%, EPS는 75.52달러 기록. 4분기 매출 역시 약 542억달러, 매출총이익률 87%, 비GAAP EPS 33.42달러로 가이던스를 모두 상회.
+
+• DRAM·NAND 모두 강력한 성장세. 4분기 DRAM 매출은 398억달러로 전체 매출의 73%, NAND 매출은 141억달러로 26%를 차지. 데이터센터 SSD 매출은 4분기에만 약 100억달러에 근접했으며, 데이터센터 SSD 시장점유율이 5년 연속 상승하면서 AI 스토리지 수요에서도 강한 경쟁력 확인.
+
+• 막대한 현금창출력과 재무구조 강화. 4분기 영업현금흐름은 440억달러, FCF는 332억달러 기록. 현금 및 투자자산은 735억달러, 순현금은 약 683억달러에 달하며 부채는 52억달러에 불과. 최근 신용등급도 BBB+ 수준으로 상향되며 대규모 투자 여력 확보.
+
+• 약 1,500억달러 RPO로 중기 실적 가시성 대폭 강화. 현재 26건의 SCA(전략적 고객 계약)를 체결했으며 관련 RPO는 약 1,500억달러 규모. 여기에 고객의 재무적 약정 약 320억달러가 추가돼 향후 수년간 강력한 수요 가시성을 확보.
+
+• Take-or-Pay 계약으로 메모리 사이클 변동성 완화. SCA에는 다년간의 물량 및 Take-or-Pay 약정이 포함돼 있어 기존 메모리 산업의 단기 가격·수요 변동성을 완화할 수 있는 구조. 고객의 대규모 예치금까지 확보하면서 AI 메모리 공급에 대한 고객들의 장기 확보 의지가 강한 것으로 나타남.
+
+• HBM·DRAM·NAND 전 영역에서 AI 제품 로드맵 강화. 1-gamma DRAM과 G9 NAND에서 기술 리더십을 강조했으며 HBM에서는 NVIDIA와 HBM4E 협업을 포함한 차세대 제품 개발 진행. AI 서버의 HBM뿐 아니라 데이터센터 SSD까지 동시에 수혜를 받는 제품 포트폴리오 구축.
+
+• 2027~2028년 대규모 생산능력 확대 준비. 미국·일본·대만·싱가포르 등에서 신규 Fab 투자를 진행하고 있으며 2027년 중반부터 2028년까지 순차적인 생산 기여를 목표. 현재의 공급 부족 환경에 대응하면서 중장기 AI 메모리 수요 확대에 대비하는 전략.
+
+🔴 부정 요인:
+
+• Q1 매출총이익률에 약 10억달러 비용 부담. 인센티브 보상과 신규 Fab 가동 초기비용 증가로 경영진은 Q1 매출총이익에 약 10억달러의 추가 비용 영향을 예상. 특히 인센티브 보상 비용은 FY2027 전반에 걸쳐 높은 수준이 지속될 전망이어서 단기 마진에는 부담.
+
+• FY2027 CapEx가 250억달러 이상으로 급증. FY2027 CapEx는 250억달러 이상, 이 가운데 Q1에만 약 115억달러가 예상됨. 대규모 건설투자가 먼저 집행되고 이후 장비투자가 추가되는 구조여서 실제 생산능력 증가까지 상당한 시차 존재.
+
+• 신규 Fab의 긴 건설기간으로 공급 대응 속도 제한. 신규 Fab은 착공 이후 실제 생산까지 여러 분기가 필요. 현재 AI 메모리 수요가 강하더라도 단기간에 공급을 크게 늘리기 어려워 추가적인 수요를 모두 매출로 전환하지 못할 가능성 존재.
+
+• 재고일수 상승과 공급 전망의 불확실성. 분기말 DIO는 129일로 전분기 대비 9일 증가. 경영진 역시 업계 공급이 언제 수요와 균형을 이룰지 명확하게 전망하기 어렵다고 언급해 현재의 극도로 타이트한 메모리 업황이 얼마나 지속될지는 불확실.
+
+• FY2027 생산능력 대부분이 이미 계약돼 유연성 제한. FY2027 생산량의 75% 이상이 이미 커밋된 상태. 높은 매출 가시성을 제공하는 반면 시장가격이 예상보다 크게 상승할 경우 현물가격 상승분을 충분히 활용하지 못할 가능성이 있으며 고객별 수요 변화에 대한 생산 조정 유연성도 감소.
+
+• SCA 고객 집중 및 계약 실행 리스크. 장기계약과 고객 예치금은 안정성을 높이지만 일부 대형 고객과 장기적으로 연결되는 구조. 예치금 역시 계약 조건에 따라 시간이 지나면서 반환되기 때문에 이를 영구적인 현금유입으로 해석하기는 어려움.
+
+📍종합 평가:
+
+Micron의 FY2026 실적은 매출 1,332억달러, 매출총이익률 81.1%, Q4 매출총이익률 87%라는 이례적으로 높은 수익성과 성장률을 기록하며 AI 메모리 사이클의 강도를 보여준 것으로 평가.
+
+특히 핵심은 단순한 단기 메모리 가격 상승보다 26건의 SCA + 약 1,500억달러 RPO + 320억달러 고객 약정 + FY2027 생산량 75% 이상 사전 커밋. 이는 AI 고객들이 HBM·DRAM·NAND 공급을 수년 단위로 선점하면서 Micron의 실적 가시성이 과거 메모리 사이클보다 크게 높아지고 있음을 의미.
+
+또한 HBM뿐 아니라 데이터센터 SSD 매출이 분기 약 100억달러에 근접했다는 점도 중요. AI 인프라 확대의 수혜가 HBM에서 NAND·스토리지까지 확산되면서 Micron의 AI 관련 매출 기반이 넓어지는 흐름.
+
+반면 이제 핵심 변수는 수요보다 공급 확대의 실행력과 투자비 부담. FY2027 CapEx가 250억달러 이상으로 확대되고 신규 Fab 생산 기여가 2027년 중반~2028년에 집중돼 있어 단기적으로는 높은 비용과 긴 투자 회수기간을 감수해야 하는 구조.
+
+종합하면 AI 메모리 수요와 장기계약 가시성은 매우 강하지만, 향후 실적의 핵심은 현재의 초고마진 지속 여부와 대규모 증설의 성공적인 실행으로 이동하고 있음. 향후 체크포인트는 HBM4E 양산 및 NVIDIA 협업, 1-gamma DRAM·G9 NAND 램프업, 1,500억달러 RPO의 실제 매출 전환, FY2027 마진 추이, 그리고 2027~2028년 신규 Fab 공급 증가가 메모리 수급에 미치는 영향이 될 전망.
+
+[2026-10-01 08:50] **메타 Muse, 출시 3주 만에 500만 다운로드 돌파 및 주간 프롬프트 사용자 300만 돌파**
+
+: 메타 Muse가 9월 8일 미국·캐나다 출시 후 약 3주 만에 500만 다운로드 돌파(Sensor Tower 기준)
+
+: 500만 다운로드 도달까지 ChatGPT 56일, Grok 103일, Claude 492일이 소요된 것과 비교하면 빠른 초기 확산. 현재 미국 App Store와 Google Play 모두 1위
+
+: 다운로드뿐 아니라 실사용도 확대. 메타 내부 데이터 기준 주간 프롬프트 사용자 300만+, 일간 프롬프트 사용자 100만+, 작업 확인·승인 등을 포함한 전체 주간 사용자는 400만+
+
+: 빠른 확산에는 메타의 공격적인 자체 광고 집행도 기여. 9월 16일 광고 확대 당시 다운로드는 DoD +73% 증가. 최근 2주간 Muse는 메타 자체 광고 일일 노출의 최대 50% 차지. 21-27일에는 미국 광고 노출 기준 상위 15개 브랜드에 포함 
+
+: Muse는 현재 무료로 제공되며, 메타는 향후 에이전트를 통해 발생하는 판매액의 일부를 수수료로 수취할 계획
+
+[https://t.me/Samsung_Global_AI_SW](https://t.me/Samsung_Global_AI_SW)
+
+[2026-10-01 08:59] 두산에너빌리티(034020)
+단일판매ㆍ공급계약체결
+
+📌 규모
+기간대비 : 1.2 %
+매출대비 : 4.91 %
+계약총액 : 8,380 억원
+
+📌 내용
+계약상대 : VIETNAM NATIONAL INDUSTRY - ENERGY GROUP 
+계약내용 : Engineering, Procurement and Construction (EPC) of O Mon III Combined Cycle Power Plant Construction Project
+계약조건 : Milestone 달성에 따라 대금 청구 및 지급
+
+📌 일정 (약 4년 1개월)
+시작일 : 2026-10-06
+종료일 : 2030-10-06
+
+※ 시총 : 52.46 조원
+※ 현재가 : 81,900 원
+※ 2026-10-01 08:59:00
+[공시 원문 보기](http://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001800034)
+
+[2026-10-01 09:40] **받으라슈)**
+
+우아하게 용어 안쓰고 좌아하겤ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+오른손도 쓰지마 그러면 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 고개도 오른쪽 보지도말고요 시바 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 존나 짜치넼ㅋㅋㅋ
+
+[2026-10-01 09:42] 🗽👀 In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year. We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers. First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country. Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska. Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex
+as. This will bring tremendous new, reliable Power Capacity to Texas. These are the kinds of Projects that can transform America for Generations — MORE POWER, MORE CONSTRUCTION, MORE MANUFACTURING, MORE ENERGY SECURITY, and major new opportunities for American Workers. These Projects will support the TRILLIONS OF DOLLARS of Investment that have come into the United States under my Administration, including for Advanced Manufacturing, Semiconductors, and all of the Great Industries of the Future. We are building that capacity HERE, in THE UNITED STATES OF AMERICA, and the Projects announced today will help power us for Generations to come. These Deals are driven by our Trade Deals. REAL INVESTMENT, REAL PROJECTS, REAL CAPACITY, and REAL JOBS in America. AMERICA IS BUILDING AGAIN! President DONALD J. TRUMP
+In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year. We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers. First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country. Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska. Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex
+as. This will brin... [truthsocial.com](https://truthsocial.com/@realDonaldTrump/117362870737690439)
+
+[2026-10-01 09:44] ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+뉴욕에서 대한민국 대통령 이재명과 만나, 미국에 2,000억 달러 규모의 신규 투자를 추진하기로 합의했다!
+
+지난해 이재명 대통령과 체결한 3,500억 달러 규모의 한미 전략적 무역·투자 협정에 따라 미국 전역에서 미국의 에너지와 전력을 구축할 것이다.
+
+우리는 한국의 투자 약속을 대규모 건설 프로젝트와 수만 개의 미국 일자리로 전환하고 있다. 이는 미국의 발전 용량을 확대하는 대규모 에너지 프로젝트들이다. 새로운 건설, 새로운 제조업, 그리고 미국 노동자들을 위한 훌륭한 일자리다.
+
+첫째, 미국과 한국은 바로 이곳 미국에 대형 원자로 8기를 건설하는 1,200억 달러 규모의 원자력 발전 프로그램을 추진한다. 웨스팅하우스 AP1000 원자로 6기와 한국형 APR-1400 원자로 2기다.
+
+새로운 원자로 8기다. 미국의 전력. 미국의 건설. 미국의 제조업. 더 많은 기저부하 전력과 더 강력한 미국의 에너지 안보다.
+
+둘째, 미국과 한국은 500억 달러 규모의 알래스카 LNG 프로젝트를 함께 추진하기로 합의했다. 위대한 알래스카주의 막대한 자원을 개발하고, 새로운 미국 가스 인프라를 구축하며, 우리의 훌륭한 미국 노동자들이 이를 건설할 것이다.
+
+이 프로젝트는 알래스카 주민들에게 획기적인 변화를 가져올 것이다.
+
+셋째, 텍사스주 엔시널에서 220억 달러 규모의 6.4기가와트 천연가스 발전 프로젝트를 추진한다. 이를 통해 텍사스에 막대한 규모의 새롭고 안정적인 발전 용량이 추가될 것이다.
+
+이런 프로젝트들이야말로 앞으로 수세대에 걸쳐 미국을 변화시킬 수 있다. 더 많은 전력, 더 많은 건설, 더 많은 제조업, 더 강력한 에너지 안보, 그리고 미국 노동자들을 위한 막대한 새로운 기회다.
+
+이 프로젝트들은 첨단 제조업, 반도체를 비롯한 미래의 위대한 산업들을 포함해 내 행정부에서 미국으로 들어온 수조 달러 규모의 투자를 뒷받침할 것이다.
+
+우리는 바로 여기, 미합중국에서 그 역량을 구축하고 있으며, 오늘 발표된 프로젝트들은 앞으로 수세대에 걸쳐 미국에 전력을 공급하는 데 기여할 것이다.
+
+이러한 사업들은 우리의 무역 협정이 만들어낸 결과다.
+
+미국에서의 진짜 투자, 진짜 프로젝트, 진짜 생산 역량, 그리고 진짜 일자리다.
+
+미국이 다시 건설하고 있다!
+
+[2026-10-01 09:46] 일전에 대통령께서는 '모든' 국민께서 5.18 정신을 헌법전문에 넣는 걸 찬성한다 말씀도 하셨는데 저는 그 이야기도 무서웠어요. 그것에 찬성 안하면 국민 아니라는 소리도 되니.. 우리나라가 선진국이라 다행이지 험한 나라였으면 텔레그램 채널장들 중에서도 쥐도 새도 모르게 사라졌을 사람 많았을 듯.
+
+[2026-10-01 09:46] 묻따형 얘기하는거에용?
+
+[2026-10-01 09:47] 2026.10.01 09:45:30
+기업명: 세미파이브(시가총액: 6,635억) A490470
+보고서명: 단일판매ㆍ공급계약체결
+
+계약상대 : 주식회사 모빌린트 
+계약내용 : 로보틱스 AI 반도체 설계 및 개발계약 
+공급지역 : - 
+계약금액 : 
+
+계약시작 : 2026-07-27
+계약종료 : 2029-04-30
+계약기간 : 2년 9개월
+매출대비 : -%
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001900080
+최근계약 : https://www.awakeplus.co.kr/board/contract/490470
+종목공시 : https://www.awakeplus.co.kr/disclosure/490470
+
+[2026-10-01 09:49] 👌
+
+[2026-10-01 11:33] **SK 하이닉스 공식) 솔리다임 관련 최근 보도에 대해 설명드립니다
+**
+
+**솔리다임과 관련해 현재 구체적으로 결정된 사항은 없습니다.**
+
+**외부 자본 또는 내부 자본 활용 여부는 그 형식뿐 아니라, 기존 주주에게 미치는 경제적 가치를 종합적으로 고려해 판단할 사안입니다.**
+
+**어떤 방안이든 장기적인 기업가치와 주주가치 제고를 가장 중요한 판단 기준으로 삼겠습니다.**
+
+
+최근 솔리다임의 향후 사업 운영 및 자본 활용 방안과 관련하여 다양한 보도가 이어지고 있습니다. 여러 보도에서는 이를 ‘중복상장’과 연결해 기존 주주가치가 훼손될 수 있다는 우려를 제기하고 있습니다.
+
+SK하이닉스는 앞서 공시를 통해 솔리다임의 경쟁력 강화를 위한 여러 방안을 검토하고 있으나 확정된 사항은 없다고 밝혔으며, 이는 지금도 마찬가지입니다. 현 단계에서 그 영향을 단정하기에는 불확실성이 큰 만큼, 회사가 이 사안을 어떤 원칙에서 바라보고 있는지 설명드리고자 합니다.
+
+
+**AI 데이터센터 시장과 솔리다임의 사업**
+
+솔리다임은 SK하이닉스가 인텔의 NAND · SSD 사업을 인수하는 과정에서 출범했습니다. 업황 악화로 어려운 시기도 있었으며, 현재는 AI 데이터센터용 고용량 eSSD 등을 중심으로 사업을 전개하고 있습니다. 솔리다임은 AI 데이터센터용 고용량 eSSD 등을 중심으로 성장하는 시장 환경과 수요 변화에 대응해 사업 경쟁력을 강화해 나가고 있습니다. 회사는 시장 및 사업 환경을 고려하여 생산능력과 기술 경쟁력 확보를 위한 투자 필요성을 지속적으로 검토하고 있습니다. 이에 따라 솔리다임과 관련한 자본 활용 방안은 회사 전체의 투자계획, 재무상황 및 자본배분 등을 종합적으로 고려하여 검토할 사안입니다.
+
+
+**솔리다임의 투자재원 마련 방안은 정해지지 않았습니다.**
+
+SK하이닉스는 현재 재무여력을 갖추고 있으며, 자체 자금을 활용하는 방안을 포함하여 다양한 자본 활용 방안을 검토할 수 있습니다. 그러나 자금이 있다는 사실이 곧 모든 투자를 자체 자금으로 하는 것이 최선이라는 뜻은 아닙니다. SK하이닉스는 HBM, 서버용 DRAM, eSSD 등 다양한 사업 영역의 투자 수요를 종합적으로 고려하여 자원을 배분하고 있습니다. 투자재원의 조달 방식은 특정 사업뿐 아니라 회사 전체의 투자계획과 자본배분에 미치는 영향을 함께 고려하여 판단할 필요가 있습니다. 특히 메모리는 업황 사이클과 투자 시점이 경쟁력에 중요한 영향을 미치는 자본집약 산업입니다.
+이에 따라 내부 자금과 외부 자본 등 투자재원을 어떤 방식으로 활용할지는 시장 상황과 투자 시점, 회사의 재무상황 등을 함께 고려해 검토할 사안입니다. 다만 판단 기준은 분명합니다. 외부 자본을 활용하는 방안은 자체 자금을 활용하는 방안과 비교해 기존 주주의 경제적 가치에 어떤 영향을 미치는지를 충분히 살펴 판단해야 합니다.
+
+
+**모든 판단의 기준은 장기적인 주주가치입니다.**
+
+**외부 자본 활용 여부를 판단할 때에는 각 방안이 회사와 기존 주주에게 미치는 경제적 영향뿐만 아니라 자본 활용에 따른 효과와 자금조달의 재무적 영향 등을 종합적으로 고려해야 합니다.**
+
+**SK하이닉스는 어떠한 방안을 검토하더라도 이러한 요소들을 중요한 판단 기준으로 삼겠습니다.** 향후 구체적인 방안을 검토하게 될 경우 이사회 차원에서 재무적·사업적 영향을 면밀히 살피고 관련 규정과 절차를 충실히 이행하겠습니다. **아울러 기존 주주에 미치는 영향과 필요한 주주보호 방안도 함께 검토하고 충분히 설명드리겠습니다.**
+
+https://news.skhynix.co.kr/fact-11/
+
+[2026-10-01 12:30] https://v.daum.net/v/20261001122212581?sicode=01
+
+트황한테 혼나고싶노
+
+[2026-10-01 12:35] https://youtu.be/4ilCOFJN3Uw?si=h8ESJEWYgIMapIYr
+
+[2026-10-01 12:36] 현대차에 부족한 감성을 채워주는 채널이네영. 현대차의 지분투자 예상해봅니다
+
+[2026-10-01 12:38] 이노션은 몰라도 현대차가 직접 움직이기는 쉽지 않다네영
+
+[2026-10-01 12:57] 우리가 AI로 만들면 된다, 굳이 지분투자 안한다고 현직자 답 주시네영
+
+[2026-10-01 12:58] https://www.joongang.co.kr/article/25461342
+
+[2026-10-01 12:58] 운전의 재미 vs 자율주행 안돼서
+
+[2026-10-01 13:09] https://v.daum.net/v/20261001094057654

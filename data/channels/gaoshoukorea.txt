@@ -168,3 +168,44 @@ https://x.com/elonmusk/status/2105747471045370250
 스니더 골드만삭스 대표는 "한국 자본시장이 현재 옳은 길을 가고 있다"며 "한국 증시의 미래는 매우 밝다(Very Positive)"고 평가했다. 이어 골드만삭스가 앞서 제시했던 코스피 12개월 목표치 1만 2,000포인트 전망을 거듭 강조했다.
 
 **가장 어둡고 지치는 순간이 때로는 동트기 직전**.
+
+[2026-10-02 13:27] 소부장살려~
+
+[2026-10-02 14:08] https://youtu.be/vdp1WkTHUhw?si=vB0--0bHKGsKOISj
+
+숨은 주식찾기 😊
+
+#음악 #숨은그림찾기
+
+[2026-10-02 15:47] https://www.mk.co.kr/news/business/12167164
+
+[2026-10-02 15:48] https://www.financialpost.co.kr/news/articleView.html?idxno=278337
+
+방붐온 🔥
+
+[2026-10-02 17:02] **🛞 Google, 최상위 AI 모델 Gemini 4 Argon 공개…기업 업무·코딩·사이버보안 강화**
+
+**1. 장시간 복잡한 업무에 특화된 Gemini 4 Argon 공개**
+① Google이 9월 30일 차세대 최상위 AI 모델 Gemini 4 Argon을 공개하며 복잡한 장기 업무를 처리하는 frontier model 경쟁을 본격화한 상황
+② 소프트웨어 엔지니어링, 금융·법률 등 기업 지식업무, 사이버보안 방어처럼 여러 단계를 거쳐야 하는 long-horizon workflow에 초점을 맞춘 모델
+③ Google 내부에서도 코딩·리서치·대규모 코드 이전 등에 이미 활용되고 있어 단순 질의응답형 AI보다 실제 업무 수행형 AI로 발전하고 있음을 보여줌 ([Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon))
+
+**2. 출력 한도 100만 토큰으로 확대…복잡한 작업을 한 번에 처리하는 능력 강화**
+① Gemini 4 Argon은 기존 6.4만 토큰에서 크게 늘어난 최대 100만 출력 토큰 한도를 지원하는 수준
+② 긴 코드베이스 분석, 장문의 금융·법률 자료 검토, 수백 단계에 걸친 복잡한 추론을 하나의 긴 작업 흐름 안에서 수행할 수 있도록 설계된 구조
+③ 실제 소프트웨어 엔지니어링 벤치마크 **DeepSWE v1.1에서 77.9%**를 기록하는 등 장시간 지속되는 코딩 작업에서 높은 성능을 보여준 수준
+
+**3. 사이버보안부터 제한적 출시…향후 기업·개발자·소비자로 확대 예정**
+① 현재 Gemini 4 Argon은 Google의 Fairwind Program을 통해 선별된 사이버보안 방어기관과 전문가에게 우선 제공되는 단계
+② Argon은 소프트웨어 취약점을 스스로 탐지·검증하고 패치할 수 있도록 훈련됐으며, Wiz의 테스트에서는 기존 frontier model들이 찾지 못한 의료 소프트웨어의 중대한 취약점을 발견한 사례
+③ Google은 안전성 검증과 미국 정부의 사전 검토 절차를 거친 뒤 개발자·기업·일반 사용자로 접근 범위를 확대할 계획으로, 향후 Gemini 생태계를 기업용 AI 에이전트와 전문 업무시장까지 확장하려는 전략을 보여줌 ([Reuters](https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30))
+
+#트래킹 #미국주식 #알파벳 #GOOGL #GOOG
+
+[2026-10-02 20:41] **[다음주 월요일 한줄평]
+**
+유가는 내리고 나스닥은 오르는데 월요일은 휴장이라니. 무승부로 하지 않을래?
+
+[2026-10-02 20:56] https://n.news.naver.com/article/003/0014230556?sid=104
+
+[2026-10-02 20:59] https://www.edaily.co.kr/News/Read?newsId=02935606645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article

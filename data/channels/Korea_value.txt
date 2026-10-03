@@ -32,3 +32,5 @@ AC: 13.3 + 13.4 = 26.7bn
 - 800VDC 관련 전력기기의 리드타임이 2~4년, SST는 상용화 전인 반면 Bloom 제품은 바로 가동 가능
 
 https://www.bloomenergy.com/the-new-rules-of-ai-power-report/
+
+[2026-10-03 09:17] #네오티스 peer Topoint 상한가

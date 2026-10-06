@@ -1,8 +1,17 @@
-[2026-10-05 15:49] [단독] White House, 러시아 내 페스트 감염 의심 사망 및 격리 사태 면밀 주시 - Axios
+[2026-10-06 07:26] 월가 주요 은행, Anthropic에 사상 최대 600억 달러 규모 AI 칩 대출 지원 - breakingthenews
 (by https://t.me/TNBfolio)
-- 백악관은 러시아 페스트 연구시설 직원의 사망 및 현지 격리 조치 발생 보고를 인지하고 상황을 모니터링하며 대응 방안을 평가 중이다.
-- 러시아 Irkutsk 소재 대(對)페스트 연구소에 근무하던 28세 연구원이 폐페스트 병원체 시험관 파손 사고 후 중증 폐렴 증세로 병원에 입원해 숨졌다.
-- 러시아 당국은 사망 직후 지역 내 복수 의료시설에 격리 조치를 시행하고 접촉자 약 200명을 의학적 관찰 대상자로 지정했다.
-- 현지 주지사는 격리 및 관찰 대상자 전원이 음성 판정을 받았으며 증상이 없다고 밝혔고, 보건 당국은 사인에 대해 원인 불명의 폐렴이라며 공식 확인을 유보했다.
-- 미국 질병통제예방센터(CDC)에 따르면 페스트는 치명적인 세균성 질환이나 조기 항생제 치료 시 완치가 가능한 것으로 평가된다.
-https://www.axios.com/2026/10/04/russia-plague-outbreak-white-house-us
+- Bank of America, Citigroup, Morgan Stanley 등 월가 대형 은행들이 Anthropic의 Google 반도체 리스 자금 조달을 위해 사상 최대 규모인 600억 달러 부채 패키지를 출시했다.
+- 이번 금융 지원은 투자자들의 테크 부채 수용 여력을 시험하기 위한 목적으로, Broadcom이 차입 비용을 낮추기 위해 대출 일부를 보증한다.
+- 자금 구조는 Broadcom의 높은 신용도를 기반으로 한 420억 달러의 담보 대출과, Blackstone이 절반을 인수하기로 합의한 180억 달러의 무보증 후순위 채권으로 양분된다.
+- 조달 자금은 2027년 공급 예정인 반도체 주문 결제에 투입되며, 리스 비용 상환은 칩 인도 시점부터 본격 개시된다.
+- Anthropic은 Broadcom에 대한 대금 지급을 위해 최대 420억 달러 규모의 전환사채를 활용할 수 있으며 대출 기관들은 향후 시장 환경과 재무제표를 주시하고 있다.
+https://breakingthenews.net/Article/Wall-Street-banks-said-to-issue-record-dollar60B-AI-chip-deal/67237788
+
+[2026-10-06 08:29] OpenAI, UAE 펀드·BlackRock과 300억 달러 투자 유치 협상 - Bloomberg
+(by https://t.me/TNBfolio)
+- OpenAI가 기업가치를 약 1조 4,000억 달러로 책정하고 최소 300억 달러 규모의 신규 자금 조달을 추진 중이다.
+- 이번 투자 라운드에는 아부다비의 MGX를 포함한 복수의 UAE 투자 펀드가 신디케이트를 구성해 최대 100억 달러를 투입하는 방안을 논의했다.
+- 세계 최대 자산운용사인 BlackRock 역시 해당 신디케이트와 함께 투자 라운드에 참여하기 위한 협상을 진행 중이다.
+- University of California 기금, Thrive Capital, Andreessen Horowitz 등 기존 주요 투자자들도 추가 출자를 논의하고 있다.
+- 일반적인 벤처 투자 방식과 달리 OpenAI는 리드 투자자를 확정하지 않은 상태에서 1조 4,000억 달러의 프리 머니 기업가치를 고정 가격으로 제시했다.
+https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round

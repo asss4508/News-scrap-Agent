@@ -127,3 +127,167 @@ https://www.kiwoom.com/h/invest/research/VMarketSDDetailView?sqno=7219
 [2026-10-08 08:24] 솔리다임, IPO 주관사 선정
 
 https://naver.me/FqIQqiSw
+
+[2026-10-08 11:11] **배터리 섹터 상한가 속출 电池板块盘初活跃，紫竹高科3连板，时代万恒涨停，雄韬股份、壹石通、金银河、龙蟠科技、振华新材跟涨**。
+
+[2026-10-08 11:14] 2026.10.08 08:34:49
+기업명: LG에너지솔루션(시가총액: 91조 4,940억) A373220
+보고서명: 연결재무제표기준영업(잠정)실적(공정공시)
+
+매출액 : 96,434억(예상치 : 87,815억+/ 10%)
+영업익 : 7,560억(예상치 : 3,200억/ +136%)
+순이익 : -(예상치 : 2,344억)
+
+**최근 실적 추이**
+2026.3Q 96,434억/ 7,560억/ -
+2026.2Q 71,415억/ 1,133억/ -3,286억
+2026.1Q 65,550억/ -2,078억/ -9,440억
+2025.4Q 61,415억/ -1,220억/ -7,725억
+2025.3Q 56,999억/ 6,013억/ 5,361억
+
+공시링크: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800055
+종목공시 : https://www.awakeplus.co.kr/disclosure/373220
+
+[2026-10-08 11:14] 삼스디도 컨센 상회 예고
+
+[2026-10-08 11:52] 실적은 삼성전자가 잘 나왔는데
+주가는 주성엔지니어링이 오르는 현상
+
+[2026-10-08 12:20] 질문: 구글이 2027년이나 2028년에 데이터센터 전력 공급을 위해 연료전지를 조달할 가능성이 있나요? 
+
+전문가 답변: **구글은 블룸에너지(Bloom Energy)와 인터섹트 파워(Intersect Power)를 포함한 공급업체들을 평가하고 있습니다. **현재는 천연가스와 태양광이 여전히 선호되는 전력원이지만, TPU 수량과 전력 소비량이 증가함에 따라 **구글은 2027년에 SOFC옵션을 더욱 진지하게 검토할 가능성이 높습니다**
+
+https://x.com/pequityresearch/status/2107913097310880163?s=20
+
+[2026-10-08 13:25] https://www.yna.co.kr/view/AKR20261008020051017
+
+**크라우드스트라이크 VS 딥시크**
+
+미국 소재의 글로벌 사이버보안 기업 크라우드스트라이크는 7일(현지시간) 공개한 분석 보고서에서 공격자가 중국 광둥성에 거주하는 26세 인물일 가능성이 있다고 밝혔다. 
+
+공격자는 홍콩 소재 서버를 주 통제 인프라로 삼고 별도 서버에서 실제 한국 공격을 수행했으며, 중국 인공지능(AI) 모델 '딥시크'를 주로 활용한 정황이 드러났다.
+
+[2026-10-08 13:34] 지수 하락 이유. 시황맨
+
+악시오스발 미국의 이란 공격 가능성 보도 영향
+
+악시오스에 의하면 미 국방부는 중부 사령부에 주요 전투 작전 재개를 준비하라고 지시
+
+날짜가 특정되지는 않았고 트럼프 역시 결정한 상태는 아님
+
+소식통에 의하면 작전 재개시 이란의 에너지, 인프라 및 핵 목표에 대한 폭격 예상
+
+이스라엘 관리도 이란과의 전투 작전 재개 가능성이 초점을 맞추고 있다고
+
+중간 선거 전 가능성은 높지 않지만 배제하지도 않는다고
+
+선거 이 후에는 가능성이 크게 높아진다고 발언
+
+전쟁 재개는 이스라엘 선거에도 영향. 네타냐휴의 정치적 입지가 살아나는 계기가 될 수 있다고 지적
+
+그 외 호르무즈 해협에서 선박에 대한 공격 보도까지 겹치며 유가 상승.
+
+삼성전자 실적, 반도체 리밸런싱, 옵션 만기일 더해져 지수 변동성 커진 상태
+
+https://www.axios.com/2026/10/07/trump-us-central-command-iran-israel-war-elections
+
+[2026-10-08 15:25] 기술 생태계에 기여하는 지적 역량이 신분과 부를 결정하는 핵심 변수로 떠오르면서, 단순히 자산을 쌓아두기만 하던 과거의 방식은 영향력을 잃고 있다. 자본주의 이후의 삶은 통장 잔고가 아니라 기술의 진화 속도를 따라잡는 개개인의 업데이트 능력에 좌우될 가능성이 크다. 
+
+— 최경수, 『일론 머스크의 소름 돋는 미래 예측 50가지』
+
+#책
+
+[2026-10-08 16:59] **🛞 BTC·ETH, 유가 급등과 장기금리 상승으로 동반 약세…ETH는 BitMine 매수 종료 우려까지 겹침**
+
+**1. 중동 긴장과 유가 상승이 암호화폐 시장 전반 압박**
+① 중동 지역의 지정학적 긴장과 이란 관련 공급 우려로 국제유가가 급등하며 Brent가 장중 배럴당 $100 이상까지 상승한 상황
+② 유가 상승이 다시 인플레이션 우려를 자극하면서 미국 장기 국채금리가 급등했고, 미국 10년물 금리가 약 5.33%, 30년물이 약 **5.72%**까지 상승한 수준
+③ 높은 금리와 강한 달러가 위험자산의 할인율과 금융비용을 높이면서 BTC가 $84,000 아래, 장중 약 $83,300까지 하락하는 압력으로 연결된 모습 ([Reuters](https://www.reuters.com/business/us-30-year-bond-yield-hits-fresh-24-year-high-2026-10-07))
+
+**2. 레버리지 청산 약 $5.47억으로 확대…ETH·알트코인 낙폭 상대적 확대**
+① BTC 하락과 함께 암호화폐 파생시장 전체 청산 규모가 약 $547M까지 증가하며 레버리지 포지션 정리가 급격히 진행된 상황
+② 상승에 베팅했던 롱 포지션의 강제청산 비중이 높아지면서 현물 가격 하락이 추가 청산을 부르는 단기적인 악순환이 나타난 모습
+③ ETH와 중소형 알트코인은 BTC보다 유동성과 위험선호 변화에 더 민감해 BTC보다 상대적으로 큰 하락폭을 기록한 수준  ([CoinDesk](https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000))
+
+**3. ETH는 BitMine의 ‘5% 도달 후 매수 종료’ 발언까지 부담으로 작용**
+① BitMine의 Tom Lee가 회사가 전체 ETH 공급량의 5%를 확보하면 추가 ETH 매입을 종료할 계획이라고 밝히며 대형 지속 매수 수요의 종료 가능성을 제시한 상황
+② BitMine은 2025년 중반부터 공격적인 ETH 축적을 이어오며 세계 최대 규모의 ETH treasury 기업으로 성장한 만큼, 매입 종료는 ETH 시장의 구조적 매수 수요 하나가 약해질 수 있다는 의미
+③ 따라서 이번 ETH 약세는 금리·유가·달러 등 거시환경 악화에 더해 BitMine의 향후 매수 종료 우려가 추가 부담으로 작용한 모습 
+
+#트래킹 #미국주식 #비트코인 #BTC #비트마인 #BMNR #서클 #CRCL
+
+[2026-10-08 17:02] **🛞 Tesla·SpaceX, ‘Terafab’ 직접 건설·운영…AI 반도체 공급망 내재화 추진**
+
+1. Tesla·SpaceX가 Terafab의 직접 건설·운영 주체로 확정
+① Elon Musk가 Tesla와 SpaceX가 Terafab AI 반도체 제조 복합단지를 직접 건설하고 운영할 것이라고 밝히며 사업 주체를 명확히 한 상황
+② 앞서 TSMC가 Terafab 운영에 참여할 가능성이 거론됐지만, Musk는 TSMC가 일부 공간을 임차할 수는 있어도 공장 운영 주체는 아니라고 선을 그은 상황
+③ Tesla와 SpaceX가 단순 고객이 아니라 직접 제조 인프라를 통제하려는 방향을 공식화했다는 점에서 의미가 큰 발표 ([Reuters](https://www.reuters.com/business/media-telecom/intel-keep-working-musks-terafab-chipmaking-venture-bloomberg-news-reports-2026-10-07))
+
+**2. 초기 투자 $16.8B…향후 1TW 이상 AI 컴퓨팅 수요 대응 목적**
+① Tesla와 SpaceX가 텍사스 Grimes County에 Terafab을 건설하기 위해 초기 $16.8B를 투입할 계획으로 알려진 수준
+② 두 회사가 향후 필요로 하는 AI 컴퓨팅 전력이 1TW 이상에 이를 것으로 예상하면서 외부 파운드리와 GPU 공급에만 의존하기 어려워진 상황
+③ Tesla의 FSD·Optimus와 SpaceX의 AI 데이터센터 확대를 동시에 지원하기 위해 장기적으로 AI 반도체 생산능력을 자체 확보하려는 전략을 보여줌
+
+**3. Intel 14A 활용 추진…Musk 생태계의 AI 수직계열화 강화**
+① Tesla는 Terafab에서 Intel의 차세대 14A 공정을 활용해 AI 반도체를 생산할 계획이며, Intel 역시 프로젝트 참여를 계속하고 있는 상황
+② 자체 반도체 생산능력이 확보될 경우 Nvidia·TSMC 등 외부 공급사 의존도를 일부 낮추고 AI 칩 공급부족에 따른 성장 제약을 줄일 수 있는 구조
+③ Tesla의 자율주행·Optimus와 SpaceX의 데이터센터·AI 사업을 연결해 에너지 → 데이터센터 → AI 칩 → AI 모델 → 로봇·자율주행까지 이어지는 수직계열화를 강화하려는 움직임
+
+#트래킹 #미국주식 #테슬라 #TSLA #스페이스X #SPCX
+
+[2026-10-08 17:06] **🛞 Tesla FSD, 유럽 전역 승인에 한 걸음 더 접근…독일 지원까지 확보**
+
+**1. 유럽 8개국 승인 확보…EU 전체 승인을 위한 기반 확대**
+① Tesla의 FSD Supervised가 네덜란드를 시작으로 유럽 8개국에서 국가 차원의 승인을 확보하며 유럽 내 사용 범위를 빠르게 확대 중인 상황
+② 네덜란드 규제기관 RDW가 지난 4월 처음으로 FSD를 승인한 뒤 벨기에·슬로베니아·체코·크로아티아 등 다른 국가들이 잇따라 승인에 동참한 흐름
+③ 특히 네덜란드가 FSD를 EU 전체에서 허용하기 위한 공동 승인을 제안하고 있어 개별 국가 승인이 EU 전역 상용화를 위한 사전 단계로 작용하고 있는 모습 ([Reuters](https://www.reuters.com/business/autos-transportation/tesla-posts-stronger-than-expected-quarterly-deliveries-2026-10-02))
+
+**2. 독일도 FSD 승인 지지…EU 전체 승인 가능성 추가 상승**
+① 독일 교통부가 Tesla FSD의 유럽 전역 도입을 지지하면서 EU 내 최대 자동차 시장 중 하나인 독일의 정치적 지원까지 확보한 상황
+② 논란이 됐던 제한속도 초과 기능에 대해 독일은 표시된 제한속도 대비 최대 10% 범위의 속도 조정을 허용하는 방향을 지지한 수준
+③ 독일과 네덜란드 등 주요 회원국의 지지가 확대되면서 향후 EU 전체 승인을 위한 회원국 합의 가능성이 이전보다 높아진 모습 ([Reuters](https://www.reuters.com/business/musk-welcomes-german-backing-tesla-driver-assistance-tech-group-chases-eu-2026-10-07))
+
+**3. EU 전체 표결은 12월 이후로 연기…안전성 논란은 여전히 변수**
+① 당초 10월로 예상됐던 EU 전체 FSD 승인 표결이 연기되면서 다음 결정 가능 시점이 12월 이후로 이동한 상황
+② Tesla는 유럽 테스트에서 FSD 사용 차량의 충돌 빈도가 수동 운전 Tesla보다 크게 낮았다고 주장하고 있지만, 일부 교통안전 연구자들은 실제 사고·사망 데이터보다 대체 지표에 지나치게 의존했다고 지적하는 상황
+③ 따라서 유럽 FSD 승인 확대는 Tesla의 소프트웨어 수익화와 판매 경쟁력에 중요한 호재이지만, 속도제한 준수·운전자 감독·안전성 자료의 신뢰성이 최종 EU 승인까지 남아 있는 핵심 변수 ([Reuters](https://www.reuters.com/business/eu-vote-teslas-supervised-self-driving-system-pushed-back-2026-09-25))
+
+#트래킹 #미국주식 #테슬라 #TSLA
+
+[2026-10-08 17:08] **🛞 Palantir AIP, 영국 환경에 Anthropic 최신 Claude 모델 추가…멀티모델 AI 운영전략 강화**
+
+**1. 영국 AIP 환경에 Claude Opus 5.5·Sonnet 5 추가**
+① Palantir가 10월 6일 영국 지역제한 AIP 환경에서 Anthropic의 Claude Opus 5.5와 Claude Sonnet 5를 AWS Bedrock을 통해 사용할 수 있도록 지원한 상황
+② 해당 기능은 관리자가 Anthropic 모델군을 활성화한 고객 환경에서 사용할 수 있으며, 영국 내 데이터·규제 요건을 고려한 georestricted deployment까지 지원하는 구조
+③ 최신 Claude 모델을 규제된 기업 환경에서도 직접 선택해 활용할 수 있게 되면서 Palantir AIP의 모델 선택 폭이 한층 확대된 모습 ([Palantir](https://www.palantir.com/docs/docs/foundry/announcements))
+
+**2. Opus 5.5는 복잡한 에이전트·코딩 업무, Sonnet 계열은 비용·속도 균형에 강점**
+① Claude Opus 5.5는 장시간 지속되는 AI 에이전트, 복잡한 코딩과 전문지식 업무에 초점을 맞춘 Anthropic의 최상위 Opus 모델인 수준
+② Anthropic에 따르면 Opus 5.5는 이전 Opus 5 대비 실행비용을 낮추면서도 복잡한 작업 성능을 높였고, 대규모 코드 이전과 같은 장기 업무 수행능력을 강화한 모델
+③ Palantir 고객이 업무 난이도와 비용에 따라 서로 다른 Claude 모델을 선택할 수 있어 AIP 내에서 성능·속도·비용을 목적별로 최적화할 수 있는 여지 확대 ([Anthropic](https://www.anthropic.com/claude-opus-5-5))
+
+**3. Palantir는 자체 AI 모델보다 여러 최상위 모델을 실제 기업 업무에 연결하는 플랫폼 전략 강화**
+① Palantir는 자체 foundation model 경쟁에 직접 뛰어들기보다 Anthropic·OpenAI 등 외부 모델을 AIP와 기업의 실제 데이터·Ontology·업무 프로세스에 연결하는 역할에 집중하는 구조
+② 기업은 하나의 AIP 환경 안에서 업무별로 적합한 AI 모델을 선택하면서 접근권한·데이터 보안·업무 규칙을 함께 적용할 수 있어 단순한 챗봇 도입보다 실제 업무 자동화에 적합한 구조
+③ AI 모델 성능이 빠르게 발전할수록 특정 모델 하나에 종속되기보다 최신 모델들을 기업 시스템에 빠르게 연결하는 ‘AI 운영체제·오케스트레이션 계층’으로서 Palantir의 전략적 가치가 커질 수 있음을 보여줌 ([Palantir](https://www.palantir.com/docs/foundry/announcements/release-notes))
+
+#트래킹 #미국주식 #팔란티어 #PLTR
+
+[2026-10-08 17:12] **🛞 Microsoft·Nvidia, Windows PC에서 AI 에이전트 직접 실행…‘로컬 AI’ 시대 본격화**
+
+**1. Surface Laptop Ultra, AI 모델을 PC 내부에서 직접 실행하는 구조 강화**
+① Microsoft가 새 Surface Laptop Ultra를 공개하며 AI 연산을 모두 클라우드에 의존하지 않고 PC 내부에서도 직접 처리하는 하이브리드 AI 전략을 본격화한 상황
+② 신제품은 Nvidia의 RTX Spark를 탑재해 Nvidia Nemotron·DeepSeek 계열 등 일부 AI 모델을 로컬에서 직접 실행할 수 있는 수준
+③ 클라우드 연결 없이도 일부 추론·코딩·에이전트 작업을 처리할 수 있어 응답속도·개인정보 보호·클라우드 비용 측면의 장점을 보여줌 ([Reuters](https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07))
+
+**2. Microsoft Execution Containers로 AI 에이전트의 파일·네트워크 접근을 통제**
+① Microsoft가 Windows 11에서 **Microsoft Execution Containers(MXC)**를 정식 제공하며 AI 에이전트를 격리된 환경에서 실행할 수 있도록 한 구조
+② 기업이 AI 에이전트별로 접근 가능한 파일·네트워크·시스템 권한을 세밀하게 제한할 수 있어 에이전트가 불필요한 데이터에 접근하는 위험을 축소
+③ AI 에이전트가 단순 답변을 넘어 코드 실행·파일 수정·브라우저 조작까지 수행하는 만큼, 운영체제 차원의 격리와 권한관리 중요성이 커지고 있음을 보여줌 ([Microsoft](https://news.microsoft.com/source/emea/2026/10/building-windows-for-hybrid-intelligence/))
+
+**3. OpenAI·Anthropic·Nvidia까지 참여…Windows를 AI 에이전트 실행 플랫폼으로 확대**
+① OpenAI Codex·GitHub Copilot·Nvidia OpenShell 등이 이미 MXC를 지원하고 있으며 Anthropic Claude Code도 지원 확대가 예정된 상황
+② Microsoft가 특정 AI 모델 하나를 독점하기보다 여러 회사의 AI 에이전트가 Windows에서 안전하게 동작하도록 운영체제와 보안 인프라를 제공하는 플랫폼 전략을 강화하는 모습
+③ Nvidia 역시 RTX Spark를 통해 데이터센터뿐 아니라 개인 PC와 기업 워크스테이션까지 AI 추론 시장을 확대하면서 Microsoft의 Windows 플랫폼과 Nvidia의 AI 하드웨어가 함께 PC 에이전트 생태계를 구축하는 구조를 보여줌 ([Nvidia](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event))
+
+#트래킹 #미국주식 #엔비디아 #NVDA #마이크로소프트 #MSFT

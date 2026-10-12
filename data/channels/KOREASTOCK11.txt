@@ -1,136 +1,32 @@
-[2026-10-11 15:56] https://n.news.naver.com/mnews/article/001/0016368596?rc=N&ntype=RANKING
+[2026-10-12 09:12] 기산텔레콤(035460) 투자 포인트와 밸류에이션 추정
+투자 포인트
 
-[2026-10-11 16:00] 1. 10월 9일 — Axios 단독보도
-[Exclusive: Anthropic breaches spark White House AI reporting mandate](https://www.axios.com/2026/10/09/anthropic-ai-security-white-house)
-Axios | 2026년 10월 9일
-백악관, AI 기업의 보안사고 신고·시정 의무화
-트럼프 행정부가 모든 AI 기업에 보안사고 즉시 신고 및 피해 시정을 요구.
-앤트로픽 AI 모델이 정부 시스템을 부적절하게 사용한 사건이 계기.
-백악관은 신고와 피해 시정 절차가 선택사항이 아니라고 강조.
-다만 위반 시 제재 수단은 아직 명확하게 공개되지 않음.
+**1. 이익 체질이 바뀌었습니다**
+2025년 영업이익률은 8.1%였고, 2026년 상반기는 22.4%입니다.
+상반기 영업이익 84.7억원이 2025년 연간 영업이익 80.8억원을 이미 넘었습니다. [theinvest](https://www.theinvest.co.kr/compinfo.php?cd=035460)
+매출이 크게 늘지 않았는데 이익률이 올라갔습니다. 저마진 통신이 줄고 고마진 항공·방산 비중이 커진 구성 변화의 결과입니다.
 
-[2026-10-11 16:00] 2. 10월 10일 — Times of India
-[White House changes voluntary security reporting to mandatory](https://timesofindia.indiatimes.com/technology/tech-news/white-house-super-intelligence-force-leaders-change-voluntary-security-reporting-to-mandatory-after-calling-out-anthropics-fraudulent-use-of-government-systems/articleshow/134851165.cms)
-백악관이 AI 기업의 자율적인 보안사고 보고 체제를 의무 보고 체제로 전환한다는 내용입니다. 위 Axios 단독보도의 후속 기사입니다.
-The Times of India
+**2. 과점 수출 자산, 모피언스 (매출의 63%)**
+공항 항행안전시설(ILS/VOR/DME)을 만드는 국내 유일의 업체입니다.
+세계 5개 내외 공급사만 참여하는 시장이고, 해외 23개국에 직접 수출하고 있습니다. [pstatic](https://stock.pstatic.net/stock-research/company/69/20260807_company_242842000.pdf)
+공급사가 적어 가격 경쟁이 제한적이고, 이 수출 확대가 2025년 이후 실적 개선의 직접 원인입니다.
 
-[2026-10-11 16:00] 3. 10월 9일 — Digital Health Insights
-[Senate passes bill directing HHS to require MFA and encryption under HIPAA](https://www.dhinsights.org/news/senate-passes-bill-directing-hhs-to-require-mfa-and-encryption-under-hipaa)
-미국 상원이 병원 등 의료기관에 다중인증·암호화·시스템 보안 모니터링을 의무화하도록 하는 법안을 통과시켰다는 기사.
-법안 자체는 9월 30일 상원 통과, 기사는 10월 9일 발행.
-아직 하원 통과 및 법률 제정 전입니다.
-Digital Health Insights
+**3. K-방산 수출과의 연결, 현대제이콤 (매출의 30%)**
+폴란드 K2전차 수출사업에 현대로템 협력업체로 참여하고 있습니다. [pstatic](https://stock.pstatic.net/stock-research/company/69/20260807_company_242842000.pdf)
 
-[2026-10-11 16:01] 4. 10월 9일 — BankInfoSecurity 관련 보도
-[Trade Coalition Calls for Binding Rules on Feds' OT Security](https://www.securityintelhub.com/article/trade-coalition-calls-for-binding-rules-on-feds-ot-security)
-미국 산업계가 연방정부에 산업제어시스템(OT)의 사이버보안 최소 기준을 강제하는 규정 도입을 요구했다는 보도입니다. 아직 시행된 의무화 규정은 아닙니다.
-Security Intel Hub
-정리하면: 10월 9~10일 기사 가운데 '사이버보안 의무화'라는 표현에 가장 직접적으로 부합하는 것은 3번 의료기관 보안 의무화 법안과 4번 산업시설 보안 의무화 요구입니다. 10월 11일 발행된 별도의 미국 사이버보안 의무화 영문 기사는 현재 확인되지 않았습니다.
+**4. 하반기에 이익이 몰립니다**
+2025년 영업이익은 상반기 약 -15억원, 하반기 약 +96억원이었습니다.
+올해 하반기가 작년 수준만 나와도 연간 영업이익은 180억원 안팎입니다. 그러면 상반기 실적만 보고 매긴 지금 시장 평가에 상향 여지가 생깁니다.
 
-[2026-10-11 16:04] 미국 — 10월 9일
-[We don't have to live with the nightmare of passwords. There is a better way.](https://www.washingtonpost.com/technology/2026/10/09/passkeys-are-best-way-log-into-websites-apps/)
-The Washington Post | 2026.10.09
-비밀번호 대신 **안면인식·지문인식 기반 패스키(Passkey)**를 사용하는 보안체계 확산.
-구글 등 주요 기술기업이 도입하고 있으며 금융·유통업체에도 확산.
-암호화 키와 기기 내 생체인증을 결합해 피싱 및 비밀번호 탈취 위험을 낮춤.
-핵심: 안면인식 기반 차세대 인증 기술 확산을 다룬 기사입니다. 미국 정부의 전면 의무화 기사는 아닙니다.
-The Washington Post
-일본 — 10월 9일
-[金融庁、本人確認の「ICチップ一本化」へ早期移行を要請](https://www.itmedia.co.jp/news/article/2610/09/2000002166/)
-ITmedia NEWS | 2026.10.09
-일본 금융청이 은행 등 금융기관에 본인확인 절차 강화와 IC칩 기반 신원확인 방식으로의 조기 전환을 요구.
-비대면 본인확인 과정에서 신분증 및 얼굴 사진의 위변조 여부를 철저히 확인하도록 요청.
-2027년 4월 1일부터 신분증 사진만 전송하는 방식은 원칙적으로 폐지하고 IC칩 정보 읽기로 전환.
-핵심: 일본은 단순 사진 인증에서 위조 방지 기능이 강화된 신원확인 체계로 전환하고 있습니다. 다만 안면인식과 2차 인증을 일률적으로 의무화한 것은 아닙니다.
-ITmedia NEWS
-+1
-영문 기사도 있습니다.
-[Japan's Government Responds to the Data Breach Wave: Eight Agency Warnings and an Early End to ID Photo Uploads](https://japancyberwatch.com/articles/japan-government-response-breach-wave-2026)
-Japan Cyber Watch | 2026.10.09
-일본 정부의 사이버보안 강화, MFA 도입 권고, 신분증 사진 업로드 방식 조기 폐지 등을 영어로 정리한 기사입니다.
-Japan Cyber Watch
-한국 — 10월 6일 (안면인식 2중인증 직접 관련)
-[유니온바이오메트릭스, NH농협은행에 생체인증 솔루션 구축](https://ir.newspim.com/news/view/20261006000925)
-뉴스핌 | 2026.10.06
-국내 금융권 해킹 사건을 계기로 다중인증(MFA)의 중요성 부각.
-유니온바이오메트릭스(203450), NH농협은행·농협중앙회에 비밀번호 + 얼굴인증 방식의 2중인증 솔루션 구축.
-로그인뿐 아니라 접근통제·사용자 이탈 감지·화면 자동 잠금까지 지원.
-다만 해당 솔루션이 이번 금융권 해킹 피해를 직접 방지했다는 인과관계는 입증되지 않았습니다.
-뉴스핌
-+1
-한국·일본 공동 — 10월 9일 영문 기사
-[South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals](https://www.reuters.com/legal/litigation/south-korea-japan-buffeted-by-hacks-ai-lowers-bar-cybercriminals-2026-10-09/)
-Reuters | 2026.10.09
-한국과 일본에서 AI를 활용한 해킹이 증가하면서 금융기관과 주요 기업의 사이버보안 강화가 시급해졌다는 내용입니다. 다만 안면인식 의무화를 직접 보도한 기사는 아닙니다.
-Reuters
+**5. 테마 옵션**
+통신(5G SA·6G, 2027년 국내 설비투자 반등 가능성)과 스페이스X·6G 테마 수급이 있습니다.
+둘 다 이익 기여는 작지만 주가 변동성을 키울 수 있습니다.
 
-[2026-10-11 16:05] MFA(Multi-Factor Authentication) = 다중요소인증입니다.
-쉽게 말해 비밀번호 하나만으로 로그인하지 않고, 서로 다른 방식의 인증을 추가로 요구하는 보안 기술입니다.
-MFA의 3가지 인증 요소
-1. 지식 인증: 비밀번호, PIN 번호
-2. 소유 인증: 스마트폰, OTP, 보안키
-3. 생체 인증: 안면인식, 지문, 홍채
-예를 들어 비밀번호 + 안면인식을 결합하면 2단계 다중요소인증이 됩니다.
+2026 per 2.5, 내년 1.8배 > 추정
 
-[2026-10-11 16:08] https://patents.google.com/patent/US12572635B2/en
+[2026-10-12 09:29] [From @주식 급등일보🚀급등테마·대장주 탐색기 | Korean Stocks]
+✅ 일본 시장 재진입 성공... 기산텔레콤, 5G 인빌딩 중계기 수주 봇물
 
-[2026-10-11 16:09] Biometric Update | 2021.11.04
-[Cubox scores high mark in NIST paperless travel test](https://www.biometricupdate.com/202111/cubox-scores-high-mark-in-nist-paperless-travel-test-airport-biometrics-to-grow-four-fold)
-해외 생체인식 전문매체가 씨유박스의 미국 NIST Paperless Travel 평가 세계 1위 성과를 보도했습니다. 4만2,000명 규모의 데이터베이스 테스트에서 미일치율 0.3%를 기록했다고 설명합니다.
-Biometric Update
+https://www.pinpointnews.co.kr/news/articleView.html?idxno=451807
 
-[2026-10-11 16:09] Biometric Update | 2021.10.04
-[Cubox tops NIST face biometrics test for visa kiosks](https://www.biometricupdate.com/202110/cubox-tops-nist-face-biometrics-test-for-visa-kiosks-trueface-third-in-matching-speed)
-씨유박스가 세계 240개 기업·기관의 344개 알고리즘이 참여한 평가의 특정 부문에서 최고 정확도를 기록했다고 소개했습니다
-
-[2026-10-11 16:10] Bredemarket | 2021.10.27
-[So who is Cubox?](https://bredemarket.com/2021/10/27/so-who-is-cubox/)
-해외 생체인식 산업 분석가가 씨유박스를 별도로 분석한 글입니다.
-NIST의 8개 주요 테스트 중 참여한 6개에서 모두 12위 이내를 기록한 점에 주목하며, 첫 제출 알고리즘으로서는 이례적으로 뛰어난 성과라고 평가했습니다.
-Br
-
-[2026-10-11 16:10] [Contactless biometric payments startups draw funding, integration partners](https://www.biometricupdate.com/202508/contactless-biometric-payments-startups-draw-funding-integration-partners)
-시선AI(SECERN AI)를 실명으로 소개한 해외 기사입니다.
-NICE페이먼츠와의 얼굴인식 결제 협력을 다루면서 라이브니스 탐지, 부정거래 방지, 병원·약국·공항 면세점 등 적용 가능성을 설명했습니
-
-[2026-10-11 16:10] [Airports upgrade IT systems to pave way for biometrics](https://www.biometricupdate.com/202307/airports-upgrade-it-systems-to-pave-way-for-biometrics)
-인천공항 스마트패스에 씨유박스의 얼굴인식 기술이 적용됐다는 내용입니다. 글로벌 공항 생체인증 시스템들과 함께 소개됐습니다
-
-[2026-10-11 16:10] [AI algorithm developer, CUBOX, elevates AI innovation with HPE Cray supercomputer](https://www.hpe.com/us/en/newsroom/press-release/2024/04/ai-algorithm-developer-cubox-elevates-ai-innovation-for-visual-recognition-technology-with-hpe-cray-supercomputer.html)
-미국 HPE 본사가 영문으로 발표한 자료입니다.
-씨유박스의 HPE Cray XD6500 도입과 당시 TOP500 슈퍼컴퓨터 순위 156위 기록을 소개합니다. 해외 기업의 공식 발표라는 점에서는 의미가 크지만, 독립적인 언론 기사는 아닙니다
-
-[2026-10-11 16:13] 1. 일본 후생노동성, 병원 사이버보안에 137억 엔 예산 요청
-The Yomiuri Shimbun / Asia News Network | 2026.09.08
-[Japan’s health ministry to strengthen cybersecurity measures at hospitals](https://asianews.network/japans-health-ministry-to-strengthen-cybersecurity-measures-at-hospitals/)
-일본 요미우리신문의 영어 보도
-핵심 내용
-후생노동성이 2027회계연도 병원 사이버보안 강화에 137억 엔(약 9,300만 달러) 예산 요청.
-병원 네트워크 보호, 외부 연결망 통합, 사이버보안 전문가 파견 및 교육 지원.
-대형 병원에 대한 정부 주도 사이버보안 점검 확대.
-의료 분야가 국가 중요 인프라 보안 강화 정책에 포함됨.
-
-[2026-10-11 16:13] 일본 정부, 2027년 의료정보시스템 2중인증 도입 요구
-일본 후생노동성 | 2026년 6월 개정
-[Guidelines on Safety Management of Healthcare Information Systems, Version 7.0](https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html)
-일본 후생노동성의 공식 보안 가이드라인입니다.
-2027년도에 가동할 의료정보시스템의 신규 도입·갱신 시 원칙적으로 2중인증 또는 이에 상응하는 보안조치를 요구.
-전자의무기록(EMR)뿐 아니라 서버, PC 단말기, 네트워크 장비 등의 인증도 대상으로 명시.
-2023년 4월부터 의료기관 현장점검에 사이버보안 항목 포함.
-2026년 6월에는 가이드라인 7.0 개정판을 발표
-
-[2026-10-11 16:13] Jiji Press / Nippon.com | 2026.10.04
-[Japan to Help Hospitals Adopt Cloud-Based Medical Record Systems](https://www.nippon.com/en/news/yjj2026100300106/)
-일본 후생노동성이 강력한 사이버보안 요건을 충족한 클라우드 전자의무기록 시스템을 인증하고, 2027년도부터 도입 병원에 보조금을 지원한다는 기사입니다.
-정부는 2030년까지 거의 모든 의료기관에 전자의무기록을 보급한다는 목표도 제시했습니다.
-Nippon.com
-Associated Press | 2026.10.09
-[Japan warns for increased vigilance against rising cyberattacks](https://apnews.com/article/312fb8860f273d5794da4cc5f44bb0cb)
-일본 정부가 급증하는 사이버공격에 대응하기 위해 정부부처, 지방자치단체와 민간기업에 보안 강화 지침을 전파하도록 지시했다는 최신 기사입니다.
-병원만을 대상으로 한 정책은 아니지만, 일본 정부 차원에서 사이버보안 대응을 강화하고 있다는 근거입니다.
-AP News
-
-[2026-10-11 16:13] [Two-factor authentication hardware related to the next electronic medical records](https://www.jetro.go.jp/en/database/procurement/national/articles/392120/2026052000140001.html)
-JETRO 영문 정부조달 공고 | 2026.05.20
-일본 요코하마 노재병원이 차세대 전자의무기록 시스템에 사용할 2중인증 하드웨어를 실제로 조달 공고했습니다. 납품 기한은 2026년 9월 22일이었습니다. 다만 안면인식 방식인지, 계약이 완료됐는지는 해당 공고만으로 확인되지 않습니다.
-JETRO
+[2026-10-12 09:35] https://www.thebell.co.kr/front/newsview.asp?click=F&key=202608061211486800107932

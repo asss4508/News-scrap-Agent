@@ -139,3 +139,47 @@ https://www.kiwoom.com/h/invest/research/VMarketSWDetailView?sqno=804
 향후 10월 29일 삼성전자 컨퍼런스콜을 기점으로 시장의 무게중심이 다시 이동할지 주목할 필요. 
 
 다만 그전까지 전반적인 시장은 실적 기대를 앞서가며 밸류에이션으로 정당화하기 어려운 구간에 진입할 가능성을 염두에 두고, 보수적인 대응 기조를 갖고 가는 분위기.
+
+[2026-10-12 14:56] 오늘 한국 시장에 국한된 코리아 디스카운트 속에서 특이한 수급 흐름이 포착되고 있음. 주식 시장에서는 매도세가 이어지는 반면, 외국인들의 채권 매수세는 매우 가파르게 일어나는 중 (숏 스퀴즈 동반)
+
+일각에서는 '주식을 팔고 채권을 사는 리스크 오프(위험자산 회피) 아니냐' 또는 '연기금 리밸런싱을 앞둔 선제적 대응'이라는 관측이 나오고 있지만 진정한 리스크 오프라면 기타 매크로 지표나 타국 주식시장에서도 동일한 징후가 나타나야 하는데, 전혀 그러지 않고 있음
+
+기이한 하루
+
+[2026-10-12 17:01] **🛞 SpaceX, 800MHz 주파수 확보로 Starlink Mobile 확대…미국 통신시장·인도 대중시장 동시 공략**
+
+**1. 미국 전국 800MHz 저대역 주파수 인수…Starlink Mobile 커버리지 강화**
+① SpaceX가 Grain Management로부터 미국 인구 거의 전역을 커버할 수 있는 최대 14MHz 규모의 800MHz 저대역 주파수 포트폴리오를 인수하기로 합의한 상황
+② 거래 규모는 약 80억달러로 보도됐으며, 해당 거래는 FCC 승인과 통상적인 종결 조건을 거쳐야 하는 단계
+③ 800MHz는 고주파 대역보다 신호 도달거리가 길고 건물 내부 침투력이 높아, Starlink Mobile의 약점이었던 실내 연결성과 광역 커버리지를 보완할 수 있는 주파수 특성을 보여줌 ([Reuters](https://www.reuters.com/business/media-telecom/spacex-acquire-spectrum-that-enables-starlink-mobile-services-2026-10-08))
+
+**2. 2GHz 위성망 + 800MHz 저대역 결합…미국 이동통신사와 직접 경쟁 구도 확대**
+① SpaceX는 기존 2GHz 중대역 위성통신망에 새로 확보하는 800MHz 저대역을 결합해 위성 연결과 지상 네트워크를 함께 활용하는 하이브리드 모바일 구조를 구축하려는 전략
+② FCC가 최근 Starlink Mobile용 Gen2 위성 15,000기 배치를 승인하면서, SpaceX가 단순 위성 인터넷 사업을 넘어 스마트폰 직접 연결형 이동통신 서비스로 확장할 수 있는 기반이 커진 수준
+③ 대부분의 미국 스마트폰이 800MHz 대역을 지원하는 만큼 별도 위성폰 없이 기존 단말기로 서비스를 제공할 가능성이 높아져, AT&T·Verizon·T-Mobile과의 경쟁 강도가 커질 수 있음을 보여줌 ([Reuters](https://www.reuters.com/business/what-is-low-band-spectrum-that-spacex-acquired-starlink-mobile-2026-10-09))
+
+**3. 인도에서는 ‘저가 Starlink’ 추진…미국 통신사업과 글로벌 대중시장 확대 동시 진행**
+① Elon Musk가 10월 11일 인도 시장에서 Starlink를 현지 소비자가 감당할 수 있는 가격으로 제공해야 한다고 밝히며 가격 경쟁 의지를 공식화한 상황
+② 인도는 Reliance Jio와 Bharti Airtel이 지배하는 초저가 데이터 시장으로, Starlink·Jio·OneWeb 계열 모두 최종 보안승인과 주파수 절차를 기다리고 있는 단계
+③ 미국에서는 직접 이동통신사 경쟁을 준비하고 인도에서는 저가 위성 인터넷으로 대중시장 진입을 추진하면서, Starlink가 위성 인터넷 사업자에서 글로벌 통신 플랫폼으로 확장하려는 전략을 보여줌 ([Reuters](https://www.reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11))
+
+#트래킹 #미국주식 #스페이스X #SPCX #테슬라 #TSLA
+
+[2026-10-12 17:03] **🛞 Google Cloud, 기업용 ‘Gemini agent’ 공개…업무 전반을 수행하는 범용 AI 에이전트로 확장**
+
+**1. 질문에 답하는 AI에서 실제 업무를 끝까지 수행하는 ‘범용 업무 에이전트’로 진화**
+① Google Cloud가 10월 8일 공개한 **Gemini agent**는 질문 답변뿐 아니라 업무 계획 수립, 자료 작성, 이미지·미디어 생성, 코드 작성 및 실행까지 하나의 프롬프트에서 처리하도록 설계된 구조
+② 사용자가 세부 지시를 일일이 내리기보다 목표만 제시하면, Gemini agent가 필요한 단계를 스스로 계획하고 도구를 사용해 결과물을 완성하는 방식
+③ 기존 챗봇형 AI보다 실제 직원이나 디지털 동료에 가까운 형태로 발전하면서 Google의 AI 전략이 **대화형 AI에서 실행형 AI로 이동하고 있음을 보여줌** ([Google](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026))
+
+**2. Gmail·Drive·Docs·Sheets·Calendar부터 Slack·Microsoft 365까지 연결**
+① Gemini agent는 Gmail, Drive, Docs, Slides, Sheets, Chat, Calendar 등 Google Workspace 내부에서 직접 작동하며 같은 메모리·권한·업무 맥락을 유지하는 구조
+② Google 서비스에만 제한되지 않고 Slack과 Microsoft 365 같은 외부 업무도구와도 연결할 수 있어 기업 내 여러 시스템을 하나의 에이전트가 넘나들 수 있는 수준
+③ 예를 들어 프로젝트 업데이트 요청을 받으면 관련 메일과 문서를 확인하고 자료를 정리해 슬라이드를 만들거나, 관련 팀원을 찾아 일정을 확인한 뒤 회의까지 잡는 식의 다단계 업무 자동화가 가능한 구조를 보여줌 ([Reuters](https://www.investing.com/news/stock-market-news/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up-4939419))
+
+**3. 자체 Gemini뿐 아니라 Claude까지 활용…기업용 AI 플랫폼 전략 강화**
+① Gemini agent는 업무마다 하나의 모델에 고정되지 않고 Google Gemini와 Anthropic Claude 등에서 가장 적합한 모델을 선택해 사용하는 멀티모델 구조
+② 기업은 특정 업무를 맡는 **‘coworker agent’**를 별도로 만들 수 있으며, 각 에이전트에 이메일 주소와 제한된 데이터 접근권한을 부여해 실제 팀원처럼 활용할 수 있는 수준
+③ 금융·법률 분야 특화 버전이 이미 프리뷰 단계이고 향후 정부·헬스케어·리테일까지 확대할 계획으로, Google이 Cloud + Workspace + 기업 데이터 + 여러 AI 모델 + 에이전트를 하나의 기업용 AI 운영 플랫폼으로 묶으려는 전략을 보여줌
+
+#트래킹 #미국주식 #알파벳 #GOOGL #GOOG

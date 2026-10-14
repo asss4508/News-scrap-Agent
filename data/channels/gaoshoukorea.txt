@@ -150,3 +150,79 @@ __2026년 한국시간 기준__
 [2026-10-14 15:19] Asml 실적이 감동을 못 줌
 
 임광현 비서실장 임명 금투세 우려
+
+[2026-10-14 16:59] **🛞 Meta, Muse Wonder·Wonder Full 공개…범용 AI 에이전트 경쟁 본격 진입**
+**
+1. Meta의 최상위 에이전트 모델 ‘Muse Wonder’와 ‘Wonder Full’ 공개**
+① Meta가 10월 12일 Muse Wonder와 Muse Wonder Full을 공개하며 두 모델을 지금까지 자사에서 개발한 가장 강력한 AI 모델로 소개한 상황
+② 두 모델은 보험 청구 처리, 임대차 계약 이해, 재무정보 해석, 앱 제작 등 여러 단계를 거쳐야 하는 개인·전문 업무용 agentic task에 특화된 구조
+③ 단순 질문 응답보다 목표를 이해하고 문제 해결 과정을 이어가는 능력에 초점을 맞추며 Meta가 본격적으로 범용 AI 에이전트 경쟁에 진입했음을 보여줌 ([Meta](https://about.fb.com/news/2026/10/introducing-muse-wonder-models))
+
+**2. Active Memory·Active Focus로 ‘오래 일하는 AI’ 기능 강화**
+① Muse Wonder 계열에는 이전 대화에서 중요한 정보를 기억해 이후 업무에 활용하는 Active Memory 기능이 포함된 구조
+② 작업이 막혔을 때 다른 접근법을 시도하고 오류를 복구하며 목표를 계속 추적하는 Active Focus 기능까지 탑재된 수준
+③ 한 번의 답변을 생성하는 AI보다 장시간에 걸쳐 사용자의 맥락을 기억하고 실제 업무를 끝까지 수행하는 디지털 동료에 가까운 형태를 보여줌
+
+**3. 개발자·구독자부터 출시…OpenAI·Anthropic과 직접 경쟁 구도 강화**
+① Muse Wonder는 Meta Model API와 Muse Code를 통해 개발자에게 즉시 제공되고, Muse Wonder Full은 Muse Code 구독자에게 먼저 제공되는 구조
+② Muse Wonder는 향후 개인 AI 에이전트 Muse에도 적용될 예정이며, 구독자를 시작으로 소비자 서비스까지 확대될 계획
+③ Meta가 광고 최적화용 AI에 머물지 않고 자체 최상위 모델과 소비자 에이전트를 동시에 확보하면서 OpenAI·Anthropic·Google과 범용 AI 플랫폼 경쟁을 벌일 수 있는 기반을 강화한 모습
+
+#트래킹 #미국주식 #메타 #META
+
+[2026-10-14 17:02] **🛞 Google, Gemini 4 Argon 본격 상용화…개발자·기업·유료 사용자 대상으로 전면 확대**
+
+**1. 제한적 테스트 단계에서 글로벌 상용화 단계로 전환**
+① Google이 10월 13일 Gemini 4 Argon을 전 세계 개발자와 기업 고객에게 정식 공개하며 제한적인 사이버보안 테스트 단계에서 본격적인 상용화 단계로 전환한 상황
+② 개발자는 Gemini API와 AI Studio를 통해, 기업 고객은 Google Cloud와 Gemini Enterprise를 통해 Argon을 사용할 수 있게 된 수준
+③ 일반 사용자도 Google AI Pro·Ultra 구독을 통해 Gemini 앱과 AI Mode에서 Argon을 사용할 수 있게 되며 개발자·기업·소비자까지 접근 범위가 동시에 확대된 모습 ([Google](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/))
+
+**2. 코딩·금융·법률·사이버보안 등 장시간 복잡한 업무에 특화**
+① Gemini 4 Argon은 단순 질문 응답보다 대규모 코드 수정, 금융·법률 분석, 사이버보안, 과학연구처럼 여러 단계를 오래 이어가야 하는 업무에 초점을 맞춘 최상위 모델
+② Google은 Argon이 금융·코딩·법률·세무 등 실제 경제활동 분야를 평가하는 Vals Index에서 1위를 기록했다고 밝힌 수준
+③ Deloitte·LexisNexis·Ambience Healthcare·Isomorphic Labs 등이 초기 활용 기업으로 참여하며 Argon이 범용 챗봇보다 전문가용 업무 AI로 먼저 확산되고 있음을 보여줌 ([Reuters](https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/))
+
+**3. 초기 API 가격 공격적으로 책정…Gemini Agent·Workspace·Cloud와 결합 가능성 확대**
+① Argon의 초기 API 가격은 입력 100만 토큰당 $2, 출력 100만 토큰당 $10이며 캐시된 입력 토큰은 일반 입력가격 대비 95% 할인된 수준
+② 11월 30일 이후 가격은 입력 $4, 출력 $20으로 두 배 인상될 예정으로, 초기 낮은 가격을 통해 개발자와 기업의 도입을 빠르게 늘리려는 전략
+③ Google은 최근 공개한 Gemini Agent와 함께 Argon이라는 고성능 두뇌 + Agent라는 실행 계층 + Workspace·Cloud라는 기업 유통망을 동시에 확보하며 기업용 AI 플랫폼 경쟁력을 강화하는 구조
+
+#트래킹 #미국주식 #알파벳 #GOOGL #GOOG
+
+[2026-10-14 17:05] **🛞 Microsoft, Maia 300 자체 AI 칩 대규모 배치 추진…Nvidia 의존도와 AI 인프라 비용 절감 목표**
+
+**1. Maia 300 공개…2027년부터 100만 개 이상 배치 가능성**
+① Microsoft가 3세대 자체 AI 가속기 Maia 300을 공개하고 2027년부터 Azure 데이터센터에 대규모 배치를 시작할 계획을 밝힌 상황
+② 회사가 향후 100만 개 이상의 Maia 칩을 배치할 가능성을 언급하며 자체 AI 반도체를 보조적 실험이 아니라 핵심 인프라로 키우려는 의지를 보여준 수준
+③ Maia 300을 Copilot·Microsoft AI·Azure 등 내부 AI 서비스의 주요 추론용 시스템으로 확대하면서 Microsoft의 자체 실리콘 전략이 본격적인 상용 규모로 진입하는 모습 ([Microsoft](https://news.microsoft.com/source/asia/2026/10/13/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EC%95%A0%EC%A0%80-%EB%A7%88%EC%9D%B4%EC%95%84-ai-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A9%80%ED%8B%B0-%EA%B8%B0%EA%B0%80%EC%99%80%ED%8A%B8/?lang=ko))
+
+**2. 2nm+3nm chiplet 구조…전력당 AI 연산효율 약 40% 개선 목표**
+① Maia 300은 핵심 AI 연산에는 TSMC 2nm 공정, 보조 기능에는 상대적으로 저렴한 3nm 공정을 사용하는 chiplet 구조로 설계된 수준
+② 1개 서버 랙에 96개의 Maia 300을 탑재하며 랙당 약 167kW의 전력을 사용하는 고밀도 AI 시스템으로 구성되는 구조
+③ Microsoft는 최상위 GPU 시스템과 비교해 전력 1MW당 실제 유효 연산량을 약 40% 높일 수 있다고 설명하며 AI 데이터센터의 가장 큰 병목인 전력효율 개선을 강조한 모습 ([Reuters](https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12))
+
+**3. 연간 CAPEX $175B 시대…AI 비용 통제와 Nvidia 의존도 축소 목적**
+① Microsoft의 올해 자본지출이 $175B 이상으로 예상될 만큼 AI 데이터센터 투자 부담이 커지면서 GPU 구매비용과 전력비를 직접 통제할 필요성이 높아진 상황
+② 자체 Maia 칩을 대규모로 활용할 경우 Nvidia GPU를 완전히 대체하지는 않더라도 일부 AI 추론 워크로드를 내부 칩으로 이전해 연산단가·전력비·공급망 의존도를 낮출 수 있는 구조
+③ Microsoft는 2027년부터 Maia 시스템을 멀티 기가와트 규모로 확대할 계획으로, hyperscaler들의 자체 ASIC 확대가 장기적으로 Nvidia의 데이터센터 GPU 독점력에 구조적 경쟁요인이 될 수 있음을 보여줌
+
+#트래킹 #미국주식 #마이크로소프트 #MSFT
+
+[2026-10-14 17:08] **🛞 Nvidia 중국 AI칩 점유율 34%로 하락…Huawei 28%까지 추격
+1. Nvidia 중국 AI 가속기 점유율 34%로 하락**
+
+① IDC 자료에 따르면 Nvidia의 중국 데이터센터 AI 가속기 시장 점유율이 **2026년 상반기 34%**까지 하락한 수준
+② 같은 기간 Nvidia의 중국 AI 가속기 출하량은 약 67만8,000개로 전년 대비 44% 감소하며 미국의 대중국 수출규제 영향이 본격적으로 나타난 모습
+③ 중국 전체 AI 가속기 출하량은 200만 개를 넘어섰지만 Nvidia 출하량은 감소해, 시장 성장에도 불구하고 Nvidia가 그 수혜를 충분히 누리지 못하고 있음을 보여줌 ([Reuters](https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/))
+
+**2. Huawei 28%까지 상승…중국 자체 AI칩 생태계 빠르게 확대**
+① Huawei의 2026년 상반기 중국 AI 가속기 출하량이 약 57만2,000개까지 증가하며 시장점유율이 **28%**로 상승한 수준
+② Huawei뿐 아니라 Alibaba T-Head, Cambricon, Baidu Kunlunxin, Hygon 등 중국 로컬 공급사들도 출하량을 늘리며 Nvidia가 빠진 시장을 분산해서 흡수하는 모습
+③ 특히 비GPU 계열 AI 가속기 출하량이 전년 대비 약 80% 증가한 반면 전통 GPU 출하량은 26% 감소한 99만1,000개 수준으로 줄어들며 중국 시장이 GPU 일변도에서 벗어나고 있음을 보여줌
+
+**3. 미국 수출규제가 Nvidia의 중국 시장 축소와 현지 경쟁사 성장으로 연결**
+① Nvidia의 점유율 하락은 제품 경쟁력 자체가 급격히 약화됐다기보다 미국의 수출규제로 고성능 GPU를 중국에 충분히 공급하지 못한 영향이 가장 큰 상황
+② Nvidia는 그동안 이러한 규제가 중국의 약 500억달러 규모 AI칩 시장을 미국 기업에서 중국 기업으로 넘겨줄 수 있다고 지속적으로 경고해온 상황
+③ 실제 데이터에서 Huawei와 로컬 AI칩 업체들의 점유율 확대가 확인되면서, 단기 실적 영향보다 장기적으로 CUDA·GPU 생태계가 중국 내 독립 생태계에 의해 대체될 수 있다는 지정학적 리스크가 커진 수준
+
+#트래킹 #미국주식 #엔비디아 #NVDA

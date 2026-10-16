@@ -1326,3 +1326,655 @@ AI가 생산성 향상의 동력이라는 낙관론과 달리, 분데스방크 �
 의지를 갖고
 누르는 사람은 
 앞서는 것이고
+
+[2026-10-16 12:46] 리브스메드 IR의 낙관론, 실적과 계약은 어디까지 왔나
+
+📝 핵심적 본문 요약
+리브스메드의 상장 전 투자자 매각은 공시로 확인되나 IR과의 직접적 인과는 입증되지 않는다. 반기 매출은 7.7% 증가했으나 영업손실은 70.0% 확대됐고 매출총이익률은 하락했다. 상장 당시 추정 매출 1508억원과 현재 실적 간 간극, 신제품 반복 주문 및 스타크 계약 조건의 불확실성이 상존한다.
+(#벤리에 #ben_rye)
+
+✨(In)sight
+리브스메드의 기술적 차별성과 미국 유통 계약은 긍정적이나, 반기 영업손실 확대와 상장 당시 추정 대비 낮은 매출 진행률은 실적과 기대의 괴리를 보여준다. VC 회수 유인과 IR 강도 간 인과는 공시로 확인되지 않으며, 주가는 기대감에 민감하게 반응할 수 있다. 스타크 상업화와 아티씰 재주문 데이터가 향후 기업가치 재평가의 핵심 변수다.
+
+#리브스메드 #VC회수 #영업손실 #스타크 #아티씰
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/ben_rye/224443605578)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 13:28] [태린이아빠 주식투자] 2026.10.16 반등 시그널 조금씩 나오고 있습니다.
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=B0g0OcXJe14)
+
+[2026-10-16 13:34] 미국 분석보고서Analysis Report
+주요 국제기구들의 `26~`27년 세계경제 전망
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/economy/economyView?rpt_no=37604&mn=003002)
+
+[2026-10-16 13:50] [Visualcapitalist] 2026년 유럽 청년 실업률 지도
+Mapped: Youth Unemployment Rates Across Europe in 2026
+
+젊은 루마니아인의 3분의 1이 실업 상태이며, 스페인인의 5분의 1도 마찬가지다. 독일은 하나의 잠재적 해결책을 제시한다.
+A third of young Romanians are out of work, as are a fifth of Spaniards. Germany offers one potential solution.
+
+[📜📜📜**본문보기**📜📜📜](https://www.visualcapitalist.com/mapped-youth-unemployment-rates-across-europe-in-2026/)
+
+[2026-10-16 14:00] **1.📚 Top 리포트**(10-16 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. , 9월 미국 ISM 제조업: 당분간은 전쟁 여파 지속
+한화투자증권(2026-10-02) [[링크](https://m.stock.naver.com/research/economy/13874)]
+조회수: 21,315
+
+🥈. , 9월 미국 고용: 둔화 추세는 이어지고 있다
+한화투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/economy/13883)]
+조회수: 16,234
+
+🥉. , 또 다시 유럽
+한화투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11366)]
+조회수: 13,843
+
+🎖️. , 채권 Daily (2026.10.07)
+유안타증권(2026-10-07) [[링크](https://m.stock.naver.com/research/debenture/11371)]
+조회수: 13,679
+
+✋. , Daily Bond Morning Brief(2026.10.06)
+다올투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11367)]
+조회수: 13,427
+
+6️⃣. , Eugenes FICC Update
+유진투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11362)]
+조회수: 12,400
+
+7️⃣. , 채권 Daily (2026.10.06)
+유안타증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11363)]
+조회수: 12,370
+
+8️⃣. , 채권 Daily (2026.10.08)
+유안타증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11376)]
+조회수: 12,357
+
+9️⃣. , Eugenes FICC Update
+유진투자증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11375)]
+조회수: 12,355
+
+🔟. , Daily Bond Morning Brief(2026.10.08)
+다올투자증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11374)]
+조회수: 12,351
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 14:00] **2.📚 종목분석 리포트**(10-16 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 알테오젠, 주사는 짧게, 성장은 길게
+한국IR협의회(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96777)]
+조회수: 2,139
+
+🥈. 두산에너빌리티, 연내 SMR 추가 수주 기대
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96804)]
+조회수: 1,984
+
+🥉. 대한항공, 돈을 너무 잘 벌어서 컨센 미스
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96780)]
+조회수: 1,526
+
+🎖️. 하이브, BTS 이후를 증명할 저연차의 성장
+iM증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96786)]
+조회수: 1,481
+
+✋. 대한항공, 단가 상승이 연료비 증가를 상쇄
+미래에셋증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96790)]
+조회수: 1,414
+
+6️⃣. 대한항공, [3Q26 Review] 2Q 성과급 미반영분 반영
+한화투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96803)]
+조회수: 1,398
+
+7️⃣. 대한항공, 3Q26 Re: 인건비에 깜짝 놀랐지만 여전히 견조한 체력
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96800)]
+조회수: 1,362
+
+8️⃣. 파두, 약속의 3분기
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96782)]
+조회수: 1,270
+
+9️⃣. 한국전력, 혼돈 속 피난처
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96778)]
+조회수: 1,232
+
+🔟. 삼양식품, 누가 환율 소리를 내었는가
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96781)]
+조회수: 1,231
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 14:00] **3.📚 산업분석 리포트**(10-16 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 인터넷포탈) [IBKS Daily] 인터넷/게임
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46494)]
+조회수: 662
+
+🥈. 반도체) 매수
+SK증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46495)]
+조회수: 627
+
+🥉. IT) [TSMC] 26년 3분기 실적 리뷰: AI 수요에 대한 강한 자신감.
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46493)]
+조회수: 614
+
+🎖️. 기타) 방산 3Q26 프리뷰 – 이미 주가에 반영된 실적 부진
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46500)]
+조회수: 550
+
+✋. 기타) 안녕하세요 데일리에요 (로봇/방산/조선)
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46501)]
+조회수: 512
+
+6️⃣. 자동차) 중국 자동차 판매 동향(2026년 9월): 중국 내수 -28%, 수출 +73%. 중국발 글로벌 경쟁심화 지속
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46503)]
+조회수: 453
+
+7️⃣. 반도체) 과도한 하락
+대신증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46505)]
+조회수: 443
+
+8️⃣. 음식료) 가공식품 물가 상승 압력 강화 중
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46492)]
+조회수: 392
+
+9️⃣. 기타) 엔진룸에서 SMR까지, 모듈화 원클릭 솔루션
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46499)]
+조회수: 356
+
+🔟. 통신) 이유 없는 하락엔 매수로 대응해야
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46506)]
+조회수: 353
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 14:00] **4.📚 경제분석 리포트**(10-16 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [Global Markets Monitor] 美 중간선거 투자 전략
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13917)]
+조회수: 250
+
+🥈. 10/16 Weekly Macro : 금리 흐름과 정책 대응에 주목
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13914)]
+조회수: 222
+
+🥉. [Macro Flash] CPI/PPI/장기채/RMP 이슈 점검
+유안타증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13922)]
+조회수: 199
+
+🎖️. [매크로 COMMENT] 미국 PPI·소매판매: 매출증가보다 무거워진 비용부담
+SK증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13919)]
+조회수: 199
+
+✋. (Macro Snapshot) 유동성 증가세 둔화 속 경제주체별 차별화에 주목
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13915)]
+조회수: 194
+
+6️⃣. [IBKS Economy Monitor] Focus on Week: 균형을 벗어난 경제, 필연적으로 높아진 변동성과 불확실성이라는 비용
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13916)]
+조회수: 189
+
+7️⃣. 10/16, Kiwoom Morning Letter
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13918)]
+조회수: 156
+
+8️⃣. 9월 미국 소매판매: 반등보다는 양호하게 유지
+한화투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13921)]
+조회수: 137
+
+9️⃣. Market Weekly Check ME up!
+다올투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13920)]
+조회수: 109
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 14:00] **5.📚 채권분석 리포트**(10-16 14:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. Eugenes FICC Update
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11403)]
+조회수: 448
+
+🥈. 채권 Daily (2026.10.16)
+유안타증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11404)]
+조회수: 398
+
+🥉. Daily Bond Morning Brief(2026.10.16)
+다올투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11405)]
+조회수: 348
+
+🎖️. 반짝 강세의 이유와 추세 전환의 조건
+iM증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11401)]
+조회수: 189
+
+✋. [IBKS Bond Inside] 금리무한곡면각체, 수익률 곡선에 담긴 만기별 정보 깎기
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11402)]
+조회수: 157
+
+6️⃣. 국고채 시장 진단
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11407)]
+조회수: 129
+
+7️⃣. [10월 금통위 프리뷰] 속도 조절 ≠ 인상 종료
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11406)]
+조회수: 123
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 14:02] 조기검진으로 일찍 발견하면 더 안 좋은 전립선암
+https://www.youtube.com/watch?v=_e2hB2Qbsn8
+
+꼭봐라
+
+[2026-10-16 14:06] [대신TV] 세금은 줄이고, 노후자금은 키우세요ㅣ김효석 수석ㅣ마켓인사이트라이브
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=rGnFyS7ZxqY)
+
+[2026-10-16 14:09] [펩트론] 모든 TPP 충족, 모든 '노이즈'를 한방에 해소하다
+
+📝 핵심적 본문 요약
+펩트론이 릴리가 요구한 모든 TPP를 100% 충족했다. 봉입률과 함량비 기준, 터제파타이드 서방형 제형화 기준, 대량생산 기준이 모두 포함된 것으로 보인다. 기존 물질과 추가 물질 모두 릴리의 TPP를 100% 달성했다. 파트너사가 제시한 기술적 허들을 넘어선 만큼 본계약 체결 가능성이 높다. 시장의 논점은 계약 여부가 아니라 계약 시점과 규모로 전환되는 것이 합리적이다.
+(#라틴카페 #redserpent)
+
+✨(In)sight
+글로벌 제약사 릴리의 TPP를 100% 충족한 펩트론의 기술력은 국내 경쟁사 대비 차별화된 지표다. 비만 치료제 시장 확대 속에서 서방형 제형화와 스케일업 검증은 라이선스 계약의 핵심 변수다. 최근 주가 변동은 실적보다 기대감에 기반한 측면이 크나, TPP 충족은 펀더멘털 개선 신호로 해석된다. 계약 시점과 규모가 확인되면 밸류에이션 재평가가 본격화될 가능성이 있다. 따라서 투자 포인트는 계약 여부가 아닌 조건과 속도에 맞춰져야 한다.
+
+#펩트론 #릴리 #TPP #라이선스계약 #비만치료제
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/redserpent/224443691604)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 14:34] 테슬라 로드스터 업계종사자 "이거 그냥 말도 안되는 기술이다"
+
+[2026-10-16 15:05] [보도자료] 드론 100% 요격 성공… 韓 레이저 대공무기 성능 연달아 입증
+
+📝 핵심적 본문 요약
+한화시스템이 14일 육군 주관 아미 타이거 플러스 훈련에서 천광 및 30kW 레이저포로 드론 3대를 100% 요격했다. 천광은 세계 최초 실전 배치 레이저 대공무기로 1회 발사 비용 약 2000원의 저비용 고효율 체계이다. 이는 방위사업청의 신속 획득 및 전력화 노력과 방산기업 기술력 결합의 성과이다.
+(#ruffino #orangeshirts)
+
+✨(In)sight
+레이저 대공무기는 저가 드론 위협에 대응하는 차세대 방공 솔루션으로 주목받는다. 천광의 2000원 발사 비용은 유도무기 대비 압도적 원가 경쟁력을 갖춰 글로벌 방산 시장에서 차별화된다. 해외 고객용 50kW 레이저 장갑차 개발은 수출 모멘텀을 강화하는 요인이다. 다만 실전 배치 규모와 수주 잔고 확인이 필요하며, 기대감 선반영 여부를 구분해야 한다.
+
+#한화시스템 #레이저대공무기 #천광 #방산수출 #드론요격
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/orangeshirts/224443108322)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 15:35] Global Fund Flow
+[Fund Flow] 북미를 중심으로 주식펀드 유입 확대, 채권펀드 유입 지속
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/annual/reportView?rpt_no=37605&mn=001003&pe=003003)
+
+[2026-10-16 15:35] 은행 이슈브리핑Issue Briefing
+프랑스 국채금리 급등의 은행산업 영향
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/finance/financeView?rpt_no=37606&mn=002007)
+
+[2026-10-16 15:56] 키빼몸 110은 포기...
+
+📝 핵심적 본문 요약
+오는 25일 마라톤 출전을 앞두고 체중 감량을 중단하고 61kg 후반대를 유지 중이다. 연휴 기간 증가한 1.9kg이 회복되지 않아 최종 체중은 62~63kg이 될 것으로 예상되나 날씨 변수로 기록 단축이 불투명한 상황이다.
+(#잔우 #kbomb2000)
+
+✨(In)sight
+마라톤 기록 단축을 위한 체중 감량 전략은 한계에 직면했다. 최근 체중이 61kg 후반대에서 정체된 가운데, 연휴 기간 급격한 체중 증가가 회복되지 않아 출전 시 62~63kg에 이를 전망이다. 이는 선수가 목표한 60kg과 상당한 차이로, 기록 단축에 부정적이다. 체중 1kg 감량 시 풀코스 기록이 약 3분 단축된다는 연구 결과를 고려하면, 2~3kg의 초과 체중은 6~9분의 기록 손실을 의미한다. 또한 기온 상승과 태풍 가능성 등 날씨 변수까지 겹쳐 최상의 컨디션을 기대하기 어렵다. 따라서 체중 감량보다는 페이스 조절과 컨디셔닝에 집중하는 전략 전환이 필요하다. 이는 마라톤에서 체중 관리의 중요성과 함께 외부 요인에 대한 대비의 필요성을 부각한다.
+
+#마라톤 #체중관리 #기록단축 #컨디셔닝 #날씨변수
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/kbomb2000/224443812013)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 16:00] **1.📚 Top 리포트**(10-16 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. , 9월 미국 ISM 제조업: 당분간은 전쟁 여파 지속
+한화투자증권(2026-10-02) [[링크](https://m.stock.naver.com/research/economy/13874)]
+조회수: 21,323
+
+🥈. , 9월 미국 고용: 둔화 추세는 이어지고 있다
+한화투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/economy/13883)]
+조회수: 16,241
+
+🥉. , 또 다시 유럽
+한화투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11366)]
+조회수: 13,848
+
+🎖️. , 채권 Daily (2026.10.07)
+유안타증권(2026-10-07) [[링크](https://m.stock.naver.com/research/debenture/11371)]
+조회수: 13,685
+
+✋. , Daily Bond Morning Brief(2026.10.06)
+다올투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11367)]
+조회수: 13,431
+
+6️⃣. , Eugenes FICC Update
+유진투자증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11362)]
+조회수: 12,404
+
+7️⃣. , 채권 Daily (2026.10.06)
+유안타증권(2026-10-06) [[링크](https://m.stock.naver.com/research/debenture/11363)]
+조회수: 12,374
+
+8️⃣. , 채권 Daily (2026.10.08)
+유안타증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11376)]
+조회수: 12,364
+
+9️⃣. , Eugenes FICC Update
+유진투자증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11375)]
+조회수: 12,362
+
+🔟. , Daily Bond Morning Brief(2026.10.08)
+다올투자증권(2026-10-08) [[링크](https://m.stock.naver.com/research/debenture/11374)]
+조회수: 12,357
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 16:00] **2.📚 종목분석 리포트**(10-16 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 두산에너빌리티, 연내 SMR 추가 수주 기대
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96804)]
+조회수: 2,837
+
+🥈. 알테오젠, 주사는 짧게, 성장은 길게
+한국IR협의회(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96777)]
+조회수: 2,766
+
+🥉. 대한항공, [3Q26 Review] 2Q 성과급 미반영분 반영
+한화투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96803)]
+조회수: 2,095
+
+🎖️. 대한항공, 돈을 너무 잘 벌어서 컨센 미스
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96780)]
+조회수: 2,038
+
+✋. 대한항공, 3Q26 Re: 인건비에 깜짝 놀랐지만 여전히 견조한 체력
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96800)]
+조회수: 2,000
+
+6️⃣. 대한항공, 단가 상승이 연료비 증가를 상쇄
+미래에셋증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96790)]
+조회수: 1,959
+
+7️⃣. 하이브, BTS 이후를 증명할 저연차의 성장
+iM증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96786)]
+조회수: 1,816
+
+8️⃣. 파두, 약속의 3분기
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96782)]
+조회수: 1,632
+
+9️⃣. 삼양식품, 누가 환율 소리를 내었는가
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96781)]
+조회수: 1,579
+
+🔟. 한국전력, 혼돈 속 피난처
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/company/96778)]
+조회수: 1,566
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 16:00] **3.📚 산업분석 리포트**(10-16 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 인터넷포탈) [IBKS Daily] 인터넷/게임
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46494)]
+조회수: 865
+
+🥈. 기타) 방산 3Q26 프리뷰 – 이미 주가에 반영된 실적 부진
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46500)]
+조회수: 764
+
+🥉. IT) [TSMC] 26년 3분기 실적 리뷰: AI 수요에 대한 강한 자신감.
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46493)]
+조회수: 750
+
+🎖️. 반도체) 매수
+SK증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46495)]
+조회수: 742
+
+✋. 기타) 안녕하세요 데일리에요 (로봇/방산/조선)
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46501)]
+조회수: 728
+
+6️⃣. 자동차) 중국 자동차 판매 동향(2026년 9월): 중국 내수 -28%, 수출 +73%. 중국발 글로벌 경쟁심화 지속
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46503)]
+조회수: 652
+
+7️⃣. 반도체) 과도한 하락
+대신증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46505)]
+조회수: 583
+
+8️⃣. 통신) 이유 없는 하락엔 매수로 대응해야
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46506)]
+조회수: 481
+
+9️⃣. 음식료) 가공식품 물가 상승 압력 강화 중
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46492)]
+조회수: 465
+
+🔟. 기타) 엔진룸에서 SMR까지, 모듈화 원클릭 솔루션
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/industry/46499)]
+조회수: 449
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 16:00] **4.📚 경제분석 리포트**(10-16 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. [Global Markets Monitor] 美 중간선거 투자 전략
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13917)]
+조회수: 304
+
+🥈. [Macro Flash] CPI/PPI/장기채/RMP 이슈 점검
+유안타증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13922)]
+조회수: 280
+
+🥉. [매크로 COMMENT] 미국 PPI·소매판매: 매출증가보다 무거워진 비용부담
+SK증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13919)]
+조회수: 262
+
+🎖️. 10/16 Weekly Macro : 금리 흐름과 정책 대응에 주목
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13914)]
+조회수: 260
+
+✋. [IBKS Economy Monitor] Focus on Week: 균형을 벗어난 경제, 필연적으로 높아진 변동성과 불확실성이라는 비용
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13916)]
+조회수: 235
+
+6️⃣. (Macro Snapshot) 유동성 증가세 둔화 속 경제주체별 차별화에 주목
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13915)]
+조회수: 235
+
+7️⃣. 10/16, Kiwoom Morning Letter
+키움증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13918)]
+조회수: 198
+
+8️⃣. 9월 미국 소매판매: 반등보다는 양호하게 유지
+한화투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13921)]
+조회수: 185
+
+9️⃣. Market Weekly Check ME up!
+다올투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/economy/13920)]
+조회수: 156
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 16:00] **5.📚 채권분석 리포트**(10-16 16:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. Eugenes FICC Update
+유진투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11403)]
+조회수: 609
+
+🥈. 채권 Daily (2026.10.16)
+유안타증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11404)]
+조회수: 556
+
+🥉. Daily Bond Morning Brief(2026.10.16)
+다올투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11405)]
+조회수: 507
+
+🎖️. 반짝 강세의 이유와 추세 전환의 조건
+iM증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11401)]
+조회수: 232
+
+✋. [IBKS Bond Inside] 금리무한곡면각체, 수익률 곡선에 담긴 만기별 정보 깎기
+IBK투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11402)]
+조회수: 199
+
+6️⃣. 국고채 시장 진단
+신한투자증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11407)]
+조회수: 188
+
+7️⃣. [10월 금통위 프리뷰] 속도 조절 ≠ 인상 종료
+하나증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11406)]
+조회수: 175
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-16 16:01] 앞으로 '증시 주요 일정'들 간략히
+
+📝 핵심적 본문 요약
+주식시장은 10월 한국은행과 미 연준의 금리 동결 전망 속에 주요 기업 실적발표가 집중된다. 11월에는 미국 중간선거와 엔비디아 실적 등 굵직한 이벤트가 대기 중이다. 불확실성이 상존하는 가운데 기회 요인을 모색하는 국면이다.
+(#고잉투더문 #going_tothe_moon)
+
+✨(In)sight
+반도체 업종의 경우 SK하이닉스와 삼성전자 실적발표를 앞두고 메모리 가격 반등 기대감이 주가에 선반영되는 양상이다. 경쟁사인 마이크론과 대조하면 고대역폭메모리 중심의 매출 구성 변화가 영업레버리지 개선으로 이어질지가 관건이다. 미 중간선거 결과에 따라 태양광과 방산 등 정책 수혜 업종의 변동성이 확대될 전망이다.
+
+#주식시장 #반도체 #실적발표 #미중간선거 #금리동결
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/going_tothe_moon/224443802536)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 16:09] (하나Knowledge+) 물적금융의 미래: 자동차 다음, 무엇을 빌려줄까?
+2026-10-16
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37086&menuId=MN1000&tabMenuId=N&srchNm=ALL)
+
+[2026-10-16 16:18] [IRTV] [LIVE] 크리에이츠 기업설명회 온라인 중계방송
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=X2DGnnHFwvQ)
+
+[2026-10-16 16:31] [NICE신용평가] 환경산업 외형 확장의 그늘 - 가중된 재무부담과 전망
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=5k5QJn2olRE)
+
+[2026-10-16 16:34] 반도체 채찍효과 이야기
+
+📝 핵심적 본문 요약
+채찍효과는 공급망 하류 소비자 수요 변화가 상류로 갈수록 증폭되는 현상이다. 정보 격리, 다단계 구조, 시차, 일괄 발주가 전제 조건이다. 반도체는 빅테크와 긴밀한 정보 공유, 직접 납품, 짧은 리드타임, LTA 계약으로 채찍효과 적용이 어렵다. 과거 사이클은 미세화에 따른 생산량 계단식 증가가 주된 원인이다.
+(#바람돌이 #windalpha)
+
+✨(In)sight
+채찍효과를 반도체에 적용하기 어렵다는 가설은 공급망 구조의 근본적 차이에서 출발한다. 전통 소비재는 정보 격리와 긴 유통 단계로 수요 왜곡이 증폭되지만, 메모리 산업은 빅테크와의 실시간 데이터 공유 및 LTA 비중 확대로 중복 발주 위험이 낮다. 과거 디램 사이클은 미세화에 따른 생산량 계단식 증가가 핵심 동인이었으며, 최근 조정은 실적보다 기대감에 기인한 측면이 크다. 주가 약세를 채찍효과로 설명하는 시각은 정보 격리와 다단계 구조라는 전제가 충족되지 않아 설득력이 떨어진다.
+
+#반도체 #채찍효과 #메모리 #공급망 #LTA
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/windalpha/224443857607)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 16:35] **📝. EU, 우크라이나 가입 경로 집중 논의 중**
+__Disclaimer: 면책고지, 모든 메세지는 벡터 기반 분산 표상형으로 작성 등의 사유로 착오가 발생할 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.__ [(증권사 채널 등 100개 추가하기)](https://t.me/addlist/f_sOeST6QOYxYjQ1)
+
+EU'S VON DER LEYEN SAYS WORKING INTENSIVELY REGARDING UKRAINE'S PATH TO EU
+
+코멘트:
+우크라이나의 EU 가입 논의는 전쟁 장기화 속에서 유럽 안보 질서 재편의 핵심 변수로 부상하고 있다. 회원국 간 이해관계 조정과 제도적 수용 능력이 관건이며, 가입 협상 진전 여부는 향후 유럽의 대러 전략과 역내 세력 균형에 직접적 영향을 미칠 것이다.
+
+#EU #우크라이나 #가입협상 #유럽안보 #폰데어라이엔
+
+[Gemini 기반 추가 조사🔍](https://www.google.com/search?q=%20%22EU%2C%20%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%20%EA%B0%80%EC%9E%85%20%EA%B2%BD%EB%A1%9C%20%EC%A7%91%EC%A4%91%20%EB%85%BC%EC%9D%98%20%EC%A4%91%22%20%0A%0A%0ASearch%20and%20retrieve%20the%20latest%20news%20about%20within%20the%20last%203%20days%20from%20today%20%282026-10-16%2C%20GMT%2B9%29.%F0%9F%9A%A8%20Data%20Filtering%20Criteria%3A-%20Source%3A%20ONLY%20use%20mainstream%20global%20financial%20media%20%28e.g.%2C%20Bloomberg%2C%20Reuters%2C%20WSJ%2C%20CNBC%2C%20FT%29%20or%20official%20government%20press%20releases%20and%20websites.-%20Exclusion%3A%20Completely%20exclude%20AI-generated%20spam%20sites%2C%20automated%20crawlers%2C%20personal%20finance%20blogs%2C%20and%20low-credibility%20scrapers.%20Do%20not%20use%20them%20as%20sources.%F0%9F%9A%A8%20Output%20Format%20%26%20Language%20Requirements%3A%201.%20References%20First%3A%20You%20MUST%20list%20all%20the%20found%20articles%20%28including%20Title%2C%20Source%2C%20and%20Date%29%20at%20the%20VERY%20TOP%20of%20your%20response%20before%20presenting%20the%20rest%20of%20the%20search%20results.%202.%20Language%3A%20ALL%20of%20your%20response%2C%20including%20the%20article%20list%20and%20details%2C%20MUST%20be%20written%20entirely%20in%20Korean%20%28%ED%95%9C%EA%B5%AD%EC%96%B4%29.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&udm=50)
+
+(Insight: @hyperspect | Source: [@marketfeed](https://t.me/marketfeed/1059392))
+
+[2026-10-16 16:35] 러시아는 우크라이나가 경제공동체에 들어가는 것에는 딱히 관심 없음. 나토에 들어가는 게 문제지. 이건 유럽 국가들도 반대하는 사안이고.
+
+[2026-10-16 16:42] 주가 급락 해외시각
+최근 국내 주가 변동성 확대에 대한 해외시각(10.16)
+
+출처: 국제금융센터
+
+[📜📜📜**본문보기**📜📜📜](https://www.kcif.or.kr/annual/reportView?rpt_no=37607&mn=001005&pe=002015)
+
+[2026-10-16 17:00] [단기예보] 기상청 통보문
+2026년 10월 16일 (금)요일 17:00 발표□ (종합) 모레 전국 비, 돌풍.천둥.번개 동반 강한 비와 강풍, 풍랑 유의, 내일 전국 내륙 중심 낮과 밤 기온차 매우 큼 
+ 
+○ (오늘, 16일) 전국 대체로 맑음 
+ 
+○ (내일, 17일) 전국 대체로 맑다가 밤부터 구름많아짐
+ 
+○ (모레, 18일) 전국 대체로 흐림,
+   새벽(00~06시)부터 인천.경기북부와 제주도 비 시작, 오전(06~12시)에 그 밖의 중부지방 비 확대, 오후(12~18시)부터 전국 대부분 지역 비,
+   중부지방 밤(18~24시)에 대부분 그치겠음
+ 
+○ (글피, 19일) 중부지방 가끔 구름많겠으나, 남부지방과 제주도 대체로 흐리다가 오후부터 가끔 구름많음,
+   아침(06~09시)까지 남부지방과 제주도 곳에 따라 비
+ 
+○ (그글피, 20일) 중부지방 구름많겠으나, 남부지방과 제주도 대체로 흐림,
+   오후(12~18시)부터 전라권과 경상권, 제주도 곳에 따라 비 
+
+* 예상 강수량(18일)
+- (수도권) 서울.인천.경기, 서해5도: 30~80mm
+- (강원도) 강원내륙.산지: 20~70mm/ 강원동해안: 5~20mm
+- (충청권) 대전.세종.충남, 충북: 30~80mm
+- (전라권) 전북: 20~60mm/ 광주.전남: 5~40mm
+- (경상권) 경북중.북부내륙.북동산지: 5~40mm/ 부산.울산.경남: 5~30mm/ 대구.경북동해안.남부내륙, 울릉도.독도: 5~20mm
+- (제주도) 제주도: 5~30mm
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-10-16 17:35] 261016 글로벌 바이오텍 뉴스 클리핑(Vir, Gilead에 TCE 딜 / 레볼루션 라손크 유럽 승인 권고 / AZ, Insitro $1.5bn 규모 협력 등)
+
+📝 핵심적 본문 요약
+Vir는 Gilead와 고형암 T세포 인게이저 3종 개발 계약을 체결해 최대 19억 달러를 수령할 수 있다. Revolution Medicines의 daraxonrasib은 유럽 CHMP 승인 권고를 받았다. AstraZeneca는 insitro와 15억 달러 규모 AI 표적 발굴 계약을 맺었다. Recursion은 Sanofi 협력에서 1000만 달러 마일스톤을 수령했다. Vanda의 사회불안장애 치료제는 3상에서 실패했다. Galderma는 ZO Skin Health를 15억 달러에 인수한다. Zealand는 Generate와 12억 달러 비만 단백질 계약을 체결했다. Verastem은 KRAS G12D 억제제 VS-7375의 초기 긍정 데이터를 공개했다.
+( )
+
+✨(In)sight
+최근 제약바이오 딜의 무게중심은 임상 자산 도입에서 AI 기반 초기 발굴로 이동하는 모습이다. Vir-Gilead, AstraZeneca-insitro, Zealand-Generate 모두 전임상 단계 계약으로 선급금은 3000만~9000만 달러에 그치지만 총 마일스톤은 12억~19억 달러에 달한다. 대조적으로 Revolution Medicines의 daraxonrasib은 췌장암 3상에서 OS 중앙값 13.2개월 대 6.7개월이라는 확정적 데이터로 유럽 승인을 앞두고 있다. 초기 플랫폼 기대감에 베팅하는 AI 신약개발주와 후기 임상 데이터로 검증된 신약주 간 격차가 뚜렷해지는 국면이며, Verastem의 KRAS G12D 데이터도 이 구도를 예고한다.
+
+#T세포인게이저 #AI신약개발 #RAS억제제 #비만치료제 #제약바이오딜
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/studying-investor/224443903218)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-16 17:37] [대신TV] AI 열풍의 예상치 못한 부작용, 보험업계가 흔들린다ㅣ경제는 성장한다는데, 왜 내 삶은 그대로일까?ㅣ인사이트아웃
+
+[📀📀📀**영상보기**📀📀📀](https://www.youtube.com/watch?v=lB9bWZJ9sv0)

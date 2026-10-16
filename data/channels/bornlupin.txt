@@ -363,3 +363,19 @@ https://x.com/DrNHJ/status/2110947930651652233?s=20
 **- 2026년 연간 실적 목표 상향 조정**
 
 **- 데이터센터 및 네트워크(Data Centre & Networks) 부문 수요가 세 자릿수 증가율을 기록**
+
+[2026-10-16 21:23] **NVIDIA RTX Spark PC 오늘 출시 — Windows PC의 새로운 시작**
+
+**하드웨어 (슈퍼칩 탑재):** NVIDIA Blackwell RTX GPU와 Grace CPU(미디어텍 협력 설계)를 하나로 합친 단일 슈퍼칩을 탑재했습니다.** 최대 128GB 통합 메모리와 1페타플롭(FP4) AI 성능을 얇고 가벼운 Windows 노트북에서 구현합니다.**
+
+**로컬 AI 에이전트:** 클라우드 연결이나 복잡한 명령어 없이도 **기기 자체에서 740억 파라미터 모델(Nemotron 3.5 Bolt)과 다양한 AI 에이전트(GitHub Copilot, Perplexity, Hermes 등)를 즉시 구동하고, 홈 네트워크의 다른 PC에 AI 연산을 공유**(NVIDIA PAIR)할 수 있습니다.
+
+**크리에이티브 (창작):** 배터리 상태에서도** 8K 영상 편집과 90GB급 대규모 3D 렌더링이 가능합니다. 어도비 포토샵·프리미어 네이티브 가속을 지원**하며, AI 영상을 60fps HDR로 변환하는 기능 등을 로컬에서 무료로 처리합니다.
+
+**개발 환경:** Windows on Arm 최초로 **네이티브 PyTorch-CUDA 및 Python을 기본 지원(주요 패키지 97% 호환)하여, 클라우드 없이 노트북 한 대로 AI 코딩·테스트·배포가 모두 가능**합니다.
+
+**게이밍:** **NVIDIA DLSS 5(3D 가이드 뉴럴 렌더링 탑재)를 통해 AAA급 최신 게임(__기어스 오브 워: E-Day__, __NBA 2K27__ 등)을 1440p 해상도, 100 FPS 이상으로 구동합니다.**
+
+**출시 및 가격:** **오늘(10월 16일) 전 세계 동시 출시되었으며, 시작가는 $2,599입니다. ASUS, Dell, HP, Lenovo, Microsoft, MSI의 주요 프리미엄 노트북 라인업으로 구매**할 수 있습니다.
+
+https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs

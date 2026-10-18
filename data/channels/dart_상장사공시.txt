@@ -1,4 +1,4 @@
-# 코스피/코스닥 전체 상장사 DART 공시 (2026-10-17 기준 최근 7일)
+# 코스피/코스닥 전체 상장사 DART 공시 (2026-10-18 기준 최근 7일)
 
 [APS]
   20261013: APS 주식등의대량보유상황보고서(일반)
@@ -587,8 +587,6 @@ Title: SFA반도체/반기보고서/2026.10.13
 
 URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-
 Markdown Content:
 코 SFA반도체
 
@@ -598,6 +596,52 @@ Markdown Content:
 *   첨부 
 
 문서목차
+
+    *   [정 정 신 고 (보고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+    *   [반 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [1. 일반사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [4. 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [5. 범주별 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [6. 매출채권 및 기타채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [7. 공정가치금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [8. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [9-1. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [9-2. 리스부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [10. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [11. 차입금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [12. 순확정급여부채(자산) (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [13. 자본잉여금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [14. 자본조정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000104#)
+            *   [15. 고객과의 계약에서 생기는 수익 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261
 
 
 [SG]

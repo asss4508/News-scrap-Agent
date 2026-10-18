@@ -1,8 +1,21 @@
-[2026-10-17 13:57] #수급
+[2026-10-18 15:46] 덕분에 한국의 Fwd P/E는 4.2배로 역대 최저
 
-[2026-10-17 13:58] VARA AI Fund had 9 employees and about $26.4B under management at the end of June, 16 months (!) after launching its hedge fund.
+[2026-10-18 17:04] #코어위브
 
-Rumor going around today that it blew up.
+시장은 코어위브가 망하고, 도미노 효과가 나타날 것으로 우려하며 주가에 반영 중
 
-[2026-10-17 15:36] **Memory prices.** "While memory equities have been hammered, DDR5 spot prices have continued moving higher. In other words, the stock market is pricing a deteriorating memory cycle that has yet to materialize in spot pricing."
-$DRAM
+다음 스텝은 누군가? 또는 엔비디아가 코어위브를 살려줄 것인가
+
+요약 : 코어위브가 존재해야 엔비디아가 빅테크들 대상으로 협상력 및 경쟁력이 유지된다. 따라서 엔비디아가 어떻게든 살려낼 것이다.
+
+[2026-10-18 17:15] #코어위브
+
+코어위브 우려할만큼은 아니다 근거들
+
+[2026-10-18 17:29] #물가 #금리 #중간선거 #코어위브
+
+**연말 랠리의 운명은 | 월가백브리핑**
+
+요약 : 이번에 CPI, PPI 높아졌는데 10월에 금리 동결? 동결했다가 11월에 나오는 10월 CPI 만약 높게 나오면 12월에 금리인상 50bp 하는 우려 생길수도. 그리고 11월 중간선거 끝나면 랠리 나온다는 기대가 있는데 만약에 민주당이 sweep해버리면 데이터센터 착공 규제/연기되면서 코어위브 문제 심각해질 수도 있다. 
+
+https://www.youtube.com/watch?v=7YCLtirCyd4

@@ -16,7 +16,7 @@ HEADERS = {
 }
 
 ARTICLE_SELECTORS = [
-    "#article-body-content", ".detail_editor", ".conPost",
+    "#article-body-content", ".news_cnt_detail_wrap", ".detail_editor", ".conPost",
     "#dic_area", "#articleBodyContents", "#articeBody", "#articleBody",
     ".article_body", ".news_body", "#newsct_article", "article",
     ".article-body", "#article_content", ".article-content",

@@ -21,6 +21,16 @@ def response(text, error=None):
 
 
 class LinkSummaryTests(unittest.TestCase):
+    def test_mk_article_body_is_extracted_without_navigation(self):
+        page = ('<meta property="og:title" content="MK article">'
+                '<nav>Unrelated navigation</nav>'
+                '<div class="news_cnt_detail_wrap">' + BODY + '</div>')
+        with patch.object(bot.requests, 'get', return_value=response(page)):
+            title, body = bot.fetch_article('https://www.mk.co.kr/news/business/12182880')
+        self.assertEqual(title, 'MK article')
+        self.assertIn('supply contract', body)
+        self.assertNotIn('Unrelated navigation', body)
+
     def test_http_403_uses_same_article_mobile_version(self):
         blocked = response('CloudFront 403', bot.requests.HTTPError())
         mobile = response('<meta property="og:title" content="Article title"><div class="conPost">' + BODY + '</div>')

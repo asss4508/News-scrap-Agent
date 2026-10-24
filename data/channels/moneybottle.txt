@@ -17,3 +17,9 @@
 - 대만이 마이크론 DRAM·HBM 상당 비중을 만듦
 
 - 실제 생산 차질로 번질지는 10/27 협상 결과가 갈림길로 보임
+
+[2026-10-24 21:05] Hot take from S.F. compute:
+
+“Within the next 6 months, most AI startups will not be able to buy compute. The world’s compute is sold out. To get capacity, you’ll need to sign up for a new cluster. However, it’s becoming increasingly difficult to get capacity online from folks who are not investment grade.
+
+Startups are not investment grade.”

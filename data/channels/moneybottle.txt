@@ -1,25 +1,19 @@
-[2026-10-24 02:30] Opus 5.5, astra 수준의 오픈소스 LLM
+[2026-10-25 09:42] 카카오나 네이버가 아직도 ai agent를 내놓지 않는다는게 그저 신기할 따름
 
-[2026-10-24 08:10] 일론머스크: 우크라이나 엘리트들은 수천억 달러 지원 자금으로 매우 부유해졌고 일반 국민들은 참호에서 징집되어 죽어가고 있다
+내놓기만 하면 초대박날텐데 왜 아직도…?
 
-대충 러우전쟁 끝내겠다는 신호가 머스크와 트럼프에게서 나오고 있습니다
+ai 시대의 해자는 모델보다 기존 서비스 플랫폼이 맞는것 같기도
 
-[2026-10-24 15:48] Just IN: 대만 마이크론 타오위안 노조, 협상 거절. 요구사항은 영업이익 15%를 성과급으로 달라 [source](https://x.com/melvininvests/status/2113880678937026912)
+[2026-10-25 14:24] 요즘 한국 경기 정말 안좋아진게 체감됩니다
 
-- 대만 언론, 타오위안 조합원 2,300명 넘는 인원 중 약 70%가 마이크론 새 보너스안 거부
+저는 쿠팡이츠, 배민라이더스 배달을 자주 하는데요
 
-- 대만 반도체 업계 첫 파업(금요일 오전 종료) 직후, **노조는 영업이익 15% 보너스 지급 요구하며 추가 행동 가능성 경고**
+배달콜 단가가 너무 많이 떨어졌어요
 
-- 더 큰 타이중 노조는 10/21 합의 완료(분기 이익배분 보너스 신설, 연금 납입률 8→10%)
+돈벌려고 목숨걸고 시간당 콜 12개씩 빼는데 콜당 단가가 4000원에서 2500원까지 떡락했습니다…
 
-- 타오위안 협상은 태풍으로 밀려 10/27 재개, 아직 생산 차질은 없음
+그럼에도 작년대비 콜갯수가 반도 안되는것 같아요 전세대출 이자내기도 벅차네요…
 
-- 대만이 마이크론 DRAM·HBM 상당 비중을 만듦
+자영업 하시는분들은 많이 체감되실것같아요
 
-- 실제 생산 차질로 번질지는 10/27 협상 결과가 갈림길로 보임
-
-[2026-10-24 21:05] Hot take from S.F. compute:
-
-“Within the next 6 months, most AI startups will not be able to buy compute. The world’s compute is sold out. To get capacity, you’ll need to sign up for a new cluster. However, it’s becoming increasingly difficult to get capacity online from folks who are not investment grade.
-
-Startups are not investment grade.”
+다들 화이팅입니다 ㅠㅠ

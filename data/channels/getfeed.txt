@@ -510,3 +510,638 @@ iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/1144
 
 출처: [📍네이버증권 리서치](https://stock.naver.com/research)
 Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 09:34] 노무라: AI 군비 경쟁 지속 확률 75%, 2027년 메모리 반도체 부족 사실상 확정
+
+📝 핵심적 본문 요약
+노무라 글로벌 메모리 리서치팀은 빅테크 AI 군비 경쟁이 치킨 게임 국면에 진입했으며 2027년 메모리 반도체 공급 부족과 가격 강세가 사실상 확정되었다고 분석했다. 2026년 10월 장기공급계약을 통해 2027년 물량과 가격이 이미 확정되었고 계약 취소 시 연간 수요 가치의 50~100% 위약금이 부과된다. 빅테크는 잉여현금흐름 적자에도 설비투자를 유지하며 외부 조달로 자금을 충당하고 있고 전력 부족은 수요 소멸이 아닌 배치 지연과 고효율 칩 및 HBM 가치 상승을 유발할 전망이다.
+(#좋은친구 #cybermw)
+
+✨(In)sight
+메모리 공급 부족이 계약으로 고정된 가운데 알파벳과 메타의 잉여현금흐름 적자 전환과 아마존의 설비투자 확대는 수요처의 현금흐름 악화와 공급자 우위라는 비대칭 구도를 만든다. 가격 강세가 실적 근거인지 기대감인지 구분하려면 장기공급계약 위약금 조항의 수요 가시성과 외부 자금 조달 시장 경색 여부를 함께 봐야 한다. 전력 병목은 수요를 지연시킬 뿐 소멸시키지 않으며 와트당 성능이 높은 차세대 칩과 고대역폭메모리 교체 수요를 자극해 메모리 업체의 영업레버리지를 확대할 가설이 성립한다.
+
+#메모리반도체 #AI군비경쟁 #장기공급계약 #HBM #잉여현금흐름
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/cybermw/224453789286)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-26 10:00] **1.📚 Top 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 삼성E&A, 입이 떡 벌어졌다면, 일단 매수
+한화투자증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97011)]
+조회수: 18,806
+
+🥈. 삼성E&A, 3Q26 Review: 실적과 수주 모두 한 단계 도약
+교보증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97010)]
+조회수: 15,118
+
+🥉. 삼성E&A, 4분기까지 약속한 서프
+하나증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97008)]
+조회수: 15,015
+
+🎖️. 삼성E&A, 실적, 수주, 주주환원: 뭐 하나 부족한 게 없다!
+유안타증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97004)]
+조회수: 14,916
+
+✋. 삼성E&A, 다시 봐도 놀라운 숫자와 자신감 + 자사주 공시
+미래에셋증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97001)]
+조회수: 14,649
+
+6️⃣. 삼성E&A, 건설업종 시총 1위의 위엄
+유진투자증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/96994)]
+조회수: 14,237
+
+7️⃣. 삼성E&A, 깜짝 놀랄 만한 실적
+대신증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/96998)]
+조회수: 13,957
+
+8️⃣. , 코어위브 사태, AI 투자의 끝을 의미하지 않는다
+한화투자증권(2026-10-21) [[링크](https://m.stock.naver.com/research/industry/46588)]
+조회수: 10,561
+
+9️⃣. 삼성E&A, 반복되는 서프라이즈, 그리고 훌륭한 주주환원
+iM증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/96995)]
+조회수: 9,777
+
+🔟. , 채권 Daily (2026.10.16)
+유안타증권(2026-10-16) [[링크](https://m.stock.naver.com/research/debenture/11404)]
+조회수: 9,434
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **2.📚 종목분석 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 우리금융지주, 영업이익 증가 중, 주주환원 강화 전망
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97022)]
+조회수: 504
+
+🥈. 삼성에스디에스, 자체 CF 탄탄, AIDC 투자로 밸류 성장성 가속화
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97018)]
+조회수: 422
+
+🥉. 우리금융지주, 3Q26 Review: 내년 주주환원율 50%만 확실하다면...
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97032)]
+조회수: 407
+
+🎖️. 우리금융지주, 3Q26 Review: 비용 관리 및 환율 효과로 은행 중심 호실적
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97017)]
+조회수: 404
+
+✋. 에이팩트, 낙수효과 가시화로 올해/내년 사상 최대 실적
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97020)]
+조회수: 402
+
+6️⃣. 한온시스템, 3Q26 Preview: 실적 개선과 신사업 가시화
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97025)]
+조회수: 401
+
+7️⃣. 하나금융지주, 3Q26 Review: NIM 하락에도 견조한 실적
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97021)]
+조회수: 388
+
+8️⃣. 현대그린푸드, 영업일수 감소에도 준수한 실적 전망
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97014)]
+조회수: 388
+
+9️⃣. 하나금융지주, 3Q26 Review: 비화폐성 환차익에 기반한 무난한 실적
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97016)]
+조회수: 385
+
+🔟. IPARK현대산업개발, 3Q26 Review: 수확의 시간
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97015)]
+조회수: 372
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **3.📚 산업분석 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 기타) [AI Money Map 04] 미국 중간선거에 따른 데이터센터 산업 변화 시나리오
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46616)]
+조회수: 253
+
+🥈. 석유화학) 기름뿜뿜 Weekly: 미국산 LNG 장기구매에 나선 카타르, 그 이례적 행보의 시사점
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46617)]
+조회수: 223
+
+🥉. 조선) HD현대, 그린필드로 미국 진출한다
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46619)]
+조회수: 207
+
+🎖️. 철강금속) 신한 자동차/철강금속 Weekly (2026.10.23)
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46615)]
+조회수: 182
+
+✋. 기타) [IBKS Monthly] 2026 IBKS Insight Monthly (11)
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46618)]
+조회수: 161
+
+6️⃣. 음식료) 키움 음식료 Weekly (10/26)
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46621)]
+조회수: 152
+
+7️⃣. 기타) 키움 엔터테인먼트 Weekly: 10월5주차
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46623)]
+조회수: 139
+
+8️⃣. 게임) [IBKS Daily] 인터넷/게임
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46622)]
+조회수: 133
+
+9️⃣. 제약) Kiwoom Healthcare 종합정리 (10/26)
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46624)]
+조회수: 131
+
+🔟. 기타) 디레버리징 속 코스닥 지수 반등의 조건
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46625)]
+조회수: 113
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **4.📚 경제분석 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 악재에도 1,300원으로 향하는 달러-원
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13944)]
+조회수: 174
+
+🥈. 신한 FX Check-up
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13941)]
+조회수: 169
+
+🥉. 신한 Econ Check-up
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13942)]
+조회수: 155
+
+🎖️. 장대한 분노, 악재의 정점이 될까?
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13943)]
+조회수: 119
+
+✋. 10/26, Kiwoom Morning Letter
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13945)]
+조회수: 19
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **5.📚 데일리 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 10/23 KB 리서치 장마감코멘트
+KB증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37915)]
+조회수: 247
+
+🥈. 주간 증시 브리핑
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37919)]
+조회수: 181
+
+🥉. [IBKS Daily] Morning Brief(261026)
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37921)]
+조회수: 155
+
+🎖️. 10/26 KB 리서치 모닝코멘트
+KB증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37922)]
+조회수: 132
+
+✋. [Market Nowcast] 불리한 2지선다
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37918)]
+조회수: 120
+
+6️⃣. 국내 주식 마감 시황 - 위험 기피에도 반도체가 지킨 5,500선 (10월 23일)
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37917)]
+조회수: 116
+
+7️⃣. Global Platform Weekly(10월 4주차); AI 투자 회수 우려로 전체 급락
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37913)]
+조회수: 106
+
+8️⃣. 글로벌 소비재 Weekly(10월 4주차); 방어주 순환매 지속
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37914)]
+조회수: 100
+
+9️⃣. SK증권 Global Carbon Market Daily_261026
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37920)]
+조회수: 98
+
+🔟. 신한 해외주식 Weekly (10월 23일)
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/daily/37916)]
+조회수: 94
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **6.📚 투자전략 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 키움 글로벌 키차트(10월 3주)
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40571)]
+조회수: 185
+
+🥈. Weekly Guide Book(2026/10/23); 물가 경계와 AI 성장 우려 교차
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40570)]
+조회수: 121
+
+🥉. 10/26 달러, 지표 호조 속 강세
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40572)]
+조회수: 43
+
+🎖️. Equity Strategy - 자금쟁탈전의 부작용
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40574)]
+조회수: 36
+
+✋. 10/26, Kiwoom Weekly_또 한 번의 증시 분기점, 슈퍼위크
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40573)]
+조회수: 34
+
+6️⃣. [IBKS Daily] Start with IBKS(2026.10.26) 재차 격화하는 중동정세에 국제유가는 급등
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/invest/40575)]
+조회수: 14
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:00] **7.📚 채권분석 리포트**(10-26 10:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 27년 전망 Re: 위상도로 본 연말연시 계절성
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11448)]
+조회수: 94
+
+🥈. 글로벌 크레딧 리스크 모니터 11월호: B와 D 사이의 C (2)
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11449)]
+조회수: 75
+
+🥉. Eugenes FICC Update
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11453)]
+조회수: 50
+
+🎖️. 10월 FOMC Preview: 긴축의 끝은 아닌 동결
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11451)]
+조회수: 38
+
+✋. 40bp에서 10bp로, 초장기채 강세의 다음 조건
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11450)]
+조회수: 35
+
+6️⃣. 10/26 Kiwoom Fixed Income Weekly Review
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11452)]
+조회수: 25
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 10:06] 해외 금융시장해외 금융시장
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37099&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 국내 금융시장국내 금융시장
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37098&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 부동산: 주택시장 거래 위축에 주담대 증가세 둔화부동산: 주택시장 거래 위축에 주담대 증가세 둔화
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37097&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 외환: 대외적 원화 약세 요인에도 강세 지속외환: 대외적 원화 약세 요인에도 강세 지속
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37096&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 금리 : 속도조절하는 금통위, 韓 국채 매력도 부각금리 : 속도조절하는 금통위, 韓 국채 매력도 부각
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37095&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] Plaid, AI 기반 신용평가 모델 고도화Plaid, AI 기반 신용평가 모델 고도화
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37094&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] Erebor Bank, 기술기업 특화 전략으로 고속 성장 Erebor Bank, 기술기업 특화 전략으로 고속 성장
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37093&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 증권업 규제에 따른 경쟁구도 변화와 향후 전략증권업 규제에 따른 경쟁구도 변화와 향후 전략
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37092&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 확장 재정과 통화 긴축, 엇박자가 아닌 역할 분담확장 재정과 통화 긴축, 엇박자가 아닌 역할 분담
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37091&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:06] 하나금융포커스 [제16권 20호]하나금융포커스 [제16권 20호]
+2026-10-26
+출처: 하나금융연구소
+
+[📜**본문보기**📜](https://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=37090&menuId=MN2000&tabMenuId=MN2100&srchNm=ALL)
+
+[2026-10-26 10:11] **📝. 북한, 유엔 안보리에 서한…DMZ 지뢰 폭발 주장은 한국의 조작이라 주장**
+__Disclaimer: 면책고지, 모든 메세지는 벡터 기반 분산 표상형으로 작성 등의 사유로 착오가 발생할 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.__ [(증권사 채널 등 100개 추가하기)](https://t.me/addlist/f_sOeST6QOYxYjQ1)
+
+Pyongyang Claims South Korea Fabricated DMZ Mine Blast Allegations in Letter to UN Security Council
+
+
+코멘트:
+북한의 유엔 안보리 직접 서한은 남북 간 신뢰 구축의 구조적 한계를 드러내며, DMZ 내 사건을 둘러싼 진상 공방이 국제 무대에서 재점화될 경우 역내 안보 불확실성이 증폭될 수 있다.
+
+#북한 #유엔안보리 #DMZ #지뢰폭발 #남북관계
+
+[Gemini 기반 추가 조사🔍](https://www.google.com/search?q=%20%22%EB%B6%81%ED%95%9C%2C%20%EC%9C%A0%EC%97%94%20%EC%95%88%EB%B3%B4%EB%A6%AC%EC%97%90%20%EC%84%9C%ED%95%9C%E2%80%A6DMZ%20%EC%A7%80%EB%A2%B0%20%ED%8F%AD%EB%B0%9C%20%EC%A3%BC%EC%9E%A5%EC%9D%80%20%ED%95%9C%EA%B5%AD%EC%9D%98%20%EC%A1%B0%EC%9E%91%EC%9D%B4%EB%9D%BC%20%EC%A3%BC%EC%9E%A5%22%20%0A%0A%0ASearch%20and%20retrieve%20the%20latest%20news%20about%20within%20the%20last%203%20days%20from%20today%20%282026-10-26%2C%20GMT%2B9%29.%F0%9F%9A%A8%20Data%20Filtering%20Criteria%3A-%20Source%3A%20ONLY%20use%20mainstream%20global%20financial%20media%20%28e.g.%2C%20Bloomberg%2C%20Reuters%2C%20WSJ%2C%20CNBC%2C%20FT%29%20or%20official%20government%20press%20releases%20and%20websites.-%20Exclusion%3A%20Completely%20exclude%20AI-generated%20spam%20sites%2C%20automated%20crawlers%2C%20personal%20finance%20blogs%2C%20and%20low-credibility%20scrapers.%20Do%20not%20use%20them%20as%20sources.%F0%9F%9A%A8%20Output%20Format%20%26%20Language%20Requirements%3A%201.%20References%20First%3A%20You%20MUST%20list%20all%20the%20found%20articles%20%28including%20Title%2C%20Source%2C%20and%20Date%29%20at%20the%20VERY%20TOP%20of%20your%20response%20before%20presenting%20the%20rest%20of%20the%20search%20results.%202.%20Language%3A%20ALL%20of%20your%20response%2C%20including%20the%20article%20list%20and%20details%2C%20MUST%20be%20written%20entirely%20in%20Korean%20%28%ED%95%9C%EA%B5%AD%EC%96%B4%29.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&udm=50)
+
+(Insight: @hyperspect | Source: [@firstsquaw](https://t.me/firstsquaw/187468))
+
+[2026-10-26 11:00] [단기예보] 기상청 통보문
+2026년 10월 26일 (월)요일 11:00 발표□ (종합) 내일 밤부터 기온 낮아 춥겠음, 내일 전국 바람 강, 풍랑.너울 유의
+ 
+○ (오늘, 26일) 전국 대체로 흐리다가 오후부터 가끔 구름많음,
+   낮(12~15시)까지 제주도 곳에 따라 비,
+   낮(12~15시)까지 수도권과 강원내륙.산지, 전남권, 경북중.북부, 경북남부동해안, 부산.울산, 늦은 오후(15~18시)에 제주도 곳에 따라 0.1mm 미만 빗방울
+ 
+○ (내일, 27일) 전국 대체로 맑겠으나, 새벽에 가끔 구름많음
+ 
+○ (모레, 28일) 전국 대체로 맑음
+ 
+○ (글피, 29일) 전국 대체로 맑다가 오후부터 차차 흐려짐,
+   밤(18~24시)에 수도권과 강원내륙, 충청권 곳에 따라 비
+
+* 예상 강수량(26일)
+- (제주도) 제주도: 5mm 안팎
+
+
+※ 특보 및 예비특보 발표현황은 아래의 사이트를 참고하시기 바랍니다.
+- 기상청 날씨누리(www.weather.go.kr)
+- 방재기상정보시스템(afso.kma.go.kr)
+※ 특정관리해역 특보현황(afso.kma.go.kr/m/wrnSpec.jsp)
+
+[2026-10-26 11:06] 최근 미장의 돈이 몰려가는 곳
+
+📝 핵심적 본문 요약
+AI와 반도체 중심의 강세장에서 소외됐던 버크셔 해서웨이 B주가 최근 S&P 500 대비 수익률을 역전하며 시장의 도피처로 부상하고 있다. 버크셔는 전체 주식보다 많은 3,592억달러의 현금성 자산을 미국 단기국채로 보유해 금리 수익을 확보하고 있다. 과거 닷컴버블 붕괴와 2018년, 2022년 하락장에서도 방어력을 입증한 패턴이 재현되는 모습이다.
+(#메르 #ranto28)
+
+✨(In)sight
+버크셔 B주의 최근 상대적 강세를 실적이 아닌 수급과 기대감의 산물로 규정하는 가설을 세워볼 수 있다. 반도체 주도 장세에서 자금이 이탈해 전통 산업 비중이 높고 단기국채 현금을 축적한 버크셔로 유입되는 시소게임이 수익률 역전을 만들었다는 근거가 이를 뒷받침한다. 다만 애플과 알파벳 등 빅테크 비중이 포트폴리오의 35%에 달해 방어 자산이라는 인식과 실제 구성 간 괴리가 존재한다. 강세장 소외와 약세장 방어라는 반복 패턴이 이번에도 실적이 아닌 심리적 안전판 수요에 기대고 있는지 검증이 필요한 시점이다.
+
+#버크셔해서웨이 #S #AI반도체 #현금성자산 #방어주
+
+[📜📜📜**원문보기**📜📜📜](https://blog.naver.com/ranto28/224453621617)
+※※※채널 내 모든 내용은 부정확할 가능성 있고, 투자책임 없음. 최종 판단은 직접 하시오.※※※
+
+[2026-10-26 11:20] **AI 사용 확산에 UC Berkeley 수학 교수, “과제 채점에 의미 없다”**
+
+- UC 버클리의 필즈상 수상자 Richard Borcherds 교수가 학생들의 AI 사용으로 높은 과제 점수가 이어지자, 정답 대신 완료 여부로 점수를 주는 방식으로 전환  
+- AI 사용을 피할 수 없는 상황에서 정답 채점에 인건비를 쓸 의미가 없다는 판단이며, 완료 여부 평가도 좋은 제도는 아니지만 당장은 대안이 없다고 인정  
+- 현재 발전 속도가 유지된다면 몇 년 안에 AI가 인간 수학자의 모든 일을 더 잘하게 될 것으로 전망하며, 학생에게 수학 진로를 권할지도 확신하지 못하는 상황  
+- UC 버클리는 강의계획서에 AI 사용 기준을 명…
+
+https://news.hada.io/topic?id=35990
+
+[2026-10-26 12:00] **1.📚 Top 리포트**(10-26 12:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 삼성E&A, 입이 떡 벌어졌다면, 일단 매수
+한화투자증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97011)]
+조회수: 19,486
+
+🥈. 삼성E&A, 3Q26 Review: 실적과 수주 모두 한 단계 도약
+교보증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97010)]
+조회수: 15,504
+
+🥉. 삼성E&A, 4분기까지 약속한 서프
+하나증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97008)]
+조회수: 15,370
+
+🎖️. 삼성E&A, 실적, 수주, 주주환원: 뭐 하나 부족한 게 없다!
+유안타증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97004)]
+조회수: 15,279
+
+✋. 삼성E&A, 다시 봐도 놀라운 숫자와 자신감 + 자사주 공시
+미래에셋증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97001)]
+조회수: 14,917
+
+6️⃣. , Weekly Credit Monitor
+신한투자증권(2026-10-20) [[링크](https://m.stock.naver.com/research/debenture/11418)]
+조회수: 9,033
+
+7️⃣. , 이번 주 포커 s
+대신증권(2026-10-21) [[링크](https://m.stock.naver.com/research/invest/40544)]
+조회수: 8,076
+
+8️⃣. 엘앤에프, 환율 및 광물 가격 하락으로 인한 적자
+하나증권(2026-10-23) [[링크](https://m.stock.naver.com/research/company/97007)]
+조회수: 7,821
+
+9️⃣. , Daily Bond Morning Brief(2026.10.21)
+다올투자증권(2026-10-21) [[링크](https://m.stock.naver.com/research/debenture/11424)]
+조회수: 7,781
+
+🔟. , Eugenes FICC Update
+유진투자증권(2026-10-21) [[링크](https://m.stock.naver.com/research/debenture/11425)]
+조회수: 7,756
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 12:00] **2.📚 종목분석 리포트**(10-26 12:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 우리금융지주, 3Q26 Review: 내년 주주환원율 50%만 확실하다면...
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97032)]
+조회수: 825
+
+🥈. 한온시스템, 3Q26 Preview: 실적 개선과 신사업 가시화
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97025)]
+조회수: 808
+
+🥉. 삼성에스디에스, 자체 CF 탄탄, AIDC 투자로 밸류 성장성 가속화
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97018)]
+조회수: 791
+
+🎖️. 우리금융지주, 영업이익 증가 중, 주주환원 강화 전망
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97022)]
+조회수: 769
+
+✋. IPARK현대산업개발, 높아진 수익성에 매출 성장이 더해지는 시점
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97024)]
+조회수: 722
+
+6️⃣. 서진시스템, 정상화되는 방향성에 집중하자
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97027)]
+조회수: 716
+
+7️⃣. 넥센타이어, 3Q26 Preview: 환율, 원가 상승 영향
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97023)]
+조회수: 706
+
+8️⃣. LG디스플레이, 비우호적 대외환경 속 인고의 시간
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97029)]
+조회수: 701
+
+9️⃣. 한국타이어앤테크놀로지, 3Q26 Preview: 수익성 방어 능력 입증
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97028)]
+조회수: 695
+
+🔟. 에이팩트, 낙수효과 가시화로 올해/내년 사상 최대 실적
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/company/97020)]
+조회수: 684
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 12:00] **3.📚 산업분석 리포트**(10-26 12:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 기타) [AI Money Map 04] 미국 중간선거에 따른 데이터센터 산업 변화 시나리오
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46616)]
+조회수: 369
+
+🥈. 제약) Kiwoom Healthcare 종합정리 (10/26)
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46624)]
+조회수: 355
+
+🥉. 음식료) 키움 음식료 Weekly (10/26)
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46621)]
+조회수: 345
+
+🎖️. 기타) 키움 엔터테인먼트 Weekly: 10월5주차
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46623)]
+조회수: 341
+
+✋. 게임) [IBKS Daily] 인터넷/게임
+IBK투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46622)]
+조회수: 331
+
+6️⃣. 조선) HD현대, 그린필드로 미국 진출한다
+SK증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46619)]
+조회수: 330
+
+7️⃣. 석유화학) 기름뿜뿜 Weekly: 미국산 LNG 장기구매에 나선 카타르, 그 이례적 행보의 시사점
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46617)]
+조회수: 317
+
+8️⃣. 에너지) Next Energy(Power & Battery Weekly) - LMP 모의 결과 공개, 민자발전 부담 증가
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46628)]
+조회수: 297
+
+9️⃣. 기타) 방산, 낙폭 과대 구간 점검
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46634)]
+조회수: 263
+
+🔟. 철강금속) 신한 자동차/철강금속 Weekly (2026.10.23)
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/industry/46615)]
+조회수: 252
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 12:00] **4.📚 경제분석 리포트**(10-26 12:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. 신한 FX Check-up
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13941)]
+조회수: 351
+
+🥈. 신한 Econ Check-up
+신한투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13942)]
+조회수: 339
+
+🥉. 악재에도 1,300원으로 향하는 달러-원
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13944)]
+조회수: 325
+
+🎖️. 장대한 분노, 악재의 정점이 될까?
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13943)]
+조회수: 241
+
+✋. 10/26, Kiwoom Morning Letter
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13945)]
+조회수: 125
+
+6️⃣. 후반전을 향해
+대신증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13946)]
+조회수: 121
+
+7️⃣. [2027년 경제 및 외환시장 전망] 높아지는 문턱
+한화투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/economy/13947)]
+조회수: 77
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.
+
+[2026-10-26 12:00] **5.📚 채권분석 리포트**(10-26 12:00 기준)
+
+** ────── ▼ 클릭 후 확인 ──────**
+
+🏆. Eugenes FICC Update
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11453)]
+조회수: 220
+
+🥈. Daily Bond Morning Brief(2026.10.23)
+다올투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11455)]
+조회수: 159
+
+🥉. Daily Bond Morning Brief(2026.10.26)
+다올투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11456)]
+조회수: 158
+
+🎖️. 27년 전망 Re: 위상도로 본 연말연시 계절성
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11448)]
+조회수: 144
+
+✋. 채권 Daily (2026.10.26)
+유안타증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11459)]
+조회수: 136
+
+6️⃣. 글로벌 크레딧 리스크 모니터 11월호: B와 D 사이의 C (2)
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11449)]
+조회수: 119
+
+7️⃣. 10월 FOMC Preview: 긴축의 끝은 아닌 동결
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11451)]
+조회수: 86
+
+8️⃣. 40bp에서 10bp로, 초장기채 강세의 다음 조건
+iM증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11450)]
+조회수: 84
+
+9️⃣. 10/26 Kiwoom Fixed Income Weekly Review
+키움증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11452)]
+조회수: 71
+
+🔟. FI Weekly - 중앙은행, 잠깐의 휴식
+유진투자증권(2026-10-26) [[링크](https://m.stock.naver.com/research/debenture/11454)]
+조회수: 59
+
+출처: [📍네이버증권 리서치](https://stock.naver.com/research)
+Disclaimer: 면책고지, 모든 메세지 확인 없고 착오가 중대하게 있을 수 있음. 모든 투자 책임은 투자자 본인에게 일체 귀속됨.

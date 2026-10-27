@@ -41,3 +41,30 @@ https://youtu.be/11MTsXeMmaI
 - 그렇다면 향후 예상되는 방향성은 **모델랩과 빅테크의 컴퓨팅인프라에 대한 지속 확보노력**
 
 - 앤스로픽 S-1은 AI 주식들의 회복에 핵심 트리거가 될 수 있다고 생각
+
+[2026-10-27 16:33] https://m.etnews.com/20261026000283?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D&fbclid=IwdGRjcAVNMyJjbGNrBU0zGGV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeQAGAGysl4-3QWyieegyLhOLq4FI3uUEQKMTHq9vRXKHSG1ms9JM-3b3eTVY_aem_o3xf1ueHky7lU4G-qL1Bmw
+
+[2026-10-27 17:20] [SK증권 반도체 한동희, 손 건]
+
+**中 빅테크 알리바바·텐센트·바이트댄스, 삼성전자·SK하이닉스에 D램 장기계약 요청
+
+▶️ 장기공급계약(LTA) 요청 개요**
+
+- 알리바바·텐센트·바이트댄스 등 중화권 대형 CSP, 삼성전자·SK하이닉스에 서버용 메모리 LTA 타진
+- 통상 3~5년인 계약기간을 넘어, 일부 고객은 2035년까지 10년간 공급하는 초장기 계약 요구
+- 미국 빅테크가 이미 LTA로 물량을 확보한 가운데 중국 CSP도 서버용 메모리 확보전에 가세
+**
+▶️ 요청 품목 및 배경
+**
+- 요청 품목: 서버용 DDR, 저전력 DDR(LPDDR)
+- LPDDR은 AI 서버 전력효율 제고 목적에 메모리 공급난이 겹쳐 확보 대상에 포함
+- 가격 부담을 감수하더라도 물량을 먼저 확보하는 것이 AI 시장 주도권 확보에 중요하다는 판단
+
+▶️ URL: https://buly.kr/5UKq0Z2
+
+* SK증권 리서치 IT팀 채널 :
+https://t.me/skitteam
+
+[2026-10-27 17:21] * 10년 LTA를 한다는 말은 CXMT가 아무리 잘 만들고 많이 만들어줘도 중국에 메모리가 턱없이 부족하다는 의미
+
+-> 이로써 중국 공급과잉 우려는 해소될듯

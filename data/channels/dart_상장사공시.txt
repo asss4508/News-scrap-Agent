@@ -1,4 +1,4 @@
-# 코스피/코스닥 전체 상장사 DART 공시 (2026-11-15 기준 최근 7일)
+# 코스피/코스닥 전체 상장사 DART 공시 (2026-11-16 기준 최근 7일)
 
 [3S]
   20261112: 3S 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
@@ -368,6 +368,68 @@ Markdown Content:
   20261110: CJ씨푸드 영업(잠정)실적(공정공시)
 
 [CJ제일제당]
+  20261116: CJ제일제당 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: CJ제일제당/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720
+
+Markdown Content:
+유 CJ제일제당
+
+현재목차 전체문서 선택
+
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [1. 일반사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [4. 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [5. 공동기업 및 관계기업 투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [6. 매각예정자산 및 부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [7. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [8. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [9. 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [10. 리스부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [11. 차입금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [12. 사채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [13. 퇴직급여 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [14. 우발채무와 약정사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [15. 비용의 성격별 분류 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [16. 판매비와관리비 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [17. 법인세비용 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000720#)
+            *   [18-1. 이익잉여금 (연결)](https://dart.fss.or.kr/dsaf001/main
+
   20261110: CJ제일제당 연결재무제표기준영업(잠정)실적(공정공시)
   20261109: CJ제일제당 특수관계인과의내부거래
   20261109: CJ제일제당 동일인등출자계열회사와의상품ㆍ용역거래변경
@@ -457,6 +519,68 @@ Markdown Content:
   20261109: DB손해보험 주식등의대량보유상황보고서(일반)
 
 [DB증권]
+  20261116: DB증권 [기재정정]일괄신고서(기타파생결합증권)
+  20261116: DB증권 [기재정정]일괄신고서(기타파생결합사채)
+  20261116: DB증권 [기재정정]일괄신고서(파생결합사채-주가연계파생결합사채)
+  20261116: DB증권 [기재정정]일괄신고서(파생결합증권-주가연계증권)
+  20261116: DB증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: DB증권/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216
+
+Markdown Content:
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [2. 영업의 현황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [3. 파생상품거래 현황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [4. 영업설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [5. 재무건전성 등 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [1. 일반사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [2. 연결재무제표 작성기준 및 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [4. 위험관리 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [5. 영업부문 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [6. 범주별 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [7. 현금및현금성자산, 8. 사용이 제한된 예금 등 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [9. 당기손익-공정가치측정금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [10. 기타포괄손익-공정가치측정금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [11. 상각후원가측정금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [12. 관계기업 투자자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [13. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [14. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [15. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [16-1. 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [16-2. 리스부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [17. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [18. 담보로 제공하거나 제공받은 자산의 내용 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   [19. 당기손익-공정가치측정금융부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000216#)
+            *   
+
   20261113: DB증권 증권발행실적보고서
   20261113: DB증권 증권발행실적보고서
   20261113: DB증권 증권발행실적보고서
@@ -666,6 +790,70 @@ Markdown Content:
         *   [2. 내부통제에 관한 사항](https://dart.fss.or.kr/dsaf001/main.
 
 
+[DH오토웨어]
+  20261116: DH오토웨어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: DH오토웨어/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489
+
+Markdown Content:
+코 DH오토웨어
+
+현재목차 전체문서 선택
+
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [1. 일반 사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [4. 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [5. 범주별 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [6. 영업부문 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [7. 현금및현금성자산과 사용제한 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [8. 매출채권 및 수취채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [9. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [10. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [11. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [12. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [13. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [14. 담보제공자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [15. 매입채무 및 미지급금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [16. 차입금 등 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [17. 충당부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000489#)
+            *   [18. 기타부채 (연결)](https://dart.fss.or.kr/dsaf001/mai
+
+
 [DKME]
   20261109: DKME 소송등의판결ㆍ결정
 
@@ -804,6 +992,70 @@ Markdown Content:
   20261112: DMS 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: DMS 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: DMS 주식등의대량보유상황보고서(일반)
+
+[DN오토모티브]
+  20261116: DN오토모티브 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: DN오토모티브/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242
+
+Markdown Content:
+유 DN오토모티브
+
+현재목차 전체문서 선택
+
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [1.일반적사항, 2.재무제표 작성기준 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [3. 중요한 회계정책 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [4. 현금및현금성자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [5. 사용제한금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [6. 매출채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [7. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [8. 기타금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [9. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [10. 장기투자증권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [11. 관계기업투자주식 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [12. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [13. 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [14. 영업권 및 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [15. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [16. 담보제공자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [17. 매각예정자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [18. 차입금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000242#)
+            *   [19. 파생상품 (연결)](https://dart.fss.or.kr/dsaf001
+
 
 [DSC인베스트먼트]
   20261113: DSC인베스트먼트 [기재정정]주요사항보고서(유형자산양수결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -1303,6 +1555,74 @@ Markdown Content:
 [GC메디아이]
   20261109: GC메디아이 연결재무제표기준영업(잠정)실적(공정공시)
 
+[GH신소재]
+  20261116: GH신소재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: GH신소재/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144
+
+Markdown Content:
+코 GH신소재
+
+현재목차 전체문서 선택
+
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [4. 재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [4-1. 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [4-2. 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [4-3. 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+            *   [4-4. 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+        *   [5. 재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [6. 배당에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [7. 증권의 발행을 통한 자금조달에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [8. 기타 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+    *   [IV. 이사의 경영진단 및 분석의견](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [1. 예측정보에 대한 주의사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [2. 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [3. 재무상태 및 영업실적](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [4. 유동성 및 자금조달과 지출](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [5. 부외거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [6. 그 밖에 투자의사결정에 필요한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+
+    *   [V. 회계감사인의 감사의견 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [1. 외부감사에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000144#)
+        *   [2. 내부통제에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do
+
+
 [GKL]
   20261113: GKL 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   [전문 요약]
@@ -1436,6 +1756,71 @@ Markdown Content:
     *   [VI. 이사회 등 회사의 기관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001072#)
         *   [1. 이사회에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do
 
+
+[GST]
+  20261116: GST 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: GST/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284
+
+Markdown Content:
+코 GST
+
+현재목차 전체문서 선택
+
+*   본문 
+*   첨부 
+
+문서목차
+
+    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [1. 회사의 개요 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [2. 연결재무제표 작성기준 및 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [3. 위험관리 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [4. 영업부문 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [5. 현금 및 현금성자산, 장·단기 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [6. 금융상품의 범주별 분류 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [7. 공정가치금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [8. 매출채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [9. 기타금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [10. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [11. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [12. 관계기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [13. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [14. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [15. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [16. 매각예정비유동자산·부채 및 중단영업 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [17. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284#)
+            *   [18. 차입금 (연결)](https://dart.fss.or.kr
+
+  20261116: GST 주식등의대량보유상황보고서(일반)
 
 [GS건설]
   20261113: GS건설 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -1573,6 +1958,59 @@ Markdown Content:
   20261112: GS글로벌 연결재무제표기준영업(잠정)실적(공정공시)
 
 [GS리테일]
+  20261116: GS리테일 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  [전문 요약]
+Title: GS리테일/분기보고서/2026.11.16
+
+URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097
+
+Markdown Content:
+*   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+
+    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+
+    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+
+        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [1. 연결대상기업의 개요 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-1. 연결재무제표의 작성기준 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [2-2. 연결재무제표의 작성기준 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [3. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [4. 영업부문 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [5. 현금및현금성자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [6. 사용이 제한된 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [7-1. 매출채권및기타채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [7-2. 매출채권및기타채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [8. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [9. 기타비금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [10-1. 기타금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [10-2. 기타금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [11. 공동기업 및 관계기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [12-1. 유형자산, 무형자산, 투자부동산 및 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [12-2. 유형자산, 무형자산, 투자부동산 및 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [12-3. 유형자산, 무형자산, 투자부동산 및 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000097#)
+            *   [12-4. 
+
   20261112: GS리테일 동일인등출자계열회사와의상품ㆍ용역거래변경
 
 [GS피앤엘]
@@ -1639,332 +2077,26 @@ Markdown Content:
             *   [14-1. 기타부채 (연결)](https
 
 
+[HB솔루션]
+  20261116: HB솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [HB인베스트먼트]
   20261113: HB인베스트먼트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HB인베스트먼트/분기보고서/2026.11.13
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814
-
-Markdown Content:
-코 HB인베스트먼트
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 영업의 현황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [3. 파생상품거래 현황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [4. 영업설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [5. 재무건전성 등 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [4. 재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-            *   [4-1. 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-            *   [4-2. 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-            *   [4-3. 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-            *   [4-4. 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-        *   [5. 재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [6. 배당에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [7. 증권의 발행을 통한 자금조달에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [8. 기타 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [IV. 이사의 경영진단 및 분석의견](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 예측정보에 대한 주의사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [3. 재무상태 및 영업실적](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [4. 유동성 및 자금조달과 지출](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [5. 부외거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [6. 그 밖에 투자의사결정에 필요한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [V. 회계감사인의 감사의견 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 외부감사에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 내부통제에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [VI. 이사회 등 회사의 기관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [1. 이사회에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [2. 감사제도에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-        *   [3. 주주총회 등에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-
-    *   [VII. 주주에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000814#)
-    *   [VIII. 임원 및 직원 등에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo
-
 
 [HB테크놀러지]
   20261113: HB테크놀러지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HB테크놀러지/분기보고서/2026.11.13
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134
-
-Markdown Content:
-코 HB테크놀러지
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [1. 회사의 개요 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [4. 금융상품 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [5. 현금 및 현금성자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [6. 단기금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [7. 당기손익금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [8. 기타포괄손익금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [9. 파생금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [10. 매출채권(계약자산 포함) 및 기타채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [11. 관계기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [12. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [13. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [14. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [15. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [16. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [17. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001134#)
-            *   [18. 매입채무 및 기타채무 (연결)](https://dart.fss
-
 
 [HDC]
   20261113: HDC [기재정정]회생절차개시결정
   20261113: HDC 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HDC/분기보고서/2026.11.13
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279
-
-Markdown Content:
-유 HDC
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2-2. 연결 손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2-3. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2-4. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2-5. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [1. 일반 사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [4. 재무위험관리 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [5. 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [6. 부문별 정보 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [7. 매출채권, 미청구공사 및 기타수취채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [8. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [9. 관계기업 및 공동기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [10. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [11.1. 리스(자산) (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [11.2. 리스(부채) (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [12. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [13. 담보제공자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [14.1. 기타채무 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [14.2. 기타채무-기타부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001279#)
-            *   [15.1. 차입금 (연결)](https://dart.fss.or.kr/d
-
   20261109: HDC 투자판단관련주요경영사항(자회사의 주요경영사항)
 
 [HDC랩스]
+  20261116: HDC랩스 주식소각결정
   20261112: HDC랩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HDC랩스/분기보고서/2026.11.12
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563
-
-Markdown Content:
-유 HDC랩스
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [1. 일반사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [4. 금융상품 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [5. 범주별 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [6. 현금및현금성자산 및 장ㆍ단기금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [7. 공정가치금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [8. 매출채권 및 기타상각후원가 금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [9. 고객과의 계약에서 생기는 수익 및 계약자산과 계약부채, 10. 건설계약 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [11. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [12. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [13. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [14. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [15. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [16. 차입금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [17. 퇴직급여 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [18. 법인세비용 및 이연법인세 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000563#)
-            *   [1
-
 
 [HDC현대EP]
   20261113: HDC현대EP 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HDC현대EP/분기보고서/2026.11.13
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677
-
-Markdown Content:
-유 HDC현대EP
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2-2. 연결 손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2-3. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2-4. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2-5. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [1. 일반사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [2. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [3. 중요한 회계추정 및 가정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [4. 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [5. 부문별 정보 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [6. 매출채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [7. 기타수취채권 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [8. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [9. 공동기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [10. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [11. 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [12. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [13. 담보제공자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [14. 매입채무와 기타지급채무 및 기타부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [15. 차입금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [16. 충당부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001677#)
-            *   [17. 순확정급여부채(자산) (연결)](https://dart.fss.or.kr/dsaf001/main.d
-
 
 [HD건설기계]
   20261112: HD건설기계 동일인등출자계열회사와의상품ㆍ용역거래변경
@@ -1980,67 +2112,6 @@ Markdown Content:
 
 [HD현대마린솔루션]
   20261113: HD현대마린솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HD현대마린솔루션/분기보고서/2026.11.13
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467
-
-Markdown Content:
-유 HD현대마린솔루션
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [2-2. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [2-3. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [2-4. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [1. 연결대상회사의 개요 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [2. 재무제표 작성기준 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [3. 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [4. 위험관리 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [5. 현금및현금성자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [6. 장ㆍ단기금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [7. 사용이 제한된 금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [8. 매출채권및기타채권과 계약자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [9. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [10. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [11. 영업부문 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [12. 관계기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [13. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [14. 사용권자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [15. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [16. 리스부채 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [17. 매입채무및기타채무 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467#)
-            *   [18. 주식기준보상 (연결)](https://dart.fss.or.kr/d
-
   20261113: HD현대마린솔루션 동일인등출자계열회사와의상품ㆍ용역거래변경
   20261110: HD현대마린솔루션 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -2051,73 +2122,14 @@ Markdown Content:
   20261109: HD현대일렉트릭 타인에대한채무보증결정
 
 [HD현대중공업]
+  20261116: HD현대중공업 단일판매ㆍ공급계약체결(자율공시)
+  20261116: HD현대중공업 동일인등출자계열회사와의상품ㆍ용역거래변경
   20261112: HD현대중공업 [기재정정]단일판매ㆍ공급계약체결
   20261109: HD현대중공업 의결권대리행사권유참고서류
   20261109: HD현대중공업 단일판매ㆍ공급계약체결
 
 [HJ중공업]
   20261112: HJ중공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
-  [전문 요약]
-Title: HJ중공업/분기보고서/2026.11.12
-
-URL Source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284
-
-Markdown Content:
-유 HJ중공업
-
-현재목차 전체문서 선택
-
-*   본문 
-*   첨부 
-
-문서목차
-
-    *   [분 기 보 고 서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-    *   [【 대표이사 등의 확인 】](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-    *   [I. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [1. 회사의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [2. 회사의 연혁](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [3. 자본금 변동사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [4. 주식의 총수 등](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [5. 정관에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-
-    *   [II. 사업의 내용](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [1. 사업의 개요](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [2. 주요 제품 및 서비스](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [3. 원재료 및 생산설비](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [4. 매출 및 수주상황](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [5. 위험관리 및 파생거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [6. 주요계약 및 연구개발활동](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [7. 기타 참고사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-
-    *   [III. 재무에 관한 사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [1. 요약재무정보](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-        *   [2. 연결재무제표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2-1. 연결 재무상태표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2-2. 연결 손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2-3. 연결 포괄손익계산서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2-4. 연결 자본변동표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2-5. 연결 현금흐름표](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-
-        *   [3. 연결재무제표 주석](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [1. 일반적 사항 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [2. 연결재무제표 작성기준 및 중요한 회계정책 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [3. 중요한 판단과 추정 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [4. 현금및현금성자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [5. 금융상품 공정가치 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [6. 사용제한금융상품 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [7. 투자금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [8. 매출채권 및 미수금 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [9. 건설계약 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [10. 재고자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [11. 관계기업투자 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [12. 유형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [13. 투자부동산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [14. 무형자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [15. 리스 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [16. 기타금융자산 (연결)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000284#)
-            *   [17. 기타자산 (연결)](https://dart.fss.or.kr/dsaf001/mai
-
   20261111: HJ중공업 [기재정정]단일판매ㆍ공급계약체결
   20261110: HJ중공업 [기재정정]단일판매ㆍ공급계약체결
   20261110: HJ중공업 단일판매ㆍ공급계약체결
@@ -2156,6 +2168,10 @@ Markdown Content:
 [HLB펩]
   20261112: HLB펩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[HL만도]
+  20261116: HL만도 동일인등출자계열회사와의상품ㆍ용역거래변경
+  20261116: HL만도 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [HL홀딩스]
   20261112: HL홀딩스 기업설명회(IR)개최(안내공시)
 
@@ -2180,6 +2196,9 @@ Markdown Content:
 [HS화성]
   20261109: HS화성 [기재정정]단일판매ㆍ공급계약체결
 
+[HS효성]
+  20261116: HS효성 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [HS효성첨단소재]
   20261113: HS효성첨단소재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -2188,6 +2207,10 @@ Markdown Content:
   20261109: HT로보틱스 중대재해발생
 
 [INVENI]
+  20261116: INVENI 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: INVENI 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: INVENI 주식등의대량보유상황보고서(일반)
+  20261116: INVENI 최대주주등소유주식변동신고서
   20261110: INVENI 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: INVENI 주식등의대량보유상황보고서(일반)
   20261110: INVENI 최대주주등소유주식변동신고서
@@ -2196,14 +2219,32 @@ Markdown Content:
   20261113: IPARK현대산업개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: IPARK현대산업개발 투자판단관련주요경영사항
 
+[ISC]
+  20261116: ISC 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [JB금융지주]
   20261112: JB금융지주 기업설명회(IR)개최(안내공시)
   20261112: JB금융지주 기업설명회(IR)개최(안내공시)
+
+[JW생명과학]
+  20261116: JW생명과학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[JW신약]
+  20261116: JW신약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[JW홀딩스]
+  20261116: JW홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [JYP Ent.]
   20261113: JYP Ent. 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: JYP Ent. 주식등의대량보유상황보고서(약식)
   20261111: JYP Ent. 연결재무제표기준영업(잠정)실적(공정공시)
+
+[KBG]
+  20261116: KBG 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[KBI동양철관]
+  20261116: KBI동양철관 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [KBI메탈]
   20261113: KBI메탈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2216,12 +2257,18 @@ Markdown Content:
   20261111: KB금융 [기재정정]연결재무제표기준영업(잠정)실적(공정공시)
   20261111: KB금융 벌금등의부과(자회사의 주요경영사항)
 
+[KB손해보험]
+  20261113: KB손해보험 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [KB스타리츠]
   20261111: KB스타리츠 부동산투자회사자금차입
   20261111: KB스타리츠 부동산투자회사자금차입
 
 [KB제29호스팩]
   20261111: KB제29호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[KB제30호스팩]
+  20261116: KB제30호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [KB제31호스팩]
   20261110: KB제31호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2260,20 +2307,31 @@ Markdown Content:
 [KNN]
   20261113: KNN 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[KSS해운]
+  20261116: KSS해운 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [KS인더스트리]
   20261110: KS인더스트리 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+
+[KTcs]
+  20261116: KTcs 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [KTis]
   20261111: KTis 영업(잠정)실적(공정공시)
 
 [KT나스미디어]
+  20261116: KT나스미디어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: KT나스미디어 영업(잠정)실적(공정공시)
 
 [KT밀리의서재]
   20261112: KT밀리의서재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [KT지니뮤직]
+  20261116: KT지니뮤직 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: KT지니뮤직 연결재무제표기준영업(잠정)실적(공정공시)
+
+[KX하이텍]
+  20261116: KX하이텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LB세미콘]
   20261113: LB세미콘 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2285,6 +2343,9 @@ Markdown Content:
 
 [LG]
   20261112: LG 연결재무제표기준영업(잠정)실적(공정공시)
+
+[LG디스플레이]
+  20261116: LG디스플레이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LG생활건강]
   20261113: LG생활건강 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -2300,7 +2361,11 @@ Markdown Content:
 [LG에너지솔루션]
   20261113: LG에너지솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[LG유플러스]
+  20261116: LG유플러스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [LG이노텍]
+  20261116: LG이노텍 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: LG이노텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: LG이노텍 기업설명회(IR)개최(안내공시)
   20261109: LG이노텍 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -2313,6 +2378,9 @@ Markdown Content:
 
 [LG화학]
   20261112: LG화학 동일인등출자계열회사와의상품ㆍ용역거래변경
+
+[LIG디펜스앤에어로스페이스]
+  20261116: LIG디펜스앤에어로스페이스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LIG아큐버]
   20261113: LIG아큐버 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2334,15 +2402,28 @@ Markdown Content:
   20261113: LS머트리얼즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LS에코에너지]
+  20261116: LS에코에너지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: LS에코에너지 [기재정정]타법인주식및출자증권취득결정
   20261110: LS에코에너지 [기재정정]지주회사의자회사편입
   20261110: LS에코에너지 지주회사의자회사편입
+
+[LS증권]
+  20261113: LS증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LS티라유텍]
   20261113: LS티라유텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [LX인터내셔널]
   20261113: LX인터내셔널 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[M83]
+  20261116: M83 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[MDS스피어]
+  20261116: MDS스피어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[MDS테크]
+  20261116: MDS테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [MH머트리얼즈]
   20261111: MH머트리얼즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2400,6 +2481,7 @@ Markdown Content:
   20261110: NHN벅스 영업(잠정)실적(공정공시)
 
 [NH농우바이오]
+  20261116: NH농우바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: NH농우바이오 특수관계인으로부터자금차입
   20261110: NH농우바이오 약관에의한금융거래시계열금융회사의거래상대방의공시
 
@@ -2450,6 +2532,9 @@ Markdown Content:
 [NICE평가정보]
   20261113: NICE평가정보 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[NI스틸]
+  20261116: NI스틸 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [OCI]
   20261113: OCI 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -2469,12 +2554,27 @@ Markdown Content:
   20261109: PS일렉트로닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [RFHIC]
+  20261116: RFHIC 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: RFHIC 주식등의대량보유상황보고서(일반)
+
+[RF머트리얼즈]
+  20261116: RF머트리얼즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[RF시스템즈]
+  20261116: RF시스템즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[S-Oil]
+  20261116: S-Oil 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[SAMG엔터]
+  20261116: SAMG엔터 기업설명회(IR)개최
+  20261116: SAMG엔터 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [SBS]
   20261113: SBS 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [SCL사이언스]
+  20261116: SCL사이언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: SCL사이언스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [SDN]
@@ -2494,6 +2594,9 @@ Markdown Content:
 [SG]
   20261109: SG 주식등의대량보유상황보고서(약식)
 
+[SG&G]
+  20261116: SG&G 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [SGA솔루션즈]
   20261113: SGA솔루션즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -2502,23 +2605,30 @@ Markdown Content:
   20261110: SGC E&C 타인에대한채무보증결정
 
 [SGC에너지]
+  20261116: SGC에너지 기업설명회(IR)개최(안내공시)
   20261113: SGC에너지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: SGC에너지 [기재정정]감자결정(종속회사의주요경영사항)
   20261110: SGC에너지 타인에대한채무보증결정
 
 [SG글로벌]
+  20261116: SG글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: SG글로벌 투자유의안내              (관리종목지정 우려 예고)
 
 [SG세계물산]
   20261113: SG세계물산 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[SHD]
+  20261116: SHD 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [SH에너지화학]
+  20261116: SH에너지화학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: SH에너지화학 주식등의대량보유상황보고서(일반)
 
 [SIMPAC]
   20261112: SIMPAC 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [SJG세종]
+  20261116: SJG세종 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: SJG세종 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [SK]
@@ -2538,6 +2648,9 @@ Markdown Content:
   20261113: SK디스커버리 투자판단관련주요경영사항
   20261113: SK디스커버리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[SK디앤디]
+  20261116: SK디앤디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [SK리츠]
   20261112: SK리츠 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -2552,6 +2665,7 @@ Markdown Content:
   20261109: SK아이이테크놀로지 [기재정정]주주총회소집결의
 
 [SK오션플랜트]
+  20261116: SK오션플랜트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: SK오션플랜트 기업설명회(IR)개최(안내공시)
   20261112: SK오션플랜트 연결재무제표기준영업(잠정)실적(공정공시)
 
@@ -2616,6 +2730,7 @@ Markdown Content:
   20261113: SOOP 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [SP삼화]
+  20261116: SP삼화 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: SP삼화 투자판단관련주요경영사항              (특허권취득)
 
 [STX]
@@ -2639,9 +2754,11 @@ Markdown Content:
   20261109: TPC로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [TS인베스트먼트]
+  20261116: TS인베스트먼트 주식소각결정
   20261113: TS인베스트먼트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [TS트릴리온]
+  20261116: TS트릴리온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: TS트릴리온 주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)
 
 [TYM]
@@ -2656,8 +2773,12 @@ Markdown Content:
   20261113: YBM넷 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [YG PLUS]
+  20261116: YG PLUS 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: YG PLUS 주주명부폐쇄기간또는기준일설정
   20261109: YG PLUS 주주총회소집결의
+
+[YW]
+  20261116: YW 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [iMBC]
   20261109: iMBC 의결권대리행사권유참고서류
@@ -2674,12 +2795,19 @@ Markdown Content:
 [가온그룹]
   20261112: 가온그룹 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[가온전선]
+  20261116: 가온전선 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [가온칩스]
+  20261116: 가온칩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 가온칩스 주식등의대량보유상황보고서(일반)
 
 [감성코퍼레이션]
   20261112: 감성코퍼레이션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 감성코퍼레이션 주식등의대량보유상황보고서(일반)
+
+[강동씨앤엘]
+  20261116: 강동씨앤엘 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [강스템바이오텍]
   20261113: 강스템바이오텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2687,6 +2815,9 @@ Markdown Content:
 [강원에너지]
   20261113: 강원에너지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 강원에너지 [기재정정]단일판매ㆍ공급계약체결
+
+[갤럭시아머니트리]
+  20261116: 갤럭시아머니트리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [갤럭시아에스엠]
   20261113: 갤럭시아에스엠 주식등의대량보유상황보고서(일반)
@@ -2700,28 +2831,49 @@ Markdown Content:
   20261109: 경남은행 투자설명서(일괄신고)
   20261109: 경남은행 일괄신고추가서류
 
+[경남제약]
+  20261116: 경남제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [경농]
   20261113: 경농 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [경동나비엔]
   20261110: 경동나비엔 연결재무제표기준영업(잠정)실적(공정공시)
 
+[경동도시가스]
+  20261116: 경동도시가스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[경동인베스트]
+  20261116: 경동인베스트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [경동제약]
   20261113: 경동제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[경인양행]
+  20261116: 경인양행 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [경창산업]
   20261113: 경창산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [계룡건설산업]
+  20261116: 계룡건설산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 계룡건설산업 단일판매ㆍ공급계약체결
   20261109: 계룡건설산업 [기재정정]단일판매ㆍ공급계약체결
+
+[고려산업]
+  20261116: 고려산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [고려아연]
   20261113: 고려아연 소송등의판결ㆍ결정
   20261109: 고려아연 [기재정정]소송등의제기ㆍ신청(경영권분쟁소송)
 
 [고려제강]
+  20261116: 고려제강 임원ㆍ주요주주특정증권등거래계획보고서
+  20261116: 고려제강 임원ㆍ주요주주특정증권등거래계획보고서
   20261113: 고려제강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[고려제약]
+  20261116: 고려제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [고스트스튜디오]
   20261113: 고스트스튜디오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2761,9 +2913,12 @@ Markdown Content:
   20261110: 광주신세계 영업(잠정)실적(공정공시)
 
 [광주은행]
+  20261116: 광주은행 [기재정정]반기보고서 (2026.06) → 반기 실적보고서 (상반기 실적·재무제표)
   20261109: 광주은행 증권발행실적보고서
 
 [광진실업]
+  20261116: 광진실업 주식등의대량보유상황보고서(약식)
+  20261116: 광진실업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 광진실업 [첨부추가]최대주주변경
   20261111: 광진실업 최대주주변경을수반하는주식담보제공계약해제ㆍ취소등
   20261110: 광진실업 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -2772,8 +2927,14 @@ Markdown Content:
 [교보16호스팩]
   20261113: 교보16호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[교보17호스팩]
+  20261116: 교보17호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [교보18호스팩]
   20261113: 교보18호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[교보19호스팩]
+  20261116: 교보19호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [교보20호스팩]
   20261113: 교보20호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2815,6 +2976,9 @@ Markdown Content:
 [교촌에프앤비]
   20261113: 교촌에프앤비 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[구영테크]
+  20261116: 구영테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [국민은행]
   20261113: 국민은행 [기재정정]일괄신고서(파생결합증권-금적립계좌)
   20261113: 국민은행 [기재정정]투자설명서(일괄신고)
@@ -2832,18 +2996,37 @@ Markdown Content:
   20261112: 국순당 주식등의대량보유상황보고서(일반)
   20261111: 국순당 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[국영지앤엠]
+  20261116: 국영지앤엠 자기주식취득결과보고서 → 자사주 매입 결과 공시
+
 [국일신동]
   20261113: 국일신동 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [국전]
   20261113: 국전 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[국제약품]
+  20261116: 국제약품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[그래피]
+  20261116: 그래피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [그리드위즈]
+  20261116: 그리드위즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 그리드위즈 [첨부정정]주요사항보고서(회사합병결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261110: 그리드위즈 해산사유발생(종속회사의주요경영사항)
   20261110: 그리드위즈 주주명부폐쇄기간또는기준일설정
   20261110: 그리드위즈 회사합병결정(종속회사의주요경영사항)
   20261110: 그리드위즈 주요사항보고서(회사합병결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+
+[그린광학]
+  20261116: 그린광학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[그린기술투자]
+  20261116: 그린기술투자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[그린리소스]
+  20261116: 그린리소스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [그린생명과학]
   20261113: 그린생명과학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2852,7 +3035,11 @@ Markdown Content:
 [그린플러스]
   20261109: 그린플러스 주식등의대량보유상황보고서(일반)
 
+[극동유화]
+  20261116: 극동유화 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [글로본]
+  20261116: 글로본 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 글로본 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [금비]
@@ -2892,7 +3079,12 @@ Markdown Content:
 [기가레인]
   20261113: 기가레인 [기재정정]단일판매ㆍ공급계약체결(자율공시)
 
+[기가비스]
+  20261116: 기가비스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 기가비스 단일판매ㆍ공급계약체결
+
 [기산텔레콤]
+  20261116: 기산텔레콤 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 기산텔레콤 [기재정정]유형자산취득결정
 
 [기신정기]
@@ -2903,16 +3095,25 @@ Markdown Content:
   20261109: 기아 기업설명회(IR)개최(안내공시)
   20261109: 기아 기업설명회(IR)개최(안내공시)
 
+[기업은행]
+  20261116: 기업은행 [기재정정]주요사항보고서(상각형조건부자본증권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+
+[까뮤이앤씨]
+  20261116: 까뮤이앤씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [꿈비]
   20261113: 꿈비 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 꿈비 주식등의대량보유상황보고서(일반)
 
 [나노신소재]
+  20261116: 나노신소재 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 나노신소재 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 나노신소재 자기주식처분결과보고서 → 자사주 처분(매도) 결과 공시
   20261112: 나노신소재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 나노신소재 주식소각결정
 
 [나노씨엠에스]
+  20261116: 나노씨엠에스 주식등의대량보유상황보고서(일반)
   20261113: 나노씨엠에스 주식등의대량보유상황보고서(일반)
   20261110: 나노씨엠에스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -2923,6 +3124,7 @@ Markdown Content:
   20261111: 나라셀라 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [나라스페이스테크놀로지]
+  20261116: 나라스페이스테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 나라스페이스테크놀로지 [기재정정]투자판단관련주요경영사항              ([국책과제 선정] 3GPP IoT-NTN 표준 기반 Regenerative IoT 위성(탑재체) 발사 및 서비스)
 
 [나라엠앤디]
@@ -2936,6 +3138,12 @@ Markdown Content:
 [나무AX]
   20261112: 나무AX 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[나우IB]
+  20261116: 나우IB 기업가치제고계획(자율공시)              (자본효율화를 통한 나우아이비캐피탈 기업가치제고계획 (2027~2028))
+  20261116: 나우IB 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 나우IB 주주총회소집결의              (임시주주총회)
+  20261116: 나우IB 주주명부폐쇄기간또는기준일설정
+
 [나우로보틱스]
   20261112: 나우로보틱스 [기재정정]단일판매ㆍ공급계약체결
 
@@ -2946,7 +3154,11 @@ Markdown Content:
   20261112: 나이스정보통신 의결권대리행사권유참고서류
   20261112: 나이스정보통신 주주총회소집공고
 
+[나인테크]
+  20261116: 나인테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [남광토건]
+  20261116: 남광토건 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 남광토건 투자판단관련주요경영사항
 
 [남선알미늄]
@@ -2958,6 +3170,9 @@ Markdown Content:
   20261112: 남성 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 남성 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 남성 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[남해화학]
+  20261116: 남해화학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [남화산업]
   20261113: 남화산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -2976,7 +3191,13 @@ Markdown Content:
   20261113: 네오리진 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 네오리진 소송등의제기ㆍ신청(경영권분쟁소송)              (회계장부 등 열람등사 가처분)
 
+[네오셈]
+  20261116: 네오셈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [네오오토]
+  20261116: 네오오토 [기재정정]투자설명서
+  20261116: 네오오토 [기재정정]증권신고서(주식의포괄적교환ㆍ이전) → 증권신고서 (유상증자·공모·IPO)
+  20261116: 네오오토 [첨부정정]주요사항보고서(주식교환ㆍ이전결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261113: 네오오토 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [네오위즈]
@@ -3002,18 +3223,30 @@ Markdown Content:
 [네이처셀]
   20261109: 네이처셀 전환가액의조정
 
+[네패스아크]
+  20261116: 네패스아크 주식등의대량보유상황보고서(약식)
+
 [넥사다이내믹스]
+  20261116: 넥사다이내믹스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 넥사다이내믹스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 넥사다이내믹스 주식등의대량보유상황보고서(일반)
   20261110: 넥사다이내믹스 증권발행결과(자율공시)
   20261110: 넥사다이내믹스 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
 [넥센타이어]
+  20261116: 넥센타이어 최대주주등소유주식변동신고서
+  20261116: 넥센타이어 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 넥센타이어 최대주주등소유주식변동신고서
   20261109: 넥센타이어 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [넥스쳐]
   20261113: 넥스쳐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[넥스턴앤롤코리아]
+  20261116: 넥스턴앤롤코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[넥스트바이오메디컬]
+  20261116: 넥스트바이오메디컬 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [넥스틴]
   20261113: 넥스틴 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3025,6 +3258,8 @@ Markdown Content:
   20261110: 넥슨게임즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [넥써쓰]
+  20261116: 넥써쓰 상호변경안내
+  20261116: 넥써쓰 임시주주총회결과
   20261113: 넥써쓰 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [넵튠]
@@ -3051,7 +3286,11 @@ Markdown Content:
   20261110: 노타 주주총회소집공고
   20261110: 노타 [기재정정]주주총회소집결의              (임시주주총회)
 
+[녹십자엠에스]
+  20261116: 녹십자엠에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [녹십자웰빙]
+  20261116: 녹십자웰빙 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 녹십자웰빙 기업설명회(IR)개최
 
 [녹십자홀딩스]
@@ -3073,6 +3312,7 @@ Markdown Content:
   20261112: 누리플렉스 투자판단관련주요경영사항
 
 [누보]
+  20261116: 누보 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 누보 기업설명회(IR)개최
 
 [뉴로메카]
@@ -3084,11 +3324,21 @@ Markdown Content:
   20261109: 뉴보텍 불성실공시법인미지정              (공시번복)
   20261109: 뉴보텍 주주총회소집공고
 
+[뉴엔AI]
+  20261116: 뉴엔AI 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [뉴온]
   20261113: 뉴온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[뉴인텍]
+  20261116: 뉴인텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [뉴키즈온]
+  20261116: 뉴키즈온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 뉴키즈온 신탁계약에의한취득상황보고서
+
+[뉴파워프라즈마]
+  20261116: 뉴파워프라즈마 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [뉴프렉스]
   20261113: 뉴프렉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3135,6 +3385,7 @@ Markdown Content:
   20261112: 다함이텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [달바글로벌]
+  20261116: 달바글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 달바글로벌 연결재무제표기준영업(잠정)실적(공정공시)
 
 [대구백화점]
@@ -3146,6 +3397,9 @@ Markdown Content:
 
 [대동]
   20261113: 대동 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[대동고려삼]
+  20261116: 대동고려삼 기업설명회(IR)개최결과
 
 [대동금속]
   20261113: 대동금속 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3168,13 +3422,23 @@ Markdown Content:
 [대백저축은행]
   20261113: 대백저축은행 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[대보마그네틱]
+  20261116: 대보마그네틱 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대산F&B]
   20261113: 대산F&B 기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)
 
 [대상홀딩스]
   20261109: 대상홀딩스 타법인주식및출자증권처분결정(자율공시)(종속회사의주요경영사항)
 
+[대성미생물]
+  20261116: 대성미생물 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[대성산업]
+  20261116: 대성산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대성창투]
+  20261116: 대성창투 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 대성창투 주권매매거래정지해제              (액면병합 주권 변경상장)
   20261109: 대성창투 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 대성창투 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -3184,6 +3448,9 @@ Markdown Content:
   20261112: 대신밸류리츠 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 대신밸류리츠 사업보고서 (2026.08) → 연간 사업보고서 (연간 실적·재무제표·사업현황)
   20261110: 대신밸류리츠 감사보고서제출 → 외부감사 감사보고서
+
+[대신정보통신]
+  20261116: 대신정보통신 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
 
 [대신증권]
   20261113: 대신증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3215,7 +3482,14 @@ Markdown Content:
   20261113: 대양금속 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 대양금속 투자판단관련주요경영사항
 
+[대양제지공업]
+  20261116: 대양제지공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[대영포장]
+  20261116: 대영포장 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대우건설]
+  20261116: 대우건설 투자판단관련주요경영사항
   20261113: 대우건설 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [대웅]
@@ -3250,6 +3524,12 @@ Markdown Content:
 [대주산업]
   20261113: 대주산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[대주전자재료]
+  20261116: 대주전자재료 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[대창]
+  20261116: 대창 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대창단조]
   20261113: 대창단조 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 대창단조 최대주주등소유주식변동신고서
@@ -3269,18 +3549,29 @@ Markdown Content:
 [대한뉴팜]
   20261112: 대한뉴팜 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[대한방직]
+  20261116: 대한방직 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[대한약품]
+  20261116: 대한약품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대한유화]
   20261113: 대한유화 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 대한유화 최대주주등소유주식변동신고서
 
 [대한전선]
+  20261116: 대한전선 단일판매ㆍ공급계약체결
   20261113: 대한전선 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 대한전선 동일인등출자계열회사와의상품ㆍ용역거래변경
 
 [대한제강]
   20261113: 대한제강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[대한제당]
+  20261116: 대한제당 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [대한조선]
+  20261116: 대한조선 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 대한조선 단일판매ㆍ공급계약체결
   20261111: 대한조선 연결재무제표기준영업(잠정)실적(공정공시)
   20261110: 대한조선 주주총회소집결의
@@ -3288,6 +3579,7 @@ Markdown Content:
   20261110: 대한조선 수시공시의무관련사항(공정공시)
 
 [대한항공]
+  20261113: 대한항공 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 대한항공 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 대한항공 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -3328,12 +3620,16 @@ Markdown Content:
   20261110: 더블유게임즈 단기차입금증가결정
 
 [더블유씨피]
+  20261116: 더블유씨피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 더블유씨피 주식등의대량보유상황보고서(약식)
 
 [더블유에스아이]
   20261113: 더블유에스아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 더블유에스아이 주식매수선택권부여에관한신고
   20261109: 더블유에스아이 임시주주총회결과
+
+[더스텔라]
+  20261116: 더스텔라 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [더즌]
   20261113: 더즌 주식소각결정
@@ -3365,6 +3661,9 @@ Markdown Content:
 [덕성]
   20261113: 덕성 최대주주등소유주식변동신고서
 
+[덕신이피씨]
+  20261116: 덕신이피씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [데브시스터즈]
   20261110: 데브시스터즈 연결재무제표기준영업(잠정)실적(공정공시)
 
@@ -3372,6 +3671,7 @@ Markdown Content:
   20261113: 데이원컴퍼니 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [덱스터]
+  20261116: 덱스터 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 덱스터 주권매매거래정지              (주식의 병합, 분할 등 전자등록 변경, 말소)
 
 [덴티스]
@@ -3410,6 +3710,7 @@ Markdown Content:
   20261113: 동국제강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [동국제약]
+  20261116: 동국제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 동국제약 주주총회소집공고
 
 [동국홀딩스]
@@ -3419,6 +3720,7 @@ Markdown Content:
   20261113: 동남합성 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [동방메디컬]
+  20261116: 동방메디컬 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 동방메디컬 기업설명회(IR)개최
   20261110: 동방메디컬 기타경영사항(자율공시)              (PHD HA Filler, 브라질 국가위생감시청 (ANVISA) 에서 품목허가)
   20261110: 동방메디컬 기업설명회(IR)개최
@@ -3430,6 +3732,9 @@ Markdown Content:
   20261111: 동부건설 단일판매ㆍ공급계약체결
   20261110: 동부건설 투자판단관련주요경영사항
 
+[동서]
+  20261116: 동서 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [동성케미컬]
   20261113: 동성케미컬 주식소각결정
   20261113: 동성케미컬 수시공시의무관련사항(공정공시)
@@ -3437,7 +3742,12 @@ Markdown Content:
 [동성화인텍]
   20261113: 동성화인텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[동신건설]
+  20261116: 동신건설 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [동아지질]
+  20261116: 동아지질 신탁계약해지결과보고서
+  20261116: 동아지질 주요사항보고서(자기주식취득신탁계약해지결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261110: 동아지질 수시공시의무관련사항(공정공시)
 
 [동양]
@@ -3449,6 +3759,18 @@ Markdown Content:
 [동양건설산업]
   20261109: 동양건설산업 최대주주등의주식보유변동
 
+[동양에스텍]
+  20261116: 동양에스텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[동양이엔피]
+  20261116: 동양이엔피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[동양파일]
+  20261116: 동양파일 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[동우팜투테이블]
+  20261116: 동우팜투테이블 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [동운아나텍]
   20261113: 동운아나텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 동운아나텍 의결권대리행사권유참고서류
@@ -3458,13 +3780,16 @@ Markdown Content:
   20261113: 동원F&B 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [동원개발]
+  20261116: 동원개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 동원개발 단일판매ㆍ공급계약체결(자율공시)
 
 [동원모빌리티]
+  20261116: 동원모빌리티 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
   20261113: 동원모빌리티 연결재무제표기준영업(잠정)실적(공정공시)
   20261113: 동원모빌리티 영업(잠정)실적(공정공시)
 
 [동원산업]
+  20261116: 동원산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 동원산업 영업(잠정)실적(공정공시)
   20261110: 동원산업 연결재무제표기준영업(잠정)실적(공정공시)
 
@@ -3473,6 +3798,9 @@ Markdown Content:
 
 [동원시스템즈]
   20261112: 동원시스템즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[동인기연]
+  20261116: 동인기연 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [동일금속]
   20261113: 동일금속 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3483,6 +3811,10 @@ Markdown Content:
 
 [동일스틸럭스]
   20261109: 동일스틸럭스 [기재정정]타법인주식및출자증권처분결정
+
+[동진쎄미켐]
+  20261116: 동진쎄미켐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 동진쎄미켐 기업설명회(IR)개최
 
 [동화기업]
   20261113: 동화기업 [기재정정]중대재해관련형사처벌사실확인
@@ -3600,6 +3932,7 @@ Markdown Content:
   20261113: 디와이덕양 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [디와이디]
+  20261116: 디와이디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 디와이디 소송등의제기ㆍ신청(일정금액이상의청구)              (회생담보권자표 기재 무효확인)
 
 [디와이씨]
@@ -3611,6 +3944,9 @@ Markdown Content:
 [디와이파워]
   20261112: 디와이파워 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[디와이피엔에프]
+  20261116: 디와이피엔에프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [디젠스]
   20261113: 디젠스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -3621,6 +3957,7 @@ Markdown Content:
   20261112: 디지틀조선 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [디케이락]
+  20261116: 디케이락 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 디케이락 단기차입금증가결정
 
 [디케이앤디]
@@ -3673,14 +4010,24 @@ Markdown Content:
   20261109: 레드캡투어 기업설명회(IR)개최
 
 [레이언스]
+  20261116: 레이언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 레이언스 연결재무제표기준영업(잠정)실적(공정공시)
 
 [레이저쎌]
   20261113: 레이저쎌 전환가액의조정
   20261110: 레이저쎌 [기재정정]단일판매ㆍ공급계약체결
 
+[레이저옵텍]
+  20261116: 레이저옵텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [레이크머티리얼즈]
   20261113: 레이크머티리얼즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[로보로보]
+  20261116: 로보로보 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[로아앤코홀딩스]
+  20261116: 로아앤코홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [로젠]
   20261113: 로젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3696,13 +4043,18 @@ Markdown Content:
   20261109: 로지스몬 소송등의판결ㆍ결정
 
 [로지시스]
+  20261116: 로지시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 로지시스 주요사항보고서(자기주식취득신탁계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
 [로체시스템즈]
   20261113: 로체시스템즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [로킷헬스케어]
+  20261116: 로킷헬스케어 타법인주식및출자증권취득결정
   20261113: 로킷헬스케어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[롤링스톤]
+  20261116: 롤링스톤 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [롯데관광개발]
   20261113: 롯데관광개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3739,6 +4091,9 @@ Markdown Content:
 [롯데케미칼]
   20261113: 롯데케미칼 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[롯데하이마트]
+  20261116: 롯데하이마트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [루닛]
   20261112: 루닛 [기재정정]주식매수선택권부여에관한신고
   20261112: 루닛 [기재정정]주식매수선택권부여에관한신고
@@ -3757,6 +4112,8 @@ Markdown Content:
   20261109: 루멘스바이오스 임시주주총회결과
 
 [루미르]
+  20261116: 루미르 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 루미르 본점소재지변경
   20261113: 루미르 [기재정정]신규시설투자등
 
 [루켄테크놀러지스]
@@ -3855,6 +4212,7 @@ Markdown Content:
   20261113: 메디아나 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [메디콕스]
+  20261116: 메디콕스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 메디콕스 [기재정정]주요사항보고서(유형자산양도결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
 [메디톡스]
@@ -3915,10 +4273,18 @@ Markdown Content:
   20261109: 메타랩스 연결재무제표기준영업(잠정)실적(공정공시)
 
 [메티스]
+  20261116: 메티스 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 메티스 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 메티스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [멕아이씨에스]
   20261112: 멕아이씨에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[멜파스]
+  20261116: 멜파스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[멤레이비티]
+  20261116: 멤레이비티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [명문제약]
   20261113: 명문제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -3930,10 +4296,15 @@ Markdown Content:
 [명신산업]
   20261113: 명신산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[모나리자]
+  20261116: 모나리자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [모나미]
+  20261116: 모나미 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 모나미 기업가치제고계획(자율공시)
 
 [모나용평]
+  20261116: 모나용평 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 모나용평 최대주주등소유주식변동신고서
   20261113: 모나용평 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -3969,6 +4340,7 @@ Markdown Content:
   20261111: 모비데이즈 신탁계약에의한취득상황보고서
 
 [모비릭스]
+  20261116: 모비릭스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 모비릭스 주식등의대량보유상황보고서(약식)
 
 [모비스]
@@ -4015,8 +4387,14 @@ Markdown Content:
 [모아텍]
   20261113: 모아텍 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
 
+[모토닉]
+  20261116: 모토닉 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [모트렉스]
   20261113: 모트렉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[모티브링크]
+  20261116: 모티브링크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [모헨즈]
   20261113: 모헨즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4024,8 +4402,24 @@ Markdown Content:
 [무궁화인포메이션테크놀로지]
   20261113: 무궁화인포메이션테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[무림P&P]
+  20261116: 무림P&P 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [무림SP]
+  20261116: 무림SP 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 무림SP 주요사항보고서(자기주식취득신탁계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+
+[무림페이퍼]
+  20261116: 무림페이퍼 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[무송지오씨]
+  20261116: 무송지오씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[무학]
+  20261116: 무학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[문배철강]
+  20261116: 문배철강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [미디어젠]
   20261112: 미디어젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4052,6 +4446,9 @@ Markdown Content:
 
 [미래에셋비전스팩10호]
   20261113: 미래에셋비전스팩10호 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[미래에셋비전스팩11호]
+  20261116: 미래에셋비전스팩11호 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [미래에셋비전스팩4호]
   20261113: 미래에셋비전스팩4호 기타시장안내(관리종목지정우려종목)
@@ -4099,6 +4496,9 @@ Markdown Content:
   20261112: 미래컴퍼니 단일판매ㆍ공급계약체결
   20261111: 미래컴퍼니 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[미스터블루]
+  20261116: 미스터블루 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [미스토홀딩스]
   20261113: 미스토홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 미스토홀딩스 기업설명회(IR)개최(안내공시)
@@ -4108,6 +4508,7 @@ Markdown Content:
   20261110: 미스토홀딩스 임원ㆍ주요주주특정증권등거래계획보고서
 
 [미원상사]
+  20261116: 미원상사 최대주주등소유주식변동신고서
   20261113: 미원상사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 미원상사 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 미원상사 최대주주등소유주식변동신고서
@@ -4120,8 +4521,12 @@ Markdown Content:
   20261109: 미원에스씨 최대주주등소유주식변동신고서
 
 [미원홀딩스]
+  20261116: 미원홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 미원홀딩스 최대주주등소유주식변동신고서
   20261111: 미원홀딩스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[미창석유공업]
+  20261116: 미창석유공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [미투온]
   20261113: 미투온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4144,6 +4549,7 @@ Markdown Content:
   20261113: 바이넥스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [바이브컴퍼니]
+  20261116: 바이브컴퍼니 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 바이브컴퍼니 소액공모공시서류(지분증권) → 소액공모 공시
   20261113: 바이브컴퍼니 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261112: 바이브컴퍼니 주주총회소집결의              (임시주주총회)
@@ -4160,22 +4566,36 @@ Markdown Content:
 [바이오니아]
   20261113: 바이오니아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[바이오다인]
+  20261116: 바이오다인 주식등의대량보유상황보고서(일반)
+  20261116: 바이오다인 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[바이오비쥬]
+  20261116: 바이오비쥬 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [바이오솔루션]
+  20261116: 바이오솔루션 전환사채(해외전환사채포함)발행후만기전사채취득
   20261112: 바이오솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [바이오에프디엔씨]
   20261113: 바이오에프디엔씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [바이오인프라]
+  20261116: 바이오인프라 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 바이오인프라 [기재정정]주식등의대량보유상황보고서(일반)
   20261111: 바이오인프라 주식등의대량보유상황보고서(일반)
   20261110: 바이오인프라 주주명부폐쇄기간또는기준일설정
+  20261110: 바이오인프라 주주명부폐쇄기간또는기준일설정
   20261110: 바이오인프라 주주총회소집결의              (임시주주총회)
+
+[바이오플러스]
+  20261116: 바이오플러스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [바이젠셀]
   20261113: 바이젠셀 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [바텍]
+  20261116: 바텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 바텍 연결재무제표기준영업(잠정)실적(공정공시)
 
 [박셀바이오]
@@ -4195,8 +4615,16 @@ Markdown Content:
 [백산]
   20261113: 백산 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[밸로프]
+  20261116: 밸로프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 밸로프 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
 [뱅크웨어글로벌]
   20261113: 뱅크웨어글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[범양건영]
+  20261116: 범양건영 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 범양건영 [기재정정]회생절차개시결정
 
 [범양사]
   20261113: 범양사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4206,6 +4634,9 @@ Markdown Content:
 
 [베노티앤알]
   20261113: 베노티앤알 주권매매거래정지해제              (액면병합 주권 변경상장)
+
+[베뉴지]
+  20261116: 베뉴지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [벡트로보틱스]
   20261110: 벡트로보틱스 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -4231,6 +4662,7 @@ Markdown Content:
   20261113: 보원케미칼 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [보해양조]
+  20261116: 보해양조 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 보해양조 최대주주등소유주식변동신고서
   20261112: 보해양조 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -4244,10 +4676,16 @@ Markdown Content:
   20261113: 부국증권 주식등의대량보유상황보고서(일반)
   20261111: 부국증권 주식등의대량보유상황보고서(일반)
 
+[부국철강]
+  20261116: 부국철강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [부방]
   20261112: 부방 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 부방 임원ㆍ주요주주특정증권등거래계획보고서
   20261109: 부방 주식등의대량보유상황보고서(일반)
+
+[부산산업]
+  20261116: 부산산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [부산은행]
   20261112: 부산은행 증권발행실적보고서
@@ -4265,10 +4703,14 @@ Markdown Content:
   20261111: 뷰노 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261110: 뷰노 정정신고서제출요구( 2026.10.28. 제출 증권신고서(지분증권) ) → 증권신고서 (유상증자·공모·IPO)
 
+[뷰웍스]
+  20261116: 뷰웍스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [뷰티스킨]
   20261112: 뷰티스킨 전환사채(해외전환사채포함)발행후만기전사채취득              (제6회차)
 
 [브리지텍]
+  20261116: 브리지텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 브리지텍 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: 브리지텍 단일판매ㆍ공급계약체결
 
@@ -4365,10 +4807,17 @@ Markdown Content:
   20261112: 비투엔 주요사항보고서(전환사채권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261111: 비투엔 대표이사변경
 
+[비트컴퓨터]
+  20261116: 비트컴퓨터 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [비트플래닛]
   20261109: 비트플래닛 주주총회소집공고
 
+[빅솔론]
+  20261116: 빅솔론 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [빅텍]
+  20261116: 빅텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 빅텍 [기재정정]단일판매ㆍ공급계약체결
 
 [빅텐츠]
@@ -4377,6 +4826,9 @@ Markdown Content:
 
 [빌리언스]
   20261113: 빌리언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[빙그레]
+  20261116: 빙그레 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [빛과전자]
   20261113: 빛과전자 주식등의대량보유상황보고서(일반)
@@ -4394,6 +4846,7 @@ Markdown Content:
   20261109: 사이냅소프트 기업설명회(IR)개최
 
 [사토시홀딩스]
+  20261116: 사토시홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 사토시홀딩스 상호변경안내
   20261110: 사토시홀딩스 임시주주총회결과
 
@@ -4410,10 +4863,20 @@ Markdown Content:
 [산일전기]
   20261109: 산일전기 기업설명회(IR)개최(안내공시)
 
+[삼기]
+  20261116: 삼기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [삼기에너지솔루션즈]
+  20261116: 삼기에너지솔루션즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 삼기에너지솔루션즈 전환가액의조정
 
+[삼륭물산]
+  20261116: 삼륭물산 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [삼립]
+  20261116: 삼립 연결재무제표기준영업(잠정)실적(공정공시)
+  20261116: 삼립 연결재무제표기준영업실적등에대한전망(공정공시)
+  20261116: 삼립 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 삼립 [기재정정]기업설명회(IR)개최(안내공시)
   20261112: 삼립 타인에대한채무보증결정
   20261112: 삼립 기업설명회(IR)개최(안내공시)
@@ -4422,11 +4885,18 @@ Markdown Content:
 [삼미금속]
   20261113: 삼미금속 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[삼보모터스]
+  20261116: 삼보모터스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [삼보산업]
   20261111: 삼보산업 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 삼보산업 기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)
 
+[삼보판지]
+  20261116: 삼보판지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [삼부토건]
+  20261116: 삼부토건 상장적격성실질심사관련주요개선계획(자율공시)
   20261113: 삼부토건 기타시장안내              (개선기간 부여 결정)
 
 [삼성E&A]
@@ -4434,6 +4904,7 @@ Markdown Content:
   20261109: 삼성E&A 기업설명회(IR)개최(안내공시)
 
 [삼성FN리츠]
+  20261116: 삼성FN리츠 기타경영사항(자율공시)
   20261112: 삼성FN리츠 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: 삼성FN리츠 증권발행실적보고서(집합투자증권)(삼성에프엔위탁관리부동산투자회사주식회사)
   20261111: 삼성FN리츠 유상증자또는주식관련사채등의발행결과(자율공시)
@@ -4444,12 +4915,14 @@ Markdown Content:
   20261112: 삼성SDI 최대주주등소유주식변동신고서
 
 [삼성공조]
+  20261116: 삼성공조 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: 삼성공조 최대주주등소유주식변동신고서
 
 [삼성물산]
   20261109: 삼성물산 투자판단관련주요경영사항
 
 [삼성바이오로직스]
+  20261116: 삼성바이오로직스 유상증자또는주식관련사채등의청약결과(자율공시)
   20261111: 삼성바이오로직스 유상증자또는주식관련사채등의청약결과(자율공시)
 
 [삼성생명]
@@ -4486,6 +4959,7 @@ Markdown Content:
   20261109: 삼성전자 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [삼성중공업]
+  20261116: 삼성중공업 단일판매ㆍ공급계약체결
   20261113: 삼성중공업 최대주주등소유주식변동신고서
   20261113: 삼성중공업 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -4500,6 +4974,9 @@ Markdown Content:
   20261109: 삼성증권 증권발행실적보고서
   20261109: 삼성증권 투자설명서(일괄신고)
   20261109: 삼성증권 일괄신고추가서류(파생결합사채-주가연계파생결합사채)
+
+[삼성출판사]
+  20261116: 삼성출판사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [삼성화재해상보험]
   20261112: 삼성화재해상보험 연결재무제표기준영업(잠정)실적(공정공시)
@@ -4551,6 +5028,7 @@ Markdown Content:
   20261113: 삼영엠텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [삼영이엔씨]
+  20261116: 삼영이엔씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 삼영이엔씨 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261113: 삼영이엔씨 [기재정정]주요사항보고서(감자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
@@ -4571,6 +5049,9 @@ Markdown Content:
 
 [삼정펄프]
   20261113: 삼정펄프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[삼진식품]
+  20261116: 삼진식품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [삼진엘앤디]
   20261113: 삼진엘앤디 [기재정정]임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -4600,14 +5081,27 @@ Markdown Content:
   20261113: 삼현철강 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [삼호개발]
+  20261116: 삼호개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 삼호개발 [기재정정]단일판매ㆍ공급계약체결
   20261110: 삼호개발 [기재정정]단일판매ㆍ공급계약체결
+
+[삼화네트웍스]
+  20261116: 삼화네트웍스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[삼화왕관]
+  20261116: 삼화왕관 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[삼화전기]
+  20261116: 삼화전기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [삼화콘덴서공업]
   20261113: 삼화콘덴서공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [상상인]
   20261113: 상상인 [기재정정]타법인주식및출자증권처분결정
+
+[상신브레이크]
+  20261116: 상신브레이크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [상신전자]
   20261113: 상신전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4623,19 +5117,28 @@ Markdown Content:
   20261110: 상지건설 증권발행결과(자율공시)
   20261110: 상지건설 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
+[새로닉스]
+  20261116: 새로닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [새론오토모티브]
   20261112: 새론오토모티브 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[샌즈랩]
+  20261116: 샌즈랩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [샘씨엔에스]
   20261113: 샘씨엔에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [샘표]
+  20261116: 샘표 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 샘표 정정명령부과( 2026.10.30. 제출 주요사항보고서(회사합병 결정) ) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
 [샘표식품]
+  20261116: 샘표식품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 샘표식품 정정신고서제출요구( 2026.11.02. 제출 증권신고서(합병) ) → 증권신고서 (유상증자·공모·IPO)
 
 [서남]
+  20261116: 서남 [기재정정]단일판매ㆍ공급계약체결
   20261113: 서남 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [서부T&D]
@@ -4663,10 +5166,12 @@ Markdown Content:
   20261109: 서울반도체 기업설명회(IR)개최
 
 [서울보증보험]
+  20261116: 서울보증보험 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 서울보증보험 영업(잠정)실적(공정공시)
   20261112: 서울보증보험 주주명부폐쇄기간또는기준일설정
 
 [서울식품공업]
+  20261116: 서울식품공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 서울식품공업 주식등의대량보유상황보고서(일반)
   20261113: 서울식품공업 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 서울식품공업 최대주주등소유주식변동신고서
@@ -4675,15 +5180,22 @@ Markdown Content:
   20261109: 서울식품공업 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [서울옥션]
+  20261116: 서울옥션 주식등의대량보유상황보고서(일반)
   20261112: 서울옥션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [서울제약]
   20261113: 서울제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [서울평가정보]
+  20261116: 서울평가정보 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 서울평가정보 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 서울평가정보 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[서원인텍]
+  20261116: 서원인텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [서전기전]
+  20261116: 서전기전 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 서전기전 [기재정정]단일판매ㆍ공급계약체결(자율공시)
 
 [서진시스템]
@@ -4693,9 +5205,15 @@ Markdown Content:
   20261109: 서진시스템 주요사항보고서(전환사채권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 서진시스템 주요사항보고서(전환사채권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
+[서진오토모티브]
+  20261116: 서진오토모티브 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [서플러스글로벌]
   20261113: 서플러스글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 서플러스글로벌 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[서한]
+  20261116: 서한 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [서호전기]
   20261113: 서호전기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4709,8 +5227,14 @@ Markdown Content:
 [석경에이티]
   20261113: 석경에이티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[선광]
+  20261116: 선광 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [선도전기]
   20261112: 선도전기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[선바이오]
+  20261116: 선바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [선익시스템]
   20261109: 선익시스템 [기재정정]단일판매ㆍ공급계약체결
@@ -4726,8 +5250,21 @@ Markdown Content:
 [성도이엔지]
   20261113: 성도이엔지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[성문전자]
+  20261116: 성문전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [성신양회]
+  20261116: 성신양회 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 성신양회 주식등의대량보유상황보고서(일반)
+
+[성우테크론]
+  20261116: 성우테크론 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[성우하이텍]
+  20261116: 성우하이텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[성원]
+  20261116: 성원 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [성원에너텍]
   20261113: 성원에너텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4735,15 +5272,22 @@ Markdown Content:
 [성창기업지주]
   20261110: 성창기업지주 최대주주등소유주식변동신고서
 
+[성창오토텍]
+  20261116: 성창오토텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [세경하이테크]
   20261113: 세경하이테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 세경하이테크 주식등의대량보유상황보고서(일반)
 
 [세나테크놀로지]
+  20261116: 세나테크놀로지 기업설명회(IR)개최
   20261112: 세나테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [세니젠]
   20261113: 세니젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[세동]
+  20261116: 세동 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [세림B&G]
   20261113: 세림B&G 기타시장안내              (관리종목 지정사유 추가우려)(시가총액 200억원 미달)
@@ -4760,6 +5304,9 @@ Markdown Content:
 
 [세방]
   20261113: 세방 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[세보엠이씨]
+  20261116: 세보엠이씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [세아베스틸지주]
   20261110: 세아베스틸지주 기업가치제고계획(자율공시)              (2026년 이행현황)
@@ -4786,8 +5333,12 @@ Markdown Content:
   20261110: 세이브존I&C 영업(잠정)실적(공정공시)
 
 [세종메디칼]
+  20261116: 세종메디칼 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 세종메디칼 [기재정정]주주명부폐쇄기간또는기준일설정
   20261110: 세종메디칼 [기재정정]주주총회소집결의              (임시주주총회)
+
+[세진중공업]
+  20261116: 세진중공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [세진티에스]
   20261113: 세진티에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4829,6 +5380,9 @@ Markdown Content:
   20261113: 셀트리온제약 주요사항보고서(자기주식처분결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 셀트리온제약 영업(잠정)실적(공정공시)
 
+[셀피글로벌]
+  20261116: 셀피글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [소노스퀘어]
   20261110: 소노스퀘어 대표이사변경
   20261110: 소노스퀘어 임시주주총회결과
@@ -4843,6 +5397,7 @@ Markdown Content:
   20261113: 소프트캠프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [손오공]
+  20261116: 손오공 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 손오공 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 손오공 주식등의대량보유상황보고서(일반)
 
@@ -4872,10 +5427,14 @@ Markdown Content:
   20261113: 솔트룩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [솔트웨어]
+  20261116: 솔트웨어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 솔트웨어 기업가치제고계획(자율공시)
 
 [송원산업]
   20261113: 송원산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[수산인더스트리]
+  20261116: 수산인더스트리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [수성웹툰]
   20261113: 수성웹툰 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4890,6 +5449,7 @@ Markdown Content:
   20261113: 슈어소프트테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [슈피겐코리아]
+  20261116: 슈피겐코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 슈피겐코리아 주식등의대량보유상황보고서(약식)
 
 [스마트레이더시스템]
@@ -4899,6 +5459,9 @@ Markdown Content:
 
 [스맥]
   20261111: 스맥 주식등의대량보유상황보고서(일반)
+
+[스모트로닉]
+  20261116: 스모트로닉 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [스코넥]
   20261113: 스코넥 임시주주총회결과
@@ -4911,11 +5474,17 @@ Markdown Content:
 [스타코링크]
   20261113: 스타코링크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[스타플렉스]
+  20261116: 스타플렉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [스톤브릿지벤처스]
   20261112: 스톤브릿지벤처스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [스톰테크]
   20261113: 스톰테크 주주총회소집공고
+
+[스튜디오드래곤]
+  20261116: 스튜디오드래곤 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [스튜디오미르]
   20261113: 스튜디오미르 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -4923,15 +5492,25 @@ Markdown Content:
 [스튜디오삼익]
   20261113: 스튜디오삼익 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[스틱인베스트먼트]
+  20261116: 스틱인베스트먼트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [스포츠서울]
   20261113: 스포츠서울 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
 
 [스피어]
+  20261116: 스피어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 스피어 [기재정정]단일판매ㆍ공급계약체결
   20261112: 스피어 단일판매ㆍ공급계약체결
   20261110: 스피어 [기재정정]단일판매ㆍ공급계약체결
   20261109: 스피어 유상증자결정(종속회사의주요경영사항)
   20261109: 스피어 타법인주식및출자증권취득결정
+
+[승일]
+  20261116: 승일 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[시공테크]
+  20261116: 시공테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [시너지이노베이션]
   20261112: 시너지이노베이션 [기재정정]주요사항보고서(타법인주식및출자증권양도결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -4945,8 +5524,14 @@ Markdown Content:
 [시스네오텍]
   20261112: 시스네오텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[시스웍]
+  20261116: 시스웍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [시알홀딩스]
   20261113: 시알홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[시지메드텍]
+  20261116: 시지메드텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [시지트로닉스]
   20261113: 시지트로닉스 주식등의대량보유상황보고서(일반)
@@ -4962,7 +5547,11 @@ Markdown Content:
   20261110: 시프트업 주식소각결정
   20261110: 시프트업 연결재무제표기준영업(잠정)실적(공정공시)
 
+[신대양제지]
+  20261116: 신대양제지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [신도리코]
+  20261116: 신도리코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 신도리코 주식소각결정
 
 [신라섬유]
@@ -4974,7 +5563,11 @@ Markdown Content:
 [신비앤텍]
   20261113: 신비앤텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[신성델타테크]
+  20261116: 신성델타테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [신성에스티]
+  20261116: 신성에스티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 신성에스티 [기재정정]타인에대한채무보증결정
 
 [신성이엔지]
@@ -5003,7 +5596,16 @@ Markdown Content:
 [신송홀딩스]
   20261113: 신송홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[신스틸]
+  20261116: 신스틸 주식등의대량보유상황보고서(일반)
+  20261116: 신스틸 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[신신제약]
+  20261116: 신신제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [신영증권]
+  20261116: 신영증권 투자설명서(일괄신고)
+  20261116: 신영증권 투자설명서(일괄신고)
   20261113: 신영증권 투자설명서(일괄신고)
   20261113: 신영증권 투자설명서(일괄신고)
   20261113: 신영증권 투자설명서(일괄신고)
@@ -5031,6 +5633,9 @@ Markdown Content:
 
 [신원]
   20261113: 신원 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[신원종합개발]
+  20261116: 신원종합개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [신일전자]
   20261113: 신일전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5084,6 +5689,9 @@ Markdown Content:
   20261112: 신한제13호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 신한제13호스팩 기타시장안내              (주권 상장폐지 우려 예고)
 
+[신한제14호스팩]
+  20261116: 신한제14호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [신한제15호스팩]
   20261112: 신한제15호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 신한제15호스팩 기업인수목적회사의예치ㆍ신탁계약내용변경
@@ -5110,6 +5718,9 @@ Markdown Content:
   20261111: 신한카드 일괄신고추가서류
 
 [신한투자증권]
+  20261116: 신한투자증권 [기재정정]일괄신고서(파생결합증권-주가연계증권)
+  20261116: 신한투자증권 [기재정정]일괄신고서(파생결합증권-상장지수증권)
+  20261116: 신한투자증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 신한투자증권 증권발행실적보고서
   20261113: 신한투자증권 증권발행실적보고서
   20261113: 신한투자증권 증권발행실적보고서
@@ -5133,6 +5744,9 @@ Markdown Content:
 [신화인터텍]
   20261113: 신화인터텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 신화인터텍 동일인등출자계열회사와의상품ㆍ용역거래변경
+
+[신화프리텍]
+  20261116: 신화프리텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [실리콘투]
   20261113: 실리콘투 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5185,6 +5799,9 @@ Markdown Content:
   20261113: 쎄트렉아이 신규시설투자등
   20261113: 쎄트렉아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[쎌바이오텍]
+  20261116: 쎌바이오텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [쏘닉스]
   20261112: 쏘닉스 주주명부폐쇄기간또는기준일설정
   20261112: 쏘닉스 주주총회소집결의              (임시주주총회)
@@ -5215,6 +5832,9 @@ Markdown Content:
 [쓰리에이로직스]
   20261110: 쓰리에이로직스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[씨메스로보틱스]
+  20261116: 씨메스로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [씨싸이트]
   20261113: 씨싸이트 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 씨싸이트 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -5222,6 +5842,7 @@ Markdown Content:
   20261112: 씨싸이트 주식등의대량보유상황보고서(일반)
 
 [씨씨에스]
+  20261116: 씨씨에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 씨씨에스 주식등의대량보유상황보고서(일반)
   20261113: 씨씨에스 주식등의대량보유상황보고서(일반)
   20261112: 씨씨에스 [기재정정]경영권변경등에관한계약체결
@@ -5258,6 +5879,8 @@ Markdown Content:
   20261113: 씨에스베어링 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [씨에스윈드]
+  20261116: 씨에스윈드 기업설명회(IR)개최(안내공시)
+  20261116: 씨에스윈드 기업설명회(IR)개최(안내공시)
   20261113: 씨에스윈드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [씨엔알리서치]
@@ -5266,7 +5889,11 @@ Markdown Content:
 [씨엠티엑스]
   20261113: 씨엠티엑스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[씨유테크]
+  20261116: 씨유테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [씨이랩]
+  20261116: 씨이랩 증권발행결과(자율공시)
   20261113: 씨이랩 기업설명회(IR)개최
   20261112: 씨이랩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -5277,6 +5904,9 @@ Markdown Content:
 
 [씨케이솔루션]
   20261111: 씨케이솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[씨큐브]
+  20261116: 씨큐브 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [씨티씨바이오]
   20261113: 씨티씨바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5297,6 +5927,7 @@ Markdown Content:
   20261113: 아가방컴퍼니 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [아나패스]
+  20261116: 아나패스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 아나패스 주식등의대량보유상황보고서(일반)
   20261112: 아나패스 [기재정정]최대주주변경을수반하는주식담보제공계약체결
   20261111: 아나패스 주요사항보고서(자기전환사채만기전취득결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -5324,6 +5955,9 @@ Markdown Content:
 [아모레퍼시픽홀딩스]
   20261112: 아모레퍼시픽홀딩스 [기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]
 
+[아미노로직스]
+  20261116: 아미노로직스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [아미코젠]
   20261113: 아미코젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -5332,6 +5966,15 @@ Markdown Content:
 
 [아바텍]
   20261113: 아바텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[아세아텍]
+  20261116: 아세아텍 임시주주총회결과
+
+[아셈스]
+  20261116: 아셈스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[아스타]
+  20261116: 아스타 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [아스테라시스]
   20261113: 아스테라시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5346,6 +5989,12 @@ Markdown Content:
 [아시아나항공]
   20261113: 아시아나항공 [기재정정]회사합병결정(종속회사의주요경영사항)
   20261112: 아시아나항공 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[아이디스]
+  20261116: 아이디스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[아이디스홀딩스]
+  20261116: 아이디스홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [아이디피]
   20261112: 아이디피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5382,6 +6031,7 @@ Markdown Content:
   20261112: 아이씨디 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [아이씨에이치]
+  20261116: 아이씨에이치 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 아이씨에이치 기술성장기업의정관변경을통한사업목적추가ㆍ변경
 
 [아이앤씨]
@@ -5400,6 +6050,9 @@ Markdown Content:
   20261113: 아이에이 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 아이에이 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[아이에이치큐]
+  20261116: 아이에이치큐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [아이엘]
   20261110: 아이엘 주요사항보고서(자기전환사채매도결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 아이엘 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -5409,6 +6062,9 @@ Markdown Content:
 
 [아이엠바이오로직스]
   20261112: 아이엠바이오로직스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[아이엠비디엑스]
+  20261116: 아이엠비디엑스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [아이엠티]
   20261113: 아이엠티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5440,6 +6096,11 @@ Markdown Content:
   20261113: 아이텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 아이텍 주요사항보고서(자기전환사채매도결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
+[아이톡시]
+  20261116: 아이톡시 기타시장안내              (상장적격성 실질심사 사유추가)
+  20261116: 아이톡시 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 아이톡시 반기또는분기매출액미달사실발생
+
 [아이티센글로벌]
   20261113: 아이티센글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 아이티센글로벌 회사합병결정(종속회사의주요경영사항)
@@ -5464,9 +6125,11 @@ Markdown Content:
   20261109: 아이티엠반도체 대표이사변경
 
 [아이파크영창]
+  20261116: 아이파크영창 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 아이파크영창 [기재정정]회생절차개시결정
 
 [아이패밀리에스씨]
+  20261116: 아이패밀리에스씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 아이패밀리에스씨 공개매수결과보고서
 
 [아주스틸]
@@ -5483,6 +6146,10 @@ Markdown Content:
   20261112: 아진엑스텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [아진전자부품]
+  20261116: 아진전자부품 최대주주등소유주식변동신고서
+  20261116: 아진전자부품 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 아진전자부품 주식등의대량보유상황보고서(일반)
+  20261116: 아진전자부품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 아진전자부품 임원ㆍ주요주주특정증권등거래계획보고서
   20261110: 아진전자부품 영업(잠정)실적(공정공시)
 
@@ -5512,6 +6179,7 @@ Markdown Content:
   20261113: 안트로젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [알루코]
+  20261116: 알루코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 알루코 주식등의대량보유상황보고서(일반)
 
 [알멕]
@@ -5552,6 +6220,9 @@ Markdown Content:
 
 [알피바이오]
   20261113: 알피바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[압타바이오]
+  20261116: 압타바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [애경산업]
   20261112: 애경산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5594,6 +6265,7 @@ Markdown Content:
   20261113: 앤로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [앤씨앤]
+  20261116: 앤씨앤 주식등의대량보유상황보고서(일반)
   20261113: 앤씨앤 대표이사변경
   20261113: 앤씨앤 임시주주총회결과
   20261112: 앤씨앤 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5665,6 +6337,9 @@ Markdown Content:
   20261112: 에스아이리소스 단일판매ㆍ공급계약해지
   20261110: 에스아이리소스 불성실공시법인지정              (공시불이행)
 
+[에스앤더블류]
+  20261116: 에스앤더블류 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [에스앤디]
   20261113: 에스앤디 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261113: 에스앤디 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -5680,6 +6355,7 @@ Markdown Content:
   20261111: 에스에너지 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [에스에스알]
+  20261113: 에스에스알 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 에스에스알 [기재정정]합병등종료보고서(영업양수도) → 합병 완료 보고서
   20261109: 에스에스알 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 에스에스알 주식등의대량보유상황보고서(일반)
@@ -5692,10 +6368,14 @@ Markdown Content:
 [에스에이티]
   20261110: 에스에이티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에스에프씨]
+  20261116: 에스에프씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [에스엠]
   20261113: 에스엠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에스엠국일]
+  20261116: 에스엠국일 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 에스엠국일 임시주주총회결과
 
 [에스엠씨지]
@@ -5713,6 +6393,9 @@ Markdown Content:
 [에스제이그룹]
   20261113: 에스제이그룹 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에스제이엠]
+  20261116: 에스제이엠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [에스제이켐]
   20261110: 에스제이켐 기업설명회(IR)개최
 
@@ -5720,10 +6403,14 @@ Markdown Content:
   20261113: 에스케이렌터카 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에스케이바이오팜]
+  20261116: 에스케이바이오팜 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 에스케이바이오팜 기업설명회(IR)개최(안내공시)
 
 [에스켐]
   20261110: 에스켐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[에스코넥]
+  20261116: 에스코넥 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에스테크엠]
   20261110: 에스테크엠 기업설명회(IR)개최결과
@@ -5750,6 +6437,7 @@ Markdown Content:
   20261111: 에스팀 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [에스폴리텍]
+  20261116: 에스폴리텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 에스폴리텍 자기주식취득결과보고서 → 자사주 매입 결과 공시
 
 [에스피지]
@@ -5763,6 +6451,9 @@ Markdown Content:
   20261113: 에쓰씨엔지니어링 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 에쓰씨엔지니어링 최대주주등소유주식변동신고서
   20261113: 에쓰씨엔지니어링 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[에어레인]
+  20261116: 에어레인 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에어부산]
   20261113: 에어부산 [기재정정]주요사항보고서(회사합병결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -5784,12 +6475,22 @@ Markdown Content:
 [에이스테크]
   20261111: 에이스테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에이에프더블류]
+  20261116: 에이에프더블류 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[에이엔피]
+  20261116: 에이엔피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 에이엔피 기타경영사항(자율공시)              (상장폐지결정 등 효력정지 가처분 신청)
+
 [에이엘티]
   20261109: 에이엘티 주식등의대량보유상황보고서(약식)
 
 [에이유브랜즈]
   20261113: 에이유브랜즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 에이유브랜즈 연결재무제표기준영업(잠정)실적(공정공시)
+
+[에이자기관리부동산투자회사]
+  20261116: 에이자기관리부동산투자회사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에이전트AI]
   20261111: 에이전트AI [기재정정]주요사항보고서(전환사채권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -5814,10 +6515,18 @@ Markdown Content:
 [에이치엠씨제7호스팩]
   20261113: 에이치엠씨제7호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에이치와이티씨]
+  20261116: 에이치와이티씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 에이치와이티씨 기업설명회(IR)개최
+
 [에이치케이]
   20261111: 에이치케이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에이테크솔루션]
+  20261116: 에이테크솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [에이텍모빌리티]
+  20261116: 에이텍모빌리티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 에이텍모빌리티 주식등의대량보유상황보고서(일반)
   20261112: 에이텍모빌리티 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
@@ -5842,6 +6551,7 @@ Markdown Content:
   20261113: 에이프릴바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에이플러스에셋]
+  20261116: 에이플러스에셋 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 에이플러스에셋 주주명부폐쇄기간또는기준일설정
   20261111: 에이플러스에셋 주식교환ㆍ이전결정(종속회사의주요경영사항)
   20261111: 에이플러스에셋 주요사항보고서(주식교환ㆍ이전결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -5850,6 +6560,9 @@ Markdown Content:
 [에이피알]
   20261113: 에이피알 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 에이피알 불성실공시법인지정
+
+[에임드바이오]
+  20261116: 에임드바이오 주식등의대량보유상황보고서(약식)
 
 [에코글로우]
   20261113: 에코글로우 불성실공시법인지정예고              (공시불이행 3건)
@@ -5869,14 +6582,19 @@ Markdown Content:
 [에코심플렉스]
   20261113: 에코심플렉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[에코아이]
+  20261116: 에코아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [에코앤드림]
   20261113: 에코앤드림 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 에코앤드림 [기재정정]단일판매ㆍ공급계약체결
 
 [에코캡]
+  20261116: 에코캡 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 에코캡 주식등의대량보유상황보고서(일반)
 
 [에코프로]
+  20261116: 에코프로 [기재정정]주식등의대량보유상황보고서(일반)
   20261113: 에코프로 특수관계인에대한자산양도
   20261112: 에코프로 주식등의대량보유상황보고서(일반)
   20261111: 에코프로 유상증자결정(종속회사의주요경영사항)
@@ -5885,17 +6603,25 @@ Markdown Content:
   20261111: 에코프로머티 기업설명회(IR)개최(안내공시)
 
 [에코프로비엠]
+  20261116: 에코프로비엠 주식등의대량보유상황보고서(일반)
   20261113: 에코프로비엠 특수관계인으로부터자산양수
   20261112: 에코프로비엠 주식등의대량보유상황보고서(일반)
   20261110: 에코프로비엠 유상증자결정(종속회사의주요경영사항)
   20261110: 에코프로비엠 타법인주식및출자증권취득결정
 
 [에코프로에이치엔]
+  20261116: 에코프로에이치엔 주식등의대량보유상황보고서(일반)
   20261111: 에코프로에이치엔 기업설명회(IR)개최
+
+[에프알텍]
+  20261116: 에프알텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에프앤가이드]
   20261110: 에프앤가이드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 에프앤가이드 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[에프에스티]
+  20261116: 에프에스티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [에프엔씨엔터]
   20261113: 에프엔씨엔터 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5914,6 +6640,9 @@ Markdown Content:
   20261113: 에피소드컴퍼니 증권발행결과(자율공시)
   20261113: 에피소드컴퍼니 소액공모실적보고서
   20261112: 에피소드컴퍼니 유상증자또는주식관련사채등의청약결과(자율공시)
+
+[엑셀세라퓨틱스]
+  20261116: 엑셀세라퓨틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엑셈]
   20261113: 엑셈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5934,6 +6663,9 @@ Markdown Content:
 
 [엑시콘]
   20261113: 엑시콘 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[엔바이오니아]
+  20261116: 엔바이오니아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엔비알모션]
   20261113: 엔비알모션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5972,6 +6704,12 @@ Markdown Content:
 [엔젯]
   20261113: 엔젯 [기재정정]단일판매ㆍ공급계약체결
 
+[엔지켐생명과학]
+  20261116: 엔지켐생명과학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[엔케이]
+  20261116: 엔케이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [엔케이젠바이오텍코리아]
   20261113: 엔케이젠바이오텍코리아 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 엔케이젠바이오텍코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -5979,11 +6717,17 @@ Markdown Content:
 [엔켐]
   20261111: 엔켐 전환가액의조정              (제11회차)
 
+[엔키AX]
+  20261116: 엔키AX 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [엔투텍]
   20261113: 엔투텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엔피엑스]
   20261112: 엔피엑스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[엔피케이]
+  20261116: 엔피케이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엘디티]
   20261113: 엘디티 기타시장안내(관리종목지정우려종목)              (시가총액 200억원 미달)
@@ -6029,9 +6773,16 @@ Markdown Content:
   20261113: 엠아이텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엠앤씨솔루션]
+  20261116: 엠앤씨솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 엠앤씨솔루션 주주명부폐쇄기간또는기준일설정
   20261112: 엠앤씨솔루션 주주총회소집결의
   20261111: 엠앤씨솔루션 기업설명회(IR)개최(안내공시)
+
+[엠에스씨]
+  20261116: 엠에스씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[엠에스오토텍]
+  20261116: 엠에스오토텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엠엑스로보틱스]
   20261113: 엠엑스로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6040,6 +6791,7 @@ Markdown Content:
   20261113: 엠엑스온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [엠오티]
+  20261116: 엠오티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 엠오티 [기재정정]주식등의대량보유상황보고서(일반)
   20261110: 엠오티 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 엠오티 주식등의대량보유상황보고서(일반)
@@ -6068,6 +6820,9 @@ Markdown Content:
 [영림원소프트랩]
   20261113: 영림원소프트랩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[영보화학]
+  20261116: 영보화학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [영원무역]
   20261110: 영원무역 주식소각결정
 
@@ -6082,11 +6837,20 @@ Markdown Content:
   20261111: 영화금속 최대주주등소유주식변동신고서
   20261111: 영화금속 주식등의대량보유상황보고서(일반)
 
+[영화테크]
+  20261116: 영화테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[예림당]
+  20261116: 예림당 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [예스24]
   20261111: 예스24 [기재정정]반기보고서 (2026.06) → 반기 실적보고서 (상반기 실적·재무제표)
 
 [예스티]
   20261111: 예스티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[오가노이드사이언스]
+  20261116: 오가노이드사이언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [오가닉티코스메틱]
   20261110: 오가닉티코스메틱 주식등의대량보유상황보고서(약식)
@@ -6103,6 +6867,7 @@ Markdown Content:
   20261113: 오디텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [오뚜기]
+  20261116: 오뚜기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 오뚜기 주식소각결정
 
 [오로스테크놀로지]
@@ -6126,6 +6891,7 @@ Markdown Content:
   20261113: 오브젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [오비고]
+  20261116: 오비고 전환가액의조정
   20261113: 오비고 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 오비고 [기재정정]투자판단관련주요경영사항              (최대주주 보유주식 가압류)
 
@@ -6145,6 +6911,12 @@ Markdown Content:
 [오스코텍]
   20261113: 오스코텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[오스테오닉]
+  20261116: 오스테오닉 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[오스템]
+  20261116: 오스템 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [오아]
   20261111: 오아 주주총회소집공고
 
@@ -6154,6 +6926,9 @@ Markdown Content:
 [오이솔루션]
   20261113: 오이솔루션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[오킨스전자]
+  20261116: 오킨스전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [오토앤]
   20261113: 오토앤 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -6161,6 +6936,7 @@ Markdown Content:
   20261113: 오파스넷 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [오픈놀]
+  20261116: 오픈놀 기업설명회(IR)개최
   20261113: 오픈놀 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [오픈엣지테크놀로지]
@@ -6208,6 +6984,7 @@ Markdown Content:
   20261112: 와이랩 주식등의대량보유상황보고서(약식)
 
 [와이바이오로직스]
+  20261116: 와이바이오로직스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 와이바이오로직스 기업설명회(IR)개최
 
 [와이솔]
@@ -6220,8 +6997,14 @@ Markdown Content:
   20261113: 와이씨켐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 와이씨켐 주식등의대량보유상황보고서(약식)
 
+[와이앤넥스트]
+  20261116: 와이앤넥스트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [와이엔텍]
   20261111: 와이엔텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[와이엠씨]
+  20261116: 와이엠씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [와이엠티]
   20261113: 와이엠티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6231,13 +7014,21 @@ Markdown Content:
   20261112: 와이제이링크 주식등의대량보유상황보고서(일반)
   20261112: 와이제이링크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[와이즈넛]
+  20261116: 와이즈넛 주요사항보고서(자기주식취득신탁계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+  20261116: 와이즈넛 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [와이즈버즈]
   20261112: 와이즈버즈 기업설명회(IR)개최
   20261111: 와이즈버즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [와이지엔터테인먼트]
+  20261116: 와이지엔터테인먼트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 와이지엔터테인먼트 기업설명회(IR)개최
   20261109: 와이지엔터테인먼트 연결재무제표기준영업(잠정)실적(공정공시)
+
+[와토스코리아]
+  20261116: 와토스코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [우리금융지주]
   20261113: 우리금융지주 기업설명회(IR)개최(안내공시)
@@ -6245,9 +7036,15 @@ Markdown Content:
 [우리기술]
   20261113: 우리기술 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[우리기술투자]
+  20261116: 우리기술투자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [우리넷]
   20261111: 우리넷 [기재정정]소송등의제기ㆍ신청(일정금액이상의청구)
   20261110: 우리넷 소송등의제기ㆍ신청(일정금액이상의청구)
+
+[우리로]
+  20261116: 우리로 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [우리엔터프라이즈]
   20261112: 우리엔터프라이즈 소속부변경
@@ -6274,13 +7071,21 @@ Markdown Content:
 [우양에이치씨]
   20261113: 우양에이치씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[우양피앤엘]
+  20261116: 우양피앤엘 연결재무제표기준영업(잠정)실적(공정공시)
+
 [우원개발]
+  20261116: 우원개발 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 우원개발 [기재정정]단일판매ㆍ공급계약체결
 
 [우전]
   20261113: 우전 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[우주일렉트로]
+  20261116: 우주일렉트로 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [우진]
+  20261116: 우진 기업설명회(IR)개최(안내공시)
   20261113: 우진 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [우진비앤지]
@@ -6296,6 +7101,7 @@ Markdown Content:
   20261109: 우진엔텍 [기재정정]거래처와의거래중단
 
 [우진플라임]
+  20261116: 우진플라임 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 우진플라임 연결재무제표기준영업(잠정)실적(공정공시)
 
 [웅진]
@@ -6311,6 +7117,9 @@ Markdown Content:
   20261109: 웅진씽크빅 동일인등출자계열회사와의상품ㆍ용역거래
   20261109: 웅진씽크빅 [기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]
 
+[원림]
+  20261116: 원림 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [원바이오젠]
   20261113: 원바이오젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -6318,9 +7127,11 @@ Markdown Content:
   20261109: 원익IPS 연결재무제표기준영업(잠정)실적(공정공시)
 
 [원익QnC]
+  20261116: 원익QnC 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 원익QnC 연결재무제표기준영업(잠정)실적(공정공시)
 
 [원익머트리얼즈]
+  20261116: 원익머트리얼즈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 원익머트리얼즈 연결재무제표기준영업(잠정)실적(공정공시)
 
 [원익큐브]
@@ -6331,6 +7142,9 @@ Markdown Content:
   20261111: 원익홀딩스 [기재정정]단일판매ㆍ공급계약체결
   20261110: 원익홀딩스 [기재정정]주요사항보고서(풋백옵션등계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261110: 원익홀딩스 [기재정정]유상증자결정(종속회사의주요경영사항)
+
+[원일티엔아이]
+  20261116: 원일티엔아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [원텍]
   20261113: 원텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6347,6 +7161,7 @@ Markdown Content:
   20261113: 원풍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [월덱스]
+  20261116: 월덱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 월덱스 주식등의대량보유상황보고서(약식)
 
 [웨이버스]
@@ -6355,14 +7170,26 @@ Markdown Content:
 [웨이비스]
   20261112: 웨이비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[웰바이오텍]
+  20261116: 웰바이오텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [웰킵스하이텍]
   20261113: 웰킵스하이텍 [기재정정]주주총회소집결의              (임시주주총회)
+
+[웹스]
+  20261116: 웹스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [웹젠]
   20261113: 웹젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [위너스일렉]
   20261113: 위너스일렉 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[위닉스]
+  20261116: 위닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[위더스제약]
+  20261116: 위더스제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [위드텍]
   20261113: 위드텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6395,11 +7222,23 @@ Markdown Content:
 [윈스테크넷]
   20261113: 윈스테크넷 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[윌비스]
+  20261116: 윌비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [윙스풋]
   20261113: 윙스풋 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [유네코]
   20261113: 유네코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유니드]
+  20261116: 유니드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유니드비티플러스]
+  20261116: 유니드비티플러스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유니셈]
+  20261116: 유니셈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [유니슨]
   20261112: 유니슨 주요사항보고서(자기전환사채만기전취득결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -6407,11 +7246,15 @@ Markdown Content:
   20261109: 유니슨 전환가액의조정              (제18회차)
 
 [유니온머티리얼]
+  20261116: 유니온머티리얼 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 유니온머티리얼 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [유니켐]
   20261113: 유니켐 전환가액ㆍ신주인수권행사가액ㆍ교환가액의조정(안내공시)
   20261111: 유니켐 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유니퀘스트]
+  20261116: 유니퀘스트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [유니크]
   20261113: 유니크 자기주식처분결과보고서 → 자사주 처분(매도) 결과 공시
@@ -6419,6 +7262,9 @@ Markdown Content:
 
 [유니테스트]
   20261112: 유니테스트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유니테크노]
+  20261116: 유니테크노 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [유니트론텍]
   20261113: 유니트론텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6439,6 +7285,15 @@ Markdown Content:
 
 [유비온]
   20261113: 유비온 매출액또는손익구조30%(대규모법인은15%)이상변동
+
+[유비쿼스]
+  20261116: 유비쿼스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유비쿼스홀딩스]
+  20261116: 유비쿼스홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[유성기업]
+  20261116: 유성기업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [유성티엔에스]
   20261113: 유성티엔에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6470,6 +7325,9 @@ Markdown Content:
   20261109: 유안타증권 최대주주등소유주식변동신고서
   20261109: 유안타증권 증권발행실적보고서
 
+[유에스티]
+  20261116: 유에스티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [유유제약]
   20261109: 유유제약 최대주주등소유주식변동신고서
   20261109: 유유제약 주식등의대량보유상황보고서(일반)
@@ -6499,13 +7357,21 @@ Markdown Content:
 [유진테크놀로지]
   20261113: 유진테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[유한코스메틱]
+  20261116: 유한코스메틱 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [유화증권]
   20261113: 유화증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [육일씨엔에쓰]
+  20261116: 육일씨엔에쓰 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 육일씨엔에쓰 금전대여결정
   20261110: 육일씨엔에쓰 합병등종료보고서(자산양수도) → 합병 완료 보고서
   20261110: 육일씨엔에쓰 [기재정정]주요사항보고서(유형자산양수결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+
+[율촌]
+  20261116: 율촌 주요사항보고서(자기주식취득신탁계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
+  20261116: 율촌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [율촌화학]
   20261113: 율촌화학 [기재정정]감사보고서제출 → 외부감사 감사보고서
@@ -6522,27 +7388,43 @@ Markdown Content:
   20261113: 이건홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 이건홀딩스 생산중단(자회사의 주요경영사항)
 
+[이구산업]
+  20261116: 이구산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+  20261116: 이구산업 주식소각결정
+
 [이글루]
   20261111: 이글루 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[이글벳]
+  20261116: 이글벳 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이노메트리]
   20261113: 이노메트리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이노에이엑스]
+  20261116: 이노에이엑스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 이노에이엑스 [기재정정]단일판매ㆍ공급계약체결
+
+[이노인스트루먼트]
+  20261116: 이노인스트루먼트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이노진]
   20261113: 이노진 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 이노진 자기주식취득결과보고서 → 자사주 매입 결과 공시
 
 [이노테나]
+  20261116: 이노테나 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 이노테나 현금ㆍ현물배당결정
 
 [이니텍]
   20261113: 이니텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이닉스]
+  20261116: 이닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 이닉스 주식등의대량보유상황보고서(일반)
+
+[이랜시스]
+  20261116: 이랜시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이랜텍]
   20261113: 이랜텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6566,6 +7448,7 @@ Markdown Content:
   20261113: 이미지스 [기재정정]주주명부폐쇄기간또는기준일설정
 
 [이브이첨단소재]
+  20261116: 이브이첨단소재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 이브이첨단소재 기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)
 
 [이상네트웍스]
@@ -6575,11 +7458,24 @@ Markdown Content:
   20261110: 이수페타시스 기업설명회(IR)개최(안내공시)
   20261110: 이수페타시스 주식등의대량보유상황보고서(일반)
 
+[이스타코]
+  20261116: 이스타코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [이스트소프트]
   20261113: 이스트소프트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이스트에이드]
+  20261116: 이스트에이드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 이스트에이드 [기재정정]주주총회소집결의              (임시주주총회)
+
+[이씨에스]
+  20261116: 이씨에스 반기보고서 (2026.09) → 반기 실적보고서 (상반기 실적·재무제표)
+
+[이아이디]
+  20261116: 이아이디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[이엔에프테크놀로지]
+  20261116: 이엔에프테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이엔플러스]
   20261113: 이엔플러스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6603,6 +7499,9 @@ Markdown Content:
 
 [이오테크닉스]
   20261113: 이오테크닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[이오플로우]
+  20261116: 이오플로우 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [이원컴포텍]
   20261113: 이원컴포텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6636,7 +7535,14 @@ Markdown Content:
 [이크레더블]
   20261113: 이크레더블 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[이화산업]
+  20261116: 이화산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[이화전기공업]
+  20261116: 이화전기공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [인바디]
+  20261116: 인바디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 인바디 주식등의대량보유상황보고서(약식)
   20261110: 인바디 자기주식처분결과보고서 → 자사주 처분(매도) 결과 공시
 
@@ -6654,6 +7560,7 @@ Markdown Content:
   20261110: 인벤티지랩 기업설명회(IR)개최
 
 [인산가]
+  20261116: 인산가 주식등의대량보유상황보고서(일반)
   20261113: 인산가 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 인산가 주식등의대량보유상황보고서(약식)
 
@@ -6673,6 +7580,7 @@ Markdown Content:
   20261110: 인성정보 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [인스웨이브]
+  20261116: 인스웨이브 주요사항보고서(자기주식취득결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261113: 인스웨이브 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 인스웨이브 [기재정정]단일판매ㆍ공급계약체결
 
@@ -6700,6 +7608,7 @@ Markdown Content:
   20261113: 인지컨트롤스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [인카금융서비스]
+  20261116: 인카금융서비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 인카금융서비스 주요사항보고서(자기주식취득신탁계약체결결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 인카금융서비스 주식소각결정
 
@@ -6756,6 +7665,9 @@ Markdown Content:
   20261112: 인피니트헬스케어 주주총회소집공고
   20261109: 인피니트헬스케어 [기재정정]주주총회소집결의              (임시주주총회)
 
+[인화정공]
+  20261116: 인화정공 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [일동제약]
   20261112: 일동제약 [기재정정]풍문또는보도에대한해명(미확정)
   20261112: 일동제약 풍문또는보도에대한해명(미확정)
@@ -6763,14 +7675,23 @@ Markdown Content:
 [일레덱스홀딩스]
   20261112: 일레덱스홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[일성건설]
+  20261116: 일성건설 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [일승]
   20261113: 일승 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [일신바이오]
   20261113: 일신바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[일신방직]
+  20261116: 일신방직 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [일월지엠엘]
   20261113: 일월지엠엘 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[일정실업]
+  20261116: 일정실업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [일진다이아]
   20261112: 일진다이아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6801,6 +7722,9 @@ Markdown Content:
   20261111: 잉크테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 잉크테크 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[자람테크놀로지]
+  20261116: 자람테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [자비스]
   20261113: 자비스 [기재정정]단일판매ㆍ공급계약체결
 
@@ -6810,9 +7734,14 @@ Markdown Content:
   20261109: 자연과환경 주식등의대량보유상황보고서(일반)
 
 [자이글]
+  20261116: 자이글 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 자이글 상장적격성실질심사관련주요개선계획(자율공시)
   20261111: 자이글 주권매매거래정지기간변경              (개선기간 부여)
   20261111: 자이글 기타시장안내              (코스닥시장위원회 심의·의결 결과 및 개선기간 부여 안내)
+
+[자이언트스텝]
+  20261116: 자이언트스텝 [기재정정]주식매수선택권부여에관한신고
+  20261116: 자이언트스텝 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [자이에스앤디]
   20261113: 자이에스앤디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6820,6 +7749,9 @@ Markdown Content:
 
 [자화전자]
   20261113: 자화전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[장원테크]
+  20261116: 장원테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [재영솔루텍]
   20261111: 재영솔루텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6841,6 +7773,9 @@ Markdown Content:
 [정상제이엘에스]
   20261113: 정상제이엘에스 [첨부추가]수시공시의무관련사항(공정공시)              (2026년 사업연도(제34기) 현금배당 계획)
   20261113: 정상제이엘에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[정원엔시스]
+  20261116: 정원엔시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [제낙스]
   20261113: 제낙스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6874,6 +7809,9 @@ Markdown Content:
 
 [제룡전기]
   20261112: 제룡전기 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[제이브이엠]
+  20261116: 제이브이엠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [제이씨케미칼]
   20261113: 제이씨케미칼 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -6924,6 +7862,9 @@ Markdown Content:
 [제이투케이바이오]
   20261111: 제이투케이바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[제이티]
+  20261116: 제이티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [제이피아이헬스케어]
   20261113: 제이피아이헬스케어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -6931,6 +7872,7 @@ Markdown Content:
   20261110: 제일기획 주식등의대량보유상황보고서(약식)
 
 [제일엠앤에스]
+  20261116: 제일엠앤에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 제일엠앤에스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 제일엠앤에스 주식등의대량보유상황보고서(일반)
   20261111: 제일엠앤에스 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -6962,6 +7904,9 @@ Markdown Content:
 [조광아이엘아이]
   20261113: 조광아이엘아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[조광피혁]
+  20261116: 조광피혁 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [조비]
   20261113: 조비 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -6969,11 +7914,17 @@ Markdown Content:
   20261113: 조선내화 주식등의대량보유상황보고서(일반)
   20261112: 조선내화 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[조선선재]
+  20261116: 조선선재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [조이웍스앤코]
   20261109: 조이웍스앤코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [조흥]
   20261113: 조흥 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[졸스]
+  20261116: 졸스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [좋은사람들]
   20261112: 좋은사람들 기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)
@@ -6985,6 +7936,9 @@ Markdown Content:
 [주성코퍼레이션]
   20261113: 주성코퍼레이션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[주연테크]
+  20261116: 주연테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [중앙에너비스]
   20261113: 중앙에너비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -6992,6 +7946,8 @@ Markdown Content:
   20261109: 중앙첨단소재 주식등의대량보유상황보고서(일반)
 
 [지구홀딩스]
+  20261116: 지구홀딩스 [기재정정]주식등의대량보유상황보고서(약식)
+  20261116: 지구홀딩스 [기재정정]주식등의대량보유상황보고서(약식)
   20261113: 지구홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 지구홀딩스 주식등의대량보유상황보고서(약식)
 
@@ -7006,10 +7962,20 @@ Markdown Content:
   20261112: 지니언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 지니언스 기업설명회(IR)개최
 
+[지디]
+  20261116: 지디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[지란지교시큐리티]
+  20261113: 지란지교시큐리티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[지씨지놈]
+  20261116: 지씨지놈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [지아이에스]
   20261111: 지아이에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [지아이이노베이션]
+  20261116: 지아이이노베이션 [기재정정]투자판단관련주요경영사항              (GI301의 일본 내 마일스톤 기술료 수령)
   20261112: 지아이이노베이션 [기재정정]주식매수선택권부여에관한신고
   20261112: 지아이이노베이션 [기재정정]주식매수선택권부여에관한신고
   20261112: 지아이이노베이션 [기재정정]주식매수선택권부여에관한신고
@@ -7034,6 +8000,8 @@ Markdown Content:
   20261110: 지에이이노더스 주주총회소집공고
 
 [지에프씨생명과학]
+  20261116: 지에프씨생명과학 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 지에프씨생명과학 주식등의대량보유상황보고서(일반)
   20261113: 지에프씨생명과학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 지에프씨생명과학 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 지에프씨생명과학 주식등의대량보유상황보고서(일반)
@@ -7063,6 +8031,9 @@ Markdown Content:
   20261112: 지역난방공사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 지역난방공사 연결재무제표기준영업(잠정)실적(공정공시)
 
+[지오엠씨]
+  20261116: 지오엠씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [지투지바이오]
   20261113: 지투지바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -7070,11 +8041,29 @@ Markdown Content:
   20261113: 지투파워 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 지투파워 [기재정정]단일판매ㆍ공급계약체결(자율공시)
 
+[진도]
+  20261116: 진도 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [진바이오텍]
   20261113: 진바이오텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[진성티이씨]
+  20261116: 진성티이씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[진양산업]
+  20261116: 진양산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [진양제약]
   20261112: 진양제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[진양폴리우레탄]
+  20261116: 진양폴리우레탄 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[진양홀딩스]
+  20261116: 진양홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[진양화학]
+  20261116: 진양화학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [진에어]
   20261113: 진에어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7123,6 +8112,7 @@ Markdown Content:
   20261112: 체리부로 중간(분기)배당락
 
 [체시스]
+  20261116: 체시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 체시스 [기재정정]주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 체시스 주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261109: 체시스 주요사항보고서(유상증자결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -7131,6 +8121,9 @@ Markdown Content:
   20261109: 체시스 주주명부폐쇄기간또는기준일설정
   20261109: 체시스 주주총회소집결의
   20261109: 체시스 투자판단관련주요경영사항
+
+[칩스앤미디어]
+  20261116: 칩스앤미디어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [카나프테라퓨틱스]
   20261111: 카나프테라퓨틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7156,6 +8149,9 @@ Markdown Content:
   20261113: 카카오페이 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 카카오페이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[카티스]
+  20261116: 카티스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [카페24]
   20261112: 카페24 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 카페24 신탁계약해지결과보고서
@@ -7165,15 +8161,24 @@ Markdown Content:
   20261113: 카프로 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 카프로 [기재정정]반기보고서 (2026.06) → 반기 실적보고서 (상반기 실적·재무제표)
 
+[캐리]
+  20261116: 캐리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [캐프]
   20261113: 캐프 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 캐프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[캠시스]
+  20261116: 캠시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [캡스톤파트너스]
   20261113: 캡스톤파트너스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [컨텍]
   20261113: 컨텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[컬러레이]
+  20261116: 컬러레이 임시주주총회결과
 
 [컴투스]
   20261112: 컴투스 기업설명회(IR)개최
@@ -7191,6 +8196,7 @@ Markdown Content:
   20261112: 컴퍼니케이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [케스피온]
+  20261116: 케스피온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 케스피온 [첨부정정]주요사항보고서(전환사채권발행결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
 
 [케어랩스]
@@ -7232,6 +8238,8 @@ Markdown Content:
   20261109: 케이비증권 일괄신고추가서류(기타파생결합사채)
 
 [케이비캐피탈]
+  20261116: 케이비캐피탈 [기재정정]일괄신고서
+  20261116: 케이비캐피탈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 케이비캐피탈 증권발행실적보고서
   20261110: 케이비캐피탈 투자설명서(일괄신고)
   20261110: 케이비캐피탈 일괄신고추가서류
@@ -7252,8 +8260,14 @@ Markdown Content:
 [케이씨더블류]
   20261113: 케이씨더블류 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[케이씨씨]
+  20261116: 케이씨씨 기업설명회(IR)개최(안내공시)
+
 [케이씨씨글라스]
   20261113: 케이씨씨글라스 [기재정정]특수관계인으로부터자산양수
+
+[케이씨에스]
+  20261116: 케이씨에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [케이씨텍]
   20261113: 케이씨텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7283,6 +8297,9 @@ Markdown Content:
 [케이에스피]
   20261113: 케이에스피 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[케이엑스넥스지]
+  20261116: 케이엑스넥스지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [케이엔알시스템]
   20261113: 케이엔알시스템 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -7294,10 +8311,14 @@ Markdown Content:
   20261112: 케이엔제이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 케이엔제이 주식등의대량보유상황보고서(일반)
 
+[케이엠]
+  20261116: 케이엠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [케이엠더블유]
   20261113: 케이엠더블유 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [케이옥션]
+  20261116: 케이옥션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 케이옥션 주식등의대량보유상황보고서(일반)
 
 [케이웨더]
@@ -7320,10 +8341,17 @@ Markdown Content:
   20261110: 케이티 연결재무제표기준영업(잠정)실적(공정공시)
   20261110: 케이티 영업(잠정)실적(공정공시)
 
+[케이티스카이라이프]
+  20261116: 케이티스카이라이프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [케이티알파]
   20261111: 케이티알파 영업(잠정)실적(공정공시)
 
+[케이티앤지]
+  20261113: 케이티앤지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [케이프]
+  20261116: 케이프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 케이프 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 케이프 주식등의대량보유상황보고서(일반)
 
@@ -7334,6 +8362,7 @@ Markdown Content:
   20261113: 케이피엠테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [케이피항공산업]
+  20261116: 케이피항공산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 케이피항공산업 단일판매ㆍ공급계약체결(자율공시)
 
 [케일럼]
@@ -7341,6 +8370,9 @@ Markdown Content:
 
 [켄코아에어로스페이스]
   20261113: 켄코아에어로스페이스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[켐트로닉스]
+  20261116: 켐트로닉스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [켐트로스]
   20261113: 켐트로스 [기재정정]주주명부폐쇄기간또는기준일설정
@@ -7360,6 +8392,7 @@ Markdown Content:
   20261113: 코난테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코닉오토메이션]
+  20261116: 코닉오토메이션 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 코닉오토메이션 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 코닉오토메이션 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 코닉오토메이션 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -7371,6 +8404,8 @@ Markdown Content:
   20261113: 코디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코람코더원리츠]
+  20261116: 코람코더원리츠 임시주주총회결과
+  20261116: 코람코더원리츠 주요사항보고서(해산사유발생) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
   20261112: 코람코더원리츠 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [코람코라이프인프라리츠]
@@ -7384,6 +8419,9 @@ Markdown Content:
   20261112: 코렌텍 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 코렌텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[코리아나]
+  20261116: 코리아나 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [코리아써키트]
   20261113: 코리아써키트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -7391,7 +8429,11 @@ Markdown Content:
   20261113: 코리아에프티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코리안리]
+  20261116: 코리안리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 코리안리 영업(잠정)실적(공정공시)
+
+[코맥스]
+  20261116: 코맥스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코메론]
   20261113: 코메론 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7410,6 +8452,9 @@ Markdown Content:
   20261113: 코셈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 코셈 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[코스리거글로벌]
+  20261116: 코스리거글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [코스맥스]
   20261113: 코스맥스 기업설명회(IR)개최(안내공시)
   20261113: 코스맥스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7427,6 +8472,9 @@ Markdown Content:
 
 [코스모로보틱스]
   20261113: 코스모로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[코스모신소재]
+  20261116: 코스모신소재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코스텍시스]
   20261113: 코스텍시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7478,9 +8526,11 @@ Markdown Content:
   20261113: 코츠테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [코텍]
+  20261116: 코텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 코텍 연결재무제표기준영업(잠정)실적(공정공시)
 
 [코퍼스코리아]
+  20261116: 코퍼스코리아 기타시장안내              (상장적격성 실질심사 대상결정 기한 안내)
   20261113: 코퍼스코리아 반기또는분기매출액미달사실발생
   20261113: 코퍼스코리아 기타시장안내              (상장적격성 실질심사 관련)
   20261113: 코퍼스코리아 주권매매거래정지              (상장적격성 실질심사 대상 (사유발생))
@@ -7514,8 +8564,12 @@ Markdown Content:
   20261113: 퀄리타스반도체 주식등의대량보유상황보고서(일반)
   20261113: 퀄리타스반도체 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 퀄리타스반도체 [기재정정]단일판매ㆍ공급계약체결
+  20261112: 퀄리타스반도체 [기재정정]단일판매ㆍ공급계약체결
   20261110: 퀄리타스반도체 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 퀄리타스반도체 전환가액의조정              (제1회차)
+
+[큐라클]
+  20261116: 큐라클 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [큐렉소]
   20261113: 큐렉소 기업설명회(IR)개최
@@ -7536,7 +8590,11 @@ Markdown Content:
   20261110: 큐알티 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 큐알티 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[큐에스아이]
+  20261116: 큐에스아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [큐에이드]
+  20261116: 큐에이드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 큐에이드 상장적격성실질심사관련주요개선계획(자율공시)
   20261111: 큐에이드 주권매매거래정지기간변경              (개선기간 부여)
   20261111: 큐에이드 기타시장안내              (코스닥시장위원회 심의·의결 결과 및 개선기간 부여 안내)
@@ -7560,10 +8618,14 @@ Markdown Content:
   20261113: 크레버스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 크레버스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[크리스에프앤씨]
+  20261116: 크리스에프앤씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [크린앤사이언스]
   20261113: 크린앤사이언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [클래시스]
+  20261116: 클래시스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 클래시스 연결재무제표기준영업(잠정)실적(공정공시)
   20261111: 클래시스 기업설명회(IR)개최
 
@@ -7585,6 +8647,11 @@ Markdown Content:
   20261112: 키움제11호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [키움증권]
+  20261116: 키움증권 [기재정정]일괄신고서(파생결합증권-상장지수증권)
+  20261116: 키움증권 [기재정정]일괄신고서(기타파생결합사채)
+  20261116: 키움증권 [기재정정]일괄신고서(기타파생결합증권)
+  20261116: 키움증권 [기재정정]일괄신고서(파생결합사채-주가연계파생결합사채)
+  20261116: 키움증권 [기재정정]일괄신고서(파생결합증권-주가연계증권)
   20261113: 키움증권 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 키움증권 증권발행실적보고서
   20261112: 키움증권 증권발행실적보고서
@@ -7601,6 +8668,9 @@ Markdown Content:
   20261109: 키움증권 증권발행실적보고서
   20261109: 키움증권 증권발행실적보고서
 
+[키움히어로제1호스팩]
+  20261116: 키움히어로제1호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [키움히어로제2호스팩]
   20261112: 키움히어로제2호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -7609,6 +8679,9 @@ Markdown Content:
   20261113: 키이스트 [기재정정]영업(잠정)실적(공정공시)
   20261113: 키이스트 주주총회소집공고
   20261112: 키이스트 [기재정정]주주총회소집결의              (임시주주총회)
+
+[타임X AI]
+  20261116: 타임X AI 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [탑선]
   20261113: 탑선 [기재정정]단일판매ㆍ공급계약체결(자율공시)
@@ -7620,6 +8693,7 @@ Markdown Content:
   20261113: 탑엔지니어링 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [태광]
+  20261116: 태광 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 태광 중간(분기)배당락
   20261109: 태광 연결재무제표기준영업(잠정)실적(공정공시)
 
@@ -7629,6 +8703,12 @@ Markdown Content:
 
 [태성]
   20261113: 태성 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[태양]
+  20261116: 태양 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[태양금속공업]
+  20261116: 태양금속공업 [기재정정]반기보고서 (2026.06) → 반기 실적보고서 (상반기 실적·재무제표)
 
 [태양기계]
   20261109: 태양기계 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
@@ -7643,6 +8723,9 @@ Markdown Content:
 [태웅로직스]
   20261112: 태웅로직스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[테고사이언스]
+  20261116: 테고사이언스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [테라젠이텍스]
   20261113: 테라젠이텍스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -7653,14 +8736,24 @@ Markdown Content:
 [테이팩스]
   20261112: 테이팩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[테크윙]
+  20261116: 테크윙 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [테크트랜스]
   20261109: 테크트랜스 [기재정정]전환주식의전환청구권행사
 
+[텔라움]
+  20261116: 텔라움 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [텔레칩스]
+  20261116: 텔레칩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 텔레칩스 연결재무제표기준영업(잠정)실적(공정공시)
 
 [텔콘RF제약]
   20261113: 텔콘RF제약 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[토니모리]
+  20261116: 토니모리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [토마토시스템]
   20261113: 토마토시스템 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7672,6 +8765,7 @@ Markdown Content:
   20261113: 토박스코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [토비스]
+  20261116: 토비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 토비스 연결재무제표기준영업(잠정)실적(공정공시)
 
 [토탈소프트]
@@ -7702,6 +8796,7 @@ Markdown Content:
   20261111: 티로보틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [티비에이치글로벌]
+  20261116: 티비에이치글로벌 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 티비에이치글로벌 연결재무제표기준영업(잠정)실적(공정공시)
 
 [티쓰리]
@@ -7718,6 +8813,9 @@ Markdown Content:
 
 [티앤엘]
   20261113: 티앤엘 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[티에스넥스젠]
+  20261116: 티에스넥스젠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [티에스아이]
   20261109: 티에스아이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7738,6 +8836,7 @@ Markdown Content:
   20261113: 티엠씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [티와이홀딩스]
+  20261116: 티와이홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 티와이홀딩스 [기재정정]타인에대한채무보증결정(자회사의 주요경영사항)
 
 [티움바이오]
@@ -7804,6 +8903,9 @@ Markdown Content:
   20261113: 파로스아이바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 파로스아이바이오 투자판단관련주요경영사항(임상시험계획변경승인신청)              (BRAF, KRAS 또는 NRAS 돌연변이를 가진 진행성 고형암 환자를 대상으로 PHI501의 안전성, 내약성, 약동/약력학 및 예비 임상 활성을 평가하기 위한 제1상 임상시험계획(IND) 변경승인신청)
 
+[파루]
+  20261116: 파루 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [파마리서치]
   20261113: 파마리서치 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 파마리서치 주식등의대량보유상황보고서(일반)
@@ -7820,6 +8922,9 @@ Markdown Content:
 
 [파세코]
   20261113: 파세코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[파수AI]
+  20261116: 파수AI 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [파워로직스]
   20261113: 파워로직스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7840,7 +8945,11 @@ Markdown Content:
 [파인디지털]
   20261109: 파인디지털 주식등의대량보유상황보고서(약식)
 
+[파인메딕스]
+  20261116: 파인메딕스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [파인엠텍]
+  20261116: 파인엠텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 파인엠텍 주식등의대량보유상황보고서(일반)
 
 [파인테크닉스]
@@ -7855,6 +8964,9 @@ Markdown Content:
 
 [파트론]
   20261112: 파트론 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[판타지오]
+  20261116: 판타지오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [팜스빌]
   20261113: 팜스빌 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7913,7 +9025,11 @@ Markdown Content:
 [포스코스틸리온]
   20261113: 포스코스틸리온 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[포스코엠텍]
+  20261116: 포스코엠텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [포스코인터내셔널]
+  20261113: 포스코인터내셔널 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 포스코인터내셔널 [기재정정]타인에대한채무보증결정
 
 [포스코퓨처엠]
@@ -7923,6 +9039,9 @@ Markdown Content:
   20261112: 포스코퓨처엠 투자설명서
   20261111: 포스코퓨처엠 [발행조건확정]증권신고서(채무증권) → 증권신고서 (유상증자·공모·IPO)
   20261111: 포스코퓨처엠 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+
+[포시에스]
+  20261116: 포시에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [포인트모바일]
   20261110: 포인트모바일 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7935,6 +9054,12 @@ Markdown Content:
 
 [폴라리스우노]
   20261109: 폴라리스우노 주식등의대량보유상황보고서(일반)
+
+[폴레드]
+  20261116: 폴레드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[푸드나무]
+  20261116: 푸드나무 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [푸드웰]
   20261109: 푸드웰 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -7963,6 +9088,9 @@ Markdown Content:
   20261112: 풍산홀딩스 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261112: 풍산홀딩스 최대주주등소유주식변동신고서
 
+[풍원정밀]
+  20261116: 풍원정밀 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [풍전약품]
   20261113: 풍전약품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 풍전약품 주식등의대량보유상황보고서(일반)
@@ -7973,6 +9101,9 @@ Markdown Content:
 
 [퓨런티어]
   20261112: 퓨런티어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[퓨릿]
+  20261116: 퓨릿 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [퓨처코어]
   20261113: 퓨처코어 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8007,6 +9138,7 @@ Markdown Content:
   20261109: 프로티아 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [프롬바이오]
+  20261116: 프롬바이오 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 프롬바이오 임시주주총회결과
 
 [프리시젼바이오]
@@ -8017,6 +9149,9 @@ Markdown Content:
 
 [플래스크]
   20261113: 플래스크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[플랜텍]
+  20261116: 플랜텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [플레이디]
   20261113: 플레이디 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8040,20 +9175,38 @@ Markdown Content:
 [피델릭스]
   20261112: 피델릭스 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[피씨디렉트]
+  20261116: 피씨디렉트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [피아이이]
   20261112: 피아이이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [피앤씨테크]
+  20261116: 피앤씨테크 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 피앤씨테크 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 피앤씨테크 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 피앤씨테크 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
+  20261116: 피앤씨테크 주식등의대량보유상황보고서(일반)
+  20261116: 피앤씨테크 주식등의대량보유상황보고서(일반)
   20261113: 피앤씨테크 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[피앤텔]
+  20261116: 피앤텔 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [피에스케이]
+  20261116: 피에스케이 기업설명회(IR)개최
   20261113: 피에스케이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [피에스케이홀딩스]
+  20261116: 피에스케이홀딩스 기업설명회(IR)개최
   20261113: 피에스케이홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [피에스텍]
+  20261116: 피에스텍 주식소각결정
   20261113: 피에스텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[피에이치에이]
+  20261116: 피에이치에이 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [피엔티]
   20261111: 피엔티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8069,6 +9222,12 @@ Markdown Content:
 
 [피제이전자]
   20261113: 피제이전자 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[피코그램]
+  20261116: 피코그램 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[핀텔]
+  20261116: 핀텔 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [필에너지]
   20261113: 필에너지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8094,6 +9253,7 @@ Markdown Content:
   20261110: 핑거스토리 주권매매거래정지              (무상증자)
 
 [하나33호스팩]
+  20261116: 하나33호스팩 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 하나33호스팩 기타시장안내              (주권 상장폐지 우려 예고)
 
 [하나34호스팩]
@@ -8134,6 +9294,12 @@ Markdown Content:
   20261113: 하스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 하스 신탁계약에의한취득상황보고서
 
+[하스코]
+  20261116: 하스코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[하우리]
+  20261116: 하우리 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [하이드로리튬]
   20261113: 하이드로리튬 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 하이드로리튬 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8143,8 +9309,12 @@ Markdown Content:
   20261113: 하이로닉 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [하이록코리아]
+  20261116: 하이록코리아 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 하이록코리아 주식등의대량보유상황보고서(일반)
   20261109: 하이록코리아 연결재무제표기준영업(잠정)실적(공정공시)
+
+[하이스틸]
+  20261116: 하이스틸 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [하이젠알앤엠]
   20261113: 하이젠알앤엠 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8178,11 +9348,27 @@ Markdown Content:
   20261110: 한국공항 연결재무제표기준영업(잠정)실적(공정공시)
 
 [한국금융지주]
+  20261113: 한국금융지주 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 한국금융지주 기업설명회(IR)개최(안내공시)
   20261111: 한국금융지주 풍문또는보도에대한해명(미확정)
 
+[한국기업평가]
+  20261116: 한국기업평가 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한국맥널티]
+  20261116: 한국맥널티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한국무브넥스]
+  20261116: 한국무브넥스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한국비엔씨]
+  20261116: 한국비엔씨 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [한국선재]
   20261113: 한국선재 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한국쉘석유]
+  20261116: 한국쉘석유 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한국스탠다드차타드은행]
   20261113: 한국스탠다드차타드은행 [기재정정]일괄신고서
@@ -8190,6 +9376,9 @@ Markdown Content:
 
 [한국씨티은행]
   20261113: 한국씨티은행 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한국알콜]
+  20261116: 한국알콜 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한국앤컴퍼니]
   20261113: 한국앤컴퍼니 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8212,10 +9401,12 @@ Markdown Content:
   20261113: 한국전자홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한국정밀기계]
+  20261116: 한국정밀기계 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 한국정밀기계 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261110: 한국정밀기계 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
 [한국정보공학]
+  20261116: 한국정보공학 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 한국정보공학 주주총회소집결의              (임시주주총회)
   20261112: 한국정보공학 주주명부폐쇄기간또는기준일설정
 
@@ -8237,6 +9428,9 @@ Markdown Content:
   20261111: 한국주강 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261111: 한국주강 최대주주등소유주식변동신고서
 
+[한국주철관공업]
+  20261116: 한국주철관공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [한국카본]
   20261113: 한국카본 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 한국카본 주식등의대량보유상황보고서(일반)
@@ -8249,10 +9443,17 @@ Markdown Content:
   20261109: 한국캐피탈 투자설명서(일괄신고)
   20261109: 한국캐피탈 일괄신고추가서류
 
+[한국컴퓨터]
+  20261116: 한국컴퓨터 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [한국콜마]
   20261113: 한국콜마 기업설명회(IR)개최(안내공시)
   20261111: 한국콜마 기업설명회(IR)개최(안내공시)
   20261109: 한국콜마 기업설명회(IR)개최(안내공시)
+
+[한국큐빅]
+  20261116: 한국큐빅 본점소재지변경
+  20261116: 한국큐빅 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한국타이어앤테크놀로지]
   20261113: 한국타이어앤테크놀로지 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8277,6 +9478,9 @@ Markdown Content:
 
 [한농화성]
   20261112: 한농화성 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한독]
+  20261116: 한독 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한독크린텍]
   20261113: 한독크린텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8314,6 +9518,9 @@ Markdown Content:
 [한섬]
   20261113: 한섬 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[한성기업]
+  20261116: 한성기업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [한세실업]
   20261113: 한세실업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -8326,6 +9533,7 @@ Markdown Content:
   20261113: 한솔로지스틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한솔아이원스]
+  20261116: 한솔아이원스 [기재정정]분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 한솔아이원스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 한솔아이원스 투자설명서
   20261109: 한솔아이원스 효력발생안내( 2026.10.23. 제출 증권신고서(지분증권) ) → 증권신고서 (유상증자·공모·IPO)
@@ -8351,8 +9559,15 @@ Markdown Content:
   20261113: 한솔홈데코 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한신공영]
+  20261116: 한신공영 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 한신공영 [기재정정]단일판매ㆍ공급계약체결
   20261112: 한신공영 [기재정정]단일판매ㆍ공급계약체결
+
+[한신기계공업]
+  20261116: 한신기계공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한싹]
+  20261116: 한싹 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한양디지텍]
   20261112: 한양디지텍 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8387,6 +9602,9 @@ Markdown Content:
 [한익스프레스]
   20261113: 한익스프레스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[한일단조]
+  20261116: 한일단조 주식등의대량보유상황보고서(일반)
+
 [한일사료]
   20261113: 한일사료 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -8395,7 +9613,14 @@ Markdown Content:
   20261109: 한전KPS 연결재무제표기준영업(잠정)실적(공정공시)
 
 [한전기술]
+  20261116: 한전기술 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261109: 한전기술 연결재무제표기준영업(잠정)실적(공정공시)
+
+[한전산업]
+  20261116: 한전산업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[한주라이트메탈]
+  20261116: 한주라이트메탈 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한중엔시에스]
   20261113: 한중엔시에스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
@@ -8406,6 +9631,9 @@ Markdown Content:
   20261111: 한진 전환청구권ㆍ신주인수권ㆍ교환청구권행사
   20261110: 한진 주식소각결정
   20261110: 한진 주식등의대량보유상황보고서(약식)
+
+[한진중공업홀딩스]
+  20261116: 한진중공업홀딩스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한진칼]
   20261113: 한진칼 기타경영사항(자율공시)
@@ -8433,6 +9661,9 @@ Markdown Content:
   20261109: 한탑 주식등의대량보유상황보고서(일반)
   20261109: 한탑 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
 
+[한프]
+  20261116: 한프 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [한화]
   20261112: 한화 주식등의대량보유상황보고서(일반)
   20261112: 한화 주요사항보고서(자기주식취득결정) → 주요사항보고서 (유상증자·무상증자·합병·분할·자산양수도 등 중요 이벤트)
@@ -8453,6 +9684,7 @@ Markdown Content:
   20261112: 한화비전 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한화생명]
+  20261112: 한화생명 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261111: 한화생명 증권발행실적보고서
   20261111: 한화생명 기타경영사항(자율공시)
   20261111: 한화생명 투자설명서
@@ -8472,6 +9704,7 @@ Markdown Content:
   20261112: 한화시스템 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [한화에어로스페이스]
+  20261112: 한화에어로스페이스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 한화에어로스페이스 동일인등출자계열회사와의상품ㆍ용역거래변경
 
 [한화엔진]
@@ -8518,11 +9751,18 @@ Markdown Content:
   20261113: 해성옵틱스 임시주주총회결과
   20261112: 해성옵틱스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[해원에스티]
+  20261116: 해원에스티 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [해태제과식품]
   20261113: 해태제과식품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [행남사]
   20261113: 행남사 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[헝셩그룹]
+  20261116: 헝셩그룹 주주총회소집결의              (임시주주총회)
+  20261116: 헝셩그룹 주주명부폐쇄기간또는기준일설정
 
 [헥토이노베이션]
   20261110: 헥토이노베이션 연결재무제표기준영업(잠정)실적(공정공시)
@@ -8533,6 +9773,9 @@ Markdown Content:
 
 [헬릭스미스]
   20261112: 헬릭스미스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[헬스커넥트]
+  20261116: 헬스커넥트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [현대건설]
   20261113: 현대건설 타인에대한채무보증결정
@@ -8550,7 +9793,11 @@ Markdown Content:
   20261112: 현대공업 자기교환사채만기전취득결정              (제1회차)
   20261110: 현대공업 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
+[현대그린푸드]
+  20261116: 현대그린푸드 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [현대글로비스]
+  20261116: 현대글로비스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261113: 현대글로비스 임원ㆍ주요주주특정증권등거래계획보고서
 
 [현대로템]
@@ -8560,6 +9807,9 @@ Markdown Content:
 
 [현대백화점]
   20261111: 현대백화점 기업설명회(IR)개최(안내공시)
+
+[현대비앤지스틸]
+  20261116: 현대비앤지스틸 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [현대사료]
   20261113: 현대사료 소송등의제기ㆍ신청(경영권분쟁소송)              (주주명부 열람 및 등사 가처분 신청)
@@ -8619,6 +9869,9 @@ Markdown Content:
   20261109: 현대해상 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 현대해상 최대주주등소유주식변동신고서
 
+[현대힘스]
+  20261116: 현대힘스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [형지I&C]
   20261112: 형지I&C 기타시장안내              (주가 미달에 따른 상장폐지 우려 관련 안내)
 
@@ -8644,6 +9897,15 @@ Markdown Content:
 [화승코퍼레이션]
   20261113: 화승코퍼레이션 [기재정정]신규시설투자등
 
+[화신]
+  20261116: 화신 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[화신정공]
+  20261116: 화신정공 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[화인써키트]
+  20261116: 화인써키트 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
 [화일약품]
   20261113: 화일약품 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
@@ -8658,6 +9920,9 @@ Markdown Content:
 
 [효성]
   20261113: 효성 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
+
+[효성오앤비]
+  20261116: 효성오앤비 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [효성중공업]
   20261113: 효성중공업 동일인등출자계열회사와의상품ㆍ용역거래변경
@@ -8700,6 +9965,7 @@ Markdown Content:
   20261110: 휴맥스 주권매매거래정지              (이익소각)
 
 [휴메딕스]
+  20261116: 휴메딕스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261112: 휴메딕스 현금ㆍ현물배당결정              (분기배당)
   20261112: 휴메딕스 중간(분기)배당을위한주주명부폐쇄(기준일)결정
 
@@ -8739,11 +10005,16 @@ Markdown Content:
   20261112: 흥구석유 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [흥국]
+  20261116: 흥국 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 흥국 주식소각결정
 
 [흥국에프엔비]
+  20261116: 흥국에프엔비 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
   20261110: 흥국에프엔비 임원ㆍ주요주주특정증권등소유상황보고서 → 내부자 주식 매수/매도 공시 (임원·주요주주 지분 변동)
   20261109: 흥국에프엔비 연결재무제표기준영업(잠정)실적(공정공시)
+
+[흥아해운]
+  20261116: 흥아해운 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)
 
 [힘스]
   20261113: 힘스 분기보고서 (2026.09) → 분기 실적보고서 (분기 실적·재무제표)

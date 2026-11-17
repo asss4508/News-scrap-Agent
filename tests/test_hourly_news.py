@@ -12,6 +12,84 @@ spec.loader.exec_module(news)
 
 
 class HourlyNewsTests(unittest.TestCase):
+    def test_krx_calendar_excludes_weekends_holidays_and_year_end(self):
+        for day in ['2026-11-14', '2026-11-15', '2026-05-01', '2026-05-05', '2026-12-25', '2026-12-31']:
+            self.assertFalse(news.is_trading_day(day), day)
+        self.assertTrue(news.is_trading_day('2026-11-13'))
+
+    def test_closed_market_never_collects_or_sends_even_manual(self):
+        with patch.object(news, 'is_trading_day', return_value=False), patch.object(news, 'pick_best_article') as pick, patch.object(news, 'send_telegram') as send, patch.dict(news.os.environ, {'GITHUB_EVENT_NAME': 'workflow_dispatch'}):
+            self.assertEqual(news.run_once(), 'market_closed')
+        pick.assert_not_called()
+        send.assert_not_called()
+
+    def test_sends_two_checks_updated_history_and_caps_retry(self):
+        first = ('새빛테크, 해외 공급계약 체결', 'https://example.com/first')
+        second = ('다른기업, 신약 임상 성공 발표', 'https://example.com/second')
+        with tempfile.TemporaryDirectory() as directory:
+            with patch.object(news, 'SENT_LOG_PATH', str(Path(directory) / 'titles.json')), patch.object(news, 'ARTICLE_LOG_PATH', str(Path(directory) / 'articles.json')), patch.object(news, 'is_trading_day', return_value=True), patch.dict(news.os.environ, {'GITHUB_EVENT_NAME': 'workflow_dispatch'}), patch.object(news, 'pick_best_article', side_effect=[first, second]) as pick, patch.object(news, 'send_telegram') as send:
+                self.assertEqual(news.run_once(), 'sent')
+                self.assertEqual(send.call_count, 2)
+                # The second pick sees the first article in the duplicate ledger.
+                self.assertEqual(pick.call_args_list[1].args[1][0]['url'], first[1])
+                self.assertEqual(news.run_once(), 'sent')
+                self.assertEqual(send.call_count, 2)
+
+    def test_one_eligible_article_is_sent_without_filling_with_old_news(self):
+        first = ('새빛테크, 해외 공급계약 체결', 'https://example.com/first')
+        with tempfile.TemporaryDirectory() as directory:
+            with patch.object(news, 'SENT_LOG_PATH', str(Path(directory) / 'titles.json')), patch.object(news, 'ARTICLE_LOG_PATH', str(Path(directory) / 'articles.json')), patch.object(news, 'is_trading_day', return_value=True), patch.dict(news.os.environ, {'GITHUB_EVENT_NAME': 'workflow_dispatch'}), patch.object(news, 'pick_best_article', side_effect=[first, None]), patch.object(news, 'send_telegram') as send:
+                self.assertEqual(news.run_once(), 'partial')
+                self.assertEqual(send.call_count, 1)
+
+    def test_same_day_rewritten_event_and_company_alias_are_duplicates(self):
+        today = news.datetime.now(news.KST).date().isoformat()
+        records = [{'title': '현대자동차, 미국 생산시설 증설 추진', 'date': today,
+                    'summary': '현대자동차는 현지 생산 능력 확대를 위해 투자한다고 밝혔다.'}]
+        self.assertTrue(news.already_covered('현대차 북미 사업 경쟁력 높인다',
+            'https://example.com/new', records, '현대차는 미국 공장에 투자를 늘리기로 했다.'))
+        self.assertFalse(news.already_covered('현대차, 분기 영업이익 발표',
+            'https://example.com/earnings', records, '현대차는 분기 실적을 발표했다.'))
+        records[0]['date'] = '2020-01-01'
+        self.assertFalse(news.already_covered('현대차 북미 사업 경쟁력 높인다',
+            'https://example.com/new', records, '현대차는 미국 공장에 투자를 늘리기로 했다.'))
+
+    def test_unknown_company_rewritten_launch_is_duplicate_from_body(self):
+        records = [{'title': '새빛테크, 산업용 로봇 신제품 출시',
+                    'date': news.datetime.now(news.KST).date().isoformat()}]
+        self.assertTrue(news.already_covered('산업 현장 자동화 시대 연다',
+            'https://example.com/launch', records, '새빛테크는 차세대 산업용 로봇을 선보였다.'))
+        self.assertFalse(news.already_covered('다른기업, 산업용 로봇 출시',
+            'https://example.com/other', records, '다른기업은 산업용 로봇을 출시했다.'))
+
+    def test_publication_time_formats_and_timezone(self):
+        expected = news.datetime(2026, 11, 4, 13, 5, tzinfo=news.KST)
+        for raw in ['2026-11-04T04:05:00Z', '2026-11-04T13:05:00+09:00',
+                    '입력 2026.11.04. 오후 1:05', '2026/11/04 13:05']:
+            self.assertEqual(news.parse_publication_time(raw), expected, raw)
+        self.assertIsNone(news.parse_publication_time('2026-11-04'))
+        self.assertIsNone(news.parse_publication_time('2026-11-99 13:05'))
+
+    def test_two_hour_window_includes_boundary_and_previous_day(self):
+        from unittest.mock import Mock
+        now = news.datetime(2026, 11, 4, 0, 30, tzinfo=news.KST)
+        article = ('새빛테크, 해외 공급계약 체결', 'https://example.com/new', 100)
+        with patch.object(news, 'fetch_popular_articles', return_value=[article]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'datetime', wraps=news.datetime) as clock:
+            clock.now.return_value = now
+            for age, eligible in [(news.timedelta(hours=2), True),
+                                  (news.timedelta(hours=2, seconds=1), False),
+                                  (news.timedelta(seconds=-1), False)]:
+                with patch.object(news, 'get_article_date', return_value=now - age):
+                    self.assertEqual(news.pick_best_article([]), article[:2] if eligible else None)
+
+    def test_original_publication_time_precedes_modified_time(self):
+        from unittest.mock import Mock
+        page = ('<meta property="article:published_time" content="2026-11-04T09:00:00+09:00">'
+                '<meta property="article:modified_time" content="2026-11-04T13:00:00+09:00">')
+        with patch.object(news.requests, 'get', return_value=Mock(text=page)):
+            self.assertEqual(news.get_article_date('https://example.com'),
+                             news.datetime(2026, 11, 4, 9, tzinfo=news.KST))
+
     def test_naver_subheading_photo_table_and_publisher_are_removed(self):
         from unittest.mock import Mock
         body = '현대자동차는 수소 사업 확대를 위한 일관된 정책 지원이 필요하다고 밝혔다.'
@@ -38,7 +116,7 @@ class HourlyNewsTests(unittest.TestCase):
     def test_research_report_is_skipped_in_favor_of_company_event(self):
         research = ('LG에너지솔루션, 실적 개선세 지속', 'https://example.com/report', 200)
         event = ('새빛테크, 해외 공급계약 체결', 'https://example.com/event', 100)
-        with patch.object(news, 'fetch_popular_articles', return_value=[research, event]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST).date()), patch.object(news, 'get_article_summary', side_effect=['iM증권은 목표주가 55만원을 유지했다.', '해외 고객과 공급계약을 체결했다.']):
+        with patch.object(news, 'fetch_popular_articles', return_value=[research, event]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST)), patch.object(news, 'get_article_summary', side_effect=['iM증권은 목표주가 55만원을 유지했다.', '해외 고객과 공급계약을 체결했다.']):
             self.assertEqual(news.pick_best_article([], [], {}), event[:2])
 
     def test_actual_celltrion_buyback_cancellation_republication(self):
@@ -80,7 +158,7 @@ class HourlyNewsTests(unittest.TestCase):
         body = '기업은 해외 생산 공장의 신규 공급계약을 체결했다. 이번 계약은 현지 공장의 생산 규모 확대를 위한 것이다.'
         records = [{'title': '이전 발송 기사', 'summary': body}]
         summaries = {}
-        with patch.object(news, 'fetch_popular_articles', return_value=[first, second]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST).date()), patch.object(news, 'get_article_summary', side_effect=[body, '새로운 임상 결과를 발표했다.']):
+        with patch.object(news, 'fetch_popular_articles', return_value=[first, second]), patch.object(news, 'fetch_articles', return_value=[]), patch.object(news, 'get_article_date', return_value=news.datetime.now(news.KST)), patch.object(news, 'get_article_summary', side_effect=[body, '새로운 임상 결과를 발표했다.']):
             self.assertEqual(news.pick_best_article([], records, summaries), second[:2])
 
     def test_article_history_persists_summary_url_and_date(self):
@@ -190,7 +268,7 @@ class HourlyNewsTests(unittest.TestCase):
             result = news.fetch_popular_articles()
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0][1], 'https://n.news.naver.com/article/015/123')
-        self.assertEqual(result[0][2], news.get_priority(result[0][0]) + 40)
+        self.assertEqual(result[0][2], news.get_priority(result[0][0]) + 4000)
 
     def test_major_companies_and_growth_news_are_eligible(self):
         for title in ['애플 차세대 아이폰 공개 행사 예고', '삼성전자 글로벌 전략 새판 짠다', '한화에어로스페이스 유럽 생산시설 투자 확대']:
@@ -207,7 +285,7 @@ class HourlyNewsTests(unittest.TestCase):
         self.assertEqual(result[0][0], '삼성전자 신제품 공개 예고')
 
     def test_popular_article_beats_keyword_score_and_stale_is_skipped(self):
-        today = news.datetime.now(news.KST).date()
+        today = news.datetime.now(news.KST)
         popular = ('새빛테크, 해외 공급계약 체결', 'https://example.com/popular', 14020)
         ordinary = ('삼성전자 반도체 양산 수주 신제품 공개', 'https://example.com/ordinary', 80)
         with patch.object(news, 'fetch_popular_articles', return_value=[popular]), patch.object(news, 'fetch_articles', return_value=[ordinary]):

@@ -19,6 +19,11 @@ def at(hour, minute=0, day=10):
 
 
 class RunnerTests(unittest.TestCase):
+    def test_closed_market_ends_session_without_more_hourly_attempts(self):
+        sends, checkpoints = self.simulate(at(8), outcome='market_closed')
+        self.assertEqual(sends, [at(8)])
+        self.assertEqual(checkpoints, [])
+
     def simulate(self, start, state=None, outcome='sent', manual=False):
         now = [start]
         ticks = [0]
@@ -61,10 +66,16 @@ class RunnerTests(unittest.TestCase):
         for hour in (0, 2, 17, 23):
             self.assertEqual(self.simulate(at(hour))[0], [])
 
-    def test_no_article_is_recorded_without_retry_storm(self):
+    def test_no_article_retries_every_five_minutes_until_hour_ends(self):
         sends, checkpoints = self.simulate(at(16), outcome='no_article')
-        self.assertEqual(sends, [at(16)])
+        self.assertEqual(sends, [at(16, minute) for minute in range(0, 60, 5)])
         self.assertEqual(checkpoints[-1]['hours'], {'16': 'no_article'})
+
+    def test_partial_slot_is_retried_and_not_treated_as_complete(self):
+        sends, checkpoints = self.simulate(at(16, 50), outcome='partial')
+        self.assertEqual(sends, [at(16, 50), at(16, 55)])
+        self.assertEqual(checkpoints[-1]['hours'], {'16': 'partial'})
+        self.assertEqual(runner.next_slot(at(16, 55), checkpoints[-1]), at(16))
 
     def test_manual_run_is_exactly_once_even_outside_window(self):
         self.assertEqual(self.simulate(at(20), manual=True)[0], [at(20)])

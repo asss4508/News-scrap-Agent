@@ -8,12 +8,13 @@ from html import escape
 from urllib.parse import urlparse, urljoin
 from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor
+from functools import lru_cache
 
 # 매시간 실행되므로 최근에 이미 보낸 기사는 다시 보내지 않도록 이력을 저장한다.
 SENT_LOG_PATH = os.path.join(
     os.path.dirname(__file__), "..", "..", "data", "hourly_sent_log.json"
 )
-SENT_LOG_KEEP = 90  # 하루 9건 기준 약 10일치 보관
+SENT_LOG_KEEP = 180  # 하루 최대 18건 기준 약 10일치 보관
 ARTICLE_LOG_PATH = os.path.join(os.path.dirname(SENT_LOG_PATH), "hourly_sent_articles.json")
 
 HEADERS = {
@@ -21,6 +22,17 @@ HEADERS = {
 }
 
 KST = timezone(timedelta(hours=9))
+ARTICLES_PER_HOUR = 2
+
+
+@lru_cache(maxsize=4)
+def is_trading_day(day):
+    # 캘린더를 읽을 수 없으면 예외로 중단하며 평일이라고 추정해 보내지 않는다.
+    import exchange_calendars
+    calendar = exchange_calendars.get_calendar('XKRX')
+    return calendar.is_session(day)
+
+
 RANKING_URL = "https://news.naver.com/main/ranking/popularDay.naver"
 # 경제·산업 전문 매체의 현재 많이 본 뉴스에서 기업 이벤트를 선별한다.
 BUSINESS_PRESS = {"009", "015", "011", "014", "018", "277", "016", "008", "366", "030", "092"}
@@ -183,36 +195,53 @@ def get_priority(title):
             score += 2
     return score
 
+def parse_publication_time(raw):
+    """시간 없는 날짜는 신선도를 검증할 수 없으므로 사용하지 않는다."""
+    raw = raw.strip()
+    try:
+        if re.search(r'[T ]\d{2}:\d{2}', raw):
+            value = datetime.fromisoformat(raw.replace('Z', '+00:00'))
+            return (value.replace(tzinfo=KST) if value.tzinfo is None else value).astimezone(KST)
+    except ValueError:
+        pass
+    match = re.search(r'(\d{4})[.\-/]\s*(\d{1,2})[.\-/]\s*(\d{1,2})\.?\s*(오전|오후)?\s*(\d{1,2}):(\d{2})(?::(\d{2}))?', raw)
+    if match:
+        year, month, day, period, hour, minute, second = match.groups()
+        hour = int(hour)
+        if period:
+            if not 1 <= hour <= 12:
+                return None
+            hour = hour % 12 + (12 if period == '오후' else 0)
+        try:
+            return datetime(int(year), int(month), int(day), hour, int(minute), int(second or 0), tzinfo=KST)
+        except ValueError:
+            pass
+    return None
+
+
 def get_article_date(url):
-    """기사 발행일을 og:article:published_time 또는 메타태그에서 추출"""
+    """최초 발행 시각을 KST datetime으로 반환한다. 수정 시각은 사용하지 않는다."""
     try:
         res = requests.get(url, headers=HEADERS, timeout=8)
+        res.raise_for_status()
         soup = BeautifulSoup(res.text, "html.parser")
         published = soup.select_one("._ARTICLE_DATE_TIME[data-date-time]")
         if published:
-            return datetime.fromisoformat(published["data-date-time"]).date()
+            return parse_publication_time(published["data-date-time"])
         for prop in ["article:published_time", "og:regDate", "og:pub_date", "datePublished"]:
             tag = soup.find("meta", property=prop) or soup.find("meta", attrs={"name": prop})
             if tag and tag.get("content"):
-                raw = tag["content"][:10]
-                try:
-                    return datetime.strptime(raw, "%Y-%m-%d").date()
-                except Exception:
-                    pass
+                value = parse_publication_time(tag["content"])
+                if value:
+                    return value
         # 매일경제 마켓 등 메타 발행일이 없는 사이트의 기사 날짜 영역.
         for tag in soup.select('.time_info, .article_info, .article-info, time[datetime]'):
             raw = tag.get('datetime') or tag.get_text(' ', strip=True)
-            match = re.search(r'(\d{4})[.\-/]\s*(\d{2})[.\-/]\s*(\d{2})', raw)
-            if match:
-                return datetime(*map(int, match.groups())).date()
-        # 날짜 패턴 직접 탐색
-        text = res.text
-        m = re.search(r'(\d{4})[.\-/](\d{2})[.\-/](\d{2})', text[:3000])
-        if m:
-            try:
-                return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3))).date()
-            except Exception:
-                pass
+            if tag.get('itemprop') == 'dateModified' or re.match(r'\s*수정', raw):
+                continue
+            value = parse_publication_time(raw)
+            if value:
+                return value
     except Exception:
         pass
     return None
@@ -460,11 +489,12 @@ def load_sent_articles():
     return records
 
 
-def save_sent_article(records, article, summary):
+def save_sent_article(records, article, summary, delivery_slot=None):
     title, url = article
     updated = records[-(SENT_LOG_KEEP - 1):] + [{
         'title': title, 'url': canonical_url(url), 'summary': summary,
         'date': datetime.now(KST).date().isoformat(),
+        'delivery_slot': delivery_slot or datetime.now(KST).strftime('%Y-%m-%dT%H'),
     }]
     os.makedirs(os.path.dirname(ARTICLE_LOG_PATH), exist_ok=True)
     temporary = ARTICLE_LOG_PATH + '.tmp'
@@ -478,11 +508,32 @@ def company_event_keys(title, summary=''):
     cleaned = re.sub(r'^\s*\[[^\]]+\]\s*', '', title).strip(' “"‘\'')
     # Korean business headlines usually name their subject before a comma.
     # Known names also cover titles with no comma or a leading quote.
-    companies = {normalize_title(company) for company in MAJOR_COMPANIES
-                 if company.casefold() in cleaned.casefold()}
+    aliases = {
+        'sk하이닉스': ('sk하이닉스', '하이닉스'),
+        '현대차': ('현대차', '현대자동차'),
+        'lg에너지솔루션': ('lg에너지솔루션', 'lg엔솔'),
+        '오픈ai': ('오픈ai', '오픈에이아이', 'openai'),
+        '엔비디아': ('엔비디아', 'nvidia'),
+        '애플': ('애플', 'apple'),
+        '마이크로소프트': ('마이크로소프트', 'microsoft', 'ms'),
+    }
+    def company_key(name):
+        name = normalize_title(name)
+        return next((key for key, names in aliases.items() if name in names), name)
+
+    source = (cleaned + ' ' + summary).casefold()
+    companies = {company_key(company) for company in MAJOR_COMPANIES
+                 if company.casefold() in source}
+    for company, names in aliases.items():
+        if any(re.search(r'(?<![a-z])' + re.escape(name) + r'(?![a-z])', source) for name in names):
+            companies.add(company)
     subject = re.match(r'^([가-힣A-Za-z0-9·& .]{2,30})\s*[,，]', cleaned)
     if subject:
-        companies.add(normalize_title(subject[1]))
+        companies.add(company_key(subject[1]))
+    # 알려지지 않은 기업도 본문 첫 문장의 주어에서 찾는다.
+    subject = re.match(r'^\s*([가-힣A-Za-z0-9·&]{2,25})(?:은|는|이|가)\s', summary)
+    if subject:
+        companies.add(company_key(subject[1]))
     text = normalize_title(title + ' ' + summary)
     patterns = {
         'share_cancellation': r'(?:자사주|자기주식).{0,30}소각|소각.{0,15}(?:자사주|자기주식)',
@@ -494,6 +545,13 @@ def company_event_keys(title, summary=''):
         'clinical_trial': r'임상.{0,15}(?:성공|결과|돌입|개시)',
         'technology_transfer': r'기술이전|기술수출',
         'capital_raise': r'유상증자|무상증자',
+        'product_launch': r'신제품|신모델|출시|선보|공개|상용화|양산',
+        'earnings': r'실적|영업이익|매출|흑자전환|적자전환',
+        'investment': r'투자|증설|공장신설|착공|준공|생산확대',
+        'partnership': r'협력|협업|파트너십|업무협약|합작',
+        'control_dispute': r'경영권|지분경쟁|지분분쟁',
+        'recall': r'리콜|회수조치',
+        'lawsuit': r'소송|피소',
     }
     return {f'{company}/{event}' for company in companies
             for event, pattern in patterns.items() if re.search(pattern, text)}
@@ -555,7 +613,7 @@ def fetch_popular_articles():
                 continue
             rank = int(rank_match[0])
             articles.append((title, 'https://n.news.naver.com' + parsed.path,
-                             (6 - rank) * 10 + get_priority(title)))
+                             (6 - rank) * 1000 + min(get_priority(title), 999)))
     except (requests.RequestException, ValueError) as exc:
         print(f"인기 기사 수집 실패: {type(exc).__name__}; 일반 기업 뉴스로 대체합니다.")
     return articles
@@ -581,16 +639,15 @@ def pick_best_article(sent_titles, sent_articles=None, summaries=None):
 
     unique.sort(key=lambda x: x[2], reverse=True)
 
-    today = datetime.now(KST).date()
+    now = datetime.now(KST)
     for title, url, score in unique:
         if any(similar_text(title, previous) for previous in sent_titles):
             continue
         if already_covered(title, url, sent_articles):
             continue
-        # 섹션 목록 페이지엔 전날 기사가 계속 걸려있는 경우가 있어,
-        # 실제 발행일을 확인해 오늘 기사가 아니면 건너뛴다.
+        # 실제 발송 시점 기준 최근 2시간 내 최초 발행 기사만 허용한다.
         pub_date = get_article_date(url)
-        if pub_date != today:
+        if pub_date is None or not timedelta(0) <= now - pub_date <= timedelta(hours=2):
             continue
         if summaries is not None:
             summary = get_article_summary(url, title)
@@ -621,11 +678,19 @@ def send_telegram(message):
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
-    res = requests.post(api_url, json=payload, timeout=10)
-    res.raise_for_status()
+    try:
+        res = requests.post(api_url, json=payload, timeout=10)
+    except requests.RequestException:
+        raise RuntimeError('Telegram transport failed; credentials omitted') from None
+    if not res.ok or not res.json().get('ok'):
+        raise RuntimeError(f'Telegram delivery rejected (HTTP {res.status_code})')
     print("전송 완료")
 
 def run_once():
+    now = datetime.now(KST)
+    if not is_trading_day(now.date().isoformat()):
+        print("한국 주식시장 휴장일이므로 발송하지 않습니다.")
+        return "market_closed"
     # 늦어진 예약 실행은 야간에 보내지 않는다. 수동 실행은 즉시 전송한다.
     if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not in_send_window(datetime.now(KST)):
         print("발송 시간대가 지나 이번 회차는 건너뜁니다.")
@@ -633,18 +698,26 @@ def run_once():
     print("뉴스 수집 중...")
     sent_titles = load_sent_titles()
     sent_articles = load_sent_articles()
-    summaries = {}
-    article = pick_best_article(sent_titles, sent_articles, summaries)
-    if article is None:
-        print("새로 보낼 핫뉴스가 없어 이번 회차는 건너뜁니다.")
-        return "no_article"
-    summary = summaries.get(article[1], '')
-    msg = build_message(article, summary)
-    print(msg)
-    send_telegram(msg)
-    save_sent_article(sent_articles, article, summary)
-    save_sent_titles(sent_titles, normalize_title(article[0]))
-    return "sent"
+    slot = now.strftime('%Y-%m-%dT%H')
+    sent_count = sum(row.get('delivery_slot') == slot for row in sent_articles)
+    for _ in range(max(0, ARTICLES_PER_HOUR - sent_count)):
+        summaries = {}
+        article = pick_best_article(sent_titles, sent_articles, summaries)
+        if article is None:
+            print("조건에 맞는 새 기사가 없어 추가 발송을 건너뜁니다.")
+            break
+        summary = summaries.get(article[1], '')
+        msg = build_message(article, summary)
+        print(msg)
+        send_telegram(msg)
+        save_sent_article(sent_articles, article, summary, delivery_slot=slot)
+        save_sent_titles(sent_titles, normalize_title(article[0]))
+        # 두 번째 기사는 방금 보낸 기사와도 내용 중복을 검사한다.
+        sent_articles = load_sent_articles()
+        sent_titles = load_sent_titles()
+        sent_count += 1
+    print(f"HOURLY_SENT_COUNT={sent_count}/{ARTICLES_PER_HOUR}", flush=True)
+    return "sent" if sent_count >= ARTICLES_PER_HOUR else "partial" if sent_count else "no_article"
 
 
 if __name__ == "__main__":

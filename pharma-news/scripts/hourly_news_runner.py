@@ -29,7 +29,7 @@ def next_slot(now, state):
     done = state.get("hours", {}) if state.get("date") == now.date().isoformat() else {}
     # Recover only the current hour, never burst-send every missed hour.
     for hour in range(max(8, now.hour), 17):
-        if str(hour) not in done:
+        if done.get(str(hour)) != 'sent':
             return now.replace(hour=hour, minute=0, second=0, microsecond=0)
     return None
 
@@ -44,7 +44,7 @@ def read_state():
 
 
 def record_slot(state, slot, result):
-    if result not in ("sent", "no_article"):
+    if result not in ("sent", "partial", "no_article"):
         raise ValueError(f"Unexpected result: {result}")
     if state.get("date") != slot.date().isoformat():
         state = {"date": slot.date().isoformat(), "hours": {}}
@@ -91,7 +91,7 @@ def collect_and_send():
     print(result.stdout, end="", flush=True)
     result.check_returncode()
     lines = result.stdout.splitlines()
-    if not lines or lines[-1] not in ("HOURLY_RESULT=sent", "HOURLY_RESULT=no_article", "HOURLY_RESULT=outside_window"):
+    if not lines or lines[-1] not in ("HOURLY_RESULT=sent", "HOURLY_RESULT=partial", "HOURLY_RESULT=no_article", "HOURLY_RESULT=outside_window", "HOURLY_RESULT=market_closed"):
         raise RuntimeError("News sender did not report a recognized outcome")
     return lines[-1].split("=", 1)[1]
 
@@ -104,7 +104,7 @@ def run_session(*, manual=False, now_fn=None, sleep_fn=time.sleep, send_fn=colle
     if manual:
         now = now_fn().astimezone(KST)
         result = send_fn()
-        if 8 <= now.hour < 17 and result in ("sent", "no_article"):
+        if 8 <= now.hour < 17 and result in ("sent", "partial", "no_article"):
             record_slot(state, now, result)
         persist_fn()
         return
@@ -124,10 +124,17 @@ def run_session(*, manual=False, now_fn=None, sleep_fn=time.sleep, send_fn=colle
             continue
         print(f"시간별 뉴스 회차 시작: {slot.isoformat()}", flush=True)
         result = send_fn()
-        if result == "outside_window":
+        if result in ("outside_window", "market_closed"):
             return
         state = record_slot(state, slot, result)
         persist_fn()  # Checkpoint every hour, not just at the end of the session.
+        if result in ('partial', 'no_article'):
+            # Retry missing articles within this hour, preserving each sent URL.
+            # Sleep in short slices; do not send a backlog from earlier hours.
+            retry_at = min(now_fn() + timedelta(minutes=5),
+                           slot.replace(minute=0) + timedelta(hours=1))
+            while now_fn() < retry_at and monotonic_fn() < deadline:
+                sleep_fn(min(60, (retry_at - now_fn()).total_seconds()))
 
 
 def main():

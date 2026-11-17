@@ -34,7 +34,7 @@ jobs:
           python-version: "3.11"
       - name: 패키지 설치
         if: steps.gate.outputs.proceed == 'true'
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 "exchange-calendars>=4.12,<5"
       - name: 주요 뉴스 전송
         if: steps.gate.outputs.proceed == 'true'
         env:

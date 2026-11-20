@@ -304,5 +304,11 @@
   },
   "2026-11-20/finance": {
     "status": "sent"
+  },
+  "2026-11-21/pharma": {
+    "status": "sent"
+  },
+  "2026-11-21/finance": {
+    "status": "sent"
   }
 }

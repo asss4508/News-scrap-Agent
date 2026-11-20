@@ -1,198 +1,28 @@
-[2026-11-19 06:46] https://www.hankyung.com/article/202611184931H
+[2026-11-20 07:38] https://www.seoul.co.kr/news/society/law/2026/11/19/20261119500157?wlog_tag3=naver
 
-[2026-11-19 09:19] AI stocks are in a 'Tesla-style lull,' not a bubble burst, says Seoul strategist
 
-Key Points
+적당히 하래요...
 
-• AI and chip stocks keep sliding despite Nvidia's blowout quarter and upbeat guidance.
+[2026-11-20 07:39] https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%9D%B8%EA%B3%B5-%EC%A7%80%EB%8A%A5/ai-%EC%BB%A4%EB%8B%9D-%EC%9A%B0%EB%A0%A4%EC%97%90-%EB%B2%95%EB%AC%B4%EB%B6%80-%EB%B3%80%EC%8B%9C-5%EB%85%84%EC%B9%98-%EB%85%BC%EC%88%A0%EB%8B%B5%EC%95%88-%EC%A0%84%EC%88%98%EC%A1%B0%EC%82%AC-%EB%85%BC%EC%9D%98/ar-AA2hLaGj
 
-• Seoul-based strategist Simon Choi says the market has entered a "Tesla-style lull," a pause before the next leg higher.
+[2026-11-20 08:04] JP모건까지 뚫렸다…고객 이메일 1만6000개 유출 정황
 
-• He sees a repeat of the late 1990s: productivity keeps rates in check, followed by a genuine bubble.
+https://n.news.naver.com/mnews/article/629/0000553853?sid=104
 
-AI stocks are getting hammered, and it isn't for lack of good news.
+[2026-11-20 08:06] 미국 기업은 왜 정보 유출에 민감한가 — 사고 1건 평균 1,150만 달러
 
-Nvidia posted third-quarter revenue of $115.8 billion this week, beating Wall Street estimates by more than $6 billion, and guided to $130 billion for the current quarter. Anthropic's IPO priced at $83 a share. Data center permits are still clearing in Texas.
+- 비용: 유출 사고 1건당 평균 비용은 세계 평균 600만 달러, 미국은 1,150만 달러로 두 배 가까이 든다.
 
-The stocks haven't cared. Nvidia is down roughly 24% this month. The PHLX Semiconductor Index logged its worst day since March 2020 on Nov. 5, and the selling has rippled through Seoul, Taipei and Tokyo.
+- 집단소송: 피해자 한 명이 고객 전체를 대표해 소송을 낼 수 있고, 변호사 성공보수 구조라 유출 직후 소송이 들어온다. 에퀴팩스 합의금은 최대 7억 달러였다.
 
-Simon Choi, an equity investment specialist and founder of Seoul-based BIGSHOT RESEARCH, says investors are misreading the moment.
+- 법정 배상: 캘리포니아 등은 실제 피해를 입증하지 않아도 고객 1인당 정해진 배상액을 청구할 수 있다.
 
-"This is a Tesla-style lull," Choi said. "The market is resting, not reversing."
+- 공시 의무: 상장사는 중요한 사이버 사고를 영업일 4일 안에 SEC에 공시해야 하고, 50개 주 모두 고객 통지 의무가 있다.
 
-His argument: AI's productivity gains are real, but most people can't see them yet. They haven't shown up in the economic data, and they haven't triggered the disinflation that would give the Federal Reserve cover to cut rates. Until that happens, high rates will keep a lid on growth stocks, no matter how strong the earnings.
+- 2차 소송: 공시 후 주가가 빠지면 주주 소송이 다시 따라온다.
 
-Tesla's playbook
+- 한국과 차이: 한국은 증권 분야 외에는 집단소송이 없고, 유출 배상은 1인당 10만 원 안팎이 대부분이다.
 
-Choi points to Tesla in 2018 as the template.
-
-Demand for the Model 3 was overwhelming, but the company couldn't build cars fast enough. Elon Musk called it "production hell," and later admitted Tesla came within weeks of going bankrupt. Musk himself became a liability: his "funding secured" tweet triggered an SEC lawsuit and cost him his chairman's seat.
-
-The stock went sideways for the better part of two years. The story never broke.
-
-"Tesla almost went under too," Choi said. "People who saw that as a lull, not the end, made a fortune."
-
-The parallels are striking. Today, as then, demand isn't the problem; capacity is. And the industry's bellwether is weathering a CEO shock at the worst possible time, after Jensen Huang's abrupt resignation from Nvidia.
-
-Back to 1997
-
-For what comes after the lull, Choi looks further back, to the early internet era.
-
-In March 1997, the Fed raised rates by a quarter point to 5.5%, its first hike in two years. Many on Wall Street braced for a long tightening cycle. It never came. Productivity gains from the internet and the PC kept inflation unusually low, and that single move proved to be the only hike of the cycle. Within 18 months, the Fed was cutting.
-
-Choi expects the same script this time. The productivity payoff from AI hasn't shown up yet, he says, but it will surface as the market moves through the lull.
-
-"The Fed might hike once more, maybe twice," Choi said. "But that will be the last of it."
-
-If he's right, the upside could be dramatic. In South Korea, the tech-heavy KOSDAQ rose from about 60 in October 1998 to 283 by March 2000, a nearly fivefold gain in 17 months. Its leaders did far better. Saerom Technology, the internet-phone darling of the day, soared from 1,890 won in October 1999 to 282,000 won five months later, a roughly 150-fold jump. Dozens of others rose 10- to 20-fold.
-
-"We could see a real bubble," Choi said. "Not the one people are worried about now, but the kind we saw in 1998 and 1999."
-
-What ends the lull
-
-Choi says the catalyst will be data, not earnings. Once AI's productivity gains start showing up in the numbers and inflation cools, the case for rate cuts makes itself, and the sell-off will look the way Tesla's 2018 slump looks now.
-
-South Korea, he says, is where the gap is widest. Korean memory makers have much of their supply already locked in under contract, so profits will keep rolling in during the lull. The KOSPI trades at just 3.4 times forward earnings, a record low.
-
-"The earnings are already there," Choi said. "The price just hasn't caught up."
-
-[2026-11-19 09:19] https://t.me/KOREASTOCK11
-
-[2026-11-19 09:26] https://www.aitimes.com/news/articleView.html?idxno=217542
-
-[2026-11-19 09:30] .
-■ 나스닥 혼조 강보합인 가운데,
- <보안> 섹터 강세.
-
-[2026-11-19 09:39] 깃랩(GTLB) 투자 포인트
-
-깃랩은 폐쇄망 AI 코딩·보안 시장을 대표하는 미국 상장사다. 듀오 셀프호스티드로 코드 생성, 보안 스캔, AI 취약점 수정을 고객 내부망 안에서 한 번에 처리한다. 깃허브 코파일럿에는 에어갭 모드가 없어서, 소스코드를 외부로 내보낼 수 없는 미 연방정부·국방·금융 고객은 사실상 깃랩이 단독으로 상대하고 있다.
-
-오픈AI가 사이버 보안을 코딩보다 큰 시장으로 지목하면서 깃랩의 보안 기능에 다시 값이 매겨질 여지가 생겼다. 시장은 아직 깃랩을 개발 도구 회사로 보고 있어, 팔로알토와 제이프로그가 급등한 11월 18일에도 주가는 제자리였다. 최상위 요금제의 보안 매출이 따로 부각되면 평가 기준이 보안 소프트웨어 쪽으로 옮겨 갈 수 있다고 판단된다.
-
-비용 구조도 바뀌고 있다. 6월 전체 인력의 약 14%를 줄이는 구조조정을 시작했고, 4억달러 규모의 자사주 매입도 진행 중이다. 매출총이익률이 86% 수준이어서 인건비를 줄이면 그만큼 영업이익이 곧바로 개선된다.
-
-주가는 4월 장중 18.73달러에서 10월 28일 장중 58.01달러까지 반년 만에 약 3.1배 올랐다. 이후 23% 조정을 거쳐 현재 44달러대에 있다. 12개월 선행 PER은 50배 안팎, PSR은 약 7배로 추산되며, 증권가 평균 목표가 55.61달러와 비교하면 25% 안팎의 상승 여력이 남아 있다.
-
-다만 투자의견은 아직 '보유'가 다수다. 12월 초로 예상되는 3분기 실적에서 듀오 AI 매출과 보안 요금제 성장률이 숫자로 확인되는지가 반등의 조건이다.
+- 결론: 미국 기업은 보안 예산을 '보험료'로 보고 미리 쓴다. 미국 보안주 실적이 꾸준한 배경이다.
 
 https://t.me/KOREASTOCK11
-
-[2026-11-19 09:41] 한달전까지만
-
-[2026-11-19 09:42] 시선AI 인트라젠엑스와 깃랩, 폐쇄망 AI 코딩 비교
-
-두 제품이 노리는 시장은 같다. 소스코드를 외부로 내보낼 수 없는 국방·공공·금융 기관의 내부망 안에서 AI가 코드를 짜고, 보안 취약점까지 점검한다. 시선AI는 공군 국방망에, 깃랩은 미 연방정부 시스템 통합업체에 이 기능을 공급하고 있다.
-
-가장 큰 차이는 AI 모델이다. 시선AI는 300억 파라미터 sLLM을 직접 개발해 지식그래프 기반 RAG와 묶어 공급한다. 깃랩은 자체 모델 없이 고객이 오픈소스 LLM을 골라 자사 플랫폼에 얹는 방식이다. 시선AI는 모델부터 납품까지 한 회사가 책임지는 국산 솔루션이고, 깃랩은 플랫폼 위에 모델을 끼워 쓰는 개방형이다.
-
-보안 기능은 거의 같다. 인트라젠엑스는 코드 생성과 보안코드 자동점검을 한 환경에서 처리한다. 깃랩은 코드 보안 스캐너(SAST)로 취약점을 찾고, AI가 수정 코드까지 만들어 올린다.
-
-파는 방식은 다르다. 인트라젠엑스는 단독 솔루션으로 기관마다 설치하고, 깃랩은 개발 플랫폼 최상위 요금제에 AI 옵션을 더해 판다.
-
-규모 차이는 크다. 깃랩은 연 매출 10억달러, 시가총액 74억달러 회사이고, 시선AI의 확인된 수주는 아직 공군 1건, 24억5천만원이다. 같은 폐쇄망 AI 코딩 시장에 미국은 이미 74억달러의 값을 매기고 있다. 시선AI가 이 시장의 국내 선점 기업으로 자리를 굳히는지는 육·해군 확산과 금융권 첫 수주에서 확인될 것으로 판단된다.
-
-https://t.me/KOREASTOCK11
-
-[2026-11-19 09:43] https://www.aitimes.kr/news/articleView.html?idxno=41872
-
-[2026-11-19 11:12] ✅ [단독] 서울 중구 수능 수험장에서 전자기기 발견…학생 3명 부정행위 여부 파악 중
-
-https://n.news.naver.com/mnews/article/057/0001978904?rc=N&ntype=RANKING&sid=001
-
-[2026-11-19 11:13] **🚨 속보** [노컷뉴스]
-속보'수능 재난문자'로 22개 스마트폰 적발…다른 첨단기기는 없어
-자세한 내용 추후 이어집니다....
-https://www.nocutnews.co.kr/news/6609353
-
-[2026-11-19 14:25] **⚡ 단독** [연합뉴스TV]
-[단독] '리트 만점자' 이진우 유서 추정 메모 발견…부정행위 인정·사과는 없어
-
-https://www.yonhapnewstv.co.kr/news/AKR202611191410192QN
-
-[2026-11-19 14:26] 변리사는 5급 수준 아닌가...
-
-[2026-11-19 14:26] 이건..
-
-[2026-11-19 14:27] https://m.mbn.co.kr/news/society/5231760?ty=e2
-
-[2026-11-19 14:30] [속보]한 총리 "작년 수능 시험지 보관…부정행위 의혹 등 철저 규명" 긴급지시
-https://n.news.naver.com/mnews/article/003/0014332982?sid=100
-
-[2026-11-19 14:31] 작년꺼 부정행위 알고 있는 사람 신고하면 1억 준다고 하면 100명이상 나올 듯. 그쵸 ?
-
-[2026-11-19 14:35] https://youtube.com/shorts/C_Br7F8hI6Y?si=wRs1UmsIEnOLB0yL
-
-[2026-11-19 14:35] 이건 바로 걸림. 모로 ?
-
-[2026-11-19 14:42] 세상에 비밀은 없다 — 신고 포상금을 지난 시험까지 소급하면 100명은 나올 것
-
-지난해 수능부터 리트, 변리사, 회계사, 세무사 시험까지 AI 기기를 이용한 부정행위 의혹이 끊이지 않는다. 최근 세무사 시험 수석합격자가 AI 기술을 활용한 부정행위를 시인했고, 리트에서도 AI 안경 의혹이 잇따랐다. 현장에서 걸리지 않았더라도 시험이 끝난 뒤 신고가 접수되면 같은 제재를 받는다. 시험장에서 빠져나갔다고 끝난 일이 아닌 셈이다.
-
-부정행위를 한 사람은 혼자가 아니다. 장비를 구해 준 사람, 답을 불러 준 사람, 그 사실을 들은 친구와 가족이 있다. 정부가 신고 포상금을 내걸고 지난해 시험까지 소급해 적용한다면, 각종 시험을 통틀어 100명 안팎은 드러날 것으로 판단된다. 반입금지 물품 소지로 적발된 수능 부정행위는 2025학년도 71건에서 2026학년도 84건으로 늘었다. 무선기기를 실제로 사용하다 적발된 사례는 최근 5년간 0건이었다. 적발이 없었다고 사용이 없었다고 볼 수는 없다.
-
-오늘 수능에서는 위급재난문자로 휴대폰 22대가 적발됐다. 그러나 재난문자는 소리나 진동이 난 기기만 찾아낸다. 무음 휴대폰, 통신 기능이 없는 초소형 카메라, AI 글라스는 이 방식으로 잡을 수 없다. 사후 신고에 기대는 것도 한계가 뚜렷하다. 결국 시험장 안에서 기기 자체를 찾아내는 기술이 필요하다.
-
-시선AI(340810)의 씨유온은 이 문제를 영상으로 해결한다. 기기의 신호나 소리에 기대지 않고 영상에 비친 형태를 인식하기 때문에, 무음이든 통신이 끊겼든 화면에 들어오면 판별 대상이 된다. 카메라 렌즈와 숨긴 카메라, AI 글라스를 일반 안경과 구분해 찾아내고, 휴대폰 화면의 불빛과 문자 화면도 판별한다. 응시자의 이상행동까지 실시간으로 포착해 경고하고 차단한다. 삼성그룹 온라인 시험에서 대규모 실전 검증을 마쳤다는 점은 경쟁사가 쉽게 따라오기 어려운 강점이다.
-
-AI 기기는 해마다 더 작고 정교해진다. 사전 수거와 재난문자, 사후 신고만으로 공정성을 지키기 어려워질수록 영상 기반 탐지 기술의 가치는 높아질 것으로 전망된다. 세상에 비밀이 없도록 만드는 기술, 시선AI가 그 기술을 갖고 있다.
-
-https://t.me/KOREASTOCK11
-
-[2026-11-19 14:59] [조선일보] 그렇게 경고했는데 간큰 수험생  용인서 초소형카메라·이어폰 발견
-https://www.chosun.com//national/incident/2026/11/19/TC526BPOJBHHPAVTM3YAK5ZXKU/
-
-[2026-11-19 14:59] [조선일보] "작년 수능 시험지 폐기 말라" 한성숙 국무총리, 긴급 지시한성숙 국무총리가 대학수학능력시험(수능) 부정행위 의혹 등을 철저히 규명하기 위해 지난해(2026학년도) 수능 시험지 보관을 유지하라고 긴급 지시했다. 이에 따라 인공지능(AI) 부정행위 의심 사례에 대한 정부 조사가 지난해 수능까지...
-https://www.chosun.com//politics/politics_general/2026/11/19/UERANSTK5ZFGLKDSDLX7EG7OSY/
-
-[2026-11-19 14:59] 💥[속보] ’리트 만점자‘ 사망 판정…관련 사건 ’공소권 없음‘ 종결 수순
-
-[2026-11-19 15:01] 작년꺼 재작년꺼 까말리지 않으면 니 아
-애가 한거임. 고위직
-
-[2026-11-19 15:02] 작년꺼 부정행위 알고 있는 사람 신고하면 1억 준다고 하면 100명이상 나올 듯. 그쵸 ?
-
-[2026-11-19 15:08] AI 시험 부정행위 대응 예산 확대 정책 제안서
-
-1. 제안 요지
-
-AI 기기를 이용한 시험 부정행위를 막으려면 정부가 예산을 과감하게 써야 한다. 요청 사항은 세 가지다. 탐지기술 개발 용역을 최소 100억원으로 늘려 즉시 발주하고, 수능과 주요 국가자격시험을 CBT로 전환하고, 지난 시험의 부정행위를 신고하면 건당 최대 1억원의 포상금을 지급하는 것이다.
-
-2. 현황과 문제
-
-오늘 수능에서는 위급재난문자 발송으로 전국 9개 시도에서 스마트폰 22대가 적발됐다. 그러나 이 방식은 소리나 진동이 난 기기만 잡아낸다. 무음 휴대폰, 초소형 카메라, AI 안경은 빠져나간다.
-
-국가자격시험은 이미 뚫렸다. 세무사 시험 수석합격자는 전자기기와 생성형 AI로 부정행위를 했다고 자수했고, 공인회계사 1차 시험에서도 같은 방식을 썼다고 털어놨다. 리트 첫 만점자에게도 AI 안경 의혹이 제기됐다.
-
-그런데도 대응 예산은 턱없이 적다. AI 예산 10조원을 편성한 정부가 AI 안경 탐지기 개발에는 5000만원짜리 용역을 얼마 전에야 공고한 것으로 알려졌다. 한국은 미국·독일·중국에 이어 세계 네 번째로 연간 수출 1조달러 시대를 연다. 수출 100억달러를 처음 넘긴 1977년에나 어울릴 규모의 용역으로 이 나라의 시험 공정성을 지킬 수는 없다.
-
-3. 제안 1 — 탐지기술 개발 용역 최소 100억원
-
-카메라 렌즈, AI 안경, 숨긴 카메라, 화면 불빛, 응시자의 이상행동을 영상으로 인식하는 기술을 대상으로 한다. 국방 조달처럼 복수 기업에 경쟁 발주하고, 내년 상반기 국가자격시험부터 시범 적용해야 한다. 대규모 온라인 시험에서 이미 검증된 국내 기술이 있어 개발 기간을 크게 줄일 수 있다.
-
-4. 제안 2 — 주요 국가시험 CBT 전환
-
-컴퓨터 기반 시험은 문제가 화면에만 뜨고, 시험장 단말과 카메라로 응시 환경을 통제할 수 있다. 종이 시험보다 촬영·전송형 부정행위를 막기 쉽다. 응시 인원이 적은 전문자격시험(세무사, 회계사, 변리사, 리트)부터 전환하고, 수능은 중장기 로드맵으로 추진한다.
-
-5. 제안 3 — 지난 시험 부정행위 신고 포상금 1억원
-
-부정행위 뒤에는 장비를 구해 준 사람, 답을 불러 준 조력자, 그 사실을 아는 지인이 있게 마련이다. 건당 최대 1억원의 포상금을 지난해 시험까지 소급 적용하면, 각종 시험을 통틀어 100명 안팎이 드러날 것으로 판단된다. 정부가 이미 과거 부정행위를 끝까지 추적하겠다는 원칙을 세운 만큼, 포상금은 그 원칙을 실행하는 수단이 된다. 포상금 지급과 합격 취소에는 법적 근거가 필요하므로 관련 법 개정을 함께 추진해야 한다.
-
-6. 기대효과
-
-탐지기술은 시험 중을, CBT는 시험 방식을, 신고 포상금은 시험 후를 맡는다. 셋을 동시에 추진하면 부정행위로 얻을 이익보다 적발될 위험이 훨씬 커진다. 100억원은 세금 낭비가 아니다. 수십만 수험생의 인생이 걸린 시험의 신뢰를 지키는 데 드는 최소한의 비용이다.
-
-[2026-11-19 15:14] 2024, 2025년 다 잡아야 한다.
-
-[2026-11-19 16:06] https://t.me/jjirasibal/24942
-
-[2026-11-19 16:07] 이상 행동 감지로 100% 집아낼수 있음
-
-[2026-11-19 16:16] 윤석열 전 대통령 부부가 살던 한남동 관저의 1차 인테리어 공사비로 정부가 지급한 돈은 14억 3,600만 원입니다.
-관저에는 사우나까지 설치했습니다. 시공업체에 따르면 사우나 설치와 일부 구조 변경에 든 원가만 약 3천만 원입니다.
-외교부 장관의 삼청동 공관은 주거동 인테리어에만 약 3억 원을 썼습니다. 그런데 시험장에서 AI 안경을 찾아낼 탐지기 시제품 개발 용역비는 5천만 원입니다.
-국가자격시험을 치르는 수험생만 한 해 약 400만 명인데, 탐지기 개발에 장관 공관 인테리어 비용의 6분의 1을 책정한 게 맞습니까?
-
-[2026-11-19 17:02] 궁금한게 있는데 몇명이나 안 걸렸을까요 ?
-
-[2026-11-19 17:29] https://youtu.be/qIQUrvIdeSE?si=hNpN6_lIAyx3-IBl

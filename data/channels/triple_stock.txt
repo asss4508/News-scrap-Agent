@@ -120,3 +120,34 @@ GEX Metrix 집계에서는 SPX 7,000 행사가에 콜 감마 노출 약 156.5억
 - 투자적으로 중요한 지점은 26,000pt.
 나스닥100이 25,775를 돌파한 뒤 26,000까지 상승하면 기존 풋옵션의 델타가 빠르게 변하는 구간에 진입할 수 있음. 딜러가 해당 옵션에 대해 순매도 감마를 가지고 있다면 헤지 목적의 선물 매수가 발생할 가능성이 있음.
 여기에 새롭게 유입되는 콜옵션 매수와 기존 기술주 공매도 숏커버가 겹친다면 상승폭이 확대될 수 있음.
+
+[2026-11-23 18:42] [단독] 삼성, 中 시안팹 증설...AIDC용 낸드 생산 5배 늘린다 | 서울경제
+https://m.sedaily.com/article/20117864?ref=naver
+
+[2026-11-23 18:42] [한투증권 남채민] **일론 머스크 ”AI칩 AI5, 테슬라 FSD보다 옵티머스에 우선 적용“**
+
+- 테슬라는 AI5를 차량용 완전자율주행(FSD) 대신 휴머노이드 로봇 ’옵티머스(Optimus)‘에 우선 투입 예정
+
+- 전기차는 기존 AI4 컴퓨터 체제를 유지. 차세대 연산 자원(AI5)은 로봇 사업에 집중하는 구상
+
+- 일론 머스크는 AI4만으로도 인간을 뛰어넘는 자율주행을 구현하기에 충분하다고 언급
+
+- 테슬라는 삼성전자와 지난해 7월부터 오는 2033년 12월까지 165억 달러(약 23조원) 규모의 파운드리 계약을 체결
+
+- 미국 텍사스주 테일러 공장을 활용한 차세대 칩 생산 예정
+
+===========================
+
+링크: https://www.theguru.co.kr/news/article.html?no=110052
+
+[2026-11-23 19:02] TSMC 수석부사장, "오더컷은 없다"
+
+Hou’s comment directly addresses a question hanging over the sector: whether financial strain among AI companies is starting to show up as cancelled or trimmed chip orders. 
+
+**__By his account, it is not.__**
+
+https://cryptobriefing.com/tsmc-cliff-hou-no-order-adjustments/
+
+[2026-11-23 21:54] ●과거 위기의 원인과 반등 트리거 비교
+
+[2026-11-23 22:57] 속보: 엔비디아 이사회, 젠슨 황을 사장 겸 CEO로 복귀시킴. $NVDA
